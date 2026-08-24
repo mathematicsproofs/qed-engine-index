@@ -1,0 +1,3765 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Q.E.D. Engine | Geometry Insights</title>
+
+<meta
+  name="description"
+  content="Search mathematical proofs, derivations, explanations and mathematical foundations with Q.E.D. Engine."
+>
+
+<style>
+:root {
+  --bg: #050d17;
+  --bg2: #081523;
+  --panel: #0b1b2e;
+  --panel2: #0e2137;
+
+  --line: rgba(141, 192, 232, 0.16);
+  --line-strong: rgba(106, 217, 255, 0.36);
+
+  --text: #f4f9fd;
+  --muted: #b6c6d5;
+  --muted2: #7f96aa;
+
+  --cyan: #69dcff;
+  --blue: #7daaff;
+  --violet: #b49cff;
+  --green: #75e6ba;
+  --gold: #ffd58d;
+
+  --shadow:
+    0 28px 90px rgba(0,0,0,.35);
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  background: transparent;
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  padding: 18px;
+
+  background:
+    radial-gradient(
+      circle at 85% 0%,
+      rgba(122,91,255,.12),
+      transparent 30%
+    ),
+    radial-gradient(
+      circle at 0% 100%,
+      rgba(44,216,181,.08),
+      transparent 30%
+    ),
+    var(--bg);
+
+  color: var(--text);
+
+  font-family:
+    Inter,
+    ui-sans-serif,
+    system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Roboto,
+    Arial,
+    sans-serif;
+
+  line-height: 1.55;
+}
+
+button,
+input,
+select {
+  font: inherit;
+}
+
+button {
+  cursor: pointer;
+}
+
+.qed {
+  width: min(1180px, 100%);
+  margin: 0 auto;
+}
+
+
+/* =========================================================
+   HERO
+========================================================= */
+
+.hero {
+  position: relative;
+  isolation: isolate;
+  overflow: hidden;
+
+  padding: clamp(24px, 5vw, 50px);
+
+  border: 1px solid var(--line);
+  border-radius: 30px;
+
+  background:
+    radial-gradient(
+      circle at 88% -5%,
+      rgba(152,120,255,.24),
+      transparent 34%
+    ),
+    radial-gradient(
+      circle at -8% 110%,
+      rgba(55,223,191,.14),
+      transparent 32%
+    ),
+    linear-gradient(
+      145deg,
+      #06131f,
+      #0b1c2f 50%,
+      #07131f
+    );
+
+  box-shadow: var(--shadow);
+}
+
+.hero-grid {
+  position: absolute;
+  inset: 0;
+  z-index: -3;
+
+  opacity: .29;
+
+  background-image:
+    linear-gradient(
+      rgba(130,180,220,.075) 1px,
+      transparent 1px
+    ),
+    linear-gradient(
+      90deg,
+      rgba(130,180,220,.075) 1px,
+      transparent 1px
+    );
+
+  background-size: 34px 34px;
+}
+
+.hero-glow {
+  position: absolute;
+  z-index: -2;
+
+  width: 400px;
+  height: 400px;
+
+  border-radius: 50%;
+  filter: blur(70px);
+
+  pointer-events: none;
+}
+
+.hero-glow.one {
+  top: -260px;
+  right: -170px;
+  background: rgba(178,156,255,.2);
+}
+
+.hero-glow.two {
+  left: -260px;
+  bottom: -280px;
+  background: rgba(105,220,255,.13);
+}
+
+
+/* =========================================================
+   BRAND
+========================================================= */
+
+.hero-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+
+  gap: 24px;
+}
+
+.identity {
+  display: flex;
+  align-items: center;
+
+  gap: 20px;
+  min-width: 0;
+}
+
+.avatar-shell {
+  position: relative;
+
+  flex: 0 0 124px;
+
+  width: 124px;
+  height: 124px;
+
+  padding: 4px;
+
+  border-radius: 28px;
+
+  background:
+    linear-gradient(
+      135deg,
+      #68dcfa,
+      #a98eff 56%,
+      #70e1bd
+    );
+
+  box-shadow:
+    0 20px 50px rgba(76,156,216,.24),
+    0 0 0 1px rgba(255,255,255,.05);
+}
+
+.avatar-ring {
+  position: absolute;
+  inset: -8px;
+
+  border: 1px solid rgba(105,220,255,.23);
+  border-radius: 34px;
+
+  box-shadow:
+    0 0 30px rgba(105,220,255,.1);
+}
+
+.avatar {
+  display: block;
+
+  width: 100%;
+  height: 100%;
+
+  object-fit: cover;
+  object-position: center top;
+
+  border-radius: 23px;
+
+  background: #081726;
+}
+
+.avatar-badge {
+  position: absolute;
+
+  right: -8px;
+  bottom: -7px;
+
+  padding: 5px 8px;
+
+  border: 1px solid rgba(105,220,255,.3);
+  border-radius: 8px;
+
+  background: rgba(4,16,28,.98);
+
+  color: #f0fcff;
+
+  font-size: .62rem;
+  font-weight: 900;
+  letter-spacing: .1em;
+}
+
+.eyebrow {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+
+  margin-bottom: 9px;
+
+  color: var(--cyan);
+
+  font-size: .76rem;
+  font-weight: 850;
+  letter-spacing: .13em;
+}
+
+.live-dot {
+  width: 8px;
+  height: 8px;
+
+  border-radius: 999px;
+
+  background: var(--green);
+
+  box-shadow:
+    0 0 0 5px rgba(117,230,186,.08),
+    0 0 20px rgba(117,230,186,.6);
+}
+
+h1 {
+  margin: 0 0 8px;
+
+  font-size: clamp(2.5rem, 6vw, 4.7rem);
+  line-height: .98;
+  letter-spacing: -.055em;
+}
+
+.tagline {
+  max-width: 730px;
+
+  margin: 0;
+
+  color: #c2d0dd;
+
+  font-size: clamp(1.04rem, 2vw, 1.2rem);
+}
+
+.status {
+  display: inline-flex;
+  align-items: center;
+  gap: 9px;
+
+  flex: 0 0 auto;
+
+  min-height: 42px;
+
+  padding: 8px 13px;
+
+  border: 1px solid var(--line);
+  border-radius: 999px;
+
+  background: rgba(4,16,28,.7);
+
+  color: var(--muted);
+
+  font-size: .79rem;
+  font-weight: 760;
+
+  white-space: nowrap;
+}
+
+.status-light {
+  width: 8px;
+  height: 8px;
+
+  border-radius: 50%;
+
+  background: var(--gold);
+
+  box-shadow:
+    0 0 14px rgba(255,213,141,.5);
+}
+
+.status.online .status-light {
+  background: var(--green);
+
+  box-shadow:
+    0 0 14px rgba(117,230,186,.65);
+}
+
+.status.error .status-light {
+  background: #ff99aa;
+}
+
+
+/* =========================================================
+   SEARCH CONSOLE
+========================================================= */
+
+.console {
+  margin-top: 32px;
+  padding: 14px;
+
+  border: 1px solid rgba(139,193,237,.2);
+  border-radius: 22px;
+
+  background: rgba(3,12,22,.61);
+
+  box-shadow:
+    inset 0 1px 0 rgba(255,255,255,.04),
+    0 20px 55px rgba(0,0,0,.18);
+}
+
+.console-top {
+  display: flex;
+  justify-content: space-between;
+
+  gap: 12px;
+
+  padding: 0 4px 9px;
+
+  color: var(--muted2);
+
+  font-size: .68rem;
+  font-weight: 850;
+  letter-spacing: .1em;
+}
+
+.search-row {
+  display: grid;
+  grid-template-columns: minmax(0,1fr) auto;
+
+  gap: 10px;
+}
+
+.search-wrap {
+  position: relative;
+  min-width: 0;
+}
+
+.search {
+  width: 100%;
+  height: 68px;
+
+  padding: 0 55px 0 22px;
+
+  border: 1px solid rgba(145,198,239,.3);
+  border-radius: 17px;
+
+  outline: none;
+
+  background: #fbfdff;
+  color: #091624;
+
+  font-size: clamp(1rem, 2vw, 1.15rem);
+  font-weight: 650;
+
+  box-shadow: none;
+}
+
+.search::placeholder {
+  color: #65798c;
+}
+
+.search:focus {
+  border-color: rgba(105,220,255,.9);
+
+  box-shadow:
+    0 0 0 4px rgba(105,220,255,.11),
+    0 16px 38px rgba(0,0,0,.16);
+}
+
+.slash {
+  position: absolute;
+
+  top: 50%;
+  right: 16px;
+
+  transform: translateY(-50%);
+
+  display: grid;
+  place-items: center;
+
+  width: 29px;
+  height: 29px;
+
+  border: 1px solid #cad5de;
+  border-radius: 8px;
+
+  background: #edf2f6;
+  color: #536878;
+
+  font-size: .78rem;
+  font-weight: 850;
+
+  pointer-events: none;
+}
+
+.search-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+
+  gap: 10px;
+
+  min-width: 132px;
+  height: 68px;
+
+  padding: 0 22px;
+
+  border: 0;
+  border-radius: 17px;
+
+  background:
+    linear-gradient(
+      135deg,
+      #927fff,
+      #66bdeb 55%,
+      #64dfbf 125%
+    );
+
+  color: #06111d;
+
+  font-weight: 900;
+
+  box-shadow:
+    0 15px 35px rgba(88,157,229,.24),
+    inset 0 1px 0 rgba(255,255,255,.55);
+
+  transition:
+    transform .16s ease,
+    filter .16s ease;
+}
+
+.search-button:hover {
+  transform: translateY(-1px);
+  filter: brightness(1.05);
+}
+
+
+/* =========================================================
+   SEARCH FEATURES
+========================================================= */
+
+.capabilities {
+  display: flex;
+  flex-wrap: wrap;
+
+  gap: 7px 15px;
+
+  padding: 11px 4px 0;
+
+  color: var(--muted2);
+
+  font-size: .77rem;
+  font-weight: 720;
+}
+
+.capabilities span::before {
+  content: "✓";
+
+  margin-right: 6px;
+
+  color: var(--green);
+}
+
+.symbols,
+.examples {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+
+  gap: 6px;
+}
+
+.symbols {
+  margin-top: 12px;
+  padding-top: 11px;
+
+  border-top: 1px solid rgba(150,190,225,.1);
+}
+
+.examples {
+  margin-top: 15px;
+}
+
+.mini-label {
+  margin-right: 3px;
+
+  color: var(--muted2);
+
+  font-size: .67rem;
+  font-weight: 850;
+  letter-spacing: .1em;
+}
+
+.symbols button,
+.examples button,
+.facet {
+  min-height: 34px;
+
+  padding: 5px 10px;
+
+  border: 1px solid var(--line);
+  border-radius: 10px;
+
+  background: rgba(12,30,51,.68);
+  color: #d9e7f4;
+
+  font-weight: 760;
+
+  transition:
+    transform .15s ease,
+    border-color .15s ease,
+    background .15s ease;
+}
+
+.symbols button {
+  min-width: 34px;
+  padding: 4px 7px;
+}
+
+.examples button,
+.facet {
+  border-radius: 999px;
+  font-size: .77rem;
+}
+
+.symbols button:hover,
+.examples button:hover,
+.facet:hover {
+  transform: translateY(-1px);
+
+  border-color: var(--line-strong);
+
+  background: rgba(27,53,81,.85);
+}
+
+
+/* =========================================================
+   FILTERS
+========================================================= */
+
+.controls,
+.output,
+.footer {
+  margin-top: 18px;
+
+  border: 1px solid var(--line);
+
+  background:
+    linear-gradient(
+      180deg,
+      rgba(13,31,54,.96),
+      rgba(8,21,37,.98)
+    );
+
+  box-shadow:
+    0 18px 48px rgba(0,0,0,.15);
+}
+
+.controls {
+  padding: 16px;
+
+  border-radius: 22px;
+}
+
+.type-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  gap: 14px;
+}
+
+.types {
+  display: flex;
+  flex-wrap: wrap;
+
+  gap: 7px;
+}
+
+.type-button,
+.reset-button,
+.more-button {
+  min-height: 40px;
+
+  padding: 7px 13px;
+
+  border: 1px solid var(--line);
+  border-radius: 11px;
+
+  background: rgba(7,20,35,.83);
+  color: var(--muted);
+
+  font-size: .8rem;
+  font-weight: 800;
+
+  transition:
+    transform .15s ease,
+    border-color .15s ease,
+    color .15s ease,
+    background .15s ease;
+}
+
+.type-button:hover,
+.reset-button:hover,
+.more-button:hover {
+  transform: translateY(-1px);
+
+  color: #fff;
+  border-color: var(--line-strong);
+}
+
+.type-button.active {
+  color: #eefbff;
+
+  border-color: rgba(105,220,255,.35);
+
+  background:
+    linear-gradient(
+      135deg,
+      rgba(105,220,255,.15),
+      rgba(180,156,255,.11)
+    );
+}
+
+.filter-grid {
+  display: grid;
+  grid-template-columns: repeat(4,minmax(0,1fr));
+
+  gap: 11px;
+
+  margin-top: 15px;
+  padding-top: 15px;
+
+  border-top: 1px solid var(--line);
+}
+
+.filter-grid label {
+  min-width: 0;
+}
+
+.filter-grid label span {
+  display: block;
+
+  margin-bottom: 6px;
+
+  color: var(--muted2);
+
+  font-size: .66rem;
+  font-weight: 850;
+  letter-spacing: .09em;
+}
+
+select {
+  width: 100%;
+  height: 46px;
+
+  padding: 0 35px 0 11px;
+
+  border: 1px solid var(--line);
+  border-radius: 11px;
+
+  background: #0b1d31;
+  color: #f4f9fd;
+
+  outline: none;
+
+  font-size: .83rem;
+}
+
+select:focus {
+  border-color: var(--line-strong);
+}
+
+.reset-row {
+  display: flex;
+  justify-content: flex-end;
+
+  margin-top: 12px;
+}
+
+.facets {
+  display: flex;
+
+  gap: 7px;
+
+  margin-top: 14px;
+  padding-top: 13px;
+
+  border-top: 1px solid var(--line);
+
+  overflow-x: auto;
+
+  scrollbar-width: thin;
+}
+
+.facet {
+  flex: 0 0 auto;
+
+  white-space: nowrap;
+}
+
+.facet strong {
+  margin-left: 5px;
+
+  color: var(--cyan);
+}
+
+.facet.active {
+  border-color: rgba(105,220,255,.38);
+  background: rgba(105,220,255,.11);
+}
+
+
+/* =========================================================
+   RESULTS HEADER
+========================================================= */
+
+.output {
+  padding: clamp(18px,3vw,28px);
+
+  border-radius: 24px;
+}
+
+.output-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+
+  gap: 18px;
+
+  padding-bottom: 17px;
+
+  border-bottom: 1px solid var(--line);
+}
+
+.output-label {
+  display: block;
+
+  margin-bottom: 5px;
+
+  color: var(--cyan);
+
+  font-size: .66rem;
+  font-weight: 850;
+  letter-spacing: .12em;
+}
+
+.output h2 {
+  margin: 0;
+
+  font-size: clamp(1.45rem,3vw,2rem);
+
+  letter-spacing: -.035em;
+}
+
+.stats {
+  display: flex;
+  align-items: center;
+
+  gap: 8px;
+
+  color: var(--muted2);
+
+  font-size: .77rem;
+}
+
+.stats strong {
+  color: #fff;
+
+  font-size: 1rem;
+}
+
+.stats-divider {
+  width: 1px;
+  height: 18px;
+
+  background: var(--line);
+}
+
+
+/* =========================================================
+   LOADER
+========================================================= */
+
+.loader {
+  padding: 20px 0 2px;
+}
+
+.loader span {
+  display: block;
+
+  height: 13px;
+
+  margin: 11px 0;
+
+  border-radius: 999px;
+
+  background:
+    linear-gradient(
+      90deg,
+      rgba(150,184,211,.07),
+      rgba(150,184,211,.18),
+      rgba(150,184,211,.07)
+    );
+
+  background-size: 200% 100%;
+
+  animation: shimmer 1.3s linear infinite;
+}
+
+.loader span:nth-child(2) {
+  width: 70%;
+}
+
+@keyframes shimmer {
+  from {
+    background-position: 200% 0;
+  }
+
+  to {
+    background-position: -200% 0;
+  }
+}
+
+
+/* =========================================================
+   RESULT CARDS
+========================================================= */
+
+.results {
+  display: grid;
+
+  gap: 12px;
+
+  margin-top: 18px;
+}
+
+.card {
+  position: relative;
+
+  overflow: hidden;
+
+  padding: 18px;
+
+  border: 1px solid rgba(148,188,225,.15);
+  border-radius: 18px;
+
+  background:
+    linear-gradient(
+      145deg,
+      rgba(17,37,61,.93),
+      rgba(9,24,41,.91)
+    );
+
+  box-shadow:
+    inset 0 1px 0 rgba(255,255,255,.025);
+
+  transition:
+    transform .17s ease,
+    border-color .17s ease,
+    box-shadow .17s ease;
+}
+
+.card::before {
+  content: "";
+
+  position: absolute;
+
+  top: 0;
+  left: 0;
+  bottom: 0;
+
+  width: 3px;
+
+  background:
+    linear-gradient(
+      var(--cyan),
+      var(--violet)
+    );
+
+  opacity: .55;
+}
+
+.card:hover {
+  transform: translateY(-2px);
+
+  border-color: rgba(105,220,255,.27);
+
+  box-shadow:
+    0 18px 44px rgba(0,0,0,.17);
+}
+
+.card-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+
+  gap: 14px;
+}
+
+.card-main {
+  min-width: 0;
+}
+
+.card-tags {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+
+  gap: 6px;
+
+  margin-bottom: 8px;
+}
+
+.rank {
+  color: var(--muted2);
+
+  font-size: .67rem;
+  font-weight: 850;
+  letter-spacing: .08em;
+}
+
+.badge {
+  display: inline-flex;
+  align-items: center;
+
+  min-height: 25px;
+
+  padding: 3px 8px;
+
+  border: 1px solid rgba(151,193,228,.14);
+  border-radius: 999px;
+
+  background: rgba(6,18,32,.48);
+
+  color: #c8d7e5;
+
+  font-size: .67rem;
+  font-weight: 780;
+}
+
+.badge.type {
+  color: #cbf3ff;
+  border-color: rgba(105,220,255,.2);
+}
+
+.badge.level {
+  color: #ded6ff;
+  border-color: rgba(180,156,255,.2);
+}
+
+.card h3 {
+  margin: 0;
+
+  font-size: clamp(1.04rem,2vw,1.28rem);
+  line-height: 1.3;
+  letter-spacing: -.02em;
+}
+
+.card h3 a {
+  color: #f6fbff;
+
+  text-decoration: none;
+}
+
+.card h3 a:hover {
+  color: #d9f8ff;
+
+  text-decoration: underline;
+  text-decoration-color: rgba(105,220,255,.5);
+  text-underline-offset: 3px;
+}
+
+.score {
+  flex: 0 0 auto;
+
+  min-width: 69px;
+
+  padding: 8px 9px;
+
+  border: 1px solid rgba(117,230,186,.16);
+  border-radius: 11px;
+
+  background: rgba(117,230,186,.05);
+
+  text-align: right;
+}
+
+.score strong {
+  display: block;
+
+  color: #dff9ef;
+
+  font-size: .9rem;
+  line-height: 1;
+}
+
+.score span {
+  display: block;
+
+  margin-top: 4px;
+
+  color: var(--muted2);
+
+  font-size: .59rem;
+  font-weight: 850;
+  letter-spacing: .08em;
+}
+
+.summary {
+  margin: 12px 0 0;
+
+  color: #b9cad8;
+
+  font-size: .89rem;
+  line-height: 1.62;
+}
+
+.concept {
+  margin-top: 12px;
+
+  padding: 10px 11px;
+
+  border: 1px solid rgba(105,220,255,.11);
+  border-radius: 11px;
+
+  background: rgba(4,15,27,.42);
+}
+
+.concept span {
+  display: block;
+
+  margin-bottom: 3px;
+
+  color: var(--muted2);
+
+  font-size: .61rem;
+  font-weight: 850;
+  letter-spacing: .09em;
+}
+
+.concept strong {
+  display: block;
+
+  color: #e6f3fb;
+
+  font-family:
+    "Cambria Math",
+    Georgia,
+    serif;
+
+  font-size: .89rem;
+  font-weight: 500;
+
+  overflow-wrap: anywhere;
+}
+
+.meta {
+  display: grid;
+  grid-template-columns: repeat(3,minmax(0,1fr));
+
+  gap: 8px;
+
+  margin-top: 12px;
+}
+
+.meta div {
+  min-width: 0;
+
+  padding: 8px 9px;
+
+  border: 1px solid rgba(148,188,225,.09);
+  border-radius: 10px;
+
+  background: rgba(3,13,23,.26);
+}
+
+.meta span {
+  display: block;
+
+  margin-bottom: 2px;
+
+  color: var(--muted2);
+
+  font-size: .59rem;
+  font-weight: 850;
+  letter-spacing: .08em;
+}
+
+.meta strong {
+  display: block;
+
+  color: #d9e6f2;
+
+  font-size: .75rem;
+
+  overflow-wrap: anywhere;
+}
+
+.card-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  gap: 12px;
+
+  margin-top: 12px;
+  padding-top: 11px;
+
+  border-top: 1px solid rgba(148,188,225,.09);
+}
+
+.date {
+  color: var(--muted2);
+
+  font-size: .7rem;
+}
+
+.open {
+  color: #cdf4ff;
+
+  font-size: .74rem;
+  font-weight: 840;
+
+  text-decoration: none;
+}
+
+mark {
+  padding: 0 .08em;
+
+  border-radius: .18em;
+
+  background: rgba(105,220,255,.17);
+  color: #fff;
+}
+
+
+/* =========================================================
+   EMPTY / MORE
+========================================================= */
+
+.empty {
+  padding: 40px 15px 20px;
+
+  text-align: center;
+}
+
+.empty-symbol {
+  color: var(--muted2);
+
+  font-family: Georgia, serif;
+  font-size: 3rem;
+}
+
+.empty h3 {
+  margin: 4px 0 6px;
+}
+
+.empty p {
+  max-width: 570px;
+
+  margin: 0 auto 15px;
+
+  color: var(--muted);
+}
+
+.more-wrap {
+  display: flex;
+  justify-content: center;
+
+  margin-top: 18px;
+}
+
+.more-button {
+  min-width: 190px;
+}
+
+
+/* =========================================================
+   FOOTER
+========================================================= */
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  gap: 15px;
+
+  padding: 15px 18px;
+
+  border-radius: 17px;
+
+  color: var(--muted2);
+
+  font-size: .74rem;
+}
+
+.footer strong {
+  color: #dceaf5;
+}
+
+.footer p {
+  margin: 0;
+}
+
+
+/* =========================================================
+   RESPONSIVE
+========================================================= */
+
+@media (max-width: 900px) {
+
+  .status {
+    display: none;
+  }
+
+  .filter-grid {
+    grid-template-columns:
+      repeat(2,minmax(0,1fr));
+  }
+
+  .meta {
+    grid-template-columns:
+      repeat(2,minmax(0,1fr));
+  }
+}
+
+
+@media (max-width: 680px) {
+
+  body {
+    padding: 8px;
+  }
+
+  .hero {
+    padding: 20px 15px;
+    border-radius: 22px;
+  }
+
+  .identity {
+    align-items: flex-start;
+    gap: 13px;
+  }
+
+  .avatar-shell {
+    flex: 0 0 88px;
+
+    width: 88px;
+    height: 88px;
+
+    border-radius: 21px;
+  }
+
+  .avatar {
+    border-radius: 16px;
+  }
+
+  h1 {
+    font-size:
+      clamp(2rem,11vw,3.1rem);
+  }
+
+  .tagline {
+    font-size: .97rem;
+  }
+
+  .console {
+    margin-top: 23px;
+    padding: 10px;
+  }
+
+  .console-top {
+    display: none;
+  }
+
+  .search-row {
+    grid-template-columns: 1fr;
+  }
+
+  .search,
+  .search-button {
+    height: 59px;
+  }
+
+  .search-button {
+    width: 100%;
+  }
+
+  .type-row {
+    align-items: stretch;
+    flex-direction: column;
+  }
+
+  .filter-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .output-header {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .card-head {
+    flex-direction: column;
+  }
+
+  .score {
+    width: fit-content;
+    text-align: left;
+  }
+
+  .meta {
+    grid-template-columns: 1fr;
+  }
+
+  .footer {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+}
+
+
+@media (prefers-reduced-motion: reduce) {
+
+  *,
+  *::before,
+  *::after {
+    animation-duration: .01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: .01ms !important;
+  }
+}
+</style>
+</head>
+
+
+<body>
+
+<main class="qed">
+
+  <section class="hero">
+
+    <div class="hero-grid"></div>
+    <div class="hero-glow one"></div>
+    <div class="hero-glow two"></div>
+
+
+    <div class="hero-top">
+
+      <div class="identity">
+
+        <div class="avatar-shell">
+
+          <div class="avatar-ring"></div>
+
+          <img
+            class="avatar"
+            src="https://geometryinsights.com/wp-content/uploads/2026/08/qed_cyborg.jpg"
+            alt="Q.E.D. Engine"
+          >
+
+          <span class="avatar-badge">
+            Q.E.D.
+          </span>
+
+        </div>
+
+
+        <div>
+
+          <div class="eyebrow">
+            <span class="live-dot"></span>
+            MATHEMATICAL KNOWLEDGE RETRIEVAL
+          </div>
+
+          <h1>
+            Q.E.D. Engine
+          </h1>
+
+          <p class="tagline">
+            Search mathematical proofs and derivations for GCSE and A-Level Mathematics.
+          </p>
+
+        </div>
+
+      </div>
+
+
+      <div
+        class="status"
+        id="status"
+      >
+        <span class="status-light"></span>
+
+        <span id="statusText">
+          Connecting to index…
+        </span>
+      </div>
+
+    </div>
+
+
+    <div class="console">
+
+      <div class="console-top">
+        <span>
+          QUERY INTERFACE
+        </span>
+
+        <span id="indexMeta">
+          Loading mathematical index…
+        </span>
+      </div>
+
+
+      <div class="search-row">
+
+        <div class="search-wrap">
+
+          <input
+            id="search"
+            class="search"
+            type="search"
+            autocomplete="off"
+            spellcheck="false"
+            placeholder="Search a theorem, formula, proof, derivation or concept…"
+          >
+
+          <span class="slash">
+            /
+          </span>
+
+        </div>
+
+
+        <button
+          id="searchButton"
+          class="search-button"
+          type="button"
+        >
+          Search
+          <span>→</span>
+        </button>
+
+      </div>
+
+
+      <div class="capabilities">
+
+        <span>
+          Notation aware
+        </span>
+
+        <span>
+          Alias matching
+        </span>
+
+        <span>
+          Typo tolerant
+        </span>
+
+        <span>
+          Weighted relevance
+        </span>
+
+      </div>
+
+
+      <div class="symbols">
+
+        <span class="mini-label">
+          SYMBOLS
+        </span>
+
+        <button data-symbol="∩">∩</button>
+        <button data-symbol="∪">∪</button>
+        <button data-symbol="∈">∈</button>
+        <button data-symbol="≡">≡</button>
+        <button data-symbol="⇒">⇒</button>
+        <button data-symbol="⇔">⇔</button>
+        <button data-symbol="∣">∣</button>
+        <button data-symbol="Σ">Σ</button>
+        <button data-symbol="√">√</button>
+        <button data-symbol="λ">λ</button>
+        <button data-symbol="θ">θ</button>
+        <button data-symbol="ℝ">ℝ</button>
+
+      </div>
+
+    </div>
+
+
+    <div class="examples">
+
+      <span class="mini-label">
+        EXPLORE
+      </span>
+
+      <button data-query="binary operation">
+        binary operation
+      </button>
+
+      <button data-query="inverse matrix">
+        inverse matrix
+      </button>
+
+      <button data-query="A ∪ B">
+        A ∪ B
+      </button>
+
+      <button data-query="quadratic formula">
+        quadratic formula
+      </button>
+
+      <button data-query="sine addition formula">
+        sine addition formula
+      </button>
+
+      <button data-query="variance">
+        variance
+      </button>
+
+    </div>
+
+  </section>
+
+
+  <section class="controls">
+
+    <div class="type-row">
+
+      <div class="types">
+
+        <button
+          class="type-button active"
+          data-type=""
+        >
+          All
+        </button>
+
+        <button
+          class="type-button"
+          data-type="Proof"
+        >
+          Proofs
+        </button>
+
+        <button
+          class="type-button"
+          data-type="Derivation"
+        >
+          Derivations
+        </button>
+
+        <button
+          class="type-button"
+          data-type="Definition / Foundations"
+        >
+          Foundations
+        </button>
+
+        <button
+          class="type-button"
+          data-type="Explanation"
+        >
+          Explanations
+        </button>
+
+      </div>
+
+    </div>
+
+
+    <div class="filter-grid">
+
+      <label>
+        <span>LEVEL</span>
+
+        <select id="level">
+          <option value="">
+            All levels
+          </option>
+        </select>
+      </label>
+
+
+      <label>
+        <span>SUBJECT</span>
+
+        <select id="subject">
+          <option value="">
+            All subjects
+          </option>
+        </select>
+      </label>
+
+
+      <label>
+        <span>METHOD</span>
+
+        <select id="method">
+          <option value="">
+            All methods
+          </option>
+        </select>
+      </label>
+
+
+      <label>
+        <span>RANKING</span>
+
+        <select id="sort">
+
+          <option value="relevance">
+            Best match
+          </option>
+
+          <option value="newest">
+            Newest first
+          </option>
+
+          <option value="oldest">
+            Oldest first
+          </option>
+
+          <option value="title">
+            Title A–Z
+          </option>
+
+        </select>
+      </label>
+
+    </div>
+
+
+    <div class="reset-row">
+
+      <button
+        id="reset"
+        class="reset-button"
+        type="button"
+      >
+        Reset filters
+      </button>
+
+    </div>
+
+
+    <div
+      id="facets"
+      class="facets"
+    ></div>
+
+  </section>
+
+
+  <section class="output">
+
+    <div class="output-header">
+
+      <div>
+
+        <span class="output-label">
+          SEARCH OUTPUT
+        </span>
+
+        <h2 id="resultsHeading">
+          Mathematical archive
+        </h2>
+
+      </div>
+
+
+      <div class="stats">
+
+        <strong id="resultCount">
+          0
+        </strong>
+
+        <span id="resultLabel">
+          results
+        </span>
+
+        <span class="stats-divider"></span>
+
+        <span id="searchTime">
+          Ready
+        </span>
+
+      </div>
+
+    </div>
+
+
+    <div
+      class="loader"
+      id="loader"
+    >
+      <span></span>
+      <span></span>
+      <span></span>
+    </div>
+
+
+    <div
+      id="results"
+      class="results"
+    ></div>
+
+
+    <div
+      id="empty"
+      class="empty"
+      hidden
+    >
+
+      <div class="empty-symbol">
+        ∅
+      </div>
+
+      <h3>
+        No strong mathematical matches
+      </h3>
+
+      <p>
+        Try a theorem name, formula, topic, method, alias or mathematical symbol.
+      </p>
+
+    </div>
+
+
+    <div
+      id="moreWrap"
+      class="more-wrap"
+      hidden
+    >
+
+      <button
+        id="more"
+        class="more-button"
+        type="button"
+      >
+        Show more results
+      </button>
+
+    </div>
+
+  </section>
+
+
+  <footer class="footer">
+
+    <div>
+      <strong>
+        Q.E.D. Engine
+      </strong>
+
+      <span>
+        · Geometry Insights
+      </span>
+    </div>
+
+    <p>
+      Searches public metadata only. Premium article bodies are not indexed.
+    </p>
+
+  </footer>
+
+</main>
+
+
+<script>
+(function () {
+
+  "use strict";
+
+
+  /* =======================================================
+     CONFIGURATION
+  ======================================================= */
+
+  const INDEX_URL =
+    "./proofs-index.json";
+
+  const PAGE_SIZE =
+    12;
+
+
+  const WEIGHTS = {
+
+    title:
+      20,
+
+    concept:
+      16,
+
+    aliases:
+      14,
+
+    topic:
+      12,
+
+    keywords:
+      10,
+
+    subject:
+      8,
+
+    method:
+      7,
+
+    content_type:
+      6,
+
+    summary:
+      4,
+
+    search_text:
+      2
+  };
+
+
+  const SYMBOL_RULES = [
+
+    [/ℝ/g, " real numbers r "],
+
+    [/ℤ/g, " integers z "],
+
+    [/ℕ/g, " natural numbers n "],
+
+    [/∈/g, " element belongs "],
+
+    [/∩/g, " intersection "],
+
+    [/∪/g, " union "],
+
+    [/≡/g, " congruent equivalent modulo "],
+
+    [/⇒/g, " implies therefore "],
+
+    [/⇔/g, " iff equivalent "],
+
+    [/∣/g, " divides divisibility "],
+
+    [/×/g, " cross product times multiply "],
+
+    [/·/g, " dot product multiply "],
+
+    [/ᵀ/g, " transpose "],
+
+    [/⁻¹/g, " inverse reciprocal "],
+
+    [/²/g, " squared power 2 "],
+
+    [/³/g, " cubed power 3 "],
+
+    [/Σ/g, " sigma summation "],
+
+    [/∑/g, " sigma summation "],
+
+    [/√/g, " square root "],
+
+    [/λ/g, " lambda "],
+
+    [/θ/g, " theta angle "],
+
+    [/π/g, " pi "]
+  ];
+
+
+  const EXPANSIONS = {
+
+    proof:
+      ["prove", "proving"],
+
+    prove:
+      ["proof", "proving"],
+
+    derive:
+      ["derivation", "derived"],
+
+    derivation:
+      ["derive", "derived"],
+
+    matrix:
+      ["matrices"],
+
+    matrices:
+      ["matrix"],
+
+    vector:
+      ["vectors"],
+
+    vectors:
+      ["vector"],
+
+    trig:
+      ["trigonometry", "trigonometric"],
+
+    trigonometry:
+      ["trig", "trigonometric"],
+
+    modular:
+      ["modulo", "congruence"],
+
+    modulo:
+      ["modular", "congruence"],
+
+    perpendicular:
+      ["orthogonal"],
+
+    orthogonal:
+      ["perpendicular"],
+
+    sum:
+      ["summation"],
+
+    summation:
+      ["sum"]
+  };
+
+
+  const STOP_WORDS =
+    new Set([
+      "a",
+      "an",
+      "and",
+      "are",
+      "as",
+      "at",
+      "be",
+      "by",
+      "for",
+      "from",
+      "how",
+      "in",
+      "is",
+      "it",
+      "of",
+      "on",
+      "or",
+      "that",
+      "the",
+      "this",
+      "to",
+      "using",
+      "what",
+      "when",
+      "where",
+      "which",
+      "with"
+    ]);
+
+
+  /* =======================================================
+     DOM
+  ======================================================= */
+
+  const search =
+    document.getElementById("search");
+
+  const searchButton =
+    document.getElementById("searchButton");
+
+  const level =
+    document.getElementById("level");
+
+  const subject =
+    document.getElementById("subject");
+
+  const method =
+    document.getElementById("method");
+
+  const sort =
+    document.getElementById("sort");
+
+  const reset =
+    document.getElementById("reset");
+
+  const facets =
+    document.getElementById("facets");
+
+  const results =
+    document.getElementById("results");
+
+  const resultCount =
+    document.getElementById("resultCount");
+
+  const resultLabel =
+    document.getElementById("resultLabel");
+
+  const resultsHeading =
+    document.getElementById("resultsHeading");
+
+  const searchTime =
+    document.getElementById("searchTime");
+
+  const loader =
+    document.getElementById("loader");
+
+  const empty =
+    document.getElementById("empty");
+
+  const more =
+    document.getElementById("more");
+
+  const moreWrap =
+    document.getElementById("moreWrap");
+
+  const status =
+    document.getElementById("status");
+
+  const statusText =
+    document.getElementById("statusText");
+
+  const indexMeta =
+    document.getElementById("indexMeta");
+
+
+  /* =======================================================
+     STATE
+  ======================================================= */
+
+  const state = {
+
+    records:
+      [],
+
+    filtered:
+      [],
+
+    type:
+      "",
+
+    visible:
+      PAGE_SIZE
+  };
+
+
+  /* =======================================================
+     UTILITIES
+  ======================================================= */
+
+  function escapeHTML(value) {
+
+    return String(
+      value == null
+        ? ""
+        : value
+    )
+
+      .replace(
+        /&/g,
+        "&amp;"
+      )
+
+      .replace(
+        /</g,
+        "&lt;"
+      )
+
+      .replace(
+        />/g,
+        "&gt;"
+      )
+
+      .replace(
+        /"/g,
+        "&quot;"
+      )
+
+      .replace(
+        /'/g,
+        "&#039;"
+      );
+  }
+
+
+  function normalise(value) {
+
+    let text =
+      String(
+        value == null
+          ? ""
+          : value
+      );
+
+
+    SYMBOL_RULES.forEach(
+      function (rule) {
+
+        text =
+          text.replace(
+            rule[0],
+            rule[1]
+          );
+      }
+    );
+
+
+    return text
+
+      .normalize(
+        "NFKD"
+      )
+
+      .replace(
+        /[\u0300-\u036f]/g,
+        ""
+      )
+
+      .toLowerCase()
+
+      .replace(
+        /[“”"'‘’()[\]{}:,;!?]/g,
+        " "
+      )
+
+      .replace(
+        /\s+/g,
+        " "
+      )
+
+      .trim();
+  }
+
+
+  function tokens(value) {
+
+    return normalise(value)
+
+      .split(" ")
+
+      .filter(
+        function (token) {
+
+          return (
+            token &&
+            !STOP_WORDS.has(token)
+          );
+        }
+      );
+  }
+
+
+  function unique(values) {
+
+    return Array.from(
+      new Set(
+        values.filter(Boolean)
+      )
+    );
+  }
+
+
+  function expandedTokens(value) {
+
+    const original =
+      tokens(value);
+
+    const expanded =
+      original.slice();
+
+
+    original.forEach(
+      function (token) {
+
+        if (
+          EXPANSIONS[token]
+        ) {
+
+          expanded.push.apply(
+            expanded,
+            EXPANSIONS[token]
+          );
+        }
+      }
+    );
+
+
+    return unique(
+      expanded
+    );
+  }
+
+
+  function fieldText(
+    record,
+    field
+  ) {
+
+    const value =
+      record[field];
+
+
+    if (
+      Array.isArray(value)
+    ) {
+
+      return value.join(" ");
+    }
+
+
+    return String(
+      value == null
+        ? ""
+        : value
+    );
+  }
+
+
+  function prepare(record) {
+
+    const item =
+      Object.assign(
+        {},
+        record
+      );
+
+
+    item._text =
+      {};
+
+
+    Object.keys(
+      WEIGHTS
+    ).forEach(
+      function (field) {
+
+        item._text[field] =
+          normalise(
+            fieldText(
+              item,
+              field
+            )
+          );
+      }
+    );
+
+
+    item._date =
+      Date.parse(
+        item.modified ||
+        item.published ||
+        item.date ||
+        ""
+      ) || 0;
+
+
+    return item;
+  }
+
+
+  function formatDate(value) {
+
+    if (!value) {
+      return "";
+    }
+
+
+    const date =
+      new Date(
+        value + "T00:00:00"
+      );
+
+
+    if (
+      Number.isNaN(
+        date.getTime()
+      )
+    ) {
+
+      return value;
+    }
+
+
+    return date.toLocaleDateString(
+      "en-GB",
+      {
+        day:
+          "numeric",
+
+        month:
+          "short",
+
+        year:
+          "numeric"
+      }
+    );
+  }
+
+
+  function highlight(
+    value,
+    query
+  ) {
+
+    let output =
+      escapeHTML(value);
+
+
+    unique(
+      tokens(query)
+    )
+
+      .filter(
+        function (token) {
+          return token.length >= 3;
+        }
+      )
+
+      .slice(
+        0,
+        6
+      )
+
+      .forEach(
+        function (token) {
+
+          const safe =
+            token.replace(
+              /[.*+?^${}()|[\]\\]/g,
+              "\\$&"
+            );
+
+
+          try {
+
+            output =
+              output.replace(
+
+                new RegExp(
+                  "(" +
+                  safe +
+                  ")",
+                  "ig"
+                ),
+
+                "<mark>$1</mark>"
+              );
+
+          } catch (error) {
+
+          }
+        }
+      );
+
+
+    return output;
+  }
+
+
+  /* =======================================================
+     SEARCH RANKING
+  ======================================================= */
+
+  function scoreRecord(
+    record,
+    query
+  ) {
+
+    if (!query) {
+      return 0;
+    }
+
+
+    const queryNormal =
+      normalise(query);
+
+    const queryTokens =
+      tokens(query);
+
+    const expanded =
+      expandedTokens(query);
+
+
+    let score =
+      0;
+
+
+    Object.keys(
+      WEIGHTS
+    ).forEach(
+      function (field) {
+
+        const weight =
+          WEIGHTS[field];
+
+        const text =
+          record._text[field] || "";
+
+
+        if (!text) {
+          return;
+        }
+
+
+        if (
+          text === queryNormal
+        ) {
+
+          score +=
+            weight * 5;
+        }
+
+
+        else if (
+          text.includes(
+            queryNormal
+          )
+        ) {
+
+          score +=
+            weight * 3.3;
+        }
+
+
+        queryTokens.forEach(
+          function (token) {
+
+            if (
+              text.split(" ")
+                .includes(token)
+            ) {
+
+              score +=
+                weight * 1.35;
+            }
+
+
+            else if (
+              text.includes(token)
+            ) {
+
+              score +=
+                weight * .65;
+            }
+          }
+        );
+
+
+        expanded.forEach(
+          function (token) {
+
+            if (
+              queryTokens.includes(token)
+            ) {
+
+              return;
+            }
+
+
+            if (
+              text.includes(token)
+            ) {
+
+              score +=
+                weight * .32;
+            }
+          }
+        );
+      }
+    );
+
+
+    const searchText =
+      record._text.search_text ||
+      "";
+
+
+    const allTerms =
+      queryTokens.length > 1 &&
+      queryTokens.every(
+        function (token) {
+
+          return searchText.includes(
+            token
+          );
+        }
+      );
+
+
+    if (allTerms) {
+
+      score +=
+        18;
+    }
+
+
+    if (
+      record._text.title &&
+      record._text.title.startsWith(
+        queryNormal
+      )
+    ) {
+
+      score +=
+        20;
+    }
+
+
+    return score;
+  }
+
+
+  /* =======================================================
+     FILTERS
+  ======================================================= */
+
+  function passesFilters(record) {
+
+    if (
+      state.type &&
+      record.content_type !== state.type
+    ) {
+
+      return false;
+    }
+
+
+    if (
+      level.value &&
+      record.level !== level.value
+    ) {
+
+      return false;
+    }
+
+
+    if (
+      subject.value &&
+      record.subject !== subject.value
+    ) {
+
+      return false;
+    }
+
+
+    if (
+      method.value &&
+      record.method !== method.value
+    ) {
+
+      return false;
+    }
+
+
+    return true;
+  }
+
+
+  /* =======================================================
+     RESULT CARD
+  ======================================================= */
+
+  function cardHTML(
+    item,
+    index,
+    maxScore,
+    query
+  ) {
+
+    const record =
+      item.record;
+
+
+    const relevance =
+      query && maxScore
+        ? Math.round(
+            58 +
+            (
+              item.score /
+              maxScore
+            ) * 41
+          )
+        : 0;
+
+
+    const scoreHTML =
+      query
+
+        ? (
+          '<div class="score">' +
+
+            "<strong>" +
+              relevance +
+              "%" +
+            "</strong>" +
+
+            "<span>RELEVANCE</span>" +
+
+          "</div>"
+        )
+
+        : "";
+
+
+    const conceptHTML =
+      record.concept
+
+        ? (
+          '<div class="concept">' +
+
+            "<span>" +
+              "KEY CONCEPT / RESULT" +
+            "</span>" +
+
+            "<strong>" +
+
+              highlight(
+                record.concept,
+                query
+              ) +
+
+            "</strong>" +
+
+          "</div>"
+        )
+
+        : "";
+
+
+    return (
+
+      '<article class="card">' +
+
+
+        '<div class="card-head">' +
+
+
+          '<div class="card-main">' +
+
+
+            '<div class="card-tags">' +
+
+
+              '<span class="rank">' +
+
+                "#" +
+
+                String(
+                  index + 1
+                ).padStart(
+                  2,
+                  "0"
+                ) +
+
+              "</span>" +
+
+
+              '<span class="badge type">' +
+
+                escapeHTML(
+                  record.content_type ||
+                  "Article"
+                ) +
+
+              "</span>" +
+
+
+              '<span class="badge level">' +
+
+                escapeHTML(
+                  record.level ||
+                  ""
+                ) +
+
+              "</span>" +
+
+
+            "</div>" +
+
+
+            "<h3>" +
+
+              '<a href="' +
+
+                escapeHTML(
+                  record.url
+                ) +
+
+                '" target="_blank" rel="noopener noreferrer">' +
+
+                highlight(
+                  record.title,
+                  query
+                ) +
+
+              "</a>" +
+
+            "</h3>" +
+
+
+          "</div>" +
+
+
+          scoreHTML +
+
+
+        "</div>" +
+
+
+        '<p class="summary">' +
+
+          highlight(
+
+            record.summary ||
+            record.excerpt ||
+            "",
+
+            query
+
+          ) +
+
+        "</p>" +
+
+
+        conceptHTML +
+
+
+        '<div class="meta">' +
+
+
+          "<div>" +
+
+            "<span>SUBJECT</span>" +
+
+            "<strong>" +
+
+              escapeHTML(
+                record.subject ||
+                "—"
+              ) +
+
+            "</strong>" +
+
+          "</div>" +
+
+
+          "<div>" +
+
+            "<span>TOPIC</span>" +
+
+            "<strong>" +
+
+              escapeHTML(
+                record.topic ||
+                "—"
+              ) +
+
+            "</strong>" +
+
+          "</div>" +
+
+
+          "<div>" +
+
+            "<span>METHOD</span>" +
+
+            "<strong>" +
+
+              escapeHTML(
+                record.method ||
+                "—"
+              ) +
+
+            "</strong>" +
+
+          "</div>" +
+
+
+        "</div>" +
+
+
+        '<div class="card-footer">' +
+
+
+          '<span class="date">' +
+
+            escapeHTML(
+
+              formatDate(
+
+                record.published ||
+                record.date
+
+              )
+
+            ) +
+
+          "</span>" +
+
+
+          '<a class="open" href="' +
+
+            escapeHTML(
+              record.url
+            ) +
+
+            '" target="_blank" rel="noopener noreferrer">' +
+
+            "Open article ↗" +
+
+          "</a>" +
+
+
+        "</div>" +
+
+
+      "</article>"
+    );
+  }
+
+
+  /* =======================================================
+     RENDER
+  ======================================================= */
+
+  function render() {
+
+    const query =
+      search.value.trim();
+
+
+    const count =
+      state.filtered.length;
+
+
+    resultCount.textContent =
+      count;
+
+
+    resultLabel.textContent =
+      count === 1
+        ? "result"
+        : "results";
+
+
+    resultsHeading.textContent =
+      query
+
+        ? (
+          "Results for “" +
+          query +
+          "”"
+        )
+
+        : "Mathematical archive";
+
+
+    if (!count) {
+
+      results.innerHTML =
+        "";
+
+      empty.hidden =
+        false;
+
+      moreWrap.hidden =
+        true;
+
+      sendHeight();
+
+      return;
+    }
+
+
+    empty.hidden =
+      true;
+
+
+    const maxScore =
+      Math.max.apply(
+
+        null,
+
+        state.filtered
+
+          .map(
+            function (item) {
+              return item.score;
+            }
+          )
+
+          .concat([0])
+      );
+
+
+    results.innerHTML =
+      state.filtered
+
+        .slice(
+          0,
+          state.visible
+        )
+
+        .map(
+          function (
+            item,
+            index
+          ) {
+
+            return cardHTML(
+              item,
+              index,
+              maxScore,
+              query
+            );
+          }
+        )
+
+        .join("");
+
+
+    moreWrap.hidden =
+      state.visible >= count;
+
+
+    sendHeight();
+  }
+
+
+  function runSearch() {
+
+    const started =
+      performance.now();
+
+
+    const query =
+      search.value.trim();
+
+
+    state.visible =
+      PAGE_SIZE;
+
+
+    state.filtered =
+      state.records
+
+        .filter(
+          passesFilters
+        )
+
+        .map(
+          function (record) {
+
+            return {
+
+              record:
+                record,
+
+              score:
+                scoreRecord(
+                  record,
+                  query
+                )
+            };
+          }
+        )
+
+        .filter(
+          function (item) {
+
+            return (
+              !query ||
+              item.score >= 2.5
+            );
+          }
+        );
+
+
+    const sortMode =
+      sort.value;
+
+
+    state.filtered.sort(
+      function (a, b) {
+
+
+        if (
+          sortMode === "newest"
+        ) {
+
+          return (
+            b.record._date -
+            a.record._date
+          );
+        }
+
+
+        if (
+          sortMode === "oldest"
+        ) {
+
+          return (
+            a.record._date -
+            b.record._date
+          );
+        }
+
+
+        if (
+          sortMode === "title"
+        ) {
+
+          return String(
+            a.record.title
+          ).localeCompare(
+            String(
+              b.record.title
+            )
+          );
+        }
+
+
+        if (!query) {
+
+          return (
+            b.record._date -
+            a.record._date
+          );
+        }
+
+
+        return (
+          b.score -
+          a.score ||
+          b.record._date -
+          a.record._date
+        );
+      }
+    );
+
+
+    searchTime.textContent =
+      Math.max(
+        1,
+        Math.round(
+          performance.now() -
+          started
+        )
+      ) +
+      " ms";
+
+
+    render();
+  }
+
+
+  /* =======================================================
+     BUILD FILTERS
+  ======================================================= */
+
+  function fillSelect(
+    element,
+    values
+  ) {
+
+    values.forEach(
+      function (value) {
+
+        const option =
+          document.createElement(
+            "option"
+          );
+
+        option.value =
+          value;
+
+        option.textContent =
+          value;
+
+        element.appendChild(
+          option
+        );
+      }
+    );
+  }
+
+
+  function buildFilters() {
+
+    fillSelect(
+
+      level,
+
+      unique(
+        state.records.map(
+          function (record) {
+            return record.level;
+          }
+        )
+      ).sort()
+
+    );
+
+
+    fillSelect(
+
+      subject,
+
+      unique(
+        state.records.map(
+          function (record) {
+            return record.subject;
+          }
+        )
+      ).sort()
+
+    );
+
+
+    fillSelect(
+
+      method,
+
+      unique(
+        state.records.map(
+          function (record) {
+            return record.method;
+          }
+        )
+      ).sort()
+
+    );
+
+
+    const counts =
+      {};
+
+
+    state.records.forEach(
+      function (record) {
+
+        if (!record.subject) {
+          return;
+        }
+
+
+        counts[
+          record.subject
+        ] =
+          (
+            counts[
+              record.subject
+            ] ||
+            0
+          ) + 1;
+      }
+    );
+
+
+    facets.innerHTML =
+      Object.keys(counts)
+
+        .sort(
+          function (a, b) {
+
+            return (
+              counts[b] -
+              counts[a]
+            );
+          }
+        )
+
+        .map(
+          function (name) {
+
+            return (
+
+              '<button class="facet" data-subject="' +
+
+                escapeHTML(name) +
+
+              '">' +
+
+                escapeHTML(name) +
+
+                "<strong>" +
+
+                  counts[name] +
+
+                "</strong>" +
+
+              "</button>"
+            );
+          }
+        )
+
+        .join("");
+  }
+
+
+  /* =======================================================
+     RESET
+  ======================================================= */
+
+  function resetAll() {
+
+    search.value =
+      "";
+
+    level.value =
+      "";
+
+    subject.value =
+      "";
+
+    method.value =
+      "";
+
+    sort.value =
+      "relevance";
+
+    state.type =
+      "";
+
+
+    document
+      .querySelectorAll(
+        ".type-button"
+      )
+      .forEach(
+        function (button) {
+
+          button.classList.toggle(
+
+            "active",
+
+            button.dataset.type === ""
+
+          );
+        }
+      );
+
+
+    document
+      .querySelectorAll(
+        ".facet"
+      )
+      .forEach(
+        function (button) {
+
+          button.classList.remove(
+            "active"
+          );
+        }
+      );
+
+
+    runSearch();
+  }
+
+
+  /* =======================================================
+     EVENTS
+  ======================================================= */
+
+  searchButton.addEventListener(
+    "click",
+    runSearch
+  );
+
+
+  search.addEventListener(
+    "keydown",
+    function (event) {
+
+      if (
+        event.key === "Enter"
+      ) {
+
+        runSearch();
+      }
+    }
+  );
+
+
+  document.addEventListener(
+    "keydown",
+    function (event) {
+
+      const target =
+        event.target;
+
+
+      const typing =
+        target &&
+        (
+          target.tagName === "INPUT" ||
+          target.tagName === "TEXTAREA" ||
+          target.tagName === "SELECT"
+        );
+
+
+      if (
+        event.key === "/" &&
+        !typing
+      ) {
+
+        event.preventDefault();
+
+        search.focus();
+      }
+    }
+  );
+
+
+  document
+    .querySelectorAll(
+      "[data-query]"
+    )
+    .forEach(
+      function (button) {
+
+        button.addEventListener(
+          "click",
+          function () {
+
+            search.value =
+              button.dataset.query;
+
+            runSearch();
+          }
+        );
+      }
+    );
+
+
+  document
+    .querySelectorAll(
+      "[data-symbol]"
+    )
+    .forEach(
+      function (button) {
+
+        button.addEventListener(
+          "click",
+          function () {
+
+            const symbol =
+              button.dataset.symbol;
+
+
+            const start =
+              search.selectionStart ||
+              search.value.length;
+
+
+            search.value =
+              search.value.slice(
+                0,
+                start
+              ) +
+
+              symbol +
+
+              search.value.slice(
+                start
+              );
+
+
+            search.focus();
+          }
+        );
+      }
+    );
+
+
+  document
+    .querySelectorAll(
+      ".type-button"
+    )
+    .forEach(
+      function (button) {
+
+        button.addEventListener(
+          "click",
+          function () {
+
+            state.type =
+              button.dataset.type ||
+              "";
+
+
+            document
+              .querySelectorAll(
+                ".type-button"
+              )
+              .forEach(
+                function (other) {
+
+                  other.classList.toggle(
+
+                    "active",
+
+                    other === button
+
+                  );
+                }
+              );
+
+
+            runSearch();
+          }
+        );
+      }
+    );
+
+
+  [
+    level,
+    subject,
+    method,
+    sort
+  ].forEach(
+    function (element) {
+
+      element.addEventListener(
+        "change",
+        runSearch
+      );
+    }
+  );
+
+
+  reset.addEventListener(
+    "click",
+    resetAll
+  );
+
+
+  facets.addEventListener(
+    "click",
+    function (event) {
+
+      const button =
+        event.target.closest(
+          "[data-subject]"
+        );
+
+
+      if (!button) {
+        return;
+      }
+
+
+      const active =
+        button.classList.contains(
+          "active"
+        );
+
+
+      document
+        .querySelectorAll(
+          ".facet"
+        )
+        .forEach(
+          function (item) {
+
+            item.classList.remove(
+              "active"
+            );
+          }
+        );
+
+
+      if (active) {
+
+        subject.value =
+          "";
+      }
+
+      else {
+
+        subject.value =
+          button.dataset.subject;
+
+        button.classList.add(
+          "active"
+        );
+      }
+
+
+      runSearch();
+    }
+  );
+
+
+  more.addEventListener(
+    "click",
+    function () {
+
+      state.visible +=
+        PAGE_SIZE;
+
+      render();
+    }
+  );
+
+
+  /* =======================================================
+     WORDPRESS IFRAME AUTO HEIGHT
+  ======================================================= */
+
+  function sendHeight() {
+
+    const height =
+      Math.max(
+        document.body.scrollHeight,
+        document.documentElement.scrollHeight
+      );
+
+
+    if (
+      window.parent &&
+      window.parent !== window
+    ) {
+
+      window.parent.postMessage(
+
+        {
+          type:
+            "qed-engine-height",
+
+          height:
+            height
+        },
+
+        "*"
+      );
+    }
+  }
+
+
+  window.addEventListener(
+    "load",
+    sendHeight
+  );
+
+
+  window.addEventListener(
+    "resize",
+    sendHeight
+  );
+
+
+  if (
+    "ResizeObserver" in window
+  ) {
+
+    const observer =
+      new ResizeObserver(
+        sendHeight
+      );
+
+
+    observer.observe(
+      document.body
+    );
+  }
+
+
+  /* =======================================================
+     LOAD INDEX
+  ======================================================= */
+
+  fetch(
+    INDEX_URL,
+    {
+      cache:
+        "no-store"
+    }
+  )
+
+    .then(
+      function (response) {
+
+        if (!response.ok) {
+
+          throw new Error(
+            "HTTP " +
+            response.status
+          );
+        }
+
+
+        return response.json();
+      }
+    )
+
+    .then(
+      function (data) {
+
+        if (
+          !Array.isArray(data)
+        ) {
+
+          throw new Error(
+            "Invalid index format"
+          );
+        }
+
+
+        state.records =
+          data.map(
+            prepare
+          );
+
+
+        buildFilters();
+
+
+        loader.hidden =
+          true;
+
+
+        status.classList.add(
+          "online"
+        );
+
+
+        statusText.textContent =
+          state.records.length +
+          " articles indexed";
+
+
+        indexMeta.textContent =
+          state.records.length +
+          " curated articles · public metadata only";
+
+
+        runSearch();
+
+
+        sendHeight();
+      }
+    )
+
+    .catch(
+      function (error) {
+
+        console.error(
+          "Q.E.D. Engine:",
+          error
+        );
+
+
+        loader.hidden =
+          true;
+
+
+        status.classList.add(
+          "error"
+        );
+
+
+        statusText.textContent =
+          "Index unavailable";
+
+
+        indexMeta.textContent =
+          "Connection error";
+
+
+        results.innerHTML =
+          "";
+
+
+        empty.hidden =
+          false;
+
+
+        empty.querySelector(
+          "h3"
+        ).textContent =
+          "Search index unavailable";
+
+
+        empty.querySelector(
+          "p"
+        ).textContent =
+          "Q.E.D. Engine could not load proofs-index.json.";
+
+
+        sendHeight();
+      }
+    );
+
+})();
+</script>
+
+</body>
+</html>
