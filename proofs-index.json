@@ -1,0 +1,3264 @@
+[
+  {
+    "id": "gi-post-1406",
+    "title": "What Is a Binary Operation? Definition, Notation and Examples",
+    "url": "https://geometryinsights.com/2026/08/22/what-is-a-binary-operation-definition-notation-and-examples/",
+    "date": "2026-08-22",
+    "modified": "2026-08-22",
+    "subject": "Binary Operations",
+    "categories": [
+      "Binary Operations",
+      "Group Theory"
+    ],
+    "type": "Mathematical explanation",
+    "excerpt": "Abstract Algebra · Foundations What Is a Binary Operation? Binary operations appear everywhere in mathematics — often long before we are given a formal name for them. a ∗ b ⟶ ? The central idea What exactly makes an operation binary, what does the notation mean, and why does the set in which we are […]",
+    "keywords": [
+      "abstract algebra",
+      "algebraic structures",
+      "binary operation",
+      "Cartesian product",
+      "closure",
+      "function notation"
+    ],
+    "levels": [],
+    "search_text": "What Is a Binary Operation? Definition, Notation and Examples Binary Operations Binary Operations Group Theory abstract algebra algebraic structures binary operation Cartesian product closure function notation Mathematical explanation Abstract Algebra · Foundations What Is a Binary Operation? Binary operations appear everywhere in mathematics — often long before we are given a formal name for them. a ∗ b ⟶ ? The central idea What exactly makes an operation binary, what does the notation mean, and why does the set in which we are […]"
+  },
+  {
+    "id": "gi-post-1401",
+    "title": "Proving the Uniqueness of the Identity Element Under a Binary Operation",
+    "url": "https://geometryinsights.com/2026/08/22/proving-the-uniqueness-of-the-identity-element-under-a-binary-operation/",
+    "date": "2026-08-22",
+    "modified": "2026-08-22",
+    "subject": "Abstract Algebra",
+    "categories": [
+      "Abstract Algebra",
+      "Axioms",
+      "Group Theory"
+    ],
+    "type": "Proof",
+    "excerpt": "Abstract Algebra · Proof Proving the Uniqueness of the Identity Element Under a Binary Operation Suppose a set S has a binary operation ∗. If an identity element exists, can there be more than one? The question e identity element ? f identity element If both e and f satisfy the defining property of an […]",
+    "keywords": [],
+    "levels": [],
+    "search_text": "Proving the Uniqueness of the Identity Element Under a Binary Operation Abstract Algebra Abstract Algebra Axioms Group Theory Proof Abstract Algebra · Proof Proving the Uniqueness of the Identity Element Under a Binary Operation Suppose a set S has a binary operation ∗. If an identity element exists, can there be more than one? The question e identity element ? f identity element If both e and f satisfy the defining property of an […]"
+  },
+  {
+    "id": "gi-post-1395",
+    "title": "Proving Existence and Uniqueness of the Solution to a ∗ c = b in a Group",
+    "url": "https://geometryinsights.com/2026/08/22/proving-existence-and-uniqueness-of-the-solution-to-a-%e2%88%97-c-b-in-a-group/",
+    "date": "2026-08-22",
+    "modified": "2026-08-22",
+    "subject": "Axioms",
+    "categories": [
+      "Axioms",
+      "Group Theory"
+    ],
+    "type": "Proof",
+    "excerpt": "Group Theory · Existence and Uniqueness Why Does a ∗ c = b Have Exactly One Solution? Let (G, ∗) be a group and let a, b ∈ G. We want to prove that there exists a unique element c ∈ G such that a ∗ c = b. a ∗ c = b One […]",
+    "keywords": [
+      "abstract algebra",
+      "cancellation law",
+      "existence and uniqueness",
+      "group axioms",
+      "group theory",
+      "inverse element",
+      "Mathematical Proof"
+    ],
+    "levels": [],
+    "search_text": "Proving Existence and Uniqueness of the Solution to a ∗ c = b in a Group Axioms Axioms Group Theory abstract algebra cancellation law existence and uniqueness group axioms group theory inverse element Mathematical Proof Proof Group Theory · Existence and Uniqueness Why Does a ∗ c = b Have Exactly One Solution? Let (G, ∗) be a group and let a, b ∈ G. We want to prove that there exists a unique element c ∈ G such that a ∗ c = b. a ∗ c = b One […]"
+  },
+  {
+    "id": "gi-post-1365",
+    "title": "Understanding Set Union A ∪ B Through Venn Diagrams",
+    "url": "https://geometryinsights.com/2026/08/21/understanding-set-union-a-%e2%88%aa-b-through-venn-diagrams/",
+    "date": "2026-08-21",
+    "modified": "2026-08-21",
+    "subject": "Set Theory",
+    "categories": [
+      "Set Theory",
+      "Venn Diagrams"
+    ],
+    "type": "Mathematical explanation",
+    "excerpt": "Set Theory Understanding Set Union A ∪ B Through Venn Diagrams Venn diagrams provide a simple visual way to understand how sets relate to one another. This article explores the meaning of A ∪ B and how union can be recognised visually.",
+    "keywords": [
+      "A ∪ B",
+      "mathematical notation",
+      "set theory",
+      "set union",
+      "union of sets",
+      "universal set",
+      "venn diagrams"
+    ],
+    "levels": [],
+    "search_text": "Understanding Set Union A ∪ B Through Venn Diagrams Set Theory Set Theory Venn Diagrams A ∪ B mathematical notation set theory set union union of sets universal set venn diagrams Mathematical explanation Set Theory Understanding Set Union A ∪ B Through Venn Diagrams Venn diagrams provide a simple visual way to understand how sets relate to one another. This article explores the meaning of A ∪ B and how union can be recognised visually."
+  },
+  {
+    "id": "gi-post-1360",
+    "title": "Understanding Set Intersection A ∩ B Through Venn Diagrams",
+    "url": "https://geometryinsights.com/2026/08/21/understanding-set-intersection-a-%e2%88%a9-b-through-venn-diagrams/",
+    "date": "2026-08-21",
+    "modified": "2026-08-21",
+    "subject": "Set Theory",
+    "categories": [
+      "Set Theory",
+      "Venn Diagrams"
+    ],
+    "type": "Mathematical explanation",
+    "excerpt": "Set Theory Understanding Set Intersection A ∩ B Through Venn Diagrams Venn diagrams provide a visual way to understand the relationships between sets. This article explores the meaning of A ∩ B through a simple geometric interpretation.",
+    "keywords": [
+      "A ∩ B",
+      "mathematical notation",
+      "set intersection",
+      "set theory",
+      "universal set",
+      "venn diagrams"
+    ],
+    "levels": [],
+    "search_text": "Understanding Set Intersection A ∩ B Through Venn Diagrams Set Theory Set Theory Venn Diagrams A ∩ B mathematical notation set intersection set theory universal set venn diagrams Mathematical explanation Set Theory Understanding Set Intersection A ∩ B Through Venn Diagrams Venn diagrams provide a visual way to understand the relationships between sets. This article explores the meaning of A ∩ B through a simple geometric interpretation."
+  },
+  {
+    "id": "gi-post-1379",
+    "title": "Understanding A′ ∪ B′ Through Venn Diagrams",
+    "url": "https://geometryinsights.com/2026/08/21/understanding-a%e2%80%b2-%e2%88%aa-b%e2%80%b2-through-venn-diagrams/",
+    "date": "2026-08-21",
+    "modified": "2026-08-21",
+    "subject": "Set Theory",
+    "categories": [
+      "Set Theory",
+      "Venn Diagrams"
+    ],
+    "type": "Mathematical explanation",
+    "excerpt": "Set Theory Understanding A′ ∪ B′ Through Venn Diagrams Complements and unions can combine to create regions that are easier to understand visually than symbolically. This article explores the meaning of A′ ∪ B′ through a Venn diagram.",
+    "keywords": [
+      "A ∩ B",
+      "A′ ∪ B′",
+      "complement of A",
+      "complement of B",
+      "De Morgan’s law",
+      "mathematical notation",
+      "set complements",
+      "set theory",
+      "set union",
+      "universal set",
+      "venn diagrams"
+    ],
+    "levels": [],
+    "search_text": "Understanding A′ ∪ B′ Through Venn Diagrams Set Theory Set Theory Venn Diagrams A ∩ B A′ ∪ B′ complement of A complement of B De Morgan’s law mathematical notation set complements set theory set union universal set venn diagrams Mathematical explanation Set Theory Understanding A′ ∪ B′ Through Venn Diagrams Complements and unions can combine to create regions that are easier to understand visually than symbolically. This article explores the meaning of A′ ∪ B′ through a Venn diagram."
+  },
+  {
+    "id": "gi-post-1373",
+    "title": "Understanding A′ ∩ B′ Through Venn Diagrams",
+    "url": "https://geometryinsights.com/2026/08/21/understanding-a%e2%80%b2-%e2%88%a9-b%e2%80%b2-through-venn-diagrams/",
+    "date": "2026-08-21",
+    "modified": "2026-08-21",
+    "subject": "Set Theory",
+    "categories": [
+      "Set Theory",
+      "Venn Diagrams"
+    ],
+    "type": "Mathematical explanation",
+    "excerpt": "Set Theory Understanding A′ ∩ B′ Through Venn Diagrams Some set expressions combine complements with intersections, making the notation look more complicated than the picture itself. This article explores the visual meaning of A′ ∩ B′ using a Venn diagram.",
+    "keywords": [
+      "A ∪ B",
+      "A′ ∩ B′",
+      "complement of A",
+      "complement of B",
+      "De Morgan’s law",
+      "mathematical notation",
+      "set complements",
+      "set intersection",
+      "set theory",
+      "universal set",
+      "venn diagrams"
+    ],
+    "levels": [],
+    "search_text": "Understanding A′ ∩ B′ Through Venn Diagrams Set Theory Set Theory Venn Diagrams A ∪ B A′ ∩ B′ complement of A complement of B De Morgan’s law mathematical notation set complements set intersection set theory universal set venn diagrams Mathematical explanation Set Theory Understanding A′ ∩ B′ Through Venn Diagrams Some set expressions combine complements with intersections, making the notation look more complicated than the picture itself. This article explores the visual meaning of A′ ∩ B′ using a Venn diagram."
+  },
+  {
+    "id": "gi-post-1369",
+    "title": "Understanding A ∩ B′ Through Venn Diagrams",
+    "url": "https://geometryinsights.com/2026/08/21/understanding-a-%e2%88%a9-b%e2%80%b2-through-venn-diagrams/",
+    "date": "2026-08-21",
+    "modified": "2026-08-21",
+    "subject": "Set Theory",
+    "categories": [
+      "Set Theory",
+      "Venn Diagrams"
+    ],
+    "type": "Mathematical explanation",
+    "excerpt": "Set Theory Understanding A ∩ B′ Through Venn Diagrams Some set expressions combine more than one idea at the same time. This article explores the visual meaning of A ∩ B′ and how the notation can be interpreted using a Venn diagram.",
+    "keywords": [
+      "A ∖ B",
+      "A ∩ B′",
+      "complement of B",
+      "mathematical notation",
+      "set complement",
+      "set difference",
+      "set intersection",
+      "set theory",
+      "universal set",
+      "venn diagrams"
+    ],
+    "levels": [],
+    "search_text": "Understanding A ∩ B′ Through Venn Diagrams Set Theory Set Theory Venn Diagrams A ∖ B A ∩ B′ complement of B mathematical notation set complement set difference set intersection set theory universal set venn diagrams Mathematical explanation Set Theory Understanding A ∩ B′ Through Venn Diagrams Some set expressions combine more than one idea at the same time. This article explores the visual meaning of A ∩ B′ and how the notation can be interpreted using a Venn diagram."
+  },
+  {
+    "id": "gi-post-1355",
+    "title": "Deriving the Permutation Formula: Why ⁿPᵣ = n!/(n−r)!",
+    "url": "https://geometryinsights.com/2026/08/20/deriving-the-permutation-formula-why-%e2%81%bfp%e1%b5%a3-n-n%e2%88%92r/",
+    "date": "2026-08-20",
+    "modified": "2026-08-20",
+    "subject": "Combinatorics",
+    "categories": [
+      "Combinatorics",
+      "Permutations"
+    ],
+    "type": "Proof",
+    "excerpt": "Permutations Deriving the Permutation Formula: Why ⁿPᵣ = n!/(n−r)! The permutation formula ⁿPᵣ = n!/(n−r)! counts the number of ways to select and arrange r objects from n distinct objects. But why does this formula work? The key is to examine how the number of available choices decreases as each position in the arrangement is […]",
+    "keywords": [
+      "combinatorics",
+      "factorials",
+      "Mathematical Proof",
+      "permutation formula",
+      "Permutations"
+    ],
+    "levels": [],
+    "search_text": "Deriving the Permutation Formula: Why ⁿPᵣ = n!/(n−r)! Combinatorics Combinatorics Permutations combinatorics factorials Mathematical Proof permutation formula Permutations Proof Permutations Deriving the Permutation Formula: Why ⁿPᵣ = n!/(n−r)! The permutation formula ⁿPᵣ = n!/(n−r)! counts the number of ways to select and arrange r objects from n distinct objects. But why does this formula work? The key is to examine how the number of available choices decreases as each position in the arrangement is […]"
+  },
+  {
+    "id": "gi-post-1312",
+    "title": "Modular Arithmetic: Proving a ≡ b (mod m) ⇒ aⁿ ≡ bⁿ (mod m) Using the Binomial Theorem",
+    "url": "https://geometryinsights.com/2026/08/19/modular-arithmetic-proving-a-%e2%89%a1-b-mod-m-%e2%87%92-a%e2%81%bf-%e2%89%a1-b%e2%81%bf-mod-m-using-the-binomial-theorem/",
+    "date": "2026-08-19",
+    "modified": "2026-08-19",
+    "subject": "Binomial Expansion",
+    "categories": [
+      "Binomial Expansion",
+      "Modular Arithmetic",
+      "Number Theory"
+    ],
+    "type": "Proof",
+    "excerpt": "Modular Arithmetic Powers Preserve Congruence Suppose two integers are congruent modulo m. If both integers are then raised to the same positive integer power, does the congruence still hold? 1 The Result A fundamental property of congruence a ≡ b ( mod m ) ⇒ a n ≡ b n ( mod m ) The […]",
+    "keywords": [
+      "binomial theorem",
+      "congruence",
+      "divisibility",
+      "modular arithmetic",
+      "Number Theory"
+    ],
+    "levels": [],
+    "search_text": "Modular Arithmetic: Proving a ≡ b (mod m) ⇒ aⁿ ≡ bⁿ (mod m) Using the Binomial Theorem Binomial Expansion Binomial Expansion Modular Arithmetic Number Theory binomial theorem congruence divisibility modular arithmetic Number Theory Proof Modular Arithmetic Powers Preserve Congruence Suppose two integers are congruent modulo m. If both integers are then raised to the same positive integer power, does the congruence still hold? 1 The Result A fundamental property of congruence a ≡ b ( mod m ) ⇒ a n ≡ b n ( mod m ) The […]"
+  },
+  {
+    "id": "gi-post-1334",
+    "title": "Binomial Theorem: Expanding (a + b)ⁿ for n ∈ ℕ",
+    "url": "https://geometryinsights.com/2026/08/19/binomial-theorem-expanding-a-b%e2%81%bf-for-n-%e2%88%88-%e2%84%95/",
+    "date": "2026-08-19",
+    "modified": "2026-08-19",
+    "subject": "Algebra",
+    "categories": [
+      "Algebra",
+      "Binomial Expansion"
+    ],
+    "type": "Mathematical explanation",
+    "excerpt": "Binomial Expansion Expanding (a + b)ⁿ for n ∈ ℕ How can the expansion of (a + b)ⁿ be written for any positive integer n? ( a + b ) n The Expansion Follow the terms from beginning to end Each term contains a coefficient together with powers of a and b. a Power decreases […]",
+    "keywords": [
+      "Algebra",
+      "binomial coefficients",
+      "binomial expansion",
+      "binomial theorem",
+      "summation notation"
+    ],
+    "levels": [],
+    "search_text": "Binomial Theorem: Expanding (a + b)ⁿ for n ∈ ℕ Algebra Algebra Binomial Expansion Algebra binomial coefficients binomial expansion binomial theorem summation notation Mathematical explanation Binomial Expansion Expanding (a + b)ⁿ for n ∈ ℕ How can the expansion of (a + b)ⁿ be written for any positive integer n? ( a + b ) n The Expansion Follow the terms from beginning to end Each term contains a coefficient together with powers of a and b. a Power decreases […]"
+  },
+  {
+    "id": "gi-post-1273",
+    "title": "Proving the Transitivity of Congruence Modulo m: If a ≡ b (mod m) and b ≡ c (mod m), Then a ≡ c (mod m)",
+    "url": "https://geometryinsights.com/2026/08/18/proving-the-transitivity-of-congruence-modulo-m-if-a-%e2%89%a1-b-mod-m-and-b-%e2%89%a1-c-mod-m-then-a-%e2%89%a1-c-mod-m/",
+    "date": "2026-08-18",
+    "modified": "2026-08-18",
+    "subject": "Divisibility",
+    "categories": [
+      "Divisibility",
+      "Modular Arithmetic"
+    ],
+    "type": "Proof",
+    "excerpt": "Modular Arithmetic Proving the Transitivity of Congruence Modulo m: If a ≡ b (mod m) and b ≡ c (mod m), Then a ≡ c (mod m) Congruence modulo m has a transitive structure: two congruence relationships can combine to produce a third. Statement to prove a ≡ b (mod m) and b ≡ c […]",
+    "keywords": [
+      "congruence modulo",
+      "divisibility",
+      "modular arithmetic",
+      "Number Theory",
+      "transitivity property"
+    ],
+    "levels": [],
+    "search_text": "Proving the Transitivity of Congruence Modulo m: If a ≡ b (mod m) and b ≡ c (mod m), Then a ≡ c (mod m) Divisibility Divisibility Modular Arithmetic congruence modulo divisibility modular arithmetic Number Theory transitivity property Proof Modular Arithmetic Proving the Transitivity of Congruence Modulo m: If a ≡ b (mod m) and b ≡ c (mod m), Then a ≡ c (mod m) Congruence modulo m has a transitive structure: two congruence relationships can combine to produce a third. Statement to prove a ≡ b (mod m) and b ≡ c […]"
+  },
+  {
+    "id": "gi-post-1268",
+    "title": "Proving the Symmetry of Congruence Modulo m: If a ≡ b (mod m), Then b ≡ a (mod m)",
+    "url": "https://geometryinsights.com/2026/08/18/proving-the-symmetry-of-congruence-modulo-m-if-a-%e2%89%a1-b-mod-m-then-b-%e2%89%a1-a-mod-m/",
+    "date": "2026-08-18",
+    "modified": "2026-08-18",
+    "subject": "Divisibility",
+    "categories": [
+      "Divisibility",
+      "Modular Arithmetic"
+    ],
+    "type": "Proof",
+    "excerpt": "Modular Arithmetic Proving the Symmetry of Congruence Modulo m: If a ≡ b (mod m), Then b ≡ a (mod m) Congruence modulo m describes an important relationship between integers. One of its fundamental properties is symmetry. Statement to prove a ≡ b (mod m) ⇒ b ≡ a (mod m) The question Why does […]",
+    "keywords": [
+      "congruence modulo",
+      "divisibility",
+      "modular arithmetic",
+      "Number Theory",
+      "symmetry property"
+    ],
+    "levels": [],
+    "search_text": "Proving the Symmetry of Congruence Modulo m: If a ≡ b (mod m), Then b ≡ a (mod m) Divisibility Divisibility Modular Arithmetic congruence modulo divisibility modular arithmetic Number Theory symmetry property Proof Modular Arithmetic Proving the Symmetry of Congruence Modulo m: If a ≡ b (mod m), Then b ≡ a (mod m) Congruence modulo m describes an important relationship between integers. One of its fundamental properties is symmetry. Statement to prove a ≡ b (mod m) ⇒ b ≡ a (mod m) The question Why does […]"
+  },
+  {
+    "id": "gi-post-1294",
+    "title": "Proving Scalar Multiplication Compatibility of Congruence Modulo m: If a ≡ b (mod m) and k ∈ ℤ, Then ka ≡ kb (mod m)",
+    "url": "https://geometryinsights.com/2026/08/18/proving-scalar-multiplication-compatibility-of-congruence-modulo-m-if-a-%e2%89%a1-b-mod-m-and-k-%e2%88%88-%e2%84%a4-then-ka-%e2%89%a1-kb-mod-m/",
+    "date": "2026-08-18",
+    "modified": "2026-08-18",
+    "subject": "Modular Arithmetic",
+    "categories": [
+      "Modular Arithmetic",
+      "Number Theory"
+    ],
+    "type": "Proof",
+    "excerpt": "Modular Arithmetic Proving Scalar Multiplication Compatibility of Congruence Modulo m: If a ≡ b (mod m) and k ∈ ℤ, Then ka ≡ kb (mod m) Congruence modulo m is preserved when both sides are multiplied by the same integer. Statement to prove a ≡ b (mod m) and k ∈ ℤ ⇒ ka ≡ […]",
+    "keywords": [
+      "congruence modulo",
+      "divisibility",
+      "modular arithmetic",
+      "Number Theory",
+      "scalar multiplication"
+    ],
+    "levels": [],
+    "search_text": "Proving Scalar Multiplication Compatibility of Congruence Modulo m: If a ≡ b (mod m) and k ∈ ℤ, Then ka ≡ kb (mod m) Modular Arithmetic Modular Arithmetic Number Theory congruence modulo divisibility modular arithmetic Number Theory scalar multiplication Proof Modular Arithmetic Proving Scalar Multiplication Compatibility of Congruence Modulo m: If a ≡ b (mod m) and k ∈ ℤ, Then ka ≡ kb (mod m) Congruence modulo m is preserved when both sides are multiplied by the same integer. Statement to prove a ≡ b (mod m) and k ∈ ℤ ⇒ ka ≡ […]"
+  },
+  {
+    "id": "gi-post-1287",
+    "title": "Proving Multiplicative Compatibility of Congruence Modulo m: If a ≡ b (mod m) and c ≡ d (mod m), Then ac ≡ bd (mod m)",
+    "url": "https://geometryinsights.com/2026/08/18/proving-multiplicative-compatibility-of-congruence-modulo-m-if-a-%e2%89%a1-b-mod-m-and-c-%e2%89%a1-d-mod-m-then-ac-%e2%89%a1-bd-mod-m/",
+    "date": "2026-08-18",
+    "modified": "2026-08-18",
+    "subject": "Modular Arithmetic",
+    "categories": [
+      "Modular Arithmetic",
+      "Number Theory"
+    ],
+    "type": "Proof",
+    "excerpt": "Modular Arithmetic Proving Multiplicative Compatibility of Congruence Modulo m: If a ≡ b (mod m) and c ≡ d (mod m), Then ac ≡ bd (mod m) Congruence modulo m remains compatible when congruent integers are multiplied together. Statement to prove a ≡ b (mod m) and c ≡ d (mod m) ⇒ ac ≡ […]",
+    "keywords": [
+      "congruence modulo",
+      "divisibility",
+      "modular arithmetic",
+      "multiplicative compatibility",
+      "Number Theory"
+    ],
+    "levels": [],
+    "search_text": "Proving Multiplicative Compatibility of Congruence Modulo m: If a ≡ b (mod m) and c ≡ d (mod m), Then ac ≡ bd (mod m) Modular Arithmetic Modular Arithmetic Number Theory congruence modulo divisibility modular arithmetic multiplicative compatibility Number Theory Proof Modular Arithmetic Proving Multiplicative Compatibility of Congruence Modulo m: If a ≡ b (mod m) and c ≡ d (mod m), Then ac ≡ bd (mod m) Congruence modulo m remains compatible when congruent integers are multiplied together. Statement to prove a ≡ b (mod m) and c ≡ d (mod m) ⇒ ac ≡ […]"
+  },
+  {
+    "id": "gi-post-1301",
+    "title": "Modular Arithmetic: Proving a ≡ b (mod m) and c ≡ d (mod m) ⇒ a ± c ≡ b ± d (mod m)",
+    "url": "https://geometryinsights.com/2026/08/18/modular-arithmetic-proving-a-%e2%89%a1-b-mod-m-and-c-%e2%89%a1-d-mod-m-%e2%87%92-a-%c2%b1-c-%e2%89%a1-b-%c2%b1-d-mod-m/",
+    "date": "2026-08-18",
+    "modified": "2026-08-18",
+    "subject": "Modular Arithmetic",
+    "categories": [
+      "Modular Arithmetic",
+      "Number Theory"
+    ],
+    "type": "Proof",
+    "excerpt": "Modular Arithmetic Why Addition and Subtraction Preserve Congruence Suppose a ≡ b (mod m) and c ≡ d (mod m). Can the two congruences be added or subtracted term by term? ∴ The Result a ≡ b (mod m), c ≡ d (mod m) ⇒ a ± c ≡ b ± d (mod m) This […]",
+    "keywords": [
+      "congruence",
+      "divisibility",
+      "Mathematical Proof",
+      "modular arithmetic",
+      "Number Theory"
+    ],
+    "levels": [],
+    "search_text": "Modular Arithmetic: Proving a ≡ b (mod m) and c ≡ d (mod m) ⇒ a ± c ≡ b ± d (mod m) Modular Arithmetic Modular Arithmetic Number Theory congruence divisibility Mathematical Proof modular arithmetic Number Theory Proof Modular Arithmetic Why Addition and Subtraction Preserve Congruence Suppose a ≡ b (mod m) and c ≡ d (mod m). Can the two congruences be added or subtracted term by term? ∴ The Result a ≡ b (mod m), c ≡ d (mod m) ⇒ a ± c ≡ b ± d (mod m) This […]"
+  },
+  {
+    "id": "gi-post-1279",
+    "title": "Essential Algebraic Identities from the Distributive Law: Binomial Products, Squares and the Difference of Two Squares",
+    "url": "https://geometryinsights.com/2026/08/18/essential-algebraic-identities-from-the-distributive-law-binomial-products-squares-and-the-difference-of-two-squares/",
+    "date": "2026-08-18",
+    "modified": "2026-08-18",
+    "subject": "Algebra",
+    "categories": [
+      "Algebra",
+      "Uncategorized",
+      "Vectors"
+    ],
+    "type": "Proof",
+    "excerpt": "Algebraic Structure Essential Algebraic Identities from the Distributive Law: Binomial Products, Squares and the Difference of Two Squares Several familiar algebraic identities can be understood from one simple structural idea: multiplication distributes over addition. The central question How do the standard identities used throughout algebra emerge directly from the distributive law rather than being treated […]",
+    "keywords": [
+      "algebraic identities",
+      "algebraic proof",
+      "binomial expansion",
+      "difference of squares",
+      "distributive law"
+    ],
+    "levels": [],
+    "search_text": "Essential Algebraic Identities from the Distributive Law: Binomial Products, Squares and the Difference of Two Squares Algebra Algebra Uncategorized Vectors algebraic identities algebraic proof binomial expansion difference of squares distributive law Proof Algebraic Structure Essential Algebraic Identities from the Distributive Law: Binomial Products, Squares and the Difference of Two Squares Several familiar algebraic identities can be understood from one simple structural idea: multiplication distributes over addition. The central question How do the standard identities used throughout algebra emerge directly from the distributive law rather than being treated […]"
+  },
+  {
+    "id": "gi-post-1223",
+    "title": "Understanding Congruence Modulo m from First Principles: a ≡ b (mod m) ⇔ m ∣ (a − b)",
+    "url": "https://geometryinsights.com/2026/08/17/understanding-congruence-modulo-m-from-first-principles-a-%e2%89%a1-b-mod-m-%e2%87%94-m-%e2%88%a3-a-%e2%88%92-b/",
+    "date": "2026-08-17",
+    "modified": "2026-08-17",
+    "subject": "Modular Arithmetic",
+    "categories": [
+      "Modular Arithmetic"
+    ],
+    "type": "First-principles explanation",
+    "excerpt": "Number Theory Understanding Congruence Modulo m from First Principles: a ≡ b (mod m) ⇔ m ∣ (a − b) What does it actually mean for two integers to be congruent modulo m? Starting from the definition of divisibility, this article unpacks the notation and connects it directly with the idea of two integers leaving […]",
+    "keywords": [
+      "congruence modulo",
+      "congruent integers",
+      "divisibility",
+      "modular arithmetic",
+      "Number Theory"
+    ],
+    "levels": [],
+    "search_text": "Understanding Congruence Modulo m from First Principles: a ≡ b (mod m) ⇔ m ∣ (a − b) Modular Arithmetic Modular Arithmetic congruence modulo congruent integers divisibility modular arithmetic Number Theory First-principles explanation Number Theory Understanding Congruence Modulo m from First Principles: a ≡ b (mod m) ⇔ m ∣ (a − b) What does it actually mean for two integers to be congruent modulo m? Starting from the definition of divisibility, this article unpacks the notation and connects it directly with the idea of two integers leaving […]"
+  },
+  {
+    "id": "gi-post-1253",
+    "title": "The Three Principal Rotation Matrices in ℝ³: Rotations About the x-, y- and z-Axes",
+    "url": "https://geometryinsights.com/2026/08/17/the-three-principal-rotation-matrices-in-%e2%84%9d%c2%b3-rotations-about-the-x-y-and-z-axes/",
+    "date": "2026-08-17",
+    "modified": "2026-08-17",
+    "subject": "Matrices",
+    "categories": [
+      "Matrices",
+      "Matrix Algebra",
+      "Rotation"
+    ],
+    "type": "Mathematical explanation",
+    "excerpt": "Rotation Geometry in ℝ³ The Three Principal Rotation Matrices in ℝ³: Rotations About the x-, y- and z-Axes Three-dimensional rotation is fundamental to geometry, computer graphics and the manipulation of objects in space. The central question How can rotations in ℝ³ be represented systematically so that they can be understood, reused and applied to three-dimensional […]",
+    "keywords": [
+      "3d rotations",
+      "computer graphics",
+      "linear transformations",
+      "matrix transformations",
+      "rotation matrices"
+    ],
+    "levels": [],
+    "search_text": "The Three Principal Rotation Matrices in ℝ³: Rotations About the x-, y- and z-Axes Matrices Matrices Matrix Algebra Rotation 3d rotations computer graphics linear transformations matrix transformations rotation matrices Mathematical explanation Rotation Geometry in ℝ³ The Three Principal Rotation Matrices in ℝ³: Rotations About the x-, y- and z-Axes Three-dimensional rotation is fundamental to geometry, computer graphics and the manipulation of objects in space. The central question How can rotations in ℝ³ be represented systematically so that they can be understood, reused and applied to three-dimensional […]"
+  },
+  {
+    "id": "gi-post-1204",
+    "title": "Proving the Hyperbolic Addition Formula sinh(A + B) = sinh A cosh B + cosh A sinh B from First Principles",
+    "url": "https://geometryinsights.com/2026/08/17/proving-the-hyperbolic-addition-formula-sinha-b-sinh-a-cosh-b-cosh-a-sinh-b-from-first-principles/",
+    "date": "2026-08-17",
+    "modified": "2026-08-17",
+    "subject": "Hyperbolic",
+    "categories": [
+      "Hyperbolic",
+      "Hyperbolic Functions"
+    ],
+    "type": "Proof",
+    "excerpt": "Hyperbolic Functions Proving the Hyperbolic Addition Formula sinh(A + B) = sinh A cosh B + cosh A sinh B from First Principles Starting from the exponential definitions of sinh and cosh, this article develops the addition formula through direct algebra. Start Definitions of sinh and cosh → Expand Exponential expressions → Result Addition formula […]",
+    "keywords": [
+      "addition formula",
+      "cosh",
+      "exponential functions",
+      "hyperbolic functions",
+      "sinh"
+    ],
+    "levels": [],
+    "search_text": "Proving the Hyperbolic Addition Formula sinh(A + B) = sinh A cosh B + cosh A sinh B from First Principles Hyperbolic Hyperbolic Hyperbolic Functions addition formula cosh exponential functions hyperbolic functions sinh Proof Hyperbolic Functions Proving the Hyperbolic Addition Formula sinh(A + B) = sinh A cosh B + cosh A sinh B from First Principles Starting from the exponential definitions of sinh and cosh, this article develops the addition formula through direct algebra. Start Definitions of sinh and cosh → Expand Exponential expressions → Result Addition formula […]"
+  },
+  {
+    "id": "gi-post-1247",
+    "title": "Projecting Points from the Plane y = 1 in ℝ³ into ℝ²: A Transformation Chain for Computer Graphics",
+    "url": "https://geometryinsights.com/2026/08/17/projecting-points-from-the-plane-y-1-in-%e2%84%9d%c2%b3-into-%e2%84%9d%c2%b2-a-transformation-chain-for-computer-graphics/",
+    "date": "2026-08-17",
+    "modified": "2026-08-17",
+    "subject": "3D to 2D",
+    "categories": [
+      "3D to 2D",
+      "Computer Graphics",
+      "Transformations"
+    ],
+    "type": "Mathematical explanation",
+    "excerpt": "Computer Graphics · Transformation Geometry Projecting Points from the Plane y = 1 in ℝ³ into ℝ²: A Transformation Chain for Computer Graphics Suppose a projected point already lies on the plane y = 1 in three-dimensional space. How can that point be systematically transformed into a corresponding point in ℝ²? Starting space ℝ³ Projection […]",
+    "keywords": [
+      "2d projection",
+      "3d projection",
+      "computer graphics",
+      "function composition",
+      "transformation geometry"
+    ],
+    "levels": [],
+    "search_text": "Projecting Points from the Plane y = 1 in ℝ³ into ℝ²: A Transformation Chain for Computer Graphics 3D to 2D 3D to 2D Computer Graphics Transformations 2d projection 3d projection computer graphics function composition transformation geometry Mathematical explanation Computer Graphics · Transformation Geometry Projecting Points from the Plane y = 1 in ℝ³ into ℝ²: A Transformation Chain for Computer Graphics Suppose a projected point already lies on the plane y = 1 in three-dimensional space. How can that point be systematically transformed into a corresponding point in ℝ²? Starting space ℝ³ Projection […]"
+  },
+  {
+    "id": "gi-post-1230",
+    "title": "Deriving the Matrix Form of a Linear Transformation T: ℝ³ → ℝ² from First Principles",
+    "url": "https://geometryinsights.com/2026/08/17/deriving-the-matrix-form-of-a-linear-transformation-t-%e2%84%9d%c2%b3-%e2%86%92-%e2%84%9d%c2%b2-from-first-principles/",
+    "date": "2026-08-17",
+    "modified": "2026-08-17",
+    "subject": "Matrices",
+    "categories": [
+      "Matrices",
+      "Matrix Algebra"
+    ],
+    "type": "Derivation",
+    "excerpt": "Linear Algebra Deriving the Matrix Form of a Linear Transformation T: ℝ³ → ℝ² from First Principles A linear transformation can carry information from three-dimensional space into two-dimensional space. But where does its matrix representation actually come from? Input space ℝ³ T Output space ℝ² ? The question How can the structure of this transformation […]",
+    "keywords": [
+      "Linear Algebra",
+      "linear transformations",
+      "Matrices",
+      "matrix representation",
+      "vector transformations"
+    ],
+    "levels": [],
+    "search_text": "Deriving the Matrix Form of a Linear Transformation T: ℝ³ → ℝ² from First Principles Matrices Matrices Matrix Algebra Linear Algebra linear transformations Matrices matrix representation vector transformations Derivation Linear Algebra Deriving the Matrix Form of a Linear Transformation T: ℝ³ → ℝ² from First Principles A linear transformation can carry information from three-dimensional space into two-dimensional space. But where does its matrix representation actually come from? Input space ℝ³ T Output space ℝ² ? The question How can the structure of this transformation […]"
+  },
+  {
+    "id": "gi-post-1237",
+    "title": "Deriving the Intersection Point of the Plane y = 1 and the Line from the Origin to (x₁, y₁, z₁) in ℝ³",
+    "url": "https://geometryinsights.com/2026/08/17/deriving-the-intersection-point-of-the-plane-y-1-and-the-line-from-the-origin-to-x%e2%82%81-y%e2%82%81-z%e2%82%81-in-%e2%84%9d%c2%b3/",
+    "date": "2026-08-17",
+    "modified": "2026-08-17",
+    "subject": "Homogeneous Coordinates",
+    "categories": [
+      "Homogeneous Coordinates",
+      "Vectors"
+    ],
+    "type": "Derivation",
+    "excerpt": "Vector Geometry in ℝ³ Deriving the Intersection Point of the Plane y = 1 and the Line from the Origin to (x₁, y₁, z₁) in ℝ³ Consider a line joining the origin to a point (x₁, y₁, z₁) in three-dimensional space, where y₁ > 1. At exactly what point does the line intersect the plane […]",
+    "keywords": [
+      "ℝ³",
+      "line-plane intersection",
+      "parametric lines",
+      "planes in 3D",
+      "vector geometry"
+    ],
+    "levels": [],
+    "search_text": "Deriving the Intersection Point of the Plane y = 1 and the Line from the Origin to (x₁, y₁, z₁) in ℝ³ Homogeneous Coordinates Homogeneous Coordinates Vectors ℝ³ line-plane intersection parametric lines planes in 3D vector geometry Derivation Vector Geometry in ℝ³ Deriving the Intersection Point of the Plane y = 1 and the Line from the Origin to (x₁, y₁, z₁) in ℝ³ Consider a line joining the origin to a point (x₁, y₁, z₁) in three-dimensional space, where y₁ > 1. At exactly what point does the line intersect the plane […]"
+  },
+  {
+    "id": "gi-post-1187",
+    "title": "Proving the Hyperbolic Identity cosh² A − sinh² A = 1 from First Principles",
+    "url": "https://geometryinsights.com/2026/08/16/proving-the-hyperbolic-identity-cosh%c2%b2-a-%e2%88%92-sinh%c2%b2-a-1-from-first-principles/",
+    "date": "2026-08-16",
+    "modified": "2026-08-16",
+    "subject": "Hyperbolic Functions",
+    "categories": [
+      "Hyperbolic Functions"
+    ],
+    "type": "Proof",
+    "excerpt": "Hyperbolic Functions Proving the Hyperbolic Identity cosh² A − sinh² A = 1 from First Principles Why does subtracting sinh² A from cosh² A always leave exactly 1? cosh² A − sinh² A = 1 Starting directly from the exponential definitions of cosh A and sinh A, the expression can be rewritten entirely in terms […]",
+    "keywords": [
+      "cosh",
+      "exponential functions",
+      "hyperbolic functions",
+      "hyperbolic identities",
+      "sinh"
+    ],
+    "levels": [],
+    "search_text": "Proving the Hyperbolic Identity cosh² A − sinh² A = 1 from First Principles Hyperbolic Functions Hyperbolic Functions cosh exponential functions hyperbolic functions hyperbolic identities sinh Proof Hyperbolic Functions Proving the Hyperbolic Identity cosh² A − sinh² A = 1 from First Principles Why does subtracting sinh² A from cosh² A always leave exactly 1? cosh² A − sinh² A = 1 Starting directly from the exponential definitions of cosh A and sinh A, the expression can be rewritten entirely in terms […]"
+  },
+  {
+    "id": "gi-post-1179",
+    "title": "Generating the Hyperbola x² − y² = 1 from a Double Cone",
+    "url": "https://geometryinsights.com/2026/08/16/generating-the-hyperbola-x%c2%b2-%e2%88%92-y%c2%b2-1-from-a-double-cone/",
+    "date": "2026-08-16",
+    "modified": "2026-08-16",
+    "subject": "Conic Sections",
+    "categories": [
+      "Conic Sections",
+      "Hyperbolic Functions"
+    ],
+    "type": "Mathematical explanation",
+    "excerpt": "Conic Sections Generating the Hyperbola x² − y² = 1 from a Double Cone A hyperbola is usually introduced as a two-dimensional curve, but it can also be understood as a cross-section of a three-dimensional surface. Start Circle → Extend Double cone → Intersect Hyperbola Starting from a circular relation and allowing its radius to […]",
+    "keywords": [
+      "3D geometry",
+      "conic sections",
+      "Desmos",
+      "double cone",
+      "hyperbola"
+    ],
+    "levels": [],
+    "search_text": "Generating the Hyperbola x² − y² = 1 from a Double Cone Conic Sections Conic Sections Hyperbolic Functions 3D geometry conic sections Desmos double cone hyperbola Mathematical explanation Conic Sections Generating the Hyperbola x² − y² = 1 from a Double Cone A hyperbola is usually introduced as a two-dimensional curve, but it can also be understood as a cross-section of a three-dimensional surface. Start Circle → Extend Double cone → Intersect Hyperbola Starting from a circular relation and allowing its radius to […]"
+  },
+  {
+    "id": "gi-post-1194",
+    "title": "Generating Stretched and Squeezed Hyperbolas in ℝ²: Cartesian and Parametric Forms",
+    "url": "https://geometryinsights.com/2026/08/16/generating-stretched-and-squeezed-hyperbolas-in-%e2%84%9d%c2%b2-cartesian-and-parametric-forms/",
+    "date": "2026-08-16",
+    "modified": "2026-08-16",
+    "subject": "Hyperbola",
+    "categories": [
+      "Hyperbola",
+      "Parametric Equations"
+    ],
+    "type": "Mathematical explanation",
+    "excerpt": "Hyperbolas in ℝ² Generating Stretched and Squeezed Hyperbolas in ℝ²: Cartesian and Parametric Forms Starting with a standard hyperbola in ℝ², this article shows how stretching or squeezing its coordinates generates new hyperbolas. Start Standard Hyperbola → Transform Stretch or Squeeze → Represent Cartesian or Parametric The construction is developed in both forms, showing how […]",
+    "keywords": [
+      "cartesian equations",
+      "coordinate scaling",
+      "hyperbola",
+      "hyperbolic functions",
+      "Parametric Equations"
+    ],
+    "levels": [],
+    "search_text": "Generating Stretched and Squeezed Hyperbolas in ℝ²: Cartesian and Parametric Forms Hyperbola Hyperbola Parametric Equations cartesian equations coordinate scaling hyperbola hyperbolic functions Parametric Equations Mathematical explanation Hyperbolas in ℝ² Generating Stretched and Squeezed Hyperbolas in ℝ²: Cartesian and Parametric Forms Starting with a standard hyperbola in ℝ², this article shows how stretching or squeezing its coordinates generates new hyperbolas. Start Standard Hyperbola → Transform Stretch or Squeeze → Represent Cartesian or Parametric The construction is developed in both forms, showing how […]"
+  },
+  {
+    "id": "gi-post-1151",
+    "title": "A Direct Proof That a ∣ b Implies an ∣ bn for Every Nonzero n ∈ ℤ",
+    "url": "https://geometryinsights.com/2026/08/15/a-direct-proof-that-a-%e2%88%a3-b-implies-an-%e2%88%a3-bn-for-every-nonzero-n-%e2%88%88-%e2%84%a4/",
+    "date": "2026-08-15",
+    "modified": "2026-08-15",
+    "subject": "Modular Arithmetic",
+    "categories": [
+      "Modular Arithmetic",
+      "Number Theory"
+    ],
+    "type": "Proof",
+    "excerpt": "If a ∣ b, what happens when both integers are multiplied by the same nonzero integer n? This article uses the definition of divisibility to show directly why an ∣ bn must follow.",
+    "keywords": [
+      "divisibility",
+      "divisibility relation",
+      "integer multiples",
+      "Number Theory",
+      "proof by definition"
+    ],
+    "levels": [],
+    "search_text": "A Direct Proof That a ∣ b Implies an ∣ bn for Every Nonzero n ∈ ℤ Modular Arithmetic Modular Arithmetic Number Theory divisibility divisibility relation integer multiples Number Theory proof by definition Proof If a ∣ b, what happens when both integers are multiplied by the same nonzero integer n? This article uses the definition of divisibility to show directly why an ∣ bn must follow."
+  },
+  {
+    "id": "gi-post-1146",
+    "title": "A Direct Proof That If a ∣ b and b ∣ c, Then a ∣ c",
+    "url": "https://geometryinsights.com/2026/08/15/a-direct-proof-that-if-a-%e2%88%a3-b-and-b-%e2%88%a3-c-then-a-%e2%88%a3-c/",
+    "date": "2026-08-15",
+    "modified": "2026-08-15",
+    "subject": "Modular Arithmetic",
+    "categories": [
+      "Modular Arithmetic",
+      "Number Theory"
+    ],
+    "type": "Proof",
+    "excerpt": "If a ∣ b and b ∣ c, why must a ∣ c? This article proves the result directly from the definition of divisibility, revealing the simple integer structure hidden behind this familiar property.",
+    "keywords": [
+      "divisibility",
+      "integer multiples",
+      "Number Theory",
+      "proof by definition",
+      "transitive property"
+    ],
+    "levels": [],
+    "search_text": "A Direct Proof That If a ∣ b and b ∣ c, Then a ∣ c Modular Arithmetic Modular Arithmetic Number Theory divisibility integer multiples Number Theory proof by definition transitive property Proof If a ∣ b and b ∣ c, why must a ∣ c? This article proves the result directly from the definition of divisibility, revealing the simple integer structure hidden behind this familiar property."
+  },
+  {
+    "id": "gi-post-1141",
+    "title": "A Direct Proof That If a ∣ b and a ∣ c, Then a ∣ bn + cm for All m, n ∈ ℤ",
+    "url": "https://geometryinsights.com/2026/08/15/a-direct-proof-that-if-a-%e2%88%a3-b-and-a-%e2%88%a3-c-then-a-%e2%88%a3-bn-cm-for-all-m-n-%e2%88%88-%e2%84%a4/",
+    "date": "2026-08-15",
+    "modified": "2026-08-15",
+    "subject": "Modular Arithmetic",
+    "categories": [
+      "Modular Arithmetic",
+      "Number Theory"
+    ],
+    "type": "Proof",
+    "excerpt": "A Direct Proof That If a ∣ b and a ∣ c, Then a ∣ bn + cm for All m, n ∈ ℤ If a ∣ b and a ∣ c, then both b and c are integer multiples of a. This proof uses that observation directly to show that every integer linear combination […]",
+    "keywords": [
+      "divisibility",
+      "integer linear combinations",
+      "integers",
+      "Number Theory",
+      "proof by definition"
+    ],
+    "levels": [],
+    "search_text": "A Direct Proof That If a ∣ b and a ∣ c, Then a ∣ bn + cm for All m, n ∈ ℤ Modular Arithmetic Modular Arithmetic Number Theory divisibility integer linear combinations integers Number Theory proof by definition Proof A Direct Proof That If a ∣ b and a ∣ c, Then a ∣ bn + cm for All m, n ∈ ℤ If a ∣ b and a ∣ c, then both b and c are integer multiples of a. This proof uses that observation directly to show that every integer linear combination […]"
+  },
+  {
+    "id": "gi-post-1157",
+    "title": "A Direct Proof That If a and b Are Positive Integers and a ∣ b, Then a ≤ b",
+    "url": "https://geometryinsights.com/2026/08/15/a-direct-proof-that-if-a-and-b-are-positive-integers-and-a-%e2%88%a3-b-then-a-%e2%89%a4-b/",
+    "date": "2026-08-15",
+    "modified": "2026-08-15",
+    "subject": "Modular Arithmetic",
+    "categories": [
+      "Modular Arithmetic",
+      "Number Theory"
+    ],
+    "type": "Proof",
+    "excerpt": "If a and b are positive integers and a ∣ b, why must a ≤ b? This article proves the result directly from the definition of divisibility by expressing b as a positive integer multiple of a.",
+    "keywords": [
+      "divisibility",
+      "integer multiples",
+      "Number Theory",
+      "positive integers",
+      "proof by definition"
+    ],
+    "levels": [],
+    "search_text": "A Direct Proof That If a and b Are Positive Integers and a ∣ b, Then a ≤ b Modular Arithmetic Modular Arithmetic Number Theory divisibility integer multiples Number Theory positive integers proof by definition Proof If a and b are positive integers and a ∣ b, why must a ≤ b? This article proves the result directly from the definition of divisibility by expressing b as a positive integer multiple of a."
+  },
+  {
+    "id": "gi-post-1163",
+    "title": "A Direct Derivation of the Exponential Form of tanh x Using the Definitions of sinh x and cosh x",
+    "url": "https://geometryinsights.com/2026/08/15/a-direct-derivation-of-the-exponential-form-of-tanh-x-using-the-definitions-of-sinh-x-and-cosh-x/",
+    "date": "2026-08-15",
+    "modified": "2026-08-15",
+    "subject": "Exponential Functions",
+    "categories": [
+      "Exponential Functions",
+      "Hyperbolic Functions"
+    ],
+    "type": "Derivation",
+    "excerpt": "How can tanh x be rewritten entirely in terms of the exponential function? This article starts from the exponential definitions of sinh x and cosh x and simplifies their quotient directly to obtain tanh x = (e²ˣ − 1)/(e²ˣ + 1).",
+    "keywords": [
+      "cosh",
+      "exponential functions",
+      "hyperbolic functions",
+      "sinh",
+      "tanh"
+    ],
+    "levels": [],
+    "search_text": "A Direct Derivation of the Exponential Form of tanh x Using the Definitions of sinh x and cosh x Exponential Functions Exponential Functions Hyperbolic Functions cosh exponential functions hyperbolic functions sinh tanh Derivation How can tanh x be rewritten entirely in terms of the exponential function? This article starts from the exponential definitions of sinh x and cosh x and simplifies their quotient directly to obtain tanh x = (e²ˣ − 1)/(e²ˣ + 1)."
+  },
+  {
+    "id": "gi-post-1047",
+    "title": "Why Must det(A − λI) = 0? The Simple Contradiction Behind Eigenvalues",
+    "url": "https://geometryinsights.com/2026/08/14/why-must-deta-%e2%88%92-%ce%bbi-0-the-simple-contradiction-behind-eigenvalues/",
+    "date": "2026-08-14",
+    "modified": "2026-08-14",
+    "subject": "Eigenvalues & Eigenvectors",
+    "categories": [
+      "Eigenvalues & Eigenvectors"
+    ],
+    "type": "Mathematical explanation",
+    "excerpt": "Eigenvalues Why Must det(A − λI) = 0? The equation det(A − λI) = 0 is often introduced as a rule for finding eigenvalues. But why must the determinant be zero in the first place? Ax = λx → (A − λI)x = 0 The key question: what would happen if A − λI actually […]",
+    "keywords": [
+      "characteristic equation",
+      "Determinants",
+      "eigenvalues",
+      "eigenvectors",
+      "inverse matrices"
+    ],
+    "levels": [],
+    "search_text": "Why Must det(A − λI) = 0? The Simple Contradiction Behind Eigenvalues Eigenvalues & Eigenvectors Eigenvalues & Eigenvectors characteristic equation Determinants eigenvalues eigenvectors inverse matrices Mathematical explanation Eigenvalues Why Must det(A − λI) = 0? The equation det(A − λI) = 0 is often introduced as a rule for finding eigenvalues. But why must the determinant be zero in the first place? Ax = λx → (A − λI)x = 0 The key question: what would happen if A − λI actually […]"
+  },
+  {
+    "id": "gi-post-1126",
+    "title": "Using an Inverse Matrix to Reverse a Linear Transformation",
+    "url": "https://geometryinsights.com/2026/08/14/using-an-inverse-matrix-to-reverse-a-linear-transformation/",
+    "date": "2026-08-14",
+    "modified": "2026-08-14",
+    "subject": "Linear Algebra",
+    "categories": [
+      "Linear Algebra",
+      "Matrices"
+    ],
+    "type": "Identity",
+    "excerpt": "Linear Transformations Using an Inverse Matrix to Reverse a Linear Transformation Suppose a column vector x₁ is transformed into x₂ by a linear transformation represented by the matrix T. Tx₁ = x₂ If T is invertible, its inverse can be used to undo the transformation and recover the original vector. Original vector x₁ → Apply […]",
+    "keywords": [
+      "Column Vectors",
+      "Identity Matrix",
+      "inverse matrices",
+      "linear transformations",
+      "matrix transformations"
+    ],
+    "levels": [],
+    "search_text": "Using an Inverse Matrix to Reverse a Linear Transformation Linear Algebra Linear Algebra Matrices Column Vectors Identity Matrix inverse matrices linear transformations matrix transformations Identity Linear Transformations Using an Inverse Matrix to Reverse a Linear Transformation Suppose a column vector x₁ is transformed into x₂ by a linear transformation represented by the matrix T. Tx₁ = x₂ If T is invertible, its inverse can be used to undo the transformation and recover the original vector. Original vector x₁ → Apply […]"
+  },
+  {
+    "id": "gi-post-1019",
+    "title": "From Σ(x − Mean)² to Σx² − (Σx)²/n: A First-Principles Derivation",
+    "url": "https://geometryinsights.com/2026/08/14/from-%cf%83x-%e2%88%92-mean%c2%b2-to-%cf%83x%c2%b2-%e2%88%92-%cf%83x%c2%b2-n-a-first-principles-derivation/",
+    "date": "2026-08-14",
+    "modified": "2026-08-14",
+    "subject": "Statistics",
+    "categories": [
+      "Statistics"
+    ],
+    "type": "Derivation",
+    "excerpt": "Premium Derivation Deriving the Computational Formula for Squared Deviations This derivation shows, step by step, why the sum of squared deviations from the mean can be rewritten in computational form. Σ(x − x )² = Σx² − (Σx)² n 1 Expand Open all n terms → 2 Regroup Collect like terms → 3 Simplify Use […]",
+    "keywords": [
+      "Algebraic Derivation",
+      "Mean",
+      "sum of squared deviations",
+      "summation notation",
+      "variance"
+    ],
+    "levels": [],
+    "search_text": "From Σ(x − Mean)² to Σx² − (Σx)²/n: A First-Principles Derivation Statistics Statistics Algebraic Derivation Mean sum of squared deviations summation notation variance Derivation Premium Derivation Deriving the Computational Formula for Squared Deviations This derivation shows, step by step, why the sum of squared deviations from the mean can be rewritten in computational form. Σ(x − x )² = Σx² − (Σx)² n 1 Expand Open all n terms → 2 Regroup Collect like terms → 3 Simplify Use […]"
+  },
+  {
+    "id": "gi-post-1035",
+    "title": "Deriving the Computational Formula for the Sum of Cross-Deviations from the Mean",
+    "url": "https://geometryinsights.com/2026/08/14/deriving-the-computational-formula-for-the-sum-of-cross-deviations-from-the-mean/",
+    "date": "2026-08-14",
+    "modified": "2026-08-14",
+    "subject": "Statistics",
+    "categories": [
+      "Statistics"
+    ],
+    "type": "Derivation",
+    "excerpt": "Derivation Deriving the Computational Formula for Cross-Deviations This derivation shows, step by step, how the sum of cross-deviations can be rewritten in a compact computational form. Σ(x − x )(y − y ) = Σxy − (Σx)(Σy) n Expand → Regroup → Compress to Σ All n products are opened individually before the repeated terms […]",
+    "keywords": [
+      "Algebraic Derivation",
+      "covariance",
+      "cross-deviations",
+      "Mean",
+      "summation notation"
+    ],
+    "levels": [],
+    "search_text": "Deriving the Computational Formula for the Sum of Cross-Deviations from the Mean Statistics Statistics Algebraic Derivation covariance cross-deviations Mean summation notation Derivation Derivation Deriving the Computational Formula for Cross-Deviations This derivation shows, step by step, how the sum of cross-deviations can be rewritten in a compact computational form. Σ(x − x )(y − y ) = Σxy − (Σx)(Σy) n Expand → Regroup → Compress to Σ All n products are opened individually before the repeated terms […]"
+  },
+  {
+    "id": "gi-post-1117",
+    "title": "Deriving the Addition Rule for Two Events: P(A ∪ B) = P(A) + P(B) − P(A ∩ B)",
+    "url": "https://geometryinsights.com/2026/08/14/deriving-the-addition-rule-for-two-events-pa-%e2%88%aa-b-pa-pb-%e2%88%92-pa-%e2%88%a9-b/",
+    "date": "2026-08-14",
+    "modified": "2026-08-14",
+    "subject": "Probability & Statistics",
+    "categories": [
+      "Probability & Statistics"
+    ],
+    "type": "Derivation",
+    "excerpt": "Probability Deriving the Addition Rule for Two Events: P(A ∪ B) = P(A) + P(B) − P(A ∩ B) Let P(A) = a, P(B) = b, and P(A ∩ B) = i. The Venn diagram separates the union into three distinct regions: a − i, i, and b − i. A only a − i […]",
+    "keywords": [
+      "addition rule",
+      "intersections",
+      "probability",
+      "probability of unions",
+      "venn diagrams"
+    ],
+    "levels": [],
+    "search_text": "Deriving the Addition Rule for Two Events: P(A ∪ B) = P(A) + P(B) − P(A ∩ B) Probability & Statistics Probability & Statistics addition rule intersections probability probability of unions venn diagrams Derivation Probability Deriving the Addition Rule for Two Events: P(A ∪ B) = P(A) + P(B) − P(A ∩ B) Let P(A) = a, P(B) = b, and P(A ∩ B) = i. The Venn diagram separates the union into three distinct regions: a − i, i, and b − i. A only a − i […]"
+  },
+  {
+    "id": "gi-post-965",
+    "title": "A Direct 3×3 Exploration of the Implications of MMᵀ = I",
+    "url": "https://geometryinsights.com/2026/08/12/a-direct-3x3-exploration-of-the-implications-of-mm%e1%b5%80-i/",
+    "date": "2026-08-12",
+    "modified": "2026-08-12",
+    "subject": "Matrices",
+    "categories": [
+      "Matrices",
+      "Vector Geometry & ℝ²"
+    ],
+    "type": "Mathematical explanation",
+    "excerpt": "This article explores the implications of MMᵀ = I for a general 3×3 matrix. By carrying out the multiplication row by column, the diagonal entries show that the three rows of M, viewed as vectors in ℝ³, each have magnitude 1. The off-diagonal entries give zero dot products between the corresponding row vectors, so those […]",
+    "keywords": [
+      "inverse matrix",
+      "Matrix Multiplication",
+      "orthogonal matrix",
+      "orthonormal rows",
+      "transpose matrix"
+    ],
+    "levels": [],
+    "search_text": "A Direct 3×3 Exploration of the Implications of MMᵀ = I Matrices Matrices Vector Geometry & ℝ² inverse matrix Matrix Multiplication orthogonal matrix orthonormal rows transpose matrix Mathematical explanation This article explores the implications of MMᵀ = I for a general 3×3 matrix. By carrying out the multiplication row by column, the diagonal entries show that the three rows of M, viewed as vectors in ℝ³, each have magnitude 1. The off-diagonal entries give zero dot products between the corresponding row vectors, so those […]"
+  },
+  {
+    "id": "gi-post-953",
+    "title": "A Direct Vector Proof of Thales’ Theorem Using Dot Products on the Unit Circle",
+    "url": "https://geometryinsights.com/2026/08/11/a-direct-vector-proof-of-thales-theorem-using-dot-products-on-the-unit-circle/",
+    "date": "2026-08-11",
+    "modified": "2026-08-11",
+    "subject": "Circle Geometry",
+    "categories": [
+      "Circle Geometry",
+      "Euclidean Geometry",
+      "Uncategorized",
+      "Vector Geometry & ℝ²"
+    ],
+    "type": "Proof",
+    "excerpt": "This article gives a direct vector proof of Thales’ theorem on the unit circle. By placing the diameter endpoints at opposite vectors and expanding the dot product of the two sides meeting at a point on the circle, the right-angle result follows from the identities A + B = 0 and D · D = […]",
+    "keywords": [
+      "Circle Geometry",
+      "dot product",
+      "Thales’ theorem",
+      "unit circle",
+      "vector proof"
+    ],
+    "levels": [],
+    "search_text": "A Direct Vector Proof of Thales’ Theorem Using Dot Products on the Unit Circle Circle Geometry Circle Geometry Euclidean Geometry Uncategorized Vector Geometry & ℝ² Circle Geometry dot product Thales’ theorem unit circle vector proof Proof This article gives a direct vector proof of Thales’ theorem on the unit circle. By placing the diameter endpoints at opposite vectors and expanding the dot product of the two sides meeting at a point on the circle, the right-angle result follows from the identities A + B = 0 and D · D = […]"
+  },
+  {
+    "id": "gi-post-938",
+    "title": "A Direct Vector Proof That the Chord Joining Two Points of Tangency Is Perpendicular to the Line Joining the Circle’s Centre to the Intersection of the Tangents",
+    "url": "https://geometryinsights.com/2026/08/11/a-direct-vector-proof-that-the-chord-joining-two-points-of-tangency-is-perpendicular-to-the-line-joining-the-circles-centre-to-the-intersection-of-the-tangents/",
+    "date": "2026-08-11",
+    "modified": "2026-08-11",
+    "subject": "Euclidean Geometry",
+    "categories": [
+      "Euclidean Geometry",
+      "Vector Geometry & ℝ²"
+    ],
+    "type": "Proof",
+    "excerpt": "This article gives a direct vector proof that the chord joining two points of tangency is perpendicular to the line joining the circle’s centre to the intersection of the tangents. Using only radius conditions, tangent perpendicularity and dot products, the argument reduces the geometry to the compact relation (A − C) · B = 0.",
+    "keywords": [
+      "chord of contact",
+      "circle tangents",
+      "dot product",
+      "perpendicular lines",
+      "vector proof"
+    ],
+    "levels": [],
+    "search_text": "A Direct Vector Proof That the Chord Joining Two Points of Tangency Is Perpendicular to the Line Joining the Circle’s Centre to the Intersection of the Tangents Euclidean Geometry Euclidean Geometry Vector Geometry & ℝ² chord of contact circle tangents dot product perpendicular lines vector proof Proof This article gives a direct vector proof that the chord joining two points of tangency is perpendicular to the line joining the circle’s centre to the intersection of the tangents. Using only radius conditions, tangent perpendicularity and dot products, the argument reduces the geometry to the compact relation (A − C) · B = 0."
+  },
+  {
+    "id": "gi-post-909",
+    "title": "Representing a General m×n Matrix by Its Rows and Columns and Constructing Its Transpose",
+    "url": "https://geometryinsights.com/2026/08/10/representing-a-general-mxn-matrix-by-its-rows-and-columns-and-constructing-its-transpose/",
+    "date": "2026-08-10",
+    "modified": "2026-08-10",
+    "subject": "Matrices",
+    "categories": [
+      "Matrices"
+    ],
+    "type": "Mathematical explanation",
+    "excerpt": "This article develops a compact row-and-column representation for a general real matrix A ∈ ℝm×n. By expressing A in terms of its rows and columns, the transpose Aᵀ emerges naturally, making the relationship between rows, columns and transposition much easier to see.",
+    "keywords": [
+      "matrix columns",
+      "matrix rows",
+      "matrix transpose",
+      "m×n matrices",
+      "row notation"
+    ],
+    "levels": [],
+    "search_text": "Representing a General m×n Matrix by Its Rows and Columns and Constructing Its Transpose Matrices Matrices matrix columns matrix rows matrix transpose m×n matrices row notation Mathematical explanation This article develops a compact row-and-column representation for a general real matrix A ∈ ℝm×n. By expressing A in terms of its rows and columns, the transpose Aᵀ emerges naturally, making the relationship between rows, columns and transposition much easier to see."
+  },
+  {
+    "id": "gi-post-880",
+    "title": "Building the Adjugate of a 3×3 Matrix Directly from the Cofactors of Its Transpose",
+    "url": "https://geometryinsights.com/2026/08/10/building-the-adjugate-of-a-3x3-matrix-directly-from-the-cofactors-of-its-transpose/",
+    "date": "2026-08-10",
+    "modified": "2026-08-10",
+    "subject": "Determinants",
+    "categories": [
+      "Determinants",
+      "Matrices"
+    ],
+    "type": "Mathematical explanation",
+    "excerpt": "This article shows how the adjugate of a 3×3 matrix can be built directly from the cofactors of its transpose. Each entry is obtained by deleting the appropriate row and column, evaluating the resulting 2×2 determinant, and applying the alternating sign pattern.",
+    "keywords": [
+      "3×3 matrices",
+      "Adjugate Matrix",
+      "cofactor matrix",
+      "Determinants",
+      "matrix transpose"
+    ],
+    "levels": [],
+    "search_text": "Building the Adjugate of a 3×3 Matrix Directly from the Cofactors of Its Transpose Determinants Determinants Matrices 3×3 matrices Adjugate Matrix cofactor matrix Determinants matrix transpose Mathematical explanation This article shows how the adjugate of a 3×3 matrix can be built directly from the cofactors of its transpose. Each entry is obtained by deleting the appropriate row and column, evaluating the resulting 2×2 determinant, and applying the alternating sign pattern."
+  },
+  {
+    "id": "gi-post-929",
+    "title": "A Direct ℝ³ Proof That (BAᵀ)ᵀ = ABᵀ Using Outer Products and Scalar Commutativity",
+    "url": "https://geometryinsights.com/2026/08/10/a-direct-%e2%84%9d%c2%b3-proof-that-ba%e1%b5%80%e1%b5%80-ab%e1%b5%80-using-outer-products-and-scalar-commutativity/",
+    "date": "2026-08-10",
+    "modified": "2026-08-10",
+    "subject": "Matrices",
+    "categories": [
+      "Matrices"
+    ],
+    "type": "Proof",
+    "excerpt": "This article gives a direct proof that (BAᵀ)ᵀ = ABᵀ for two vectors A, B ∈ ℝ³. By expanding the outer product BAᵀ entry by entry, using scalar commutativity, and then transposing the resulting 3×3 matrix, the identity emerges directly from the structure of the vectors.",
+    "keywords": [
+      "3×3 matrices",
+      "matrix transpose",
+      "outer product",
+      "scalar commutativity",
+      "vectors in ℝ³"
+    ],
+    "levels": [],
+    "search_text": "A Direct ℝ³ Proof That (BAᵀ)ᵀ = ABᵀ Using Outer Products and Scalar Commutativity Matrices Matrices 3×3 matrices matrix transpose outer product scalar commutativity vectors in ℝ³ Proof This article gives a direct proof that (BAᵀ)ᵀ = ABᵀ for two vectors A, B ∈ ℝ³. By expanding the outer product BAᵀ entry by entry, using scalar commutativity, and then transposing the resulting 3×3 matrix, the identity emerges directly from the structure of the vectors."
+  },
+  {
+    "id": "gi-post-886",
+    "title": "A Direct Proof That for Two Vectors A, B ∈ ℝ³, A · B = AᵀB = BᵀA",
+    "url": "https://geometryinsights.com/2026/08/10/a-direct-proof-that-for-two-vectors-a-b-%e2%88%88-%e2%84%9d%c2%b3-a-%c2%b7-b-a%e1%b5%80b-b%e1%b5%80a/",
+    "date": "2026-08-10",
+    "modified": "2026-08-10",
+    "subject": "Dot Products",
+    "categories": [
+      "Dot Products",
+      "Uncategorized",
+      "Vectors"
+    ],
+    "type": "Proof",
+    "excerpt": "This article shows directly why the dot product of two vectors in ℝ³ can be written as matrix multiplication. Starting from A · B, the calculation leads to AᵀB and BᵀA, revealing that all three expressions represent the same scalar.",
+    "keywords": [
+      "dot product",
+      "inner product",
+      "Matrix Multiplication",
+      "matrix transpose",
+      "vectors in ℝ³"
+    ],
+    "levels": [],
+    "search_text": "A Direct Proof That for Two Vectors A, B ∈ ℝ³, A · B = AᵀB = BᵀA Dot Products Dot Products Uncategorized Vectors dot product inner product Matrix Multiplication matrix transpose vectors in ℝ³ Proof This article shows directly why the dot product of two vectors in ℝ³ can be written as matrix multiplication. Starting from A · B, the calculation leads to AᵀB and BᵀA, revealing that all three expressions represent the same scalar."
+  },
+  {
+    "id": "gi-post-875",
+    "title": "A Direct Derivation of the 3×3 Inverse Matrix Formula Using Cross Products, Determinants and the Adjugate",
+    "url": "https://geometryinsights.com/2026/08/10/a-direct-derivation-of-the-3x3-inverse-matrix-formula-using-cross-products-determinants-and-the-adjugate/",
+    "date": "2026-08-10",
+    "modified": "2026-08-10",
+    "subject": "Determinants",
+    "categories": [
+      "Determinants",
+      "Matrices"
+    ],
+    "type": "Derivation",
+    "excerpt": "The familiar formula for the inverse of a 3×3 matrix hides a long chain of reasoning. This article derives it directly using cross products, scalar triple products, determinants and the adjugate, showing how these ideas combine to produce the compact formula for A⁻¹.",
+    "keywords": [
+      "3×3 inverse matrix",
+      "Adjugate Matrix",
+      "cross products",
+      "Determinants",
+      "inverse matrix formula",
+      "scalar triple product"
+    ],
+    "levels": [],
+    "search_text": "A Direct Derivation of the 3×3 Inverse Matrix Formula Using Cross Products, Determinants and the Adjugate Determinants Determinants Matrices 3×3 inverse matrix Adjugate Matrix cross products Determinants inverse matrix formula scalar triple product Derivation The familiar formula for the inverse of a 3×3 matrix hides a long chain of reasoning. This article derives it directly using cross products, scalar triple products, determinants and the adjugate, showing how these ideas combine to produce the compact formula for A⁻¹."
+  },
+  {
+    "id": "gi-post-895",
+    "title": "A Direct 3×3 Proof That (MA)ᵀ = AᵀMᵀ Using Matrix Multiplication and Dot Products",
+    "url": "https://geometryinsights.com/2026/08/10/a-direct-3x3-proof-that-ma%e1%b5%80-a%e1%b5%80m%e1%b5%80-using-matrix-multiplication-and-dot-products/",
+    "date": "2026-08-10",
+    "modified": "2026-08-10",
+    "subject": "Dot Products",
+    "categories": [
+      "Dot Products",
+      "Matrices"
+    ],
+    "type": "Proof",
+    "excerpt": "This article proves directly that (MA)ᵀ = AᵀMᵀ for two 3×3 matrices. Starting from ordinary row-by-column multiplication, the product is transposed and then reorganised using the symmetry of the dot product, making the reversed order of the transposed matrices visible step by step.",
+    "keywords": [
+      "3×3 matrices",
+      "dot products",
+      "Matrix Multiplication",
+      "matrix transpose",
+      "transpose rule"
+    ],
+    "levels": [],
+    "search_text": "A Direct 3×3 Proof That (MA)ᵀ = AᵀMᵀ Using Matrix Multiplication and Dot Products Dot Products Dot Products Matrices 3×3 matrices dot products Matrix Multiplication matrix transpose transpose rule Proof This article proves directly that (MA)ᵀ = AᵀMᵀ for two 3×3 matrices. Starting from ordinary row-by-column multiplication, the product is transposed and then reorganised using the symmetry of the dot product, making the reversed order of the transposed matrices visible step by step."
+  },
+  {
+    "id": "gi-post-904",
+    "title": "A Direct 2×2 Proof That (MA)ᵀ = AᵀMᵀ Using Row-by-Column Multiplication and Dot Products",
+    "url": "https://geometryinsights.com/2026/08/10/a-direct-2x2-proof-that-ma%e1%b5%80-a%e1%b5%80m%e1%b5%80-using-row-by-column-multiplication-and-dot-products/",
+    "date": "2026-08-10",
+    "modified": "2026-08-10",
+    "subject": "Dot Products",
+    "categories": [
+      "Dot Products",
+      "Matrices"
+    ],
+    "type": "Proof",
+    "excerpt": "This article proves directly that (MA)ᵀ = AᵀMᵀ for two 2×2 matrices. Starting from ordinary row-by-column multiplication, the product is transposed and each scalar product is reversed using dot-product symmetry, making the reversed order of the transposed matrices visible step by step.",
+    "keywords": [
+      "2×2 matrices",
+      "dot products",
+      "Matrix Multiplication",
+      "matrix transpose",
+      "transpose rule"
+    ],
+    "levels": [],
+    "search_text": "A Direct 2×2 Proof That (MA)ᵀ = AᵀMᵀ Using Row-by-Column Multiplication and Dot Products Dot Products Dot Products Matrices 2×2 matrices dot products Matrix Multiplication matrix transpose transpose rule Proof This article proves directly that (MA)ᵀ = AᵀMᵀ for two 2×2 matrices. Starting from ordinary row-by-column multiplication, the product is transposed and each scalar product is reversed using dot-product symmetry, making the reversed order of the transposed matrices visible step by step."
+  },
+  {
+    "id": "gi-post-839",
+    "title": "When MA = I for Two 3×3 Matrices: Deriving the Columns of Mᵀ Using Cross Products of the Columns of A",
+    "url": "https://geometryinsights.com/2026/08/07/when-ma-i-for-two-3x3-matrices-deriving-the-columns-of-m%e1%b5%80-using-cross-products-of-the-columns-of-a/",
+    "date": "2026-08-07",
+    "modified": "2026-08-07",
+    "subject": "Cross Product",
+    "categories": [
+      "Cross Product",
+      "Matrices"
+    ],
+    "type": "Derivation",
+    "excerpt": "Starting from MA = I for two 3×3 matrices, this article reorganises the equations in AᵀMᵀ = I to show that each column of Mᵀ is perpendicular to two columns of A. This leads directly to expressing those columns as scalar multiples of the corresponding cross products.",
+    "keywords": [
+      "3×3 matrices",
+      "Cross Product",
+      "Linear Algebra",
+      "matrix transpose",
+      "orthogonality"
+    ],
+    "levels": [],
+    "search_text": "When MA = I for Two 3×3 Matrices: Deriving the Columns of Mᵀ Using Cross Products of the Columns of A Cross Product Cross Product Matrices 3×3 matrices Cross Product Linear Algebra matrix transpose orthogonality Derivation Starting from MA = I for two 3×3 matrices, this article reorganises the equations in AᵀMᵀ = I to show that each column of Mᵀ is perpendicular to two columns of A. This leads directly to expressing those columns as scalar multiples of the corresponding cross products."
+  },
+  {
+    "id": "gi-post-833",
+    "title": "A Direct Proof That MA = I Implies AᵀMᵀ = I for Two 3×3 Matrices",
+    "url": "https://geometryinsights.com/2026/08/07/a-direct-proof-that-ma-i-implies-a%e1%b5%80m%e1%b5%80-i-for-two-3x3-matrices/",
+    "date": "2026-08-07",
+    "modified": "2026-08-07",
+    "subject": "Matrices",
+    "categories": [
+      "Matrices"
+    ],
+    "type": "Proof",
+    "excerpt": "For two 3×3 matrices, if MA = I, then AᵀMᵀ = I. This article proves the result directly from matrix multiplication, showing how the individual scalar equations reorganise into the transposed matrix product.",
+    "keywords": [
+      "3×3 matrices",
+      "Identity Matrix",
+      "Linear Algebra",
+      "Matrix Multiplication",
+      "matrix proofs",
+      "matrix transpose",
+      "transpose rule"
+    ],
+    "levels": [],
+    "search_text": "A Direct Proof That MA = I Implies AᵀMᵀ = I for Two 3×3 Matrices Matrices Matrices 3×3 matrices Identity Matrix Linear Algebra Matrix Multiplication matrix proofs matrix transpose transpose rule Proof For two 3×3 matrices, if MA = I, then AᵀMᵀ = I. This article proves the result directly from matrix multiplication, showing how the individual scalar equations reorganise into the transposed matrix product."
+  },
+  {
+    "id": "gi-post-850",
+    "title": "A Direct Proof That A · (B × C) Equals the Determinant of the 3×3 Matrix with Columns A, B and C",
+    "url": "https://geometryinsights.com/2026/08/07/a-direct-proof-that-a-%c2%b7-b-x-c-equals-the-determinant-of-the-3x3-matrix-with-columns-a-b-and-c/",
+    "date": "2026-08-07",
+    "modified": "2026-08-07",
+    "subject": "Determinants",
+    "categories": [
+      "Determinants",
+      "Matrices",
+      "Matrix Algebra",
+      "Uncategorized",
+      "Vectors"
+    ],
+    "type": "Proof",
+    "excerpt": "For three vectors A, B, C ∈ ℝ³, the scalar triple product A · (B × C) is equal to the determinant of the 3×3 matrix whose columns are A, B and C. This article derives the identity directly through determinant expansion and the cyclic structure of its six terms.",
+    "keywords": [
+      "3×3 matrices",
+      "determinant formula",
+      "matrix transpose",
+      "scalar triple product",
+      "vector cross product"
+    ],
+    "levels": [],
+    "search_text": "A Direct Proof That A · (B × C) Equals the Determinant of the 3×3 Matrix with Columns A, B and C Determinants Determinants Matrices Matrix Algebra Uncategorized Vectors 3×3 matrices determinant formula matrix transpose scalar triple product vector cross product Proof For three vectors A, B, C ∈ ℝ³, the scalar triple product A · (B × C) is equal to the determinant of the 3×3 matrix whose columns are A, B and C. This article derives the identity directly through determinant expansion and the cyclic structure of its six terms."
+  },
+  {
+    "id": "gi-post-866",
+    "title": "A Direct Derivation of the Columns of a 3×3 Inverse Matrix Using Orthogonality, Cross Products and the Determinant",
+    "url": "https://geometryinsights.com/2026/08/07/a-direct-derivation-of-the-columns-of-a-3x3-inverse-matrix-using-orthogonality-cross-products-and-the-determinant/",
+    "date": "2026-08-07",
+    "modified": "2026-08-07",
+    "subject": "Cross Product",
+    "categories": [
+      "Cross Product",
+      "Inverses",
+      "Matrices"
+    ],
+    "type": "Derivation",
+    "excerpt": "This article derives the columns of a 3×3 inverse matrix directly from MA = I. Using AᵀMᵀ = I, the equations lead to cross products, and scalar triple products together with the determinant are then used to find the exact values of the unknown scale factors.",
+    "keywords": [
+      "3×3 inverse matrix",
+      "cross products",
+      "determinant",
+      "matrix inverse derivation",
+      "orthogonality",
+      "scalar triple product",
+      "transpose identity"
+    ],
+    "levels": [],
+    "search_text": "A Direct Derivation of the Columns of a 3×3 Inverse Matrix Using Orthogonality, Cross Products and the Determinant Cross Product Cross Product Inverses Matrices 3×3 inverse matrix cross products determinant matrix inverse derivation orthogonality scalar triple product transpose identity Derivation This article derives the columns of a 3×3 inverse matrix directly from MA = I. Using AᵀMᵀ = I, the equations lead to cross products, and scalar triple products together with the determinant are then used to find the exact values of the unknown scale factors."
+  },
+  {
+    "id": "gi-post-846",
+    "title": "A Direct 3×3 Proof That det(Mᵀ) = det(M) Using Determinant Expansion and Permutation Cycles",
+    "url": "https://geometryinsights.com/2026/08/07/a-direct-3x3-proof-that-detm%e1%b5%80-detm-using-determinant-expansion-and-permutation-cycles/",
+    "date": "2026-08-07",
+    "modified": "2026-08-07",
+    "subject": "Determinants",
+    "categories": [
+      "Determinants",
+      "Matrices"
+    ],
+    "type": "Proof",
+    "excerpt": "Why does transposing a 3×3 matrix leave its determinant unchanged? This article proves det(Mᵀ) = det(M) directly by expanding both determinants and comparing the same six scalar products, organised through the cyclic and anticyclic permutation patterns.",
+    "keywords": [
+      "3×3 matrices",
+      "Determinants",
+      "Linear Algebra",
+      "matrix transpose",
+      "permutation cycles"
+    ],
+    "levels": [],
+    "search_text": "A Direct 3×3 Proof That det(Mᵀ) = det(M) Using Determinant Expansion and Permutation Cycles Determinants Determinants Matrices 3×3 matrices Determinants Linear Algebra matrix transpose permutation cycles Proof Why does transposing a 3×3 matrix leave its determinant unchanged? This article proves det(Mᵀ) = det(M) directly by expanding both determinants and comparing the same six scalar products, organised through the cyclic and anticyclic permutation patterns."
+  },
+  {
+    "id": "gi-post-829",
+    "title": "The Hidden Permutation Structure of the 3×3 Determinant",
+    "url": "https://geometryinsights.com/2026/08/06/the-hidden-permutation-structure-of-the-3x3-determinant/",
+    "date": "2026-08-06",
+    "modified": "2026-08-06",
+    "subject": "Determinants",
+    "categories": [
+      "Determinants",
+      "Matrices"
+    ],
+    "type": "Mathematical explanation",
+    "excerpt": "Every 3×3 determinant is built from the same six permutations. This article shows how the cyclic and anticyclic patterns arise by repeatedly moving the first entry to the back, and why changing orientation changes only the signs.",
+    "keywords": [
+      "Determinants",
+      "Linear Algebra",
+      "Matrix Algebra",
+      "Permutations",
+      "Vectors"
+    ],
+    "levels": [],
+    "search_text": "The Hidden Permutation Structure of the 3×3 Determinant Determinants Determinants Matrices Determinants Linear Algebra Matrix Algebra Permutations Vectors Mathematical explanation Every 3×3 determinant is built from the same six permutations. This article shows how the cyclic and anticyclic patterns arise by repeatedly moving the first entry to the back, and why changing orientation changes only the signs."
+  },
+  {
+    "id": "gi-post-825",
+    "title": "Deriving A·(B × C) = B·(C × A) = C·(A × B)",
+    "url": "https://geometryinsights.com/2026/08/06/deriving-a%c2%b7b-x-c-b%c2%b7c-x-a-c%c2%b7a-x-b/",
+    "date": "2026-08-06",
+    "modified": "2026-08-06",
+    "subject": "Linear Algebra",
+    "categories": [
+      "Linear Algebra",
+      "Vectors"
+    ],
+    "type": "Derivation",
+    "excerpt": "The scalar triple product has a remarkable cyclic symmetry: A·(B × C) = B·(C × A) = C·(A × B). This article derives the identity directly from coordinates, then shows why reversing the cross-product order changes the sign.",
+    "keywords": [
+      "Cross Product",
+      "dot product",
+      "Linear Algebra",
+      "scalar triple product",
+      "vector algebra"
+    ],
+    "levels": [],
+    "search_text": "Deriving A·(B × C) = B·(C × A) = C·(A × B) Linear Algebra Linear Algebra Vectors Cross Product dot product Linear Algebra scalar triple product vector algebra Derivation The scalar triple product has a remarkable cyclic symmetry: A·(B × C) = B·(C × A) = C·(A × B). This article derives the identity directly from coordinates, then shows why reversing the cross-product order changes the sign."
+  },
+  {
+    "id": "gi-post-781",
+    "title": "Why BAᵀ − ABᵀ = [A × B]ₓ",
+    "url": "https://geometryinsights.com/2026/08/05/why-ba%e1%b5%80-%e2%88%92-ab%e1%b5%80-a-x-b%e2%82%93/",
+    "date": "2026-08-05",
+    "modified": "2026-08-05",
+    "subject": "Linear Algebra",
+    "categories": [
+      "Linear Algebra",
+      "Vectors"
+    ],
+    "type": "Derivation",
+    "excerpt": "Starting from two vectors A, B ∈ ℝ3, this derivation expands the outer-product difference BAT − ABT, identifies it as the skew-symmetric matrix [A × B]×, and proves directly that A × B lies in its null space.",
+    "keywords": [
+      "Cross Product",
+      "Matrix Algebra",
+      "null space",
+      "outer product",
+      "Skew-symmetric matrix"
+    ],
+    "levels": [],
+    "search_text": "Why BAᵀ − ABᵀ = [A × B]ₓ Linear Algebra Linear Algebra Vectors Cross Product Matrix Algebra null space outer product Skew-symmetric matrix Derivation Starting from two vectors A, B ∈ ℝ3, this derivation expands the outer-product difference BAT − ABT, identifies it as the skew-symmetric matrix [A × B]×, and proves directly that A × B lies in its null space."
+  },
+  {
+    "id": "gi-post-801",
+    "title": "Why A·(A × x) Always Equals 0",
+    "url": "https://geometryinsights.com/2026/08/05/why-a%c2%b7a-x-x-always-equals-0/",
+    "date": "2026-08-05",
+    "modified": "2026-08-05",
+    "subject": "Linear Algebra & Vector Spaces",
+    "categories": [
+      "Linear Algebra & Vector Spaces",
+      "Uncategorized"
+    ],
+    "type": "Proof",
+    "excerpt": "Starting from A,x∈ℝ3, this derivation expands A·(A×x) component by component and shows how every term cancels, proving that A×x is always perpendicular to A.",
+    "keywords": [
+      "Cross Product",
+      "dot product",
+      "Linear Algebra",
+      "scalar triple product",
+      "vector identities"
+    ],
+    "levels": [],
+    "search_text": "Why A·(A × x) Always Equals 0 Linear Algebra & Vector Spaces Linear Algebra & Vector Spaces Uncategorized Cross Product dot product Linear Algebra scalar triple product vector identities Proof Starting from A,x∈ℝ3, this derivation expands A·(A×x) component by component and shows how every term cancels, proving that A×x is always perpendicular to A."
+  },
+  {
+    "id": "gi-post-797",
+    "title": "Deriving A·(B × C) = det[A B C]",
+    "url": "https://geometryinsights.com/2026/08/05/deriving-a%c2%b7b-x-c-deta-b-c/",
+    "date": "2026-08-05",
+    "modified": "2026-08-05",
+    "subject": "Determinants",
+    "categories": [
+      "Determinants",
+      "Linear Algebra",
+      "Vectors"
+    ],
+    "type": "Derivation",
+    "excerpt": "Starting from three vectors A,B,C∈ℝ3, this derivation expands the scalar triple product A·(B×C), shows how its alternating terms arise, and identifies the result with the determinant of the matrix formed from A,B,C.",
+    "keywords": [
+      "Cross Product",
+      "Determinants",
+      "Linear Algebra",
+      "vector algebra",
+      "```text scalar triple product"
+    ],
+    "levels": [],
+    "search_text": "Deriving A·(B × C) = det[A B C] Determinants Determinants Linear Algebra Vectors Cross Product Determinants Linear Algebra vector algebra ```text scalar triple product Derivation Starting from three vectors A,B,C∈ℝ3, this derivation expands the scalar triple product A·(B×C), shows how its alternating terms arise, and identifies the result with the determinant of the matrix formed from A,B,C."
+  },
+  {
+    "id": "gi-post-792",
+    "title": "Deriving ABᵀ − BAᵀ = [B × A]ₓ",
+    "url": "https://geometryinsights.com/2026/08/05/%f0%9d%97%97%f0%9d%97%b2%f0%9d%97%bf%f0%9d%97%b6%f0%9d%98%83%f0%9d%97%b6%f0%9d%97%bb%f0%9d%97%b4-%f0%9d%90%80%f0%9d%90%81%e1%b5%80-%e2%88%92-%f0%9d%90%81%f0%9d%90%80%e1%b5%80-%f0%9d%90%81-x/",
+    "date": "2026-08-05",
+    "modified": "2026-08-05",
+    "subject": "Linear Algebra",
+    "categories": [
+      "Linear Algebra",
+      "Matrices"
+    ],
+    "type": "Derivation",
+    "excerpt": "Starting from two vectors A,B∈ℝ3, this derivation expands ABT−BAT, identifies it as [B×A]×, and proves that the resulting skew-symmetric matrix sends B×A to the zero vector.",
+    "keywords": [
+      "Cross Product",
+      "Linear Algebra",
+      "Matrices",
+      "outer products",
+      "skew-symmetric matrices"
+    ],
+    "levels": [],
+    "search_text": "Deriving ABᵀ − BAᵀ = [B × A]ₓ Linear Algebra Linear Algebra Matrices Cross Product Linear Algebra Matrices outer products skew-symmetric matrices Derivation Starting from two vectors A,B∈ℝ3, this derivation expands ABT−BAT, identifies it as [B×A]×, and proves that the resulting skew-symmetric matrix sends B×A to the zero vector."
+  },
+  {
+    "id": "gi-post-763",
+    "title": "How a Skew-Symmetric Matrix Reveals the Cross-Product Direction",
+    "url": "https://geometryinsights.com/2026/08/04/how-a-skew-symmetric-matrix-reveals-the-cross-product-direction/",
+    "date": "2026-08-04",
+    "modified": "2026-08-04",
+    "subject": "Cross Product",
+    "categories": [
+      "Cross Product",
+      "Linear Algebra",
+      "Uncategorized"
+    ],
+    "type": "Derivation",
+    "excerpt": "This article shows how the structure of a nonzero 3 × 3 skew-symmetric matrix reveals a vector in its null space. The construction is then applied to the matrix generated from the orthogonality conditions A · N = 0 and B · N = 0, producing the common normal direction perpendicular to two linearly independent […]",
+    "keywords": [
+      "cross product derivation",
+      "cross-product direction",
+      "dot product",
+      "homogeneous system",
+      "Linear Algebra",
+      "matrix equation",
+      "normal vector",
+      "null space",
+      "null vector",
+      "orthogonality",
+      "perpendicular vectors",
+      "Skew-symmetric matrix",
+      "vector algebra"
+    ],
+    "levels": [],
+    "search_text": "How a Skew-Symmetric Matrix Reveals the Cross-Product Direction Cross Product Cross Product Linear Algebra Uncategorized cross product derivation cross-product direction dot product homogeneous system Linear Algebra matrix equation normal vector null space null vector orthogonality perpendicular vectors Skew-symmetric matrix vector algebra Derivation This article shows how the structure of a nonzero 3 × 3 skew-symmetric matrix reveals a vector in its null space. The construction is then applied to the matrix generated from the orthogonality conditions A · N = 0 and B · N = 0, producing the common normal direction perpendicular to two linearly independent […]"
+  },
+  {
+    "id": "gi-post-767",
+    "title": "Deriving the Cross Product Through Skew-Symmetric Matrices",
+    "url": "https://geometryinsights.com/2026/08/04/deriving-the-cross-product-through-skew-symmetric-matrices/",
+    "date": "2026-08-04",
+    "modified": "2026-08-04",
+    "subject": "Cross Product",
+    "categories": [
+      "Cross Product",
+      "Matrices",
+      "Matrix Algebra"
+    ],
+    "type": "Proof",
+    "excerpt": "The cross product can be understood as more than a coordinate formula: it can be represented directly through matrix multiplication. This article constructs the skew-symmetric matrices associated with two vectors in ℝ³ and expands every row in full. [A]×B = A × B [B]×A = B × A = −A × B The derivation reveals […]",
+    "keywords": [
+      "anti-commutative property",
+      "Cross Product",
+      "cross product derivation",
+      "Linear Algebra",
+      "mathematical derivation",
+      "Mathematical Proof",
+      "Matrix Multiplication",
+      "matrix representation",
+      "Orthogonal Vectors",
+      "Skew-symmetric matrix",
+      "vector algebra",
+      "vector products",
+      "vectors in ℝ³"
+    ],
+    "levels": [],
+    "search_text": "Deriving the Cross Product Through Skew-Symmetric Matrices Cross Product Cross Product Matrices Matrix Algebra anti-commutative property Cross Product cross product derivation Linear Algebra mathematical derivation Mathematical Proof Matrix Multiplication matrix representation Orthogonal Vectors Skew-symmetric matrix vector algebra vector products vectors in ℝ³ Proof The cross product can be understood as more than a coordinate formula: it can be represented directly through matrix multiplication. This article constructs the skew-symmetric matrices associated with two vectors in ℝ³ and expands every row in full. [A]×B = A × B [B]×A = B × A = −A × B The derivation reveals […]"
+  },
+  {
+    "id": "gi-post-754",
+    "title": "Constructing a Nonzero Null Vector of a 3 × 3 Skew-Symmetric Matrix",
+    "url": "https://geometryinsights.com/2026/08/04/constructing-a-nonzero-null-vector-of-a-3-x-3-skew-symmetric-matrix/",
+    "date": "2026-08-04",
+    "modified": "2026-08-04",
+    "subject": "Matrices",
+    "categories": [
+      "Matrices",
+      "Matrix Algebra"
+    ],
+    "type": "Proof",
+    "excerpt": "Every nonzero 3 × 3 skew-symmetric matrix hides a nonzero direction that it sends to zero. This derivation reveals that direction directly from the matrix entries and verifies the result from first principles.",
+    "keywords": [
+      "3 × 3 Matrix",
+      "First-Principles Derivation",
+      "homogeneous systems",
+      "Linear Algebra",
+      "Matrix Algebra",
+      "matrix nullity",
+      "matrix proof",
+      "matrix rank",
+      "null space",
+      "null vector",
+      "Skew-symmetric matrix"
+    ],
+    "levels": [],
+    "search_text": "Constructing a Nonzero Null Vector of a 3 × 3 Skew-Symmetric Matrix Matrices Matrices Matrix Algebra 3 × 3 Matrix First-Principles Derivation homogeneous systems Linear Algebra Matrix Algebra matrix nullity matrix proof matrix rank null space null vector Skew-symmetric matrix Proof Every nonzero 3 × 3 skew-symmetric matrix hides a nonzero direction that it sends to zero. This derivation reveals that direction directly from the matrix entries and verifies the result from first principles."
+  },
+  {
+    "id": "gi-post-759",
+    "title": "Building the Cross Product Matrix from A · N = 0 and B · N = 0",
+    "url": "https://geometryinsights.com/2026/08/04/building-the-cross-product-matrix-from-a-%c2%b7-n-0-and-b-%c2%b7-n-0/",
+    "date": "2026-08-04",
+    "modified": "2026-08-04",
+    "subject": "Cross Product",
+    "categories": [
+      "Cross Product",
+      "Linear Algebra & Vector Spaces",
+      "Vector Geometry & ℝ³",
+      "Vectors"
+    ],
+    "type": "Derivation",
+    "excerpt": "This article begins with the orthogonality conditions A · N = 0 and B · N = 0 for a vector N perpendicular to two vectors A and B. By eliminating x, y, and z in turn, the two original equations generate three new equations whose coefficients form a 3 × 3 skew-symmetric matrix. The […]",
+    "keywords": [
+      "Cross Product",
+      "cross product derivation",
+      "dot product",
+      "homogeneous system",
+      "Linear Algebra",
+      "matrix equation",
+      "normal vector",
+      "orthogonality",
+      "perpendicular vectors",
+      "Skew-symmetric matrix",
+      "vector algebra"
+    ],
+    "levels": [],
+    "search_text": "Building the Cross Product Matrix from A · N = 0 and B · N = 0 Cross Product Cross Product Linear Algebra & Vector Spaces Vector Geometry & ℝ³ Vectors Cross Product cross product derivation dot product homogeneous system Linear Algebra matrix equation normal vector orthogonality perpendicular vectors Skew-symmetric matrix vector algebra Derivation This article begins with the orthogonality conditions A · N = 0 and B · N = 0 for a vector N perpendicular to two vectors A and B. By eliminating x, y, and z in turn, the two original equations generate three new equations whose coefficients form a 3 × 3 skew-symmetric matrix. The […]"
+  },
+  {
+    "id": "gi-post-744",
+    "title": "Deriving the Geometric Meaning of the 2 × 2 Determinant from First Principles",
+    "url": "https://geometryinsights.com/2026/08/03/deriving-the-geometric-meaning-of-the-2-x-2-determinant-from-first-principles/",
+    "date": "2026-08-03",
+    "modified": "2026-08-03",
+    "subject": "Determinants",
+    "categories": [
+      "Determinants",
+      "Linear Algebra"
+    ],
+    "type": "Proof",
+    "excerpt": "The 2 × 2 determinant is often introduced as the algebraic expression ad − bc. This derivation uncovers its geometric origin by beginning with the area formed by two column vectors and proving, step by step, that Area² = det(M)² and therefore Area = |det(M)|.",
+    "keywords": [
+      "2 × 2 Determinant",
+      "Column Vectors",
+      "Determinant Derivation",
+      "dot product",
+      "First-Principles Derivation",
+      "Geometric Meaning of Determinants",
+      "Linear Algebra",
+      "Mathematical Proof",
+      "Matrix Algebra",
+      "Matrix Determinant",
+      "Parallelogram Area",
+      "vector geometry"
+    ],
+    "levels": [],
+    "search_text": "Deriving the Geometric Meaning of the 2 × 2 Determinant from First Principles Determinants Determinants Linear Algebra 2 × 2 Determinant Column Vectors Determinant Derivation dot product First-Principles Derivation Geometric Meaning of Determinants Linear Algebra Mathematical Proof Matrix Algebra Matrix Determinant Parallelogram Area vector geometry Proof The 2 × 2 determinant is often introduced as the algebraic expression ad − bc. This derivation uncovers its geometric origin by beginning with the area formed by two column vectors and proving, step by step, that Area² = det(M)² and therefore Area = |det(M)|."
+  },
+  {
+    "id": "gi-post-738",
+    "title": "Deriving the Computational Formula for Population Variance from First Principles",
+    "url": "https://geometryinsights.com/2026/08/03/deriving-the-computational-formula-for-population-variance-from-first-principles/",
+    "date": "2026-08-03",
+    "modified": "2026-08-03",
+    "subject": "Population Variance",
+    "categories": [
+      "Population Variance",
+      "Probability & Statistics"
+    ],
+    "type": "Proof",
+    "excerpt": "Population variance is often introduced as a finished formula, leaving its structure unexplained. This derivation begins with the squared distances from the mean and expands them step by step, revealing why variance equals the mean of the squares minus the square of the mean.",
+    "keywords": [
+      "Algebraic Derivation",
+      "Computational Variance Formula",
+      "Descriptive Statistics",
+      "First-Principles Mathematics",
+      "Mathematical Proof",
+      "Mean",
+      "Population Variance",
+      "Squared Deviations",
+      "Statistics Proof",
+      "Sum of Squares",
+      "Variance Formula"
+    ],
+    "levels": [],
+    "search_text": "Deriving the Computational Formula for Population Variance from First Principles Population Variance Population Variance Probability & Statistics Algebraic Derivation Computational Variance Formula Descriptive Statistics First-Principles Mathematics Mathematical Proof Mean Population Variance Squared Deviations Statistics Proof Sum of Squares Variance Formula Proof Population variance is often introduced as a finished formula, leaving its structure unexplained. This derivation begins with the squared distances from the mean and expands them step by step, revealing why variance equals the mean of the squares minus the square of the mean."
+  },
+  {
+    "id": "gi-post-731",
+    "title": "Deriving the 2 × 2 Adjugate Matrix from First Principles",
+    "url": "https://geometryinsights.com/2026/08/03/deriving-the-2-x-2-adjugate-matrix-from-first-principles/",
+    "date": "2026-08-03",
+    "modified": "2026-08-03",
+    "subject": "Matrices",
+    "categories": [
+      "Matrices",
+      "Matrix Algebra"
+    ],
+    "type": "Derivation",
+    "excerpt": "The adjugate matrix is usually introduced as a formula to memorise. Here, it is constructed from first principles by solving for the four unknown entries of a 2 × 2 matrix. The derivation reveals why M adj(M) = det(M)I and shows how the inverse-matrix formula emerges naturally.",
+    "keywords": [
+      "2 × 2 Matrix",
+      "Adjugate Matrix",
+      "determinant",
+      "First-Principles Derivation",
+      "Identity Matrix",
+      "Linear Algebra",
+      "Matrix Inverse",
+      "Matrix Multiplication",
+      "Simultaneous Equations"
+    ],
+    "levels": [],
+    "search_text": "Deriving the 2 × 2 Adjugate Matrix from First Principles Matrices Matrices Matrix Algebra 2 × 2 Matrix Adjugate Matrix determinant First-Principles Derivation Identity Matrix Linear Algebra Matrix Inverse Matrix Multiplication Simultaneous Equations Derivation The adjugate matrix is usually introduced as a formula to memorise. Here, it is constructed from first principles by solving for the four unknown entries of a 2 × 2 matrix. The derivation reveals why M adj(M) = det(M)I and shows how the inverse-matrix formula emerges naturally."
+  },
+  {
+    "id": "gi-post-749",
+    "title": "Deriving Three Important Cross-Product Equations from First Principles",
+    "url": "https://geometryinsights.com/2026/08/03/deriving-three-important-cross-product-equations-from-first-principles/",
+    "date": "2026-08-03",
+    "modified": "2026-08-03",
+    "subject": "Cross Product",
+    "categories": [
+      "Cross Product",
+      "Linear Algebra"
+    ],
+    "type": "Derivation",
+    "excerpt": "Beginning only with the orthogonality conditions A · N = 0 and B · N = 0, this derivation uses symmetric elimination to produce three coordinate equations. Together, they provide the coefficients required to form a 3 × 3 matrix—without assuming the familiar cross-product formula.",
+    "keywords": [
+      "3 × 3 Matrix",
+      "Coefficient Matrix",
+      "Cross Product",
+      "Cross-Product Derivation",
+      "dot product",
+      "Linear Algebra",
+      "normal vector",
+      "Orthogonal Vectors",
+      "orthogonality",
+      "Simultaneous Equations",
+      "vector algebra",
+      "Vector Elimination"
+    ],
+    "levels": [],
+    "search_text": "Deriving Three Important Cross-Product Equations from First Principles Cross Product Cross Product Linear Algebra 3 × 3 Matrix Coefficient Matrix Cross Product Cross-Product Derivation dot product Linear Algebra normal vector Orthogonal Vectors orthogonality Simultaneous Equations vector algebra Vector Elimination Derivation Beginning only with the orthogonality conditions A · N = 0 and B · N = 0, this derivation uses symmetric elimination to produce three coordinate equations. Together, they provide the coefficients required to form a 3 × 3 matrix—without assuming the familiar cross-product formula."
+  },
+  {
+    "id": "gi-post-724",
+    "title": "A First-Principles Derivation of a Common Non-Zero Normal Vector in ℝ³",
+    "url": "https://geometryinsights.com/2026/07/28/a-first-principles-derivation-of-a-common-non-zero-normal-vector-in-%e2%84%9d%c2%b3/",
+    "date": "2026-07-28",
+    "modified": "2026-07-28",
+    "subject": "Analytic Geometry",
+    "categories": [
+      "Analytic Geometry",
+      "Cross Product",
+      "Linear Algebra & Vector Spaces",
+      "Vectors"
+    ],
+    "type": "Derivation",
+    "excerpt": "Most introductions to the cross product begin with the basis identities i×j=k, j×k=i, and k×i=j. This derivation takes a different approach. Beginning only with the requirement that a normal vector must be perpendicular to two given linearly independent vectors, the coordinate formula emerges naturally through symmetric elimination. No division is required, no assumptions are made […]",
+    "keywords": [
+      "ℝ³",
+      "Cross Product",
+      "determinant",
+      "normal vector",
+      "orthogonality",
+      "symmetric elimination",
+      "vector algebra"
+    ],
+    "levels": [],
+    "search_text": "A First-Principles Derivation of a Common Non-Zero Normal Vector in ℝ³ Analytic Geometry Analytic Geometry Cross Product Linear Algebra & Vector Spaces Vectors ℝ³ Cross Product determinant normal vector orthogonality symmetric elimination vector algebra Derivation Most introductions to the cross product begin with the basis identities i×j=k, j×k=i, and k×i=j. This derivation takes a different approach. Beginning only with the requirement that a normal vector must be perpendicular to two given linearly independent vectors, the coordinate formula emerges naturally through symmetric elimination. No division is required, no assumptions are made […]"
+  },
+  {
+    "id": "gi-post-711",
+    "title": "A Geometric Proof of Cyclic Projection Identities in a Triangle",
+    "url": "https://geometryinsights.com/2026/06/30/a-geometric-proof-of-cyclic-projection-identities-in-a-triangle/",
+    "date": "2026-06-30",
+    "modified": "2026-06-30",
+    "subject": "Coordinate Geometry",
+    "categories": [
+      "Coordinate Geometry",
+      "Fundamentals of Proof",
+      "Geometry",
+      "Trigonometry"
+    ],
+    "type": "Proof",
+    "excerpt": "This proof presents a geometric derivation of a cyclic system of projection identities within a triangle. Starting from a simple coordinate construction, the argument uses right-triangle trigonometry, angle relationships, horizontal projections and the identity sin²θ + cos²θ = 1 to express each side of the triangle in terms of the other two sides and the […]",
+    "keywords": [
+      "compound angles",
+      "Coordinate Geometry",
+      "cyclic identities",
+      "geometric proof",
+      "projection identities",
+      "pythagorean identity",
+      "right triangle trigonometry",
+      "sine and cosine",
+      "triangle geometry",
+      "triangle identities",
+      "trigonometry proof"
+    ],
+    "levels": [],
+    "search_text": "A Geometric Proof of Cyclic Projection Identities in a Triangle Coordinate Geometry Coordinate Geometry Fundamentals of Proof Geometry Trigonometry compound angles Coordinate Geometry cyclic identities geometric proof projection identities pythagorean identity right triangle trigonometry sine and cosine triangle geometry triangle identities trigonometry proof Proof This proof presents a geometric derivation of a cyclic system of projection identities within a triangle. Starting from a simple coordinate construction, the argument uses right-triangle trigonometry, angle relationships, horizontal projections and the identity sin²θ + cos²θ = 1 to express each side of the triangle in terms of the other two sides and the […]"
+  },
+  {
+    "id": "gi-post-700",
+    "title": "A Step-by-Step Proof of the Matrix Identity (AB)⁻¹ = B⁻¹A⁻¹",
+    "url": "https://geometryinsights.com/2026/05/30/a-step-by-step-proof-of-the-matrix-identity-ab%e2%81%bb%c2%b9-b%e2%81%bb%c2%b9a%e2%81%bb%c2%b9/",
+    "date": "2026-05-30",
+    "modified": "2026-05-30",
+    "subject": "Matrices",
+    "categories": [
+      "Matrices"
+    ],
+    "type": "Proof",
+    "excerpt": "Many students memorize the matrix identity (AB)⁻¹ = B⁻¹A⁻¹ without ever seeing why it is true. At first glance, the result can seem surprising because the order of the matrices is reversed. However, this reversal follows naturally from the definition of a matrix inverse and the associative property of matrix multiplication. In this article, we […]",
+    "keywords": [
+      "Further Pure Mathematics",
+      "Linear Algebra",
+      "mathematical proofs",
+      "Matrices",
+      "Matrix Algebra",
+      "matrix inverses"
+    ],
+    "levels": [],
+    "search_text": "A Step-by-Step Proof of the Matrix Identity (AB)⁻¹ = B⁻¹A⁻¹ Matrices Matrices Further Pure Mathematics Linear Algebra mathematical proofs Matrices Matrix Algebra matrix inverses Proof Many students memorize the matrix identity (AB)⁻¹ = B⁻¹A⁻¹ without ever seeing why it is true. At first glance, the result can seem surprising because the order of the matrices is reversed. However, this reversal follows naturally from the definition of a matrix inverse and the associative property of matrix multiplication. In this article, we […]"
+  },
+  {
+    "id": "gi-post-690",
+    "title": "Intersecting Chords: Why Products of Segments Match",
+    "url": "https://geometryinsights.com/2025/12/22/intersecting-chords-why-products-of-segments-match/",
+    "date": "2025-12-22",
+    "modified": "2025-12-22",
+    "subject": "Circle Geometry",
+    "categories": [
+      "Circle Geometry",
+      "Geometry",
+      "Trigonometry"
+    ],
+    "type": "First-principles explanation",
+    "excerpt": "Two chords cross inside a circle, splitting into four segments. At first glance, there is no reason their lengths should be related. Yet a precise balance appears: the product of one chord’s segments equals the product of the other’s. This article reconstructs the chord theorem from first principles, tracking how angle symmetry inside the circle […]",
+    "keywords": [
+      "angle symmetry",
+      "chord theorem",
+      "circle angles",
+      "Euclidean Geometry",
+      "intersecting chords",
+      "sine rule"
+    ],
+    "levels": [],
+    "search_text": "Intersecting Chords: Why Products of Segments Match Circle Geometry Circle Geometry Geometry Trigonometry angle symmetry chord theorem circle angles Euclidean Geometry intersecting chords sine rule First-principles explanation Two chords cross inside a circle, splitting into four segments. At first glance, there is no reason their lengths should be related. Yet a precise balance appears: the product of one chord’s segments equals the product of the other’s. This article reconstructs the chord theorem from first principles, tracking how angle symmetry inside the circle […]"
+  },
+  {
+    "id": "gi-post-685",
+    "title": "The λ-plane: how dot products carve space into parallel sheets",
+    "url": "https://geometryinsights.com/2025/12/21/the-%ce%bb-plane-how-dot-products-carve-space-into-parallel-sheets/",
+    "date": "2025-12-21",
+    "modified": "2025-12-21",
+    "subject": "Analytic Geometry",
+    "categories": [
+      "Analytic Geometry",
+      "Linear Algebra",
+      "Vectors"
+    ],
+    "type": "Mathematical explanation",
+    "excerpt": "A single vector 𝐀 already contains a whole family of planes: every plane perpendicular to 𝐀 is one “sheet” in a stack, and a scalar λ just chooses which sheet you land on. Starting from the condition (𝐏 − λ𝐀) ⟂ 𝐀, the dot product turns geometry into an equation you can read as “height […]",
+    "keywords": [
+      "distance to plane",
+      "dot product",
+      "normal vector",
+      "orthogonality",
+      "parallel planes",
+      "plane equation"
+    ],
+    "levels": [],
+    "search_text": "The λ-plane: how dot products carve space into parallel sheets Analytic Geometry Analytic Geometry Linear Algebra Vectors distance to plane dot product normal vector orthogonality parallel planes plane equation Mathematical explanation A single vector 𝐀 already contains a whole family of planes: every plane perpendicular to 𝐀 is one “sheet” in a stack, and a scalar λ just chooses which sheet you land on. Starting from the condition (𝐏 − λ𝐀) ⟂ 𝐀, the dot product turns geometry into an equation you can read as “height […]"
+  },
+  {
+    "id": "gi-post-679",
+    "title": "The Right-Hand Cycle: Why î×ĵ Points to k̂",
+    "url": "https://geometryinsights.com/2025/12/21/the-right-hand-cycle-why-ixj-points-to-k%cc%82/",
+    "date": "2025-12-21",
+    "modified": "2025-12-21",
+    "subject": "Geometry",
+    "categories": [
+      "Geometry",
+      "Linear Algebra",
+      "Vectors"
+    ],
+    "type": "Mathematical explanation",
+    "excerpt": "The î–ĵ–k̂ cross-product “rules” look like a mnemonic, but they’re really a compact encoding of orientation in ℝ³. If you treat î→ĵ→k̂ as the chosen positive cycle, every sign follows automatically: swapping reverses direction, matching vectors collapse to zero, and only perpendicular pairs produce a new axis. The point is not memorising six facts—it’s seeing […]",
+    "keywords": [
+      "Cross Product",
+      "i-j-k cycle",
+      "orientation",
+      "right-hand rule",
+      "unit vectors",
+      "vector algebra"
+    ],
+    "levels": [],
+    "search_text": "The Right-Hand Cycle: Why î×ĵ Points to k̂ Geometry Geometry Linear Algebra Vectors Cross Product i-j-k cycle orientation right-hand rule unit vectors vector algebra Mathematical explanation The î–ĵ–k̂ cross-product “rules” look like a mnemonic, but they’re really a compact encoding of orientation in ℝ³. If you treat î→ĵ→k̂ as the chosen positive cycle, every sign follows automatically: swapping reverses direction, matching vectors collapse to zero, and only perpendicular pairs produce a new axis. The point is not memorising six facts—it’s seeing […]"
+  },
+  {
+    "id": "gi-post-674",
+    "title": "How a Circle in the (r,z) Plane Becomes a Torus in ℝ³",
+    "url": "https://geometryinsights.com/2025/12/13/how-a-circle-in-the-rz-plane-becomes-a-torus-in-%e2%84%9d%c2%b3/",
+    "date": "2025-12-13",
+    "modified": "2025-12-13",
+    "subject": "Geometry",
+    "categories": [
+      "Geometry",
+      "Parametric Surfaces",
+      "Trigonometry"
+    ],
+    "type": "Mathematical explanation",
+    "excerpt": "A torus looks “3D”, but its recipe is strangely 2D: draw a circle in the (r,z) plane, then spin it around the z-axis. The angle u makes the spin; the angle v walks around the generating circle. One subtlety controls everything: r must stay ≥ 0, because r becomes a radius in the x,y plane. […]",
+    "keywords": [
+      "circles",
+      "cylindrical-coordinates",
+      "implicit-equation",
+      "parametrisation",
+      "surfaces-in-r3",
+      "torus"
+    ],
+    "levels": [],
+    "search_text": "How a Circle in the (r,z) Plane Becomes a Torus in ℝ³ Geometry Geometry Parametric Surfaces Trigonometry circles cylindrical-coordinates implicit-equation parametrisation surfaces-in-r3 torus Mathematical explanation A torus looks “3D”, but its recipe is strangely 2D: draw a circle in the (r,z) plane, then spin it around the z-axis. The angle u makes the spin; the angle v walks around the generating circle. One subtlety controls everything: r must stay ≥ 0, because r becomes a radius in the x,y plane. […]"
+  },
+  {
+    "id": "gi-post-661",
+    "title": "The Turning Point of a Quadratic Curve",
+    "url": "https://geometryinsights.com/2025/12/12/the-turning-point-of-a-quadratic-curve/",
+    "date": "2025-12-12",
+    "modified": "2025-12-12",
+    "subject": "Algebra",
+    "categories": [
+      "Algebra",
+      "Coordinate Geometry",
+      "Functions"
+    ],
+    "type": "Mathematical explanation",
+    "excerpt": "For y = ax² + bx + c with a ≠ 0, the turning point is easiest to see after completing the square. This rewrites the quadratic as “a square term” plus a constant. Because a real square is always ≥ 0 and reaches 0 at exactly one x-value, the extremum occurs precisely where that […]",
+    "keywords": [
+      "completing-the-square",
+      "extremum",
+      "parabola",
+      "quadratic",
+      "turning-point",
+      "vertex"
+    ],
+    "levels": [],
+    "search_text": "The Turning Point of a Quadratic Curve Algebra Algebra Coordinate Geometry Functions completing-the-square extremum parabola quadratic turning-point vertex Mathematical explanation For y = ax² + bx + c with a ≠ 0, the turning point is easiest to see after completing the square. This rewrites the quadratic as “a square term” plus a constant. Because a real square is always ≥ 0 and reaches 0 at exactly one x-value, the extremum occurs precisely where that […]"
+  },
+  {
+    "id": "gi-post-640",
+    "title": "Completing the Square from the Square (x+y)²",
+    "url": "https://geometryinsights.com/2025/12/12/completing-the-square-from-the-square-xy%c2%b2/",
+    "date": "2025-12-12",
+    "modified": "2025-12-12",
+    "subject": "Algebra",
+    "categories": [
+      "Algebra",
+      "Geometry"
+    ],
+    "type": "Identity",
+    "excerpt": "A single picture of a square of side x+y contains the whole mechanism of “completing the square.” By cutting the square at distance x in both directions, the area splits into x², y², and two xy rectangles, forcing (x+y)² = x² + 2xy + y². Choosing y = b/(2a) turns x² + (b/a)x into a […]",
+    "keywords": [
+      "algebraic identity",
+      "area model",
+      "binomial square",
+      "completing the square",
+      "perfect square",
+      "quadratic expression"
+    ],
+    "levels": [],
+    "search_text": "Completing the Square from the Square (x+y)² Algebra Algebra Geometry algebraic identity area model binomial square completing the square perfect square quadratic expression Identity A single picture of a square of side x+y contains the whole mechanism of “completing the square.” By cutting the square at distance x in both directions, the area splits into x², y², and two xy rectangles, forcing (x+y)² = x² + 2xy + y². Choosing y = b/(2a) turns x² + (b/a)x into a […]"
+  },
+  {
+    "id": "gi-post-634",
+    "title": "Reconstructing a Quadratic Sequence from Its First Three Terms",
+    "url": "https://geometryinsights.com/2025/12/11/reconstructing-a-quadratic-sequence-from-its-first-three-terms/",
+    "date": "2025-12-11",
+    "modified": "2025-12-11",
+    "subject": "Algebra",
+    "categories": [
+      "Algebra",
+      "Quadratics",
+      "Sequences & Series"
+    ],
+    "type": "Mathematical explanation",
+    "excerpt": "Quadratic sequences arise when the nth term has the form f(n) = an² + bn + c with a ≠ 0. Knowing just the first three terms is enough to recover a, b and c. This article shows how to write f(1), f(2) and f(3), form simple differences, and use three short equations to obtain […]",
+    "keywords": [
+      "first three terms",
+      "nth term",
+      "problem solving",
+      "quadratic sequences",
+      "secondary maths",
+      "simple explanation"
+    ],
+    "levels": [],
+    "search_text": "Reconstructing a Quadratic Sequence from Its First Three Terms Algebra Algebra Quadratics Sequences & Series first three terms nth term problem solving quadratic sequences secondary maths simple explanation Mathematical explanation Quadratic sequences arise when the nth term has the form f(n) = an² + bn + c with a ≠ 0. Knowing just the first three terms is enough to recover a, b and c. This article shows how to write f(1), f(2) and f(3), form simple differences, and use three short equations to obtain […]"
+  },
+  {
+    "id": "gi-post-630",
+    "title": "The Six Essential Pieces of a Function",
+    "url": "https://geometryinsights.com/2025/12/10/the-six-essential-pieces-of-a-function/",
+    "date": "2025-12-10",
+    "modified": "2025-12-10",
+    "subject": "Algebra",
+    "categories": [
+      "Algebra",
+      "Foundations",
+      "Functions"
+    ],
+    "type": "Mathematical explanation",
+    "excerpt": "Most students meet functions as bare formulas like y = x² + 1 and are left guessing what is really going on. This article rebuilds the idea of a function as a six-part object: formula, signature, notation, domain, codomain, and rule. Using the volume of a cone and a simple quadratic, you will see how […]",
+    "keywords": [
+      "domain and codomain",
+      "function notation",
+      "function signature",
+      "mapping rule",
+      "types and sets",
+      "volume of a cone"
+    ],
+    "levels": [],
+    "search_text": "The Six Essential Pieces of a Function Algebra Algebra Foundations Functions domain and codomain function notation function signature mapping rule types and sets volume of a cone Mathematical explanation Most students meet functions as bare formulas like y = x² + 1 and are left guessing what is really going on. This article rebuilds the idea of a function as a six-part object: formula, signature, notation, domain, codomain, and rule. Using the volume of a cone and a simple quadratic, you will see how […]"
+  },
+  {
+    "id": "gi-post-609",
+    "title": "Rows & Columns: Two Ways to See a Grid",
+    "url": "https://geometryinsights.com/2025/12/10/rows-columns-two-ways-to-see-a-grid/",
+    "date": "2025-12-10",
+    "modified": "2025-12-10",
+    "subject": "Algebra",
+    "categories": [
+      "Algebra",
+      "Foundations",
+      "Matrices"
+    ],
+    "type": "Mathematical explanation",
+    "excerpt": "Why does everything suddenly look like a grid? Spreadsheets, calendars, seating plans and even computer graphics all share the same hidden structure: rows and columns. Once you see this, a messy block of numbers becomes an organised grid where every entry has a precise address. This article builds a clear picture of what rows and […]",
+    "keywords": [
+      "arrays",
+      "coordinates",
+      "grids",
+      "Matrices",
+      "rows and columns",
+      "spreadsheets"
+    ],
+    "levels": [],
+    "search_text": "Rows & Columns: Two Ways to See a Grid Algebra Algebra Foundations Matrices arrays coordinates grids Matrices rows and columns spreadsheets Mathematical explanation Why does everything suddenly look like a grid? Spreadsheets, calendars, seating plans and even computer graphics all share the same hidden structure: rows and columns. Once you see this, a messy block of numbers becomes an organised grid where every entry has a precise address. This article builds a clear picture of what rows and […]"
+  },
+  {
+    "id": "gi-post-592",
+    "title": "Why ∥A − B∥ = ∥B − A∥ in ℝ³ (and Beyond)",
+    "url": "https://geometryinsights.com/2025/12/09/why-%e2%88%a5a-%e2%88%92-b%e2%88%a5-%e2%88%a5b-%e2%88%92-a%e2%88%a5-in-%e2%84%9d%c2%b3-and-beyond/",
+    "date": "2025-12-09",
+    "modified": "2025-12-09",
+    "subject": "Geometry",
+    "categories": [
+      "Geometry",
+      "Linear Algebra",
+      "Vectors"
+    ],
+    "type": "Identity",
+    "excerpt": "Distances in ℝ³ feel more “spatial” than in ℝ², but the algebraic skeleton is the same. When you compute ∥B − A∥² for A, B ∈ ℝ³, a cascade of squares and cross-terms appears. Hidden inside that expansion is a structural identity: distance is orientation-free. This teaser sketches the idea; the full article shows how […]",
+    "keywords": [
+      "distance",
+      "dot product",
+      "norms",
+      "symmetry",
+      "three-dimensional geometry",
+      "vector subtraction"
+    ],
+    "levels": [],
+    "search_text": "Why ∥A − B∥ = ∥B − A∥ in ℝ³ (and Beyond) Geometry Geometry Linear Algebra Vectors distance dot product norms symmetry three-dimensional geometry vector subtraction Identity Distances in ℝ³ feel more “spatial” than in ℝ², but the algebraic skeleton is the same. When you compute ∥B − A∥² for A, B ∈ ℝ³, a cascade of squares and cross-terms appears. Hidden inside that expansion is a structural identity: distance is orientation-free. This teaser sketches the idea; the full article shows how […]"
+  },
+  {
+    "id": "gi-post-589",
+    "title": "The Symmetry Hidden in ∥A − B∥",
+    "url": "https://geometryinsights.com/2025/12/09/the-symmetry-hidden-in-%e2%88%a5a-%e2%88%92-b%e2%88%a5/",
+    "date": "2025-12-09",
+    "modified": "2025-12-09",
+    "subject": "Algebra",
+    "categories": [
+      "Algebra",
+      "Geometry",
+      "Vectors"
+    ],
+    "type": "Proof",
+    "excerpt": "Distances in ℝ² often look computational, but behind every expansion sits a deeper geometric symmetry. The identity ∥A − B∥ = ∥B − A∥ appears trivial once the squares are written out, yet it encapsulates an essential structural fact: distance is orientation-free. This teaser walks up to the algebraic doorway before the full proof reveals […]",
+    "keywords": [
+      "distance",
+      "dot product",
+      "Euclidean Geometry",
+      "norms",
+      "symmetry",
+      "vector subtraction"
+    ],
+    "levels": [],
+    "search_text": "The Symmetry Hidden in ∥A − B∥ Algebra Algebra Geometry Vectors distance dot product Euclidean Geometry norms symmetry vector subtraction Proof Distances in ℝ² often look computational, but behind every expansion sits a deeper geometric symmetry. The identity ∥A − B∥ = ∥B − A∥ appears trivial once the squares are written out, yet it encapsulates an essential structural fact: distance is orientation-free. This teaser walks up to the algebraic doorway before the full proof reveals […]"
+  },
+  {
+    "id": "gi-post-600",
+    "title": "Shadows on the Axes: Coordinate Projections in ℝ²",
+    "url": "https://geometryinsights.com/2025/12/09/shadows-on-the-axes-coordinate-projections-in-%e2%84%9d%c2%b2/",
+    "date": "2025-12-09",
+    "modified": "2025-12-09",
+    "subject": "Geometry",
+    "categories": [
+      "Geometry",
+      "Linear Algebra",
+      "Vectors"
+    ],
+    "type": "First-principles explanation",
+    "excerpt": "From points to “shadows” on the axes Every point (a, b) in the plane secretly carries two simpler numbers: its x-coordinate and its y-coordinate. The projection maps π_x and π_y formalise this idea by turning a point in ℝ² into a single real number. In this article we unpack these maps from first principles, connect […]",
+    "keywords": [
+      "A-Level maths",
+      "cartesian plane",
+      "coordinate projections",
+      "linear maps",
+      "matrix notation",
+      "vector spaces"
+    ],
+    "levels": [
+      "A-Level"
+    ],
+    "search_text": "Shadows on the Axes: Coordinate Projections in ℝ² Geometry Geometry Linear Algebra Vectors A-Level maths cartesian plane coordinate projections linear maps matrix notation vector spaces A-Level First-principles explanation From points to “shadows” on the axes Every point (a, b) in the plane secretly carries two simpler numbers: its x-coordinate and its y-coordinate. The projection maps π_x and π_y formalise this idea by turning a point in ℝ² into a single real number. In this article we unpack these maps from first principles, connect […]"
+  },
+  {
+    "id": "gi-post-574",
+    "title": "The angle between two vectors in ℝ²",
+    "url": "https://geometryinsights.com/2025/12/08/the-angle-between-two-vectors-in-%e2%84%9d%c2%b2/",
+    "date": "2025-12-08",
+    "modified": "2025-12-08",
+    "subject": "Desmos",
+    "categories": [
+      "Desmos",
+      "Trigonometry",
+      "Vectors"
+    ],
+    "type": "Derivation",
+    "excerpt": "Two non-zero vectors drawn from the origin in ℝ² define a rigid triangle and a unique interior angle between them. Starting from that triangle and the law of cosines, the standard dot-product formula for the cosine of this angle emerges naturally. The derivation then becomes a practical tool by turning it into a single Desmos […]",
+    "keywords": [
+      "angle between vectors",
+      "Desmos",
+      "dot product",
+      "law of cosines",
+      "r2 geometry",
+      "vector functions"
+    ],
+    "levels": [],
+    "search_text": "The angle between two vectors in ℝ² Desmos Desmos Trigonometry Vectors angle between vectors Desmos dot product law of cosines r2 geometry vector functions Derivation Two non-zero vectors drawn from the origin in ℝ² define a rigid triangle and a unique interior angle between them. Starting from that triangle and the law of cosines, the standard dot-product formula for the cosine of this angle emerges naturally. The derivation then becomes a practical tool by turning it into a single Desmos […]"
+  },
+  {
+    "id": "gi-post-564",
+    "title": "Thales’ Theorem in the Unit Circle: A Coordinate Proof from First Principles",
+    "url": "https://geometryinsights.com/2025/12/08/thales-theorem-in-the-unit-circle-a-coordinate-proof-from-first-principles/",
+    "date": "2025-12-08",
+    "modified": "2025-12-08",
+    "subject": "Circle Geometry",
+    "categories": [
+      "Circle Geometry",
+      "Coordinate Methods",
+      "Geometry"
+    ],
+    "type": "Proof",
+    "excerpt": "Thales’ Theorem says that any angle subtended by a diameter of a circle is a right angle. This article fixes a concrete coordinate model: the unit circle x² + y² = 1 with diameter endpoints A = (−1, 0), B = (1, 0), and a point C = (cos α, sin α) on the upper […]",
+    "keywords": [
+      "central angle",
+      "Coordinate Geometry",
+      "right angle",
+      "thales theorem",
+      "triangle proof",
+      "unit circle"
+    ],
+    "levels": [],
+    "search_text": "Thales’ Theorem in the Unit Circle: A Coordinate Proof from First Principles Circle Geometry Circle Geometry Coordinate Methods Geometry central angle Coordinate Geometry right angle thales theorem triangle proof unit circle Proof Thales’ Theorem says that any angle subtended by a diameter of a circle is a right angle. This article fixes a concrete coordinate model: the unit circle x² + y² = 1 with diameter endpoints A = (−1, 0), B = (1, 0), and a point C = (cos α, sin α) on the upper […]"
+  },
+  {
+    "id": "gi-post-539",
+    "title": "What Is a Binary Operation? A Clear Guide with Examples",
+    "url": "https://geometryinsights.com/2025/12/07/what-is-a-binary-operation-a-clear-guide-with-examples/",
+    "date": "2025-12-07",
+    "modified": "2025-12-07",
+    "subject": "Algebra",
+    "categories": [
+      "Algebra",
+      "Foundations of Mathematics",
+      "Set Theory"
+    ],
+    "type": "Mathematical explanation",
+    "excerpt": "Binary operations look simple on the surface, but they quietly organise much of algebra. They tell us how to combine two elements of a set, when that combination “stays inside” the set, and why some familiar operations fail once we change the underlying number system. This teaser walks through the idea, the role of closure, […]",
+    "keywords": [
+      "algebraic structures",
+      "binary operation",
+      "closure",
+      "examples",
+      "function",
+      "groups"
+    ],
+    "levels": [],
+    "search_text": "What Is a Binary Operation? A Clear Guide with Examples Algebra Algebra Foundations of Mathematics Set Theory algebraic structures binary operation closure examples function groups Mathematical explanation Binary operations look simple on the surface, but they quietly organise much of algebra. They tell us how to combine two elements of a set, when that combination “stays inside” the set, and why some familiar operations fail once we change the underlying number system. This teaser walks through the idea, the role of closure, […]"
+  },
+  {
+    "id": "gi-post-536",
+    "title": "The Integers as a Group Under Addition",
+    "url": "https://geometryinsights.com/2025/12/07/the-integers-as-a-group-under-addition/",
+    "date": "2025-12-07",
+    "modified": "2025-12-07",
+    "subject": "Algebra",
+    "categories": [
+      "Algebra",
+      "Foundations",
+      "Group Theory"
+    ],
+    "type": "First-principles explanation",
+    "excerpt": "The integers form the simplest nontrivial algebraic structure in abstract algebra: a group under addition. Each group axiom—closure, identity, inverses, and associativity—matches an ordinary property of ℤ that we already use without naming it. By unpacking these properties from first principles, we see why ℤ becomes the basic model for any system built around “adding” […]",
+    "keywords": [
+      "associativity",
+      "closure",
+      "group axioms",
+      "identity",
+      "integers",
+      "inverses"
+    ],
+    "levels": [],
+    "search_text": "The Integers as a Group Under Addition Algebra Algebra Foundations Group Theory associativity closure group axioms identity integers inverses First-principles explanation The integers form the simplest nontrivial algebraic structure in abstract algebra: a group under addition. Each group axiom—closure, identity, inverses, and associativity—matches an ordinary property of ℤ that we already use without naming it. By unpacking these properties from first principles, we see why ℤ becomes the basic model for any system built around “adding” […]"
+  },
+  {
+    "id": "gi-post-527",
+    "title": "Finding the Midpoint in ℝ² via a Parallelogram Parametric Intersection",
+    "url": "https://geometryinsights.com/2025/12/07/finding-the-midpoint-in-%e2%84%9d%c2%b2-via-a-parallelogram-parametric-intersection/",
+    "date": "2025-12-07",
+    "modified": "2025-12-07",
+    "subject": "Analytic Geometry",
+    "categories": [
+      "Analytic Geometry",
+      "Geometry",
+      "Vectors"
+    ],
+    "type": "Mathematical explanation",
+    "excerpt": "To see where the midpoint formula in ℝ² really comes from, start with two points drawn as arrows from the origin. Use them as the sides of a parallelogram; the “centre” of this shape is where its two diagonals intersect. By writing each diagonal as a parametric line and solving for their common point, the […]",
+    "keywords": [
+      "ℝ²",
+      "diagonals",
+      "midpoint",
+      "parallelogram",
+      "parametric method",
+      "Vectors"
+    ],
+    "levels": [],
+    "search_text": "Finding the Midpoint in ℝ² via a Parallelogram Parametric Intersection Analytic Geometry Analytic Geometry Geometry Vectors ℝ² diagonals midpoint parallelogram parametric method Vectors Mathematical explanation To see where the midpoint formula in ℝ² really comes from, start with two points drawn as arrows from the origin. Use them as the sides of a parallelogram; the “centre” of this shape is where its two diagonals intersect. By writing each diagonal as a parametric line and solving for their common point, the […]"
+  },
+  {
+    "id": "gi-post-521",
+    "title": "Midpoints, Parallelograms, and Vector Averages in ℝ²",
+    "url": "https://geometryinsights.com/2025/12/06/midpoints-parallelograms-and-vector-averages-in-%e2%84%9d%c2%b2/",
+    "date": "2025-12-06",
+    "modified": "2025-12-06",
+    "subject": "Coordinate Geometry",
+    "categories": [
+      "Coordinate Geometry",
+      "Geometry",
+      "Vectors"
+    ],
+    "type": "Mathematical explanation",
+    "excerpt": "Every coordinate geometry course states that the midpoint of A(x₁, y₁) and B(x₂, y₂) is ((x₁ + x₂)/2, (y₁ + y₂)/2), but rarely explains why this particular average appears. In ℝ² it is more natural to treat points as position vectors and let the geometry of a single parallelogram do the work. This article builds […]",
+    "keywords": [
+      "Coordinate Geometry",
+      "euclidean plane",
+      "midpoint formula",
+      "parallelogram",
+      "r2 vectors",
+      "vector geometry"
+    ],
+    "levels": [],
+    "search_text": "Midpoints, Parallelograms, and Vector Averages in ℝ² Coordinate Geometry Coordinate Geometry Geometry Vectors Coordinate Geometry euclidean plane midpoint formula parallelogram r2 vectors vector geometry Mathematical explanation Every coordinate geometry course states that the midpoint of A(x₁, y₁) and B(x₂, y₂) is ((x₁ + x₂)/2, (y₁ + y₂)/2), but rarely explains why this particular average appears. In ℝ² it is more natural to treat points as position vectors and let the geometry of a single parallelogram do the work. This article builds […]"
+  },
+  {
+    "id": "gi-post-510",
+    "title": "Closest point to (a, b) on the line y = m x + c",
+    "url": "https://geometryinsights.com/2025/12/06/closest-point-to-a-b-on-the-line-y-m-x-c/",
+    "date": "2025-12-06",
+    "modified": "2025-12-06",
+    "subject": "Coordinate Geometry",
+    "categories": [
+      "Coordinate Geometry",
+      "Geometry",
+      "Vectors"
+    ],
+    "type": "First-principles explanation",
+    "excerpt": "Where does the perpendicular land? Given a point C = (a, b) and a non-vertical line ℓ : y = m x + c, there is exactly one point B on ℓ closest to C. Geometrically, B is the foot of the perpendicular from C to ℓ. This article rebuilds that fact from first principles, […]",
+    "keywords": [
+      "Coordinate Geometry",
+      "Desmos",
+      "dot product",
+      "perpendicular distance",
+      "projection onto a line",
+      "vectors in r2"
+    ],
+    "levels": [],
+    "search_text": "Closest point to (a, b) on the line y = m x + c Coordinate Geometry Coordinate Geometry Geometry Vectors Coordinate Geometry Desmos dot product perpendicular distance projection onto a line vectors in r2 First-principles explanation Where does the perpendicular land? Given a point C = (a, b) and a non-vertical line ℓ : y = m x + c, there is exactly one point B on ℓ closest to C. Geometrically, B is the foot of the perpendicular from C to ℓ. This article rebuilds that fact from first principles, […]"
+  },
+  {
+    "id": "gi-post-471",
+    "title": "The Shadow Decomposition Theorem in ℝ³",
+    "url": "https://geometryinsights.com/2025/12/04/the-shadow-decomposition-theorem-in-%e2%84%9d%c2%b3/",
+    "date": "2025-12-04",
+    "modified": "2025-12-04",
+    "subject": "Geometry",
+    "categories": [
+      "Geometry",
+      "Linear Algebra"
+    ],
+    "type": "Identity",
+    "excerpt": "Every vector in three-dimensional space carries multiple “views” of itself, produced by projecting it onto the coordinate planes. What’s surprising is that these shadows are not just approximations — they can reconstruct the original vector exactly. This article reveals the geometric identity that makes this possible.",
+    "keywords": [
+      "Geometry",
+      "linear-combinations",
+      "projections",
+      "R3",
+      "shadows",
+      "Vectors"
+    ],
+    "levels": [],
+    "search_text": "The Shadow Decomposition Theorem in ℝ³ Geometry Geometry Linear Algebra Geometry linear-combinations projections R3 shadows Vectors Identity Every vector in three-dimensional space carries multiple “views” of itself, produced by projecting it onto the coordinate planes. What’s surprising is that these shadows are not just approximations — they can reconstruct the original vector exactly. This article reveals the geometric identity that makes this possible."
+  },
+  {
+    "id": "gi-post-488",
+    "title": "Pairing Terms in an Arithmetic Progression",
+    "url": "https://geometryinsights.com/2025/12/04/pairing-terms-in-an-arithmetic-progression/",
+    "date": "2025-12-04",
+    "modified": "2025-12-04",
+    "subject": "Algebra",
+    "categories": [
+      "Algebra",
+      "Sequences & Series"
+    ],
+    "type": "Proof",
+    "excerpt": "Summing an arithmetic progression This article takes the classic pairing trick for 1 + 2 + 3 + … + n and applies it to a general arithmetic progression with first term a, common difference d, and n terms. By writing the same sum forwards and backwards and then pairing corresponding terms, we arrive cleanly […]",
+    "keywords": [
+      "arithmetic progression",
+      "arithmetic series",
+      "proof",
+      "sequences",
+      "series",
+      "sum formula"
+    ],
+    "levels": [],
+    "search_text": "Pairing Terms in an Arithmetic Progression Algebra Algebra Sequences & Series arithmetic progression arithmetic series proof sequences series sum formula Proof Summing an arithmetic progression This article takes the classic pairing trick for 1 + 2 + 3 + … + n and applies it to a general arithmetic progression with first term a, common difference d, and n terms. By writing the same sum forwards and backwards and then pairing corresponding terms, we arrive cleanly […]"
+  },
+  {
+    "id": "gi-post-483",
+    "title": "Pairing 1 + 2 + 3 + … + n into ½·n·(n+1)",
+    "url": "https://geometryinsights.com/2025/12/04/pairing-1-2-3-n-into-%c2%bd%c2%b7n%c2%b7n1/",
+    "date": "2025-12-04",
+    "modified": "2025-12-04",
+    "subject": "Algebra",
+    "categories": [
+      "Algebra",
+      "Number Theory",
+      "Sequences & Series"
+    ],
+    "type": "Proof",
+    "excerpt": "Pairing the first n natural numbers This article unwraps a classic pairing argument that proves the formula for the sum 1 + 2 + 3 + … + n. By writing the same sum forwards and backwards and then adding term by term, we show why this long list always simplifies to the compact expression […]",
+    "keywords": [
+      "arithmetic series",
+      "natural numbers",
+      "pairing method",
+      "proof",
+      "sequences",
+      "sum 1 to n"
+    ],
+    "levels": [],
+    "search_text": "Pairing 1 + 2 + 3 + … + n into ½·n·(n+1) Algebra Algebra Number Theory Sequences & Series arithmetic series natural numbers pairing method proof sequences sum 1 to n Proof Pairing the first n natural numbers This article unwraps a classic pairing argument that proves the formula for the sum 1 + 2 + 3 + … + n. By writing the same sum forwards and backwards and then adding term by term, we show why this long list always simplifies to the compact expression […]"
+  },
+  {
+    "id": "gi-post-505",
+    "title": "Modulus of a Quotient: ∣z₁/z₂∣ = ∣z₁∣/∣z₂∣",
+    "url": "https://geometryinsights.com/2025/12/04/modulus-of-a-quotient-%e2%88%a3z%e2%82%81-z%e2%82%82%e2%88%a3-%e2%88%a3z%e2%82%81%e2%88%a3-%e2%88%a3z%e2%82%82%e2%88%a3/",
+    "date": "2025-12-04",
+    "modified": "2025-12-04",
+    "subject": "Algebra",
+    "categories": [
+      "Algebra",
+      "Complex Numbers"
+    ],
+    "type": "Proof",
+    "excerpt": "Let z₁ = x₁ + i y₁ and z₂ = x₂ + i y₂ with real components x₁, y₁, x₂, y₂ and z₂ ≠ 0. By multiplying by the conjugate of the denominator and applying the modulus formula, we obtain a clean algebraic proof that the modulus of a quotient satisfies ∣z₁/z₂∣ = ∣z₁∣/∣z₂∣.",
+    "keywords": [
+      "algebraic proof",
+      "Complex Numbers",
+      "conjugate",
+      "division",
+      "modulus"
+    ],
+    "levels": [],
+    "search_text": "Modulus of a Quotient: ∣z₁/z₂∣ = ∣z₁∣/∣z₂∣ Algebra Algebra Complex Numbers algebraic proof Complex Numbers conjugate division modulus Proof Let z₁ = x₁ + i y₁ and z₂ = x₂ + i y₂ with real components x₁, y₁, x₂, y₂ and z₂ ≠ 0. By multiplying by the conjugate of the denominator and applying the modulus formula, we obtain a clean algebraic proof that the modulus of a quotient satisfies ∣z₁/z₂∣ = ∣z₁∣/∣z₂∣."
+  },
+  {
+    "id": "gi-post-497",
+    "title": "Modulus of a Product: |z₁·z₂| = |z₁|·|z₂|",
+    "url": "https://geometryinsights.com/2025/12/04/modulus-of-a-product-z%e2%82%81%c2%b7z%e2%82%82-z%e2%82%81%c2%b7z%e2%82%82/",
+    "date": "2025-12-04",
+    "modified": "2025-12-04",
+    "subject": "Algebra",
+    "categories": [
+      "Algebra",
+      "Complex Numbers"
+    ],
+    "type": "Proof",
+    "excerpt": "Take two complex numbers z₁ = x₁ + i y₁ and z₂ = x₂ + i y₂. By expanding their product and applying the definition of modulus, we obtain a clean algebraic proof that |z₁·z₂| equals |z₁|·|z₂|.",
+    "keywords": [
+      "absolute value",
+      "algebraic proof",
+      "Complex Numbers",
+      "modulus"
+    ],
+    "levels": [],
+    "search_text": "Modulus of a Product: |z₁·z₂| = |z₁|·|z₂| Algebra Algebra Complex Numbers absolute value algebraic proof Complex Numbers modulus Proof Take two complex numbers z₁ = x₁ + i y₁ and z₂ = x₂ + i y₂. By expanding their product and applying the definition of modulus, we obtain a clean algebraic proof that |z₁·z₂| equals |z₁|·|z₂|."
+  },
+  {
+    "id": "gi-post-502",
+    "title": "Dividing Complex Numbers Using Conjugates",
+    "url": "https://geometryinsights.com/2025/12/04/dividing-complex-numbers-using-conjugates/",
+    "date": "2025-12-04",
+    "modified": "2025-12-04",
+    "subject": "Algebra",
+    "categories": [
+      "Algebra",
+      "Complex Numbers"
+    ],
+    "type": "Proof",
+    "excerpt": "Given two complex numbers z₁ = x₁ + i y₁ and z₂ = x₂ + i y₂ with real components x₁, y₁, x₂, y₂, we can divide z₁ by z₂ by multiplying by the conjugate of the denominator. This converts the quotient into the standard form a + i b with clearly separated real and […]",
+    "keywords": [
+      "algebraic proof",
+      "complex arithmetic",
+      "Complex Numbers",
+      "conjugate",
+      "division"
+    ],
+    "levels": [],
+    "search_text": "Dividing Complex Numbers Using Conjugates Algebra Algebra Complex Numbers algebraic proof complex arithmetic Complex Numbers conjugate division Proof Given two complex numbers z₁ = x₁ + i y₁ and z₂ = x₂ + i y₂ with real components x₁, y₁, x₂, y₂, we can divide z₁ by z₂ by multiplying by the conjugate of the denominator. This converts the quotient into the standard form a + i b with clearly separated real and […]"
+  },
+  {
+    "id": "gi-post-458",
+    "title": "Sequences vs Series: Terms, Sums, and Why They Behave Differently",
+    "url": "https://geometryinsights.com/2025/12/03/sequences-vs-series-terms-sums-and-why-they-behave-differently/",
+    "date": "2025-12-03",
+    "modified": "2025-12-03",
+    "subject": "Further Pure Mathematics",
+    "categories": [
+      "Further Pure Mathematics",
+      "Sequences & Series"
+    ],
+    "type": "First-principles explanation",
+    "excerpt": "Why Sequences and Series Must Be Kept Apart The words “sequence” and “series” often appear together, but they do not describe the same object. A sequence is an ordered list of terms; a series is what you get when you start adding those terms. Keeping this distinction sharp is essential for understanding convergence, geometric series […]",
+    "keywords": [
+      "A-Level maths",
+      "convergence",
+      "first principles",
+      "partial sums",
+      "sequences",
+      "series"
+    ],
+    "levels": [
+      "A-Level"
+    ],
+    "search_text": "Sequences vs Series: Terms, Sums, and Why They Behave Differently Further Pure Mathematics Further Pure Mathematics Sequences & Series A-Level maths convergence first principles partial sums sequences series A-Level First-principles explanation Why Sequences and Series Must Be Kept Apart The words “sequence” and “series” often appear together, but they do not describe the same object. A sequence is an ordered list of terms; a series is what you get when you start adding those terms. Keeping this distinction sharp is essential for understanding convergence, geometric series […]"
+  },
+  {
+    "id": "gi-post-445",
+    "title": "Inversion in the Unit Circle: Deriving the Exact Mapping Formula",
+    "url": "https://geometryinsights.com/2025/12/03/inversion-in-the-unit-circle-deriving-the-exact-mapping-formula/",
+    "date": "2025-12-03",
+    "modified": "2025-12-03",
+    "subject": "Analytic Geometry",
+    "categories": [
+      "Analytic Geometry",
+      "Further Pure Mathematics",
+      "Geometry"
+    ],
+    "type": "Derivation",
+    "excerpt": "Inversion in the Unit Circle: Deriving the Exact Mapping Formula Circle inversion is often introduced as a mysterious transformation, but in the unit circle it becomes a precise scaling rule. By requiring that a point and its image lie on the same ray from the centre and that the product of their distances equals 1, […]",
+    "keywords": [
+      "circle inversion",
+      "first principles",
+      "r2 geometry",
+      "transformations",
+      "unit circle",
+      "Vectors"
+    ],
+    "levels": [],
+    "search_text": "Inversion in the Unit Circle: Deriving the Exact Mapping Formula Analytic Geometry Analytic Geometry Further Pure Mathematics Geometry circle inversion first principles r2 geometry transformations unit circle Vectors Derivation Inversion in the Unit Circle: Deriving the Exact Mapping Formula Circle inversion is often introduced as a mysterious transformation, but in the unit circle it becomes a precise scaling rule. By requiring that a point and its image lie on the same ray from the centre and that the product of their distances equals 1, […]"
+  },
+  {
+    "id": "gi-post-438",
+    "title": "Equation of a Sphere in ℝ³ Using Vector Distance",
+    "url": "https://geometryinsights.com/2025/12/03/equation-of-a-sphere-in-%e2%84%9d%c2%b3-using-vector-distance/",
+    "date": "2025-12-03",
+    "modified": "2025-12-03",
+    "subject": "Analytic Geometry",
+    "categories": [
+      "Analytic Geometry",
+      "Geometry",
+      "Vectors"
+    ],
+    "type": "Mathematical explanation",
+    "excerpt": "From Fixed Radius to the Sphere Equation In three-dimensional space, a sphere is simply the set of all points that lie at a fixed distance from a single centre. By expressing that fixed distance as the magnitude of a vector from the centre to an arbitrary point in ℝ³, the condition “distance equals radius” turns […]",
+    "keywords": [
+      "Analytic Geometry",
+      "ℝ³",
+      "distance",
+      "equation of a sphere",
+      "sphere",
+      "Vectors"
+    ],
+    "levels": [],
+    "search_text": "Equation of a Sphere in ℝ³ Using Vector Distance Analytic Geometry Analytic Geometry Geometry Vectors Analytic Geometry ℝ³ distance equation of a sphere sphere Vectors Mathematical explanation From Fixed Radius to the Sphere Equation In three-dimensional space, a sphere is simply the set of all points that lie at a fixed distance from a single centre. By expressing that fixed distance as the magnitude of a vector from the centre to an arbitrary point in ℝ³, the condition “distance equals radius” turns […]"
+  },
+  {
+    "id": "gi-post-429",
+    "title": "Deriving the Distance Formula in ℝ³ Using Vectors",
+    "url": "https://geometryinsights.com/2025/12/03/deriving-the-distance-formula-in-%e2%84%9d%c2%b3-using-vectors/",
+    "date": "2025-12-03",
+    "modified": "2025-12-03",
+    "subject": "Analytic Geometry",
+    "categories": [
+      "Analytic Geometry",
+      "Geometry",
+      "Vectors"
+    ],
+    "type": "Derivation",
+    "excerpt": "From 3D Points to a Single Distance In three-dimensional space, the straight-line distance between two points can be understood as the length of a single arrow joining them. By treating this arrow as a vector and combining the changes in three perpendicular directions with Pythagoras’ theorem in 3D, we arrive at a compact distance formula […]",
+    "keywords": [
+      "Analytic Geometry",
+      "ℝ³",
+      "distance formula",
+      "magnitude",
+      "three-dimensional space",
+      "Vectors"
+    ],
+    "levels": [],
+    "search_text": "Deriving the Distance Formula in ℝ³ Using Vectors Analytic Geometry Analytic Geometry Geometry Vectors Analytic Geometry ℝ³ distance formula magnitude three-dimensional space Vectors Derivation From 3D Points to a Single Distance In three-dimensional space, the straight-line distance between two points can be understood as the length of a single arrow joining them. By treating this arrow as a vector and combining the changes in three perpendicular directions with Pythagoras’ theorem in 3D, we arrive at a compact distance formula […]"
+  },
+  {
+    "id": "gi-post-399",
+    "title": "One Diagram that Proves the Core Trig Identities",
+    "url": "https://geometryinsights.com/2025/12/01/one-diagram-that-proves-the-core-trig-identities/",
+    "date": "2025-12-01",
+    "modified": "2025-12-01",
+    "subject": "Further Pure Mathematics",
+    "categories": [
+      "Further Pure Mathematics",
+      "Geometry",
+      "Trigonometry",
+      "Trigonometry & Radians"
+    ],
+    "type": "Derivation",
+    "excerpt": "Most students meet identities like cos2θ + sin2θ = 1 and 1 + tan2θ = sec2θ as separate facts to memorise. In this article I build a single geometric picture containing all six trigonometric functions and use it to derive several Pythagorean identities at once, including some that rarely appear in textbooks.",
+    "keywords": [
+      "A-Level maths",
+      "cos θ",
+      "right-angle geometry",
+      "sin θ",
+      "tan θ",
+      "trigonometric identities"
+    ],
+    "levels": [
+      "A-Level"
+    ],
+    "search_text": "One Diagram that Proves the Core Trig Identities Further Pure Mathematics Further Pure Mathematics Geometry Trigonometry Trigonometry & Radians A-Level maths cos θ right-angle geometry sin θ tan θ trigonometric identities A-Level Derivation Most students meet identities like cos2θ + sin2θ = 1 and 1 + tan2θ = sec2θ as separate facts to memorise. In this article I build a single geometric picture containing all six trigonometric functions and use it to derive several Pythagorean identities at once, including some that rarely appear in textbooks."
+  },
+  {
+    "id": "gi-post-408",
+    "title": "A Geometric Proof of tan(α − β)",
+    "url": "https://geometryinsights.com/2025/12/01/a-geometric-proof-of-tan%ce%b1-%e2%88%92-%ce%b2/",
+    "date": "2025-12-01",
+    "modified": "2025-12-01",
+    "subject": "Euclidean Geometry",
+    "categories": [
+      "Euclidean Geometry",
+      "Geometric Intuition",
+      "Geometry",
+      "Trigonometry"
+    ],
+    "type": "Proof",
+    "excerpt": "Using a right-triangle scaffold with angles α and β, this piece shows how tan(α − β) emerges from a clean geometric construction—simple setup, short visual argument.",
+    "keywords": [
+      "geometric proof",
+      "right triangle",
+      "secant",
+      "tan(α−β)",
+      "tangent identity",
+      "visual derivation"
+    ],
+    "levels": [],
+    "search_text": "A Geometric Proof of tan(α − β) Euclidean Geometry Euclidean Geometry Geometric Intuition Geometry Trigonometry geometric proof right triangle secant tan(α−β) tangent identity visual derivation Proof Using a right-triangle scaffold with angles α and β, this piece shows how tan(α − β) emerges from a clean geometric construction—simple setup, short visual argument."
+  },
+  {
+    "id": "gi-post-381",
+    "title": "The Distance Between Two Points in ℝ² Using Vectors",
+    "url": "https://geometryinsights.com/2025/11/30/the-distance-between-two-points-in-%e2%84%9d%c2%b2-using-vectors/",
+    "date": "2025-11-30",
+    "modified": "2025-11-30",
+    "subject": "A-Level Mathematics",
+    "categories": [
+      "A-Level Mathematics",
+      "Coordinate Geometry",
+      "Vectors"
+    ],
+    "type": "Derivation",
+    "excerpt": "In this article I derive the distance formula between two points in ℝ² using vectors. Starting from the difference vector B − A and Pythagoras’ theorem, we obtain the familiar √[(x₂ − x₁)² + (y₂ − y₁)²] and show why it is symmetric in A and B.",
+    "keywords": [
+      "A-Level maths",
+      "Coordinate Geometry",
+      "distance between two points",
+      "magnitude of a vector",
+      "position vectors",
+      "Pythagoras’ theorem",
+      "vectors in ℝ²"
+    ],
+    "levels": [
+      "A-Level"
+    ],
+    "search_text": "The Distance Between Two Points in ℝ² Using Vectors A-Level Mathematics A-Level Mathematics Coordinate Geometry Vectors A-Level maths Coordinate Geometry distance between two points magnitude of a vector position vectors Pythagoras’ theorem vectors in ℝ² A-Level Derivation In this article I derive the distance formula between two points in ℝ² using vectors. Starting from the difference vector B − A and Pythagoras’ theorem, we obtain the familiar √[(x₂ − x₁)² + (y₂ − y₁)²] and show why it is symmetric in A and B."
+  },
+  {
+    "id": "gi-post-369",
+    "title": "Proving that d/dx (eˣ) = eˣ from First Principles",
+    "url": "https://geometryinsights.com/2025/11/30/proving-that-d-dx-e%cb%a3-e%cb%a3-from-first-principles/",
+    "date": "2025-11-30",
+    "modified": "2025-11-30",
+    "subject": "Calculus",
+    "categories": [
+      "Calculus",
+      "Differentiation"
+    ],
+    "type": "Proof",
+    "excerpt": "In this article I prove from first principles that the derivative of the exponential function y = ex is again ex. Starting from the limit definition of the derivative, we rewrite each step carefully and use the key limit (eh − 1)/h → 1 as h → 0.",
+    "keywords": [
+      "A-Level maths",
+      "calculus proof",
+      "derivative of eˣ",
+      "differentiation rules",
+      "exponential function",
+      "first principles",
+      "limit definition"
+    ],
+    "levels": [
+      "A-Level"
+    ],
+    "search_text": "Proving that d/dx (eˣ) = eˣ from First Principles Calculus Calculus Differentiation A-Level maths calculus proof derivative of eˣ differentiation rules exponential function first principles limit definition A-Level Proof In this article I prove from first principles that the derivative of the exponential function y = ex is again ex. Starting from the limit definition of the derivative, we rewrite each step carefully and use the key limit (eh − 1)/h → 1 as h → 0."
+  },
+  {
+    "id": "gi-post-292",
+    "title": "How to Generate a Line Through Two Points in ℝ³",
+    "url": "https://geometryinsights.com/2025/11/30/how-to-generate-a-line-through-two-points-in-%e2%84%9d%c2%b3/",
+    "date": "2025-11-30",
+    "modified": "2025-11-30",
+    "subject": "Coordinate Geometry",
+    "categories": [
+      "Coordinate Geometry",
+      "Further Pure Mathematics",
+      "Geometry",
+      "Vector Geometry & ℝ³"
+    ],
+    "type": "Mathematical explanation",
+    "excerpt": "A single vector is enough to control every point on a straight line in ℝ³. Starting from two position vectors, this article shows how to build the line step by step, first as a vector equation and then in symmetric form, so you can see exactly how each coordinate is generated without relying on memorised […]",
+    "keywords": [
+      "A-level further maths",
+      "ℝ³ geometry",
+      "direction vector",
+      "line through two points",
+      "Parametric Equations",
+      "position vectors",
+      "symmetric form of a line",
+      "vector equation of a line"
+    ],
+    "levels": [
+      "A-Level"
+    ],
+    "search_text": "How to Generate a Line Through Two Points in ℝ³ Coordinate Geometry Coordinate Geometry Further Pure Mathematics Geometry Vector Geometry & ℝ³ A-level further maths ℝ³ geometry direction vector line through two points Parametric Equations position vectors symmetric form of a line vector equation of a line A-Level Mathematical explanation A single vector is enough to control every point on a straight line in ℝ³. Starting from two position vectors, this article shows how to build the line step by step, first as a vector equation and then in symmetric form, so you can see exactly how each coordinate is generated without relying on memorised […]"
+  },
+  {
+    "id": "gi-post-361",
+    "title": "Geometric Series: How to Find the Sum of n Terms and the Sum to Infinity",
+    "url": "https://geometryinsights.com/2025/11/30/geometric-series-how-to-find-the-sum-of-n-terms-and-the-sum-to-infinity/",
+    "date": "2025-11-30",
+    "modified": "2025-11-30",
+    "subject": "Further Pure Mathematics",
+    "categories": [
+      "Further Pure Mathematics",
+      "Sequences & Series"
+    ],
+    "type": "Derivation",
+    "excerpt": "Geometric series appear throughout A-Level Maths, from compound interest to convergence. In this article I derive the formulas for the sum of the first n terms and the sum to infinity, and explain clearly why the condition |r| < 1 is so important.",
+    "keywords": [
+      "A-Level maths",
+      "convergence",
+      "geometric series",
+      "sequences and series",
+      "sum of n terms",
+      "sum to infinity"
+    ],
+    "levels": [
+      "A-Level"
+    ],
+    "search_text": "Geometric Series: How to Find the Sum of n Terms and the Sum to Infinity Further Pure Mathematics Further Pure Mathematics Sequences & Series A-Level maths convergence geometric series sequences and series sum of n terms sum to infinity A-Level Derivation Geometric series appear throughout A-Level Maths, from compound interest to convergence. In this article I derive the formulas for the sum of the first n terms and the sum to infinity, and explain clearly why the condition |r| < 1 is so important."
+  },
+  {
+    "id": "gi-post-374",
+    "title": "From Vectors to y = mx + c: The Equation of a Line in ℝ²",
+    "url": "https://geometryinsights.com/2025/11/30/from-vectors-to-y-mx-c-the-equation-of-a-line-in-%e2%84%9d%c2%b2/",
+    "date": "2025-11-30",
+    "modified": "2025-11-30",
+    "subject": "A-Level Mathematics",
+    "categories": [
+      "A-Level Mathematics",
+      "Coordinate Geometry",
+      "Vectors"
+    ],
+    "type": "Derivation",
+    "excerpt": "In this article I use vectors in ℝ² to derive the equation of a straight line through two points. Starting from the vector form r = A + t(B − A), we eliminate the parameter and recover the familiar y = mx + c formula.",
+    "keywords": [
+      "A-Level maths",
+      "Coordinate Geometry",
+      "equation of a line",
+      "gradient and intercept",
+      "Parametric Equations",
+      "two-point form",
+      "vector form of a line",
+      "vectors in ℝ²",
+      "y = mx + c"
+    ],
+    "levels": [
+      "A-Level"
+    ],
+    "search_text": "From Vectors to y = mx + c: The Equation of a Line in ℝ² A-Level Mathematics A-Level Mathematics Coordinate Geometry Vectors A-Level maths Coordinate Geometry equation of a line gradient and intercept Parametric Equations two-point form vector form of a line vectors in ℝ² y = mx + c A-Level Derivation In this article I use vectors in ℝ² to derive the equation of a straight line through two points. Starting from the vector form r = A + t(B − A), we eliminate the parameter and recover the familiar y = mx + c formula."
+  },
+  {
+    "id": "gi-post-277",
+    "title": "Mid-Points in ℝ³: The Non-Degenerate Parallelogram Case",
+    "url": "https://geometryinsights.com/2025/11/29/mid-points-in-%e2%84%9d%c2%b3-the-non-degenerate-parallelogram-case/",
+    "date": "2025-11-29",
+    "modified": "2025-11-29",
+    "subject": "Coordinate Geometry",
+    "categories": [
+      "Coordinate Geometry",
+      "Further Pure Mathematics",
+      "Vector Geometry & ℝ³"
+    ],
+    "type": "Mathematical explanation",
+    "excerpt": "When two points in ℝ³ and the origin form a genuine (non-degenerate) parallelogram, its centre reveals a very simple description of the mid-point between them. This article works entirely in that non-degenerate setting and shows how the geometry of the parallelogram leads naturally to the mid-point, rather than starting from a memorised coordinate rule.",
+    "keywords": [
+      "3D geometry",
+      "ℝ³",
+      "Coordinate Geometry",
+      "mid-point formula",
+      "parallelogram law",
+      "Vectors"
+    ],
+    "levels": [],
+    "search_text": "Mid-Points in ℝ³: The Non-Degenerate Parallelogram Case Coordinate Geometry Coordinate Geometry Further Pure Mathematics Vector Geometry & ℝ³ 3D geometry ℝ³ Coordinate Geometry mid-point formula parallelogram law Vectors Mathematical explanation When two points in ℝ³ and the origin form a genuine (non-degenerate) parallelogram, its centre reveals a very simple description of the mid-point between them. This article works entirely in that non-degenerate setting and shows how the geometry of the parallelogram leads naturally to the mid-point, rather than starting from a memorised coordinate rule."
+  },
+  {
+    "id": "gi-post-269",
+    "title": "Deriving the Equation of an Ellipsoid from the Unit Sphere",
+    "url": "https://geometryinsights.com/2025/11/29/deriving-the-equation-of-an-ellipsoid-from-the-unit-sphere/",
+    "date": "2025-11-29",
+    "modified": "2025-11-29",
+    "subject": "Further Pure Mathematics",
+    "categories": [
+      "Further Pure Mathematics",
+      "Parametric Equations",
+      "Vectors & 3D Geometry"
+    ],
+    "type": "Derivation",
+    "excerpt": "An ellipsoid looks simple, but its shape comes from a very natural geometric idea. This article begins with a basic sphere in ℝ³ and follows the steps that lead to a fully formed ellipsoid.",
+    "keywords": [
+      "3D geometry",
+      "A-level further maths",
+      "Coordinate Geometry",
+      "ellipsoid",
+      "further pure maths",
+      "Parametric Equations",
+      "stretching transformations",
+      "trigonometric identities",
+      "unit sphere",
+      "Vectors"
+    ],
+    "levels": [
+      "A-Level"
+    ],
+    "search_text": "Deriving the Equation of an Ellipsoid from the Unit Sphere Further Pure Mathematics Further Pure Mathematics Parametric Equations Vectors & 3D Geometry 3D geometry A-level further maths Coordinate Geometry ellipsoid further pure maths Parametric Equations stretching transformations trigonometric identities unit sphere Vectors A-Level Derivation An ellipsoid looks simple, but its shape comes from a very natural geometric idea. This article begins with a basic sphere in ℝ³ and follows the steps that lead to a fully formed ellipsoid."
+  },
+  {
+    "id": "gi-post-168",
+    "title": "What the Floor Function Really Does",
+    "url": "https://geometryinsights.com/2025/11/28/what-the-floor-function-really-does/",
+    "date": "2025-11-28",
+    "modified": "2025-11-28",
+    "subject": "Algebra",
+    "categories": [
+      "Algebra",
+      "Fundamentals of Proof",
+      "Number Theory"
+    ],
+    "type": "Proof",
+    "excerpt": "The floor function appears throughout mathematics, yet many explanations hide how it truly behaves—especially with negative numbers. This article breaks down the function clearly, showing exactly how it works and why it is such an important tool in number theory and computation.",
+    "keywords": [
+      "discrete mathematics",
+      "floor function",
+      "inequalities",
+      "Number Theory",
+      "real numbers",
+      "rounding functions"
+    ],
+    "levels": [],
+    "search_text": "What the Floor Function Really Does Algebra Algebra Fundamentals of Proof Number Theory discrete mathematics floor function inequalities Number Theory real numbers rounding functions Proof The floor function appears throughout mathematics, yet many explanations hide how it truly behaves—especially with negative numbers. This article breaks down the function clearly, showing exactly how it works and why it is such an important tool in number theory and computation."
+  },
+  {
+    "id": "gi-post-234",
+    "title": "Piecewise Functions Explained Clearly Using the Graph of |x − a|",
+    "url": "https://geometryinsights.com/2025/11/28/piecewise-functions-explained-clearly-using-the-graph-of-x-%e2%88%92-a/",
+    "date": "2025-11-28",
+    "modified": "2025-11-28",
+    "subject": "Algebra",
+    "categories": [
+      "Algebra",
+      "Piecewise Functions"
+    ],
+    "type": "Mathematical explanation",
+    "excerpt": "Piecewise functions change their formula depending on where the input lies on the number line. A simple shift of the absolute value graph reveals exactly how this structure works and why it matters. (Premium content continues below.)",
+    "keywords": [
+      "absolute value",
+      "algebra foundations",
+      "function behaviour",
+      "graph transformations",
+      "Piecewise Functions",
+      "real functions",
+      "|x−a|"
+    ],
+    "levels": [],
+    "search_text": "Piecewise Functions Explained Clearly Using the Graph of |x − a| Algebra Algebra Piecewise Functions absolute value algebra foundations function behaviour graph transformations Piecewise Functions real functions |x−a| Mathematical explanation Piecewise functions change their formula depending on where the input lies on the number line. A simple shift of the absolute value graph reveals exactly how this structure works and why it matters. (Premium content continues below.)"
+  },
+  {
+    "id": "gi-post-239",
+    "title": "How to Generate the Equation of a Circle Using Vectors in ℝ²",
+    "url": "https://geometryinsights.com/2025/11/28/how-to-generate-the-equation-of-a-circle-using-vectors-in-%e2%84%9d%c2%b2/",
+    "date": "2025-11-28",
+    "modified": "2025-11-28",
+    "subject": "Geometry",
+    "categories": [
+      "Geometry",
+      "Vectors"
+    ],
+    "type": "Mathematical explanation",
+    "excerpt": "A circle in ℝ² can be described using nothing more than a displacement vector and a constant-distance condition. This geometric viewpoint leads directly to the standard equation of a circle. (Premium content continues below.)",
+    "keywords": [
+      "Analytic Geometry",
+      "ℝ² geometry",
+      "circle equation",
+      "Coordinate Geometry",
+      "displacement vectors",
+      "vector magnitude",
+      "Vectors"
+    ],
+    "levels": [],
+    "search_text": "How to Generate the Equation of a Circle Using Vectors in ℝ² Geometry Geometry Vectors Analytic Geometry ℝ² geometry circle equation Coordinate Geometry displacement vectors vector magnitude Vectors Mathematical explanation A circle in ℝ² can be described using nothing more than a displacement vector and a constant-distance condition. This geometric viewpoint leads directly to the standard equation of a circle. (Premium content continues below.)"
+  },
+  {
+    "id": "gi-post-251",
+    "title": "Finding the Equations of the Tangent and Normal at x = a",
+    "url": "https://geometryinsights.com/2025/11/28/finding-the-equations-of-the-tangent-and-normal-at-x-a/",
+    "date": "2025-11-28",
+    "modified": "2025-11-28",
+    "subject": "Calculus",
+    "categories": [
+      "Calculus",
+      "Further Pure Mathematics"
+    ],
+    "type": "First-principles explanation",
+    "excerpt": "Given a differentiable function y = f(x), the derivative at x = a encodes both the tangent and the normal line through (a, f(a)). This article shows how the familiar formulas for these two lines follow directly from y = mx + c and a single point on the curve. (Premium content continues below.)",
+    "keywords": [
+      "Calculus",
+      "Differentiation",
+      "first principles",
+      "gradients",
+      "normal line",
+      "tangent line"
+    ],
+    "levels": [],
+    "search_text": "Finding the Equations of the Tangent and Normal at x = a Calculus Calculus Further Pure Mathematics Calculus Differentiation first principles gradients normal line tangent line First-principles explanation Given a differentiable function y = f(x), the derivative at x = a encodes both the tangent and the normal line through (a, f(a)). This article shows how the familiar formulas for these two lines follow directly from y = mx + c and a single point on the curve. (Premium content continues below.)"
+  },
+  {
+    "id": "gi-post-245",
+    "title": "Deriving the Quadratic Formula from First Principles",
+    "url": "https://geometryinsights.com/2025/11/28/deriving-the-quadratic-formula-from-first-principles/",
+    "date": "2025-11-28",
+    "modified": "2025-11-28",
+    "subject": "Algebra",
+    "categories": [
+      "Algebra",
+      "Uncategorized"
+    ],
+    "type": "Derivation",
+    "excerpt": "Most textbooks present the quadratic formula as something to memorise. This article walks through the algebra step by step, using completing the square to uncover the formula and explain the role of the discriminant. (Premium content continues below.)",
+    "keywords": [
+      "algebra foundations",
+      "completing the square",
+      "discriminant",
+      "quadratic formula",
+      "real and complex roots",
+      "solving quadratics"
+    ],
+    "levels": [],
+    "search_text": "Deriving the Quadratic Formula from First Principles Algebra Algebra Uncategorized algebra foundations completing the square discriminant quadratic formula real and complex roots solving quadratics Derivation Most textbooks present the quadratic formula as something to memorise. This article walks through the algebra step by step, using completing the square to uncover the formula and explain the role of the discriminant. (Premium content continues below.)"
+  },
+  {
+    "id": "gi-post-261",
+    "title": "A Geometric Derivation of the Triangle Area Formula A = (1/2)ab sin θ",
+    "url": "https://geometryinsights.com/2025/11/28/a-geometric-derivation-of-the-triangle-area-formula-a-1-2ab-sin-%ce%b8/",
+    "date": "2025-11-28",
+    "modified": "2025-11-28",
+    "subject": "Foundations of Mathematics",
+    "categories": [
+      "Foundations of Mathematics",
+      "Fundamentals of Proof",
+      "Geometry"
+    ],
+    "type": "Proof",
+    "excerpt": "The formula A = (1/2)ab sin θ is often quoted without explaining why it is true. This article uses a clear geometric construction with sides a and b and included angle θ to show exactly how the area of the triangle simplifies to (1/2)ab sin θ. (Premium content continues below.)",
+    "keywords": [
+      "area formula",
+      "geometric proof",
+      "included angle",
+      "sine and area",
+      "triangle area",
+      "Trigonometry"
+    ],
+    "levels": [],
+    "search_text": "A Geometric Derivation of the Triangle Area Formula A = (1/2)ab sin θ Foundations of Mathematics Foundations of Mathematics Fundamentals of Proof Geometry area formula geometric proof included angle sine and area triangle area Trigonometry Proof The formula A = (1/2)ab sin θ is often quoted without explaining why it is true. This article uses a clear geometric construction with sides a and b and included angle θ to show exactly how the area of the triangle simplifies to (1/2)ab sin θ. (Premium content continues below.)"
+  },
+  {
+    "id": "gi-post-203",
+    "title": "How to Construct the Perpendicular Bisector of a Line Segment in ℝ²",
+    "url": "https://geometryinsights.com/2025/11/27/how-to-construct-the-perpendicular-bisector-of-a-line-segment-in-%e2%84%9d%c2%b2/",
+    "date": "2025-11-27",
+    "modified": "2025-11-27",
+    "subject": "Geometry",
+    "categories": [
+      "Geometry"
+    ],
+    "type": "Derivation",
+    "excerpt": "Given two points in ℝ², there is a precise algebraic condition that characterises every point lying on the perpendicular bisector of the segment joining them. This short derivation shows exactly how that condition arises from the equality of distances. (Premium content continues below.)",
+    "keywords": [
+      "Analytic Geometry",
+      "ℝ² lines",
+      "Coordinate Geometry",
+      "distance formula",
+      "equidistant points",
+      "perpendicular bisector"
+    ],
+    "levels": [],
+    "search_text": "How to Construct the Perpendicular Bisector of a Line Segment in ℝ² Geometry Geometry Analytic Geometry ℝ² lines Coordinate Geometry distance formula equidistant points perpendicular bisector Derivation Given two points in ℝ², there is a precise algebraic condition that characterises every point lying on the perpendicular bisector of the segment joining them. This short derivation shows exactly how that condition arises from the equality of distances. (Premium content continues below.)"
+  },
+  {
+    "id": "gi-post-213",
+    "title": "How a Circle Becomes an Ellipse Through Simple Stretching",
+    "url": "https://geometryinsights.com/2025/11/27/how-a-circle-becomes-an-ellipse-through-simple-stretching/",
+    "date": "2025-11-27",
+    "modified": "2025-11-27",
+    "subject": "Geometry",
+    "categories": [
+      "Geometry"
+    ],
+    "type": "Mathematical explanation",
+    "excerpt": "A circle can be transformed into an ellipse by stretching its x-coordinates and y-coordinates by different amounts. This geometric idea gives the standard ellipse equation instantly and without memorisation. (Premium content continues below.)",
+    "keywords": [
+      "Coordinate Geometry",
+      "ellipse",
+      "Parametric Equations",
+      "stretching transformations",
+      "trigonometric parametrisation",
+      "unit circle"
+    ],
+    "levels": [],
+    "search_text": "How a Circle Becomes an Ellipse Through Simple Stretching Geometry Geometry Coordinate Geometry ellipse Parametric Equations stretching transformations trigonometric parametrisation unit circle Mathematical explanation A circle can be transformed into an ellipse by stretching its x-coordinates and y-coordinates by different amounts. This geometric idea gives the standard ellipse equation instantly and without memorisation. (Premium content continues below.)"
+  },
+  {
+    "id": "gi-post-197",
+    "title": "A Special Method for Constructing a Circle Using Thales’ Theorem",
+    "url": "https://geometryinsights.com/2025/11/27/a-special-method-for-constructing-a-circle-using-thales-theorem/",
+    "date": "2025-11-27",
+    "modified": "2025-11-27",
+    "subject": "Dot Products",
+    "categories": [
+      "Dot Products",
+      "Geometry"
+    ],
+    "type": "Mathematical explanation",
+    "excerpt": "Given any two points in the plane, there is a remarkable geometric way to draw a unique circle for which the line segment between them becomes the diameter. This method follows directly from Thales’ theorem and leads to an elegant algebraic condition that every point on the circle must satisfy. (Premium content continues below.)",
+    "keywords": [
+      "Analytic Geometry",
+      "circle construction",
+      "diameter of a circle",
+      "dot product",
+      "right angle condition",
+      "thales theorem"
+    ],
+    "levels": [],
+    "search_text": "A Special Method for Constructing a Circle Using Thales’ Theorem Dot Products Dot Products Geometry Analytic Geometry circle construction diameter of a circle dot product right angle condition thales theorem Mathematical explanation Given any two points in the plane, there is a remarkable geometric way to draw a unique circle for which the line segment between them becomes the diameter. This method follows directly from Thales’ theorem and leads to an elegant algebraic condition that every point on the circle must satisfy. (Premium content continues below.)"
+  },
+  {
+    "id": "gi-post-171",
+    "title": "A Visual-Geometric Derivation of the Angle Addition Identities",
+    "url": "https://geometryinsights.com/2025/11/26/a-visual-geometric-derivation-of-the-angle-addition-identities/",
+    "date": "2025-11-26",
+    "modified": "2025-11-26",
+    "subject": "Further Pure Mathematics",
+    "categories": [
+      "Further Pure Mathematics",
+      "Geometry",
+      "Trigonometry"
+    ],
+    "type": "Derivation",
+    "excerpt": "The angle–addition formulas cos(a + b) and sin(a + b) are often memorised, yet their geometric origin is rarely shown. This article presents a clear, coordinate-based visual derivation that reveals exactly why the identities work. (Premium content continues below.)",
+    "keywords": [
+      "angle addition formulas",
+      "Coordinate Geometry",
+      "geometric derivations",
+      "rotation geometry",
+      "sine and cosine",
+      "unit circle"
+    ],
+    "levels": [],
+    "search_text": "A Visual-Geometric Derivation of the Angle Addition Identities Further Pure Mathematics Further Pure Mathematics Geometry Trigonometry angle addition formulas Coordinate Geometry geometric derivations rotation geometry sine and cosine unit circle Derivation The angle–addition formulas cos(a + b) and sin(a + b) are often memorised, yet their geometric origin is rarely shown. This article presents a clear, coordinate-based visual derivation that reveals exactly why the identities work. (Premium content continues below.)"
+  },
+  {
+    "id": "gi-post-177",
+    "title": "A Geometric Derivation of cos(a − b) and sin(a − b)",
+    "url": "https://geometryinsights.com/2025/11/26/a-geometric-derivation-of-cosa-%e2%88%92-b-and-sina-%e2%88%92-b/",
+    "date": "2025-11-26",
+    "modified": "2025-11-26",
+    "subject": "Further Pure Mathematics",
+    "categories": [
+      "Further Pure Mathematics",
+      "Geometry",
+      "Trigonometry"
+    ],
+    "type": "Derivation",
+    "excerpt": "The subtraction identities for cosine and sine, cos(a − b) and sin(a − b), follow naturally from rotation geometry on the unit circle. This article shows the full vector-based derivation using clean coordinate transformations and simple geometric observations. (Premium content continues below.)",
+    "keywords": [
+      "angle subtraction formulas",
+      "Coordinate Geometry",
+      "geometric derivations",
+      "rotation geometry",
+      "sine and cosine",
+      "unit circle"
+    ],
+    "levels": [],
+    "search_text": "A Geometric Derivation of cos(a − b) and sin(a − b) Further Pure Mathematics Further Pure Mathematics Geometry Trigonometry angle subtraction formulas Coordinate Geometry geometric derivations rotation geometry sine and cosine unit circle Derivation The subtraction identities for cosine and sine, cos(a − b) and sin(a − b), follow naturally from rotation geometry on the unit circle. This article shows the full vector-based derivation using clean coordinate transformations and simple geometric observations. (Premium content continues below.)"
+  },
+  {
+    "id": "gi-post-188",
+    "title": "A Geometric Derivation of cos 2a and sin 2a",
+    "url": "https://geometryinsights.com/2025/11/26/a-geometric-derivation-of-cos-2a-and-sin-2a/",
+    "date": "2025-11-26",
+    "modified": "2025-11-26",
+    "subject": "Further Pure Mathematics",
+    "categories": [
+      "Further Pure Mathematics",
+      "Geometry",
+      "Trigonometry"
+    ],
+    "type": "Derivation",
+    "excerpt": "Doubling an angle on the unit circle produces a new point whose coordinates can be expressed entirely in terms of cos a and sin a. From this relationship, the identities for cos 2a and sin 2a follow immediately.",
+    "keywords": [
+      "cosine and sine",
+      "double angle formulas",
+      "geometric derivations",
+      "rotation geometry",
+      "trigonometric identities",
+      "unit circle"
+    ],
+    "levels": [],
+    "search_text": "A Geometric Derivation of cos 2a and sin 2a Further Pure Mathematics Further Pure Mathematics Geometry Trigonometry cosine and sine double angle formulas geometric derivations rotation geometry trigonometric identities unit circle Derivation Doubling an angle on the unit circle produces a new point whose coordinates can be expressed entirely in terms of cos a and sin a. From this relationship, the identities for cos 2a and sin 2a follow immediately."
+  },
+  {
+    "id": "gi-post-160",
+    "title": "Where the FOIL Method Really Comes From",
+    "url": "https://geometryinsights.com/2025/11/25/where-the-foil-method-really-comes-from/",
+    "date": "2025-11-25",
+    "modified": "2025-11-25",
+    "subject": "Algebra",
+    "categories": [
+      "Algebra",
+      "Fundamentals of Proof"
+    ],
+    "type": "Proof",
+    "excerpt": "When students expand expressions like (a + b)(c + d), they often memorise the pattern without ever understanding where it truly comes from. This article reveals the underlying structure that makes the expansion inevitable.",
+    "keywords": [
+      "Algebra",
+      "binomial expansion",
+      "distributive law",
+      "foil method",
+      "geometric proof",
+      "rectangle area"
+    ],
+    "levels": [],
+    "search_text": "Where the FOIL Method Really Comes From Algebra Algebra Fundamentals of Proof Algebra binomial expansion distributive law foil method geometric proof rectangle area Proof When students expand expressions like (a + b)(c + d), they often memorise the pattern without ever understanding where it truly comes from. This article reveals the underlying structure that makes the expansion inevitable."
+  },
+  {
+    "id": "gi-post-164",
+    "title": "The Real Reason We Multiply by a Conjugate",
+    "url": "https://geometryinsights.com/2025/11/25/the-real-reason-we-multiply-by-a-conjugate/",
+    "date": "2025-11-25",
+    "modified": "2025-11-25",
+    "subject": "Algebra",
+    "categories": [
+      "Algebra",
+      "Fundamentals of Proof",
+      "Uncategorized"
+    ],
+    "type": "Proof",
+    "excerpt": "When a denominator contains a square root, students are often told to “multiply by the conjugate” without ever seeing why this works so reliably. This article breaks down the underlying structure that makes the method inevitable, revealing the simple idea hiding behind the procedure.",
+    "keywords": [
+      "Algebra",
+      "conjugates",
+      "foil method",
+      "rationalising the denominator",
+      "simplification",
+      "surds"
+    ],
+    "levels": [],
+    "search_text": "The Real Reason We Multiply by a Conjugate Algebra Algebra Fundamentals of Proof Uncategorized Algebra conjugates foil method rationalising the denominator simplification surds Proof When a denominator contains a square root, students are often told to “multiply by the conjugate” without ever seeing why this works so reliably. This article breaks down the underlying structure that makes the method inevitable, revealing the simple idea hiding behind the procedure."
+  },
+  {
+    "id": "gi-post-84",
+    "title": "The Quotient Rule (Differentiation)",
+    "url": "https://geometryinsights.com/2025/11/25/the-quotient-rule-differentiation/",
+    "date": "2025-11-25",
+    "modified": "2025-11-25",
+    "subject": "Calculus",
+    "categories": [
+      "Calculus",
+      "Differentiation & First Principles",
+      "Fundamentals of Proof"
+    ],
+    "type": "Proof",
+    "excerpt": "When a function is built from two changing quantities in a ratio, its derivative follows a precise pattern. By carefully tracking tiny changes in both the numerator and the denominator, the complete structure of the quotient rule reveals itself. Here is the full derivation from first principles.",
+    "keywords": [
+      "A-Level maths",
+      "Calculus",
+      "Differentiation",
+      "first principles",
+      "proof techniques",
+      "quotient rule"
+    ],
+    "levels": [
+      "A-Level"
+    ],
+    "search_text": "The Quotient Rule (Differentiation) Calculus Calculus Differentiation & First Principles Fundamentals of Proof A-Level maths Calculus Differentiation first principles proof techniques quotient rule A-Level Proof When a function is built from two changing quantities in a ratio, its derivative follows a precise pattern. By carefully tracking tiny changes in both the numerator and the denominator, the complete structure of the quotient rule reveals itself. Here is the full derivation from first principles."
+  },
+  {
+    "id": "gi-post-79",
+    "title": "The Product Rule (Differentiation)",
+    "url": "https://geometryinsights.com/2025/11/25/the-product-rule-differentiation/",
+    "date": "2025-11-25",
+    "modified": "2025-11-25",
+    "subject": "Differentiation & First Principles",
+    "categories": [
+      "Differentiation & First Principles"
+    ],
+    "type": "First-principles explanation",
+    "excerpt": "The product rule is often memorised as a formula, but from a first-principles viewpoint it falls out naturally once you expand the expression u(x + Δx)v(x + Δx). The algebra looks simple, but there is a precise structure hidden inside it. Once you track how each increment behaves as Δx tends to zero, the product […]",
+    "keywords": [
+      "Differentiation",
+      "first principles",
+      "increment analysis",
+      "Δx method",
+      "product rule",
+      "u(x)v(x)"
+    ],
+    "levels": [],
+    "search_text": "The Product Rule (Differentiation) Differentiation & First Principles Differentiation & First Principles Differentiation first principles increment analysis Δx method product rule u(x)v(x) First-principles explanation The product rule is often memorised as a formula, but from a first-principles viewpoint it falls out naturally once you expand the expression u(x + Δx)v(x + Δx). The algebra looks simple, but there is a precise structure hidden inside it. Once you track how each increment behaves as Δx tends to zero, the product […]"
+  },
+  {
+    "id": "gi-post-96",
+    "title": "The Hidden Geometry Behind Circle Inversion: Why OA · OA′ = r²",
+    "url": "https://geometryinsights.com/2025/11/25/the-hidden-geometry-behind-circle-inversion-why-oa-%c2%b7-oa%e2%80%b2-r%c2%b2/",
+    "date": "2025-11-25",
+    "modified": "2025-11-25",
+    "subject": "Calculus",
+    "categories": [
+      "Calculus",
+      "Differentiation & First Principles",
+      "Fundamentals of Proof",
+      "Geometric Intuition"
+    ],
+    "type": "Proof",
+    "excerpt": "Circle inversion looks mysterious until you see the precise angle-chasing that forces every length into position. This construction reveals why a single geometric constraint makes the entire transformation work, leading naturally to the identity OA · OA′ = r² without memorising any formulas.",
+    "keywords": [
+      "A-Level maths",
+      "circle inversion",
+      "first principles",
+      "Geometric Intuition",
+      "geometric proof",
+      "Trigonometry"
+    ],
+    "levels": [
+      "A-Level"
+    ],
+    "search_text": "The Hidden Geometry Behind Circle Inversion: Why OA · OA′ = r² Calculus Calculus Differentiation & First Principles Fundamentals of Proof Geometric Intuition A-Level maths circle inversion first principles Geometric Intuition geometric proof Trigonometry A-Level Proof Circle inversion looks mysterious until you see the precise angle-chasing that forces every length into position. This construction reveals why a single geometric constraint makes the entire transformation work, leading naturally to the identity OA · OA′ = r² without memorising any formulas."
+  },
+  {
+    "id": "gi-post-151",
+    "title": "Prime Numbers vs Composite Numbers: The Exact Difference Explained Clearly",
+    "url": "https://geometryinsights.com/2025/11/25/prime-numbers-vs-composite-numbers-the-exact-difference-explained-clearly/",
+    "date": "2025-11-25",
+    "modified": "2025-11-25",
+    "subject": "Foundations of Mathematics",
+    "categories": [
+      "Foundations of Mathematics",
+      "Fundamentals of Proof",
+      "Number Theory"
+    ],
+    "type": "Proof",
+    "excerpt": "Prime and composite numbers appear early in mathematics, but most explanations hide the real structure behind them. This article breaks down exactly what makes a number prime, what makes it composite, and why the distinction matters for the entire number system.",
+    "keywords": [
+      "composite numbers",
+      "divisibility",
+      "factors",
+      "maths basics",
+      "Number Theory",
+      "prime numbers"
+    ],
+    "levels": [],
+    "search_text": "Prime Numbers vs Composite Numbers: The Exact Difference Explained Clearly Foundations of Mathematics Foundations of Mathematics Fundamentals of Proof Number Theory composite numbers divisibility factors maths basics Number Theory prime numbers Proof Prime and composite numbers appear early in mathematics, but most explanations hide the real structure behind them. This article breaks down exactly what makes a number prime, what makes it composite, and why the distinction matters for the entire number system."
+  },
+  {
+    "id": "gi-post-74",
+    "title": "Key Definitions Required for Product & Quotient Rule",
+    "url": "https://geometryinsights.com/2025/11/25/key-definitions-required-for-product-quotient-rule/",
+    "date": "2025-11-25",
+    "modified": "2025-11-25",
+    "subject": "Linear Algebra & Vector Spaces",
+    "categories": [
+      "Linear Algebra & Vector Spaces"
+    ],
+    "type": "Derivation",
+    "excerpt": "Before you can derive the product rule or the quotient rule from first principles, you need a small set of identities that describe how functions behave when you nudge the input by a tiny amount Δx. These identities look simple, but they are the entire engine behind the rules that appear later. If you understand […]",
+    "keywords": [
+      "Differentiation",
+      "first principles",
+      "increments",
+      "Δx analysis",
+      "product rule foundations",
+      "quotient rule foundations"
+    ],
+    "levels": [],
+    "search_text": "Key Definitions Required for Product & Quotient Rule Linear Algebra & Vector Spaces Linear Algebra & Vector Spaces Differentiation first principles increments Δx analysis product rule foundations quotient rule foundations Derivation Before you can derive the product rule or the quotient rule from first principles, you need a small set of identities that describe how functions behave when you nudge the input by a tiny amount Δx. These identities look simple, but they are the entire engine behind the rules that appear later. If you understand […]"
+  },
+  {
+    "id": "gi-post-154",
+    "title": "A Beautiful Geometric Proof of the Sine Addition Formula",
+    "url": "https://geometryinsights.com/2025/11/25/a-beautiful-geometric-proof-of-the-sine-addition-formula/",
+    "date": "2025-11-25",
+    "modified": "2025-11-25",
+    "subject": "Fundamentals of Proof",
+    "categories": [
+      "Fundamentals of Proof",
+      "Geometric Intuition",
+      "Trigonometry & Radians"
+    ],
+    "type": "Proof",
+    "excerpt": "Most students only ever see the identity sin(A + B) = sinA cosB + cosA sinB proved with algebra. This article shows a far more elegant method: a geometric proof using the areas of a single triangle.",
+    "keywords": [
+      "angle addition",
+      "geometric proof",
+      "maths identity",
+      "sine addition formula",
+      "triangle area",
+      "Trigonometry"
+    ],
+    "levels": [],
+    "search_text": "A Beautiful Geometric Proof of the Sine Addition Formula Fundamentals of Proof Fundamentals of Proof Geometric Intuition Trigonometry & Radians angle addition geometric proof maths identity sine addition formula triangle area Trigonometry Proof Most students only ever see the identity sin(A + B) = sinA cosB + cosA sinB proved with algebra. This article shows a far more elegant method: a geometric proof using the areas of a single triangle."
+  },
+  {
+    "id": "gi-post-67",
+    "title": "Differentiating Parametric Curves",
+    "url": "https://geometryinsights.com/2025/11/24/differentiating-parametric-curves/",
+    "date": "2025-11-24",
+    "modified": "2025-11-24",
+    "subject": "Calculus",
+    "categories": [
+      "Calculus",
+      "Vector Calculus"
+    ],
+    "type": "Mathematical explanation",
+    "excerpt": "Parametric curves describe motion, geometry, and change in a far more flexible way than ordinary functions. To compute their derivatives, we treat the entire curve as a vector-valued function and differentiate each component. The result is elegant, simple, and fundamental to 3D calculus.",
+    "keywords": [
+      "calculus in 3D",
+      "derivatives",
+      "Differentiation",
+      "motion in space",
+      "parametric curves",
+      "Vector Calculus"
+    ],
+    "levels": [],
+    "search_text": "Differentiating Parametric Curves Calculus Calculus Vector Calculus calculus in 3D derivatives Differentiation motion in space parametric curves Vector Calculus Mathematical explanation Parametric curves describe motion, geometry, and change in a far more flexible way than ordinary functions. To compute their derivatives, we treat the entire curve as a vector-valued function and differentiate each component. The result is elegant, simple, and fundamental to 3D calculus."
+  },
+  {
+    "id": "gi-post-62",
+    "title": "A First-Principles Approach to Arc Length",
+    "url": "https://geometryinsights.com/2025/11/24/a-first-principles-approach-to-arc-length/",
+    "date": "2025-11-24",
+    "modified": "2025-11-24",
+    "subject": "Trigonometry & Radians",
+    "categories": [
+      "Trigonometry & Radians"
+    ],
+    "type": "Mathematical explanation",
+    "excerpt": "When an angle is measured in radians, something elegant happens: the length of an arc depends only on the radius and the angle itself. With a single proportionality argument, the exact arc-length formula appears naturally.",
+    "keywords": [
+      "arc length",
+      "Circle Geometry",
+      "proportional reasoning",
+      "radians",
+      "sector arc",
+      "Trigonometry"
+    ],
+    "levels": [],
+    "search_text": "A First-Principles Approach to Arc Length Trigonometry & Radians Trigonometry & Radians arc length Circle Geometry proportional reasoning radians sector arc Trigonometry Mathematical explanation When an angle is measured in radians, something elegant happens: the length of an arc depends only on the radius and the angle itself. With a single proportionality argument, the exact arc-length formula appears naturally."
+  },
+  {
+    "id": "gi-post-56",
+    "title": "A Clean Derivation of Sector Area",
+    "url": "https://geometryinsights.com/2025/11/24/a-clean-derivation-of-sector-area/",
+    "date": "2025-11-24",
+    "modified": "2025-11-24",
+    "subject": "Trigonometry & Radians",
+    "categories": [
+      "Trigonometry & Radians"
+    ],
+    "type": "Derivation",
+    "excerpt": "When an angle is measured in radians, the area of a circular sector becomes directly proportional to that angle. Using this idea, we can derive the exact formula for the area of any sector with radius r and angle θ.",
+    "keywords": [
+      "area formula",
+      "Circle Geometry",
+      "proportional reasoning",
+      "radians",
+      "sector area",
+      "Trigonometry"
+    ],
+    "levels": [],
+    "search_text": "A Clean Derivation of Sector Area Trigonometry & Radians Trigonometry & Radians area formula Circle Geometry proportional reasoning radians sector area Trigonometry Derivation When an angle is measured in radians, the area of a circular sector becomes directly proportional to that angle. Using this idea, we can derive the exact formula for the area of any sector with radius r and angle θ."
+  },
+  {
+    "id": "gi-post-44",
+    "title": "The Geometry Behind Moving a Point of Reference",
+    "url": "https://geometryinsights.com/2025/11/23/the-geometry-behind-moving-a-point-of-reference/",
+    "date": "2025-11-23",
+    "modified": "2025-11-23",
+    "subject": "Vector Geometry & ℝ³",
+    "categories": [
+      "Vector Geometry & ℝ³"
+    ],
+    "type": "Mathematical explanation",
+    "excerpt": "Shifting a graph in three-dimensional space is simpler than it seems. One vector controls everything.",
+    "keywords": [
+      "3D geometry",
+      "coordinate shifts",
+      "graph translation",
+      "transformations in ℝ³",
+      "vector geometry"
+    ],
+    "levels": [],
+    "search_text": "The Geometry Behind Moving a Point of Reference Vector Geometry & ℝ³ Vector Geometry & ℝ³ 3D geometry coordinate shifts graph translation transformations in ℝ³ vector geometry Mathematical explanation Shifting a graph in three-dimensional space is simpler than it seems. One vector controls everything."
+  },
+  {
+    "id": "gi-post-51",
+    "title": "Connecting P(A|B) and P(B|A)",
+    "url": "https://geometryinsights.com/2025/11/23/connecting-pab-and-pba/",
+    "date": "2025-11-23",
+    "modified": "2025-11-23",
+    "subject": "Fundamentals of Proof",
+    "categories": [
+      "Fundamentals of Proof",
+      "Probability & Statistics"
+    ],
+    "type": "Proof",
+    "excerpt": "One of the most important identities in probability theory comes from nothing more than the definition of conditional probability. With a single rearrangement, a deep relationship between events appears.",
+    "keywords": [
+      "basic probability",
+      "Bayes theorem",
+      "conditional probability",
+      "derivations",
+      "intersection of events",
+      "probability proofs"
+    ],
+    "levels": [],
+    "search_text": "Connecting P(A|B) and P(B|A) Fundamentals of Proof Fundamentals of Proof Probability & Statistics basic probability Bayes theorem conditional probability derivations intersection of events probability proofs Proof One of the most important identities in probability theory comes from nothing more than the definition of conditional probability. With a single rearrangement, a deep relationship between events appears."
+  },
+  {
+    "id": "gi-post-5",
+    "title": "A Plane Constructed from a Single Perpendicular Rule",
+    "url": "https://geometryinsights.com/2025/11/23/a-plane-constructed-from-a-single-perpendicular-rule/",
+    "date": "2025-11-23",
+    "modified": "2025-11-23",
+    "subject": "Foundations of 3D Space",
+    "categories": [
+      "Foundations of 3D Space",
+      "Geometric Intuition",
+      "Linear Algebra & Vector Spaces",
+      "Planes and Dot Products",
+      "Vector Geometry & ℝ³"
+    ],
+    "type": "Mathematical explanation",
+    "excerpt": "When a single vector controls the behaviour of every point around it, a very elegant structure appears in three-dimensional space. With only one condition, the entire geometry becomes fixed. What follows is the exact description of that structure, built purely from perpendicularity.",
+    "keywords": [
+      "dot product",
+      "Linear Algebra",
+      "perpendicular vectors",
+      "planes in 3D",
+      "vector geometry"
+    ],
+    "levels": [],
+    "search_text": "A Plane Constructed from a Single Perpendicular Rule Foundations of 3D Space Foundations of 3D Space Geometric Intuition Linear Algebra & Vector Spaces Planes and Dot Products Vector Geometry & ℝ³ dot product Linear Algebra perpendicular vectors planes in 3D vector geometry Mathematical explanation When a single vector controls the behaviour of every point around it, a very elegant structure appears in three-dimensional space. With only one condition, the entire geometry becomes fixed. What follows is the exact description of that structure, built purely from perpendicularity."
+  }
+]
