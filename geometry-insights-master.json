@@ -2,11 +2,11 @@
   "schemaVersion": 2,
   "engine": "Geometry Insights Article Index",
   "site": "https://geometryinsights.com",
-  "generatedAt": "2026-09-04T00:00:00Z",
+  "generatedAt": "2026-09-15T00:00:00Z",
   "source": "Verified Geometry Insights WordPress published-post/category snapshot",
   "counts": {
-    "articles": 163,
-    "categories": 93
+    "articles": 188,
+    "categories": 102
   },
   "defaults": {
     "sort": "newest",
@@ -48,7 +48,7 @@
     {
       "id": 21439756,
       "name": "A-Level Mathematics",
-      "count": 6,
+      "count": 14,
       "parentId": 0,
       "normalizedName": "a-level mathematics",
       "aliases": []
@@ -64,7 +64,7 @@
     {
       "id": 790917744,
       "name": "Abstract Algebra",
-      "count": 2,
+      "count": 3,
       "parentId": 0,
       "normalizedName": "abstract algebra",
       "aliases": []
@@ -80,7 +80,7 @@
     {
       "id": 17236,
       "name": "Algebra",
-      "count": 22,
+      "count": 33,
       "parentId": 0,
       "normalizedName": "algebra",
       "aliases": []
@@ -88,12 +88,24 @@
     {
       "id": 2480492,
       "name": "Analytic Geometry",
-      "count": 7,
+      "count": 10,
       "parentId": 0,
       "normalizedName": "analytic geometry",
       "aliases": [
         "analytic geometry",
         "coordinate geometry"
+      ]
+    },
+    {
+      "id": 790917991,
+      "name": "Argand Diagram",
+      "count": 1,
+      "parentId": 0,
+      "normalizedName": "argand diagram",
+      "aliases": [
+        "argand",
+        "argand diagram",
+        "complex plane"
       ]
     },
     {
@@ -167,12 +179,23 @@
     {
       "id": 312360,
       "name": "Complex Numbers",
-      "count": 3,
+      "count": 14,
       "parentId": 0,
       "normalizedName": "complex numbers",
       "aliases": [
         "complex",
         "complex numbers"
+      ]
+    },
+    {
+      "id": 790917998,
+      "name": "Complex Plane",
+      "count": 1,
+      "parentId": 0,
+      "normalizedName": "complex plane",
+      "aliases": [
+        "complex plane",
+        "argand plane"
       ]
     },
     {
@@ -198,7 +221,7 @@
     {
       "id": 528196,
       "name": "Coordinate Geometry",
-      "count": 9,
+      "count": 11,
       "parentId": 0,
       "normalizedName": "coordinate geometry",
       "aliases": [
@@ -231,6 +254,18 @@
       "aliases": [
         "cross product",
         "vector product"
+      ]
+    },
+    {
+      "id": 790917996,
+      "name": "de Moivre's Theorem",
+      "count": 2,
+      "parentId": 0,
+      "normalizedName": "de moivre's theorem",
+      "aliases": [
+        "de moivre",
+        "de moivre's theorem",
+        "moivre"
       ]
     },
     {
@@ -373,7 +408,7 @@
     {
       "id": 785607259,
       "name": "Fundamentals of Proof",
-      "count": 10,
+      "count": 12,
       "parentId": 0,
       "normalizedName": "fundamentals of proof",
       "aliases": []
@@ -381,7 +416,7 @@
     {
       "id": 790917759,
       "name": "Further A-Level Mathematics",
-      "count": 2,
+      "count": 11,
       "parentId": 0,
       "normalizedName": "further a-level mathematics",
       "aliases": []
@@ -389,7 +424,7 @@
     {
       "id": 215824481,
       "name": "Further Pure Mathematics",
-      "count": 12,
+      "count": 17,
       "parentId": 0,
       "normalizedName": "further pure mathematics",
       "aliases": []
@@ -497,7 +532,7 @@
     {
       "id": 790917605,
       "name": "Inverses",
-      "count": 5,
+      "count": 6,
       "parentId": 0,
       "normalizedName": "inverses",
       "aliases": [
@@ -539,7 +574,7 @@
     {
       "id": 69043,
       "name": "Linear Algebra",
-      "count": 13,
+      "count": 17,
       "parentId": 0,
       "normalizedName": "linear algebra",
       "aliases": [
@@ -579,7 +614,7 @@
     {
       "id": 790917811,
       "name": "Mathematical Induction",
-      "count": 3,
+      "count": 4,
       "parentId": 0,
       "normalizedName": "mathematical induction",
       "aliases": [
@@ -598,7 +633,7 @@
     {
       "id": 301164,
       "name": "Matrices",
-      "count": 22,
+      "count": 24,
       "parentId": 0,
       "normalizedName": "matrices",
       "aliases": [
@@ -624,6 +659,18 @@
         "mechanics",
         "motion",
         "kinematics"
+      ]
+    },
+    {
+      "id": 790917948,
+      "name": "Method of Differences",
+      "count": 4,
+      "parentId": 0,
+      "normalizedName": "method of differences",
+      "aliases": [
+        "method of differences",
+        "telescoping",
+        "telescoping sums"
       ]
     },
     {
@@ -674,7 +721,7 @@
     {
       "id": 14693289,
       "name": "Parametric Equations",
-      "count": 2,
+      "count": 3,
       "parentId": 0,
       "normalizedName": "parametric equations",
       "aliases": [
@@ -685,7 +732,7 @@
     {
       "id": 453027324,
       "name": "Parametric Surfaces",
-      "count": 1,
+      "count": 2,
       "parentId": 0,
       "normalizedName": "parametric surfaces",
       "aliases": [
@@ -721,6 +768,17 @@
       ]
     },
     {
+      "id": 790917942,
+      "name": "Planes",
+      "count": 1,
+      "parentId": 0,
+      "normalizedName": "planes",
+      "aliases": [
+        "plane",
+        "planes"
+      ]
+    },
+    {
       "id": 785604890,
       "name": "Planes and Dot Products",
       "count": 1,
@@ -738,6 +796,18 @@
         "variance",
         "population variance",
         "statistics"
+      ]
+    },
+    {
+      "id": 790917993,
+      "name": "Principal Argument",
+      "count": 2,
+      "parentId": 0,
+      "normalizedName": "principal argument",
+      "aliases": [
+        "principal argument",
+        "argument",
+        "arg"
       ]
     },
     {
@@ -765,7 +835,7 @@
     {
       "id": 2761711,
       "name": "Quadratics",
-      "count": 1,
+      "count": 2,
       "parentId": 0,
       "normalizedName": "quadratics",
       "aliases": [
@@ -795,7 +865,7 @@
     {
       "id": 718092,
       "name": "Sequences & Series",
-      "count": 5,
+      "count": 8,
       "parentId": 0,
       "normalizedName": "sequences series",
       "aliases": [
@@ -834,17 +904,40 @@
       "aliases": []
     },
     {
+      "id": 790917951,
+      "name": "Summation",
+      "count": 2,
+      "parentId": 0,
+      "normalizedName": "summation",
+      "aliases": [
+        "summation",
+        "sigma",
+        "finite sums"
+      ]
+    },
+    {
       "id": 790917682,
       "name": "Transformations",
-      "count": 2,
+      "count": 3,
       "parentId": 0,
       "normalizedName": "transformations",
       "aliases": []
     },
     {
+      "id": 790917997,
+      "name": "Trigonometric identities",
+      "count": 1,
+      "parentId": 0,
+      "normalizedName": "trigonometric identities",
+      "aliases": [
+        "trig identities",
+        "trigonometric identities"
+      ]
+    },
+    {
       "id": 195977,
       "name": "Trigonometry",
-      "count": 13,
+      "count": 14,
       "parentId": 0,
       "normalizedName": "trigonometry",
       "aliases": [
@@ -880,7 +973,7 @@
     {
       "id": 790917620,
       "name": "Vector Geometry & ℝ²",
-      "count": 4,
+      "count": 6,
       "parentId": 0,
       "normalizedName": "vector geometry r2 2d real2",
       "aliases": [
@@ -904,9 +997,20 @@
       ]
     },
     {
+      "id": 790917957,
+      "name": "Vector Spaces",
+      "count": 1,
+      "parentId": 0,
+      "normalizedName": "vector spaces",
+      "aliases": [
+        "vector space",
+        "vector spaces"
+      ]
+    },
+    {
       "id": 467439,
       "name": "Vectors",
-      "count": 27,
+      "count": 29,
       "parentId": 0,
       "normalizedName": "vectors",
       "aliases": [
@@ -936,6 +1040,1020 @@
     }
   ],
   "articles": [
+    {
+      "title": "zⁿ = rⁿ(cos nθ + i sin nθ) — Proof of de Moivre’s Theorem for Negative Integers",
+      "url": "https://geometryinsights.com/2026/09/15/z%e2%81%bf-r%e2%81%bfcos-n%ce%b8-i-sin-n%ce%b8-proof-of-de-moivres-theorem-for-negative-integers/",
+      "date": "2026-09-15",
+      "slug": "zⁿ-rⁿcos-nθ-i-sin-nθ-proof-of-de-moivres-theorem-for-negative-integers",
+      "categoryIds": [
+        312360,
+        790917996,
+        195977
+      ],
+      "categories": [
+        {
+          "id": 312360,
+          "name": "Complex Numbers"
+        },
+        {
+          "id": 790917996,
+          "name": "de Moivre's Theorem"
+        },
+        {
+          "id": 195977,
+          "name": "Trigonometry"
+        }
+      ],
+      "categoryNames": [
+        "Complex Numbers",
+        "de Moivre's Theorem",
+        "Trigonometry"
+      ],
+      "searchAliases": [
+        "complex",
+        "complex numbers",
+        "de moivre",
+        "de moivre's theorem",
+        "moivre",
+        "trig",
+        "trigonometric",
+        "trigonometry"
+      ],
+      "searchText": "zn rn cos n theta + i sin n theta proof of de moivre's theorem for negative integers complex numbers de moivre's theorem trigonometry complex complex numbers de moivre de moivre's theorem moivre trig trigonometric trigonometry"
+    },
+    {
+      "title": "zⁿ = rⁿ(cos nθ + i sin nθ) — Proof of de Moivre’s Theorem by Mathematical Induction",
+      "url": "https://geometryinsights.com/2026/09/14/z%e2%81%bf-r%e2%81%bfcos-n%ce%b8-i-sin-n%ce%b8-proof-of-de-moivres-theorem-by-mathematical-induction/",
+      "date": "2026-09-14",
+      "slug": "zⁿ-rⁿcos-nθ-i-sin-nθ-proof-of-de-moivres-theorem-by-mathematical-induction",
+      "categoryIds": [
+        21439756,
+        312360,
+        790917998,
+        790917996,
+        790917759,
+        215824481,
+        790917811,
+        790917997
+      ],
+      "categories": [
+        {
+          "id": 21439756,
+          "name": "A-Level Mathematics"
+        },
+        {
+          "id": 312360,
+          "name": "Complex Numbers"
+        },
+        {
+          "id": 790917998,
+          "name": "Complex Plane"
+        },
+        {
+          "id": 790917996,
+          "name": "de Moivre's Theorem"
+        },
+        {
+          "id": 790917759,
+          "name": "Further A-Level Mathematics"
+        },
+        {
+          "id": 215824481,
+          "name": "Further Pure Mathematics"
+        },
+        {
+          "id": 790917811,
+          "name": "Mathematical Induction"
+        },
+        {
+          "id": 790917997,
+          "name": "Trigonometric identities"
+        }
+      ],
+      "categoryNames": [
+        "A-Level Mathematics",
+        "Complex Numbers",
+        "Complex Plane",
+        "de Moivre's Theorem",
+        "Further A-Level Mathematics",
+        "Further Pure Mathematics",
+        "Mathematical Induction",
+        "Trigonometric identities"
+      ],
+      "searchAliases": [
+        "argand plane",
+        "complex",
+        "complex numbers",
+        "complex plane",
+        "de moivre",
+        "de moivre's theorem",
+        "induction",
+        "mathematical induction",
+        "moivre",
+        "trig identities",
+        "trigonometric identities"
+      ],
+      "searchText": "zn rn cos n theta + i sin n theta proof of de moivre's theorem by mathematical induction a-level mathematics complex numbers complex plane de moivre's theorem further a-level mathematics further pure mathematics mathematical induction trigonometric identities argand plane complex complex numbers complex plane de moivre de moivre's theorem induction mathematical induction moivre trig identities trigonometric identities"
+    },
+    {
+      "title": "arg(z₁/z₂) = arg(z₁) − arg(z₂) — Argument of the Quotient of Two Complex Numbers",
+      "url": "https://geometryinsights.com/2026/09/14/argz%e2%82%81-z%e2%82%82-argz%e2%82%81-%e2%88%92-argz%e2%82%82-argument-of-the-quotient-of-two-complex-numbers/",
+      "date": "2026-09-14",
+      "slug": "argz₁-z₂-argz₁-−-argz₂-argument-of-the-quotient-of-two-complex-numbers",
+      "categoryIds": [
+        312360,
+        790917993
+      ],
+      "categories": [
+        {
+          "id": 312360,
+          "name": "Complex Numbers"
+        },
+        {
+          "id": 790917993,
+          "name": "Principal Argument"
+        }
+      ],
+      "categoryNames": [
+        "Complex Numbers",
+        "Principal Argument"
+      ],
+      "searchAliases": [
+        "arg",
+        "argument",
+        "complex",
+        "complex numbers",
+        "principal argument"
+      ],
+      "searchText": "arg z1/z2 arg z1 - arg z2 argument of the quotient of two complex numbers complex numbers principal argument arg argument complex complex numbers principal argument"
+    },
+    {
+      "title": "arg(z₁z₂) = arg(z₁) + arg(z₂) — Argument of the Product of Two Complex Numbers",
+      "url": "https://geometryinsights.com/2026/09/14/argz%e2%82%81z%e2%82%82-argz%e2%82%81-argz%e2%82%82-argument-of-the-product-of-two-complex-numbers/",
+      "date": "2026-09-14",
+      "slug": "argz₁z₂-argz₁-argz₂-argument-of-the-product-of-two-complex-numbers",
+      "categoryIds": [
+        312360,
+        790917993
+      ],
+      "categories": [
+        {
+          "id": 312360,
+          "name": "Complex Numbers"
+        },
+        {
+          "id": 790917993,
+          "name": "Principal Argument"
+        }
+      ],
+      "categoryNames": [
+        "Complex Numbers",
+        "Principal Argument"
+      ],
+      "searchAliases": [
+        "arg",
+        "argument",
+        "complex",
+        "complex numbers",
+        "principal argument"
+      ],
+      "searchText": "arg z1z2 arg z1 + arg z2 argument of the product of two complex numbers complex numbers principal argument arg argument complex complex numbers principal argument"
+    },
+    {
+      "title": "Modulus–Argument Form of a Complex Number",
+      "url": "https://geometryinsights.com/2026/09/14/modulus-argument-form-of-a-complex-number/",
+      "date": "2026-09-14",
+      "slug": "modulus-argument-form-of-a-complex-number",
+      "categoryIds": [
+        790917991,
+        312360
+      ],
+      "categories": [
+        {
+          "id": 790917991,
+          "name": "Argand Diagram"
+        },
+        {
+          "id": 312360,
+          "name": "Complex Numbers"
+        }
+      ],
+      "categoryNames": [
+        "Argand Diagram",
+        "Complex Numbers"
+      ],
+      "searchAliases": [
+        "argand",
+        "argand diagram",
+        "complex",
+        "complex numbers",
+        "complex plane"
+      ],
+      "searchText": "modulus argument form of a complex number argand diagram complex numbers argand argand diagram complex complex numbers complex plane"
+    },
+    {
+      "title": "Why Does |z₁/z₂| = |z₁|/|z₂| for Complex Numbers?",
+      "url": "https://geometryinsights.com/2026/09/11/why-does-z%e2%82%81-z%e2%82%82-z%e2%82%81-z%e2%82%82-for-complex-numbers/",
+      "date": "2026-09-11",
+      "slug": "why-does-z₁-z₂-z₁-z₂-for-complex-numbers",
+      "categoryIds": [
+        312360,
+        790917759,
+        215824481
+      ],
+      "categories": [
+        {
+          "id": 312360,
+          "name": "Complex Numbers"
+        },
+        {
+          "id": 790917759,
+          "name": "Further A-Level Mathematics"
+        },
+        {
+          "id": 215824481,
+          "name": "Further Pure Mathematics"
+        }
+      ],
+      "categoryNames": [
+        "Complex Numbers",
+        "Further A-Level Mathematics",
+        "Further Pure Mathematics"
+      ],
+      "searchAliases": [
+        "complex",
+        "complex numbers"
+      ],
+      "searchText": "why does z1/z2 z1 / z2 for complex numbers complex numbers further a-level mathematics further pure mathematics complex complex numbers"
+    },
+    {
+      "title": "Why Does Squaring z = a + bi Give (a² − b², 2ab) and |z²| = |z|²?",
+      "url": "https://geometryinsights.com/2026/09/11/why-does-squaring-z-a-bi-give-a%c2%b2-%e2%88%92-b%c2%b2-2ab-and-z%c2%b2-z%c2%b2/",
+      "date": "2026-09-11",
+      "slug": "why-does-squaring-z-a-bi-give-a²-−-b²-2ab-and-z²-z²",
+      "categoryIds": [
+        312360,
+        790917759,
+        215824481
+      ],
+      "categories": [
+        {
+          "id": 312360,
+          "name": "Complex Numbers"
+        },
+        {
+          "id": 790917759,
+          "name": "Further A-Level Mathematics"
+        },
+        {
+          "id": 215824481,
+          "name": "Further Pure Mathematics"
+        }
+      ],
+      "categoryNames": [
+        "Complex Numbers",
+        "Further A-Level Mathematics",
+        "Further Pure Mathematics"
+      ],
+      "searchAliases": [
+        "complex",
+        "complex numbers"
+      ],
+      "searchText": "why does squaring z a + bi give a2 - b2 2ab and z2 z 2 complex numbers further a-level mathematics further pure mathematics complex complex numbers"
+    },
+    {
+      "title": "Why Does |z₁z₂| = |z₁||z₂| for Complex Numbers?",
+      "url": "https://geometryinsights.com/2026/09/11/why-does-z%e2%82%81z%e2%82%82-z%e2%82%81z%e2%82%82-for-complex-numbers/",
+      "date": "2026-09-11",
+      "slug": "why-does-z₁z₂-z₁z₂-for-complex-numbers",
+      "categoryIds": [
+        17236,
+        312360,
+        790917759,
+        215824481
+      ],
+      "categories": [
+        {
+          "id": 17236,
+          "name": "Algebra"
+        },
+        {
+          "id": 312360,
+          "name": "Complex Numbers"
+        },
+        {
+          "id": 790917759,
+          "name": "Further A-Level Mathematics"
+        },
+        {
+          "id": 215824481,
+          "name": "Further Pure Mathematics"
+        }
+      ],
+      "categoryNames": [
+        "Algebra",
+        "Complex Numbers",
+        "Further A-Level Mathematics",
+        "Further Pure Mathematics"
+      ],
+      "searchAliases": [
+        "complex",
+        "complex numbers"
+      ],
+      "searchText": "why does z1z2 z1 z2 for complex numbers algebra complex numbers further a-level mathematics further pure mathematics complex complex numbers"
+    },
+    {
+      "title": "Why Do Quadratics with a Negative Discriminant Have Complex Conjugate Roots?",
+      "url": "https://geometryinsights.com/2026/09/11/why-do-quadratics-with-a-negative-discriminant-have-complex-conjugate-roots/",
+      "date": "2026-09-11",
+      "slug": "why-do-quadratics-with-a-negative-discriminant-have-complex-conjugate-roots",
+      "categoryIds": [
+        21439756,
+        312360,
+        790917759,
+        2761711
+      ],
+      "categories": [
+        {
+          "id": 21439756,
+          "name": "A-Level Mathematics"
+        },
+        {
+          "id": 312360,
+          "name": "Complex Numbers"
+        },
+        {
+          "id": 790917759,
+          "name": "Further A-Level Mathematics"
+        },
+        {
+          "id": 2761711,
+          "name": "Quadratics"
+        }
+      ],
+      "categoryNames": [
+        "A-Level Mathematics",
+        "Complex Numbers",
+        "Further A-Level Mathematics",
+        "Quadratics"
+      ],
+      "searchAliases": [
+        "complex",
+        "complex numbers",
+        "quadratic",
+        "quadratics"
+      ],
+      "searchText": "why do quadratics with a negative discriminant have complex conjugate roots a-level mathematics complex numbers further a-level mathematics quadratics complex complex numbers quadratic quadratics"
+    },
+    {
+      "title": "Why Are the Complex Numbers an Abelian Group Under Addition?",
+      "url": "https://geometryinsights.com/2026/09/11/why-are-the-complex-numbers-an-abelian-group-under-addition/",
+      "date": "2026-09-11",
+      "slug": "why-are-the-complex-numbers-an-abelian-group-under-addition",
+      "categoryIds": [
+        17236,
+        312360
+      ],
+      "categories": [
+        {
+          "id": 17236,
+          "name": "Algebra"
+        },
+        {
+          "id": 312360,
+          "name": "Complex Numbers"
+        }
+      ],
+      "categoryNames": [
+        "Algebra",
+        "Complex Numbers"
+      ],
+      "searchAliases": [
+        "complex",
+        "complex numbers"
+      ],
+      "searchText": "why are the complex numbers an abelian group under addition algebra complex numbers complex complex numbers"
+    },
+    {
+      "title": "Complex Numbers as Ordered Pairs: Addition, Multiplication, Conjugates and Division",
+      "url": "https://geometryinsights.com/2026/09/11/complex-numbers-as-ordered-pairs-addition-multiplication-conjugates-and-division/",
+      "date": "2026-09-11",
+      "slug": "complex-numbers-as-ordered-pairs-addition-multiplication-conjugates-and-division",
+      "categoryIds": [
+        17236,
+        312360
+      ],
+      "categories": [
+        {
+          "id": 17236,
+          "name": "Algebra"
+        },
+        {
+          "id": 312360,
+          "name": "Complex Numbers"
+        }
+      ],
+      "categoryNames": [
+        "Algebra",
+        "Complex Numbers"
+      ],
+      "searchAliases": [
+        "complex",
+        "complex numbers"
+      ],
+      "searchText": "complex numbers as ordered pairs addition multiplication conjugates and division algebra complex numbers complex complex numbers"
+    },
+    {
+      "title": "What Is a Real Vector Space? Abelian Groups and Scalar Multiplication over ℝ",
+      "url": "https://geometryinsights.com/2026/09/11/what-is-a-real-vector-space-abelian-groups-and-scalar-multiplication-over-%e2%84%9d/",
+      "date": "2026-09-11",
+      "slug": "what-is-a-real-vector-space-abelian-groups-and-scalar-multiplication-over-ℝ",
+      "categoryIds": [
+        790917744,
+        69043,
+        790917957,
+        467439
+      ],
+      "categories": [
+        {
+          "id": 790917744,
+          "name": "Abstract Algebra"
+        },
+        {
+          "id": 69043,
+          "name": "Linear Algebra"
+        },
+        {
+          "id": 790917957,
+          "name": "Vector Spaces"
+        },
+        {
+          "id": 467439,
+          "name": "Vectors"
+        }
+      ],
+      "categoryNames": [
+        "Abstract Algebra",
+        "Linear Algebra",
+        "Vector Spaces",
+        "Vectors"
+      ],
+      "searchAliases": [
+        "linear algebra",
+        "vector",
+        "vector space",
+        "vector spaces",
+        "vectors"
+      ],
+      "searchText": "what is a real vector space abelian groups and scalar multiplication over real abstract algebra linear algebra vector spaces vectors linear algebra vector vector space vector spaces vectors"
+    },
+    {
+      "title": "Deriving ∑ r Using the Method of Differences",
+      "url": "https://geometryinsights.com/2026/09/09/deriving-%e2%88%91-r-using-the-method-of-differences/",
+      "date": "2026-09-09",
+      "slug": "deriving-∑-r-using-the-method-of-differences",
+      "categoryIds": [
+        17236,
+        790917948,
+        790917951
+      ],
+      "categories": [
+        {
+          "id": 17236,
+          "name": "Algebra"
+        },
+        {
+          "id": 790917948,
+          "name": "Method of Differences"
+        },
+        {
+          "id": 790917951,
+          "name": "Summation"
+        }
+      ],
+      "categoryNames": [
+        "Algebra",
+        "Method of Differences",
+        "Summation"
+      ],
+      "searchAliases": [
+        "finite sums",
+        "method of differences",
+        "sigma",
+        "summation",
+        "telescoping",
+        "telescoping sums"
+      ],
+      "searchText": "deriving sigma sum r using the method of differences algebra method of differences summation finite sums method of differences sigma summation telescoping telescoping sums"
+    },
+    {
+      "title": "Evaluating ∑ r/(r + 1)! by the Method of Differences",
+      "url": "https://geometryinsights.com/2026/09/09/evaluating-%e2%88%91-r-r-1-by-the-method-of-differences/",
+      "date": "2026-09-09",
+      "slug": "evaluating-∑-r-r-1-by-the-method-of-differences",
+      "categoryIds": [
+        17236,
+        790917759,
+        790917948,
+        790917951
+      ],
+      "categories": [
+        {
+          "id": 17236,
+          "name": "Algebra"
+        },
+        {
+          "id": 790917759,
+          "name": "Further A-Level Mathematics"
+        },
+        {
+          "id": 790917948,
+          "name": "Method of Differences"
+        },
+        {
+          "id": 790917951,
+          "name": "Summation"
+        }
+      ],
+      "categoryNames": [
+        "Algebra",
+        "Further A-Level Mathematics",
+        "Method of Differences",
+        "Summation"
+      ],
+      "searchAliases": [
+        "finite sums",
+        "method of differences",
+        "sigma",
+        "summation",
+        "telescoping",
+        "telescoping sums"
+      ],
+      "searchText": "evaluating sigma sum r/ r + 1 by the method of differences algebra further a-level mathematics method of differences summation finite sums method of differences sigma summation telescoping telescoping sums"
+    },
+    {
+      "title": "How to Show That r/(r + 1)! ≡ 1/r! − 1/(r + 1)!",
+      "url": "https://geometryinsights.com/2026/09/09/how-to-show-that-r-r-1-%e2%89%a1-1-r-%e2%88%92-1-r-1/",
+      "date": "2026-09-09",
+      "slug": "how-to-show-that-r-r-1-≡-1-r-−-1-r-1",
+      "categoryIds": [
+        21439756,
+        17236,
+        785607259
+      ],
+      "categories": [
+        {
+          "id": 21439756,
+          "name": "A-Level Mathematics"
+        },
+        {
+          "id": 17236,
+          "name": "Algebra"
+        },
+        {
+          "id": 785607259,
+          "name": "Fundamentals of Proof"
+        }
+      ],
+      "categoryNames": [
+        "A-Level Mathematics",
+        "Algebra",
+        "Fundamentals of Proof"
+      ],
+      "searchAliases": [],
+      "searchText": "how to show that r/ r + 1 congruence 1/r - 1/ r + 1 a-level mathematics algebra fundamentals of proof"
+    },
+    {
+      "title": "Evaluating ∑ 1/[r(r + 1)] by the Method of Differences",
+      "url": "https://geometryinsights.com/2026/09/09/evaluating-%e2%88%91-1-rr-1-by-the-method-of-differences/",
+      "date": "2026-09-09",
+      "slug": "evaluating-∑-1-rr-1-by-the-method-of-differences",
+      "categoryIds": [
+        17236,
+        790917759,
+        790917948
+      ],
+      "categories": [
+        {
+          "id": 17236,
+          "name": "Algebra"
+        },
+        {
+          "id": 790917759,
+          "name": "Further A-Level Mathematics"
+        },
+        {
+          "id": 790917948,
+          "name": "Method of Differences"
+        }
+      ],
+      "categoryNames": [
+        "Algebra",
+        "Further A-Level Mathematics",
+        "Method of Differences"
+      ],
+      "searchAliases": [
+        "method of differences",
+        "telescoping",
+        "telescoping sums"
+      ],
+      "searchText": "evaluating sigma sum 1/ r r + 1 by the method of differences algebra further a-level mathematics method of differences method of differences telescoping telescoping sums"
+    },
+    {
+      "title": "How to Verify the Identity 1/[r(r + 1)] ≡ 1/r − 1/(r + 1)",
+      "url": "https://geometryinsights.com/2026/09/09/how-to-verify-the-identity-1-rr-1-%e2%89%a1-1-r-%e2%88%92-1-r-1/",
+      "date": "2026-09-09",
+      "slug": "how-to-verify-the-identity-1-rr-1-≡-1-r-−-1-r-1",
+      "categoryIds": [
+        21439756,
+        17236,
+        790917948
+      ],
+      "categories": [
+        {
+          "id": 21439756,
+          "name": "A-Level Mathematics"
+        },
+        {
+          "id": 17236,
+          "name": "Algebra"
+        },
+        {
+          "id": 790917948,
+          "name": "Method of Differences"
+        }
+      ],
+      "categoryNames": [
+        "A-Level Mathematics",
+        "Algebra",
+        "Method of Differences"
+      ],
+      "searchAliases": [
+        "method of differences",
+        "telescoping",
+        "telescoping sums"
+      ],
+      "searchText": "how to verify the identity 1/ r r + 1 congruence 1/r - 1/ r + 1 a-level mathematics algebra method of differences method of differences telescoping telescoping sums"
+    },
+    {
+      "title": "Deriving the Sum of Cubes Formula Using the Method of Differences",
+      "url": "https://geometryinsights.com/2026/09/09/deriving-the-sum-of-cubes-formula-using-the-method-of-differences/",
+      "date": "2026-09-09",
+      "slug": "deriving-the-sum-of-cubes-formula-using-the-method-of-differences",
+      "categoryIds": [
+        21439756,
+        790917759,
+        718092
+      ],
+      "categories": [
+        {
+          "id": 21439756,
+          "name": "A-Level Mathematics"
+        },
+        {
+          "id": 790917759,
+          "name": "Further A-Level Mathematics"
+        },
+        {
+          "id": 718092,
+          "name": "Sequences & Series"
+        }
+      ],
+      "categoryNames": [
+        "A-Level Mathematics",
+        "Further A-Level Mathematics",
+        "Sequences & Series"
+      ],
+      "searchAliases": [
+        "progression",
+        "sequence",
+        "sequences",
+        "series"
+      ],
+      "searchText": "deriving the sum of cubes formula using the method of differences a-level mathematics further a-level mathematics sequences series progression sequence sequences series"
+    },
+    {
+      "title": "How to Show That 4r³ ≡ r²(r + 1)² − (r − 1)²r²",
+      "url": "https://geometryinsights.com/2026/09/09/how-to-show-that-4r%c2%b3-%e2%89%a1-r%c2%b2r-1%c2%b2-%e2%88%92-r-%e2%88%92-1%c2%b2r%c2%b2/",
+      "date": "2026-09-09",
+      "slug": "how-to-show-that-4r³-≡-r²r-1²-−-r-−-1²r²",
+      "categoryIds": [
+        21439756,
+        17236,
+        785607259
+      ],
+      "categories": [
+        {
+          "id": 21439756,
+          "name": "A-Level Mathematics"
+        },
+        {
+          "id": 17236,
+          "name": "Algebra"
+        },
+        {
+          "id": 785607259,
+          "name": "Fundamentals of Proof"
+        }
+      ],
+      "categoryNames": [
+        "A-Level Mathematics",
+        "Algebra",
+        "Fundamentals of Proof"
+      ],
+      "searchAliases": [],
+      "searchText": "how to show that 4r3 congruence r2 r + 1 2 - r - 1 2r2 a-level mathematics algebra fundamentals of proof"
+    },
+    {
+      "title": "The Method of Differences Explained: Type 2",
+      "url": "https://geometryinsights.com/2026/09/09/the-method-of-differences-explained-type-2/",
+      "date": "2026-09-09",
+      "slug": "the-method-of-differences-explained-type-2",
+      "categoryIds": [
+        21439756,
+        17236,
+        718092
+      ],
+      "categories": [
+        {
+          "id": 21439756,
+          "name": "A-Level Mathematics"
+        },
+        {
+          "id": 17236,
+          "name": "Algebra"
+        },
+        {
+          "id": 718092,
+          "name": "Sequences & Series"
+        }
+      ],
+      "categoryNames": [
+        "A-Level Mathematics",
+        "Algebra",
+        "Sequences & Series"
+      ],
+      "searchAliases": [
+        "progression",
+        "sequence",
+        "sequences",
+        "series"
+      ],
+      "searchText": "the method of differences explained type 2 a-level mathematics algebra sequences series progression sequence sequences series"
+    },
+    {
+      "title": "The Method of Differences Explained",
+      "url": "https://geometryinsights.com/2026/09/09/the-method-of-differences-explained/",
+      "date": "2026-09-09",
+      "slug": "the-method-of-differences-explained",
+      "categoryIds": [
+        21439756,
+        17236,
+        718092
+      ],
+      "categories": [
+        {
+          "id": 21439756,
+          "name": "A-Level Mathematics"
+        },
+        {
+          "id": 17236,
+          "name": "Algebra"
+        },
+        {
+          "id": 718092,
+          "name": "Sequences & Series"
+        }
+      ],
+      "categoryNames": [
+        "A-Level Mathematics",
+        "Algebra",
+        "Sequences & Series"
+      ],
+      "searchAliases": [
+        "progression",
+        "sequence",
+        "sequences",
+        "series"
+      ],
+      "searchText": "the method of differences explained a-level mathematics algebra sequences series progression sequence sequences series"
+    },
+    {
+      "title": "Generating the Plane Determined by Two Linearly Independent Vectors in ℝ³",
+      "url": "https://geometryinsights.com/2026/09/07/generating-the-plane-determined-by-two-linearly-independent-vectors-in-%e2%84%9d%c2%b3/",
+      "date": "2026-09-07",
+      "slug": "generating-the-plane-determined-by-two-linearly-independent-vectors-in-ℝ³",
+      "categoryIds": [
+        2480492,
+        69043,
+        790917942,
+        790917620
+      ],
+      "categories": [
+        {
+          "id": 2480492,
+          "name": "Analytic Geometry"
+        },
+        {
+          "id": 69043,
+          "name": "Linear Algebra"
+        },
+        {
+          "id": 790917942,
+          "name": "Planes"
+        },
+        {
+          "id": 790917620,
+          "name": "Vector Geometry & ℝ²"
+        }
+      ],
+      "categoryNames": [
+        "Analytic Geometry",
+        "Linear Algebra",
+        "Planes",
+        "Vector Geometry & ℝ²"
+      ],
+      "searchAliases": [
+        "2-dimensional",
+        "2d",
+        "analytic geometry",
+        "coordinate geometry",
+        "linear algebra",
+        "plane",
+        "planes",
+        "r2",
+        "vector geometry",
+        "vector spaces"
+      ],
+      "searchText": "generating the plane determined by two linearly independent vectors in r3 3d real3 analytic geometry linear algebra planes vector geometry r2 2d real2 2-dimensional 2d analytic geometry coordinate geometry linear algebra plane planes r2 vector geometry vector spaces"
+    },
+    {
+      "title": "Deriving the Cartesian Equation of an Ellipsoid Centred at (h, k, l) in ℝ³",
+      "url": "https://geometryinsights.com/2026/09/07/deriving-the-cartesian-equation-of-an-ellipsoid-centred-at-h-k-l-in-%e2%84%9d%c2%b3/",
+      "date": "2026-09-07",
+      "slug": "deriving-the-cartesian-equation-of-an-ellipsoid-centred-at-h-k-l-in-ℝ³",
+      "categoryIds": [
+        2480492,
+        528196,
+        14693289,
+        453027324,
+        790917682,
+        790917620,
+        467439
+      ],
+      "categories": [
+        {
+          "id": 2480492,
+          "name": "Analytic Geometry"
+        },
+        {
+          "id": 528196,
+          "name": "Coordinate Geometry"
+        },
+        {
+          "id": 14693289,
+          "name": "Parametric Equations"
+        },
+        {
+          "id": 453027324,
+          "name": "Parametric Surfaces"
+        },
+        {
+          "id": 790917682,
+          "name": "Transformations"
+        },
+        {
+          "id": 790917620,
+          "name": "Vector Geometry & ℝ²"
+        },
+        {
+          "id": 467439,
+          "name": "Vectors"
+        }
+      ],
+      "categoryNames": [
+        "Analytic Geometry",
+        "Coordinate Geometry",
+        "Parametric Equations",
+        "Parametric Surfaces",
+        "Transformations",
+        "Vector Geometry & ℝ²",
+        "Vectors"
+      ],
+      "searchAliases": [
+        "2-dimensional",
+        "2d",
+        "analytic geometry",
+        "coordinate geometry",
+        "coordinates",
+        "parametric",
+        "parametric equations",
+        "parametric surfaces",
+        "r2",
+        "surfaces",
+        "vector",
+        "vector geometry",
+        "vectors"
+      ],
+      "searchText": "deriving the cartesian equation of an ellipsoid centred at h k l in r3 3d real3 analytic geometry coordinate geometry parametric equations parametric surfaces transformations vector geometry r2 2d real2 vectors 2-dimensional 2d analytic geometry coordinate geometry coordinates parametric parametric equations parametric surfaces r2 surfaces vector vector geometry vectors"
+    },
+    {
+      "title": "Solving the Matrix Problem for Two Intersecting Lines in ℝ²",
+      "url": "https://geometryinsights.com/2026/09/07/solving-the-matrix-problem-for-two-intersecting-lines-in-%e2%84%9d%c2%b2/",
+      "date": "2026-09-07",
+      "slug": "solving-the-matrix-problem-for-two-intersecting-lines-in-ℝ²",
+      "categoryIds": [
+        790917759,
+        215824481,
+        790917605,
+        69043,
+        301164
+      ],
+      "categories": [
+        {
+          "id": 790917759,
+          "name": "Further A-Level Mathematics"
+        },
+        {
+          "id": 215824481,
+          "name": "Further Pure Mathematics"
+        },
+        {
+          "id": 790917605,
+          "name": "Inverses"
+        },
+        {
+          "id": 69043,
+          "name": "Linear Algebra"
+        },
+        {
+          "id": 301164,
+          "name": "Matrices"
+        }
+      ],
+      "categoryNames": [
+        "Further A-Level Mathematics",
+        "Further Pure Mathematics",
+        "Inverses",
+        "Linear Algebra",
+        "Matrices"
+      ],
+      "searchAliases": [
+        "inverse",
+        "inverses",
+        "linear algebra",
+        "matrices",
+        "matrix",
+        "vector spaces"
+      ],
+      "searchText": "solving the matrix problem for two intersecting lines in r2 2d real2 further a-level mathematics further pure mathematics inverses linear algebra matrices inverse inverses linear algebra matrices matrix vector spaces"
+    },
+    {
+      "title": "Two Intersecting Lines in ℝ² and the Resulting Matrix Problem",
+      "url": "https://geometryinsights.com/2026/09/07/two-intersecting-lines-in-%e2%84%9d%c2%b2-and-the-resulting-matrix-problem/",
+      "date": "2026-09-07",
+      "slug": "two-intersecting-lines-in-ℝ²-and-the-resulting-matrix-problem",
+      "categoryIds": [
+        2480492,
+        528196,
+        69043,
+        301164
+      ],
+      "categories": [
+        {
+          "id": 2480492,
+          "name": "Analytic Geometry"
+        },
+        {
+          "id": 528196,
+          "name": "Coordinate Geometry"
+        },
+        {
+          "id": 69043,
+          "name": "Linear Algebra"
+        },
+        {
+          "id": 301164,
+          "name": "Matrices"
+        }
+      ],
+      "categoryNames": [
+        "Analytic Geometry",
+        "Coordinate Geometry",
+        "Linear Algebra",
+        "Matrices"
+      ],
+      "searchAliases": [
+        "analytic geometry",
+        "coordinate geometry",
+        "coordinates",
+        "linear algebra",
+        "matrices",
+        "matrix",
+        "vector spaces"
+      ],
+      "searchText": "two intersecting lines in r2 2d real2 and the resulting matrix problem analytic geometry coordinate geometry linear algebra matrices analytic geometry coordinate geometry coordinates linear algebra matrices matrix vector spaces"
+    },
     {
       "title": "The Decimal Number System: Place Value and Powers of Ten",
       "url": "https://geometryinsights.com/2026/09/04/the-decimal-number-system-place-value-and-powers-of-ten/",
