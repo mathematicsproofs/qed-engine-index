@@ -2,11 +2,11 @@
   "schemaVersion": 2,
   "engine": "Geometry Insights Article Index",
   "site": "https://geometryinsights.com",
-  "generatedAt": "2026-09-15T00:00:00Z",
+  "generatedAt": "2026-09-28T00:00:00Z",
   "source": "Verified Geometry Insights WordPress published-post/category snapshot",
   "counts": {
-    "articles": 188,
-    "categories": 102
+    "articles": 206,
+    "categories": 115
   },
   "defaults": {
     "sort": "newest",
@@ -25,6 +25,14 @@
     "maximumEditDistance": 2
   },
   "categories": [
+    {
+      "id": 790918045,
+      "name": "3D Geometry",
+      "count": 7,
+      "parentId": 0,
+      "normalizedName": "3d geometry",
+      "aliases": []
+    },
     {
       "id": 790917683,
       "name": "3D to 2D",
@@ -48,7 +56,7 @@
     {
       "id": 21439756,
       "name": "A-Level Mathematics",
-      "count": 14,
+      "count": 16,
       "parentId": 0,
       "normalizedName": "a-level mathematics",
       "aliases": []
@@ -64,7 +72,7 @@
     {
       "id": 790917744,
       "name": "Abstract Algebra",
-      "count": 3,
+      "count": 6,
       "parentId": 0,
       "normalizedName": "abstract algebra",
       "aliases": []
@@ -80,7 +88,7 @@
     {
       "id": 17236,
       "name": "Algebra",
-      "count": 33,
+      "count": 37,
       "parentId": 0,
       "normalizedName": "algebra",
       "aliases": []
@@ -88,7 +96,7 @@
     {
       "id": 2480492,
       "name": "Analytic Geometry",
-      "count": 10,
+      "count": 15,
       "parentId": 0,
       "normalizedName": "analytic geometry",
       "aliases": [
@@ -159,7 +167,7 @@
     {
       "id": 29925308,
       "name": "Circle Geometry",
-      "count": 3,
+      "count": 4,
       "parentId": 0,
       "normalizedName": "circle geometry",
       "aliases": [
@@ -213,7 +221,7 @@
     {
       "id": 790917662,
       "name": "Conic Sections",
-      "count": 2,
+      "count": 5,
       "parentId": 0,
       "normalizedName": "conic sections",
       "aliases": []
@@ -261,7 +269,7 @@
       "name": "de Moivre's Theorem",
       "count": 2,
       "parentId": 0,
-      "normalizedName": "de moivre's theorem",
+      "normalizedName": "de moivre s theorem",
       "aliases": [
         "de moivre",
         "de moivre's theorem",
@@ -371,6 +379,14 @@
       ]
     },
     {
+      "id": 790918028,
+      "name": "Fields",
+      "count": 2,
+      "parentId": 0,
+      "normalizedName": "fields",
+      "aliases": []
+    },
+    {
       "id": 9994,
       "name": "Foundations",
       "count": 3,
@@ -416,7 +432,7 @@
     {
       "id": 790917759,
       "name": "Further A-Level Mathematics",
-      "count": 11,
+      "count": 15,
       "parentId": 0,
       "normalizedName": "further a-level mathematics",
       "aliases": []
@@ -424,7 +440,7 @@
     {
       "id": 215824481,
       "name": "Further Pure Mathematics",
-      "count": 17,
+      "count": 20,
       "parentId": 0,
       "normalizedName": "further pure mathematics",
       "aliases": []
@@ -482,6 +498,14 @@
       ]
     },
     {
+      "id": 790918070,
+      "name": "Helicoid",
+      "count": 1,
+      "parentId": 0,
+      "normalizedName": "helicoid",
+      "aliases": []
+    },
+    {
       "id": 790917675,
       "name": "Homogeneous Coordinates",
       "count": 1,
@@ -495,7 +519,7 @@
     {
       "id": 790917664,
       "name": "Hyperbola",
-      "count": 1,
+      "count": 4,
       "parentId": 0,
       "normalizedName": "hyperbola",
       "aliases": []
@@ -503,7 +527,7 @@
     {
       "id": 790917668,
       "name": "Hyperbolic",
-      "count": 2,
+      "count": 6,
       "parentId": 0,
       "normalizedName": "hyperbolic",
       "aliases": []
@@ -511,7 +535,7 @@
     {
       "id": 790917657,
       "name": "Hyperbolic Functions",
-      "count": 5,
+      "count": 9,
       "parentId": 0,
       "normalizedName": "hyperbolic functions",
       "aliases": [
@@ -522,9 +546,17 @@
       ]
     },
     {
+      "id": 790918075,
+      "name": "Hyperboloid",
+      "count": 2,
+      "parentId": 0,
+      "normalizedName": "hyperboloid",
+      "aliases": []
+    },
+    {
       "id": 790917876,
       "name": "Inequalities",
-      "count": 1,
+      "count": 2,
       "parentId": 0,
       "normalizedName": "inequalities",
       "aliases": []
@@ -539,6 +571,14 @@
         "inverse",
         "inverses"
       ]
+    },
+    {
+      "id": 790918020,
+      "name": "Irrational Numbers",
+      "count": 1,
+      "parentId": 0,
+      "normalizedName": "irrational numbers",
+      "aliases": []
     },
     {
       "id": 790917758,
@@ -633,7 +673,7 @@
     {
       "id": 301164,
       "name": "Matrices",
-      "count": 24,
+      "count": 26,
       "parentId": 0,
       "normalizedName": "matrices",
       "aliases": [
@@ -644,7 +684,7 @@
     {
       "id": 4663975,
       "name": "Matrix Algebra",
-      "count": 6,
+      "count": 7,
       "parentId": 0,
       "normalizedName": "matrix algebra",
       "aliases": []
@@ -687,6 +727,14 @@
       ]
     },
     {
+      "id": 790918038,
+      "name": "Möbius Strip",
+      "count": 1,
+      "parentId": 0,
+      "normalizedName": "mobius strip",
+      "aliases": []
+    },
+    {
       "id": 790917770,
       "name": "Natural Logarithm",
       "count": 2,
@@ -709,7 +757,7 @@
     {
       "id": 69054,
       "name": "Number Theory",
-      "count": 11,
+      "count": 13,
       "parentId": 0,
       "normalizedName": "number theory",
       "aliases": [
@@ -721,7 +769,7 @@
     {
       "id": 14693289,
       "name": "Parametric Equations",
-      "count": 3,
+      "count": 11,
       "parentId": 0,
       "normalizedName": "parametric equations",
       "aliases": [
@@ -732,7 +780,7 @@
     {
       "id": 453027324,
       "name": "Parametric Surfaces",
-      "count": 2,
+      "count": 8,
       "parentId": 0,
       "normalizedName": "parametric surfaces",
       "aliases": [
@@ -787,6 +835,14 @@
       "aliases": []
     },
     {
+      "id": 790918006,
+      "name": "Polynomials",
+      "count": 1,
+      "parentId": 0,
+      "normalizedName": "polynomials",
+      "aliases": []
+    },
+    {
       "id": 63036616,
       "name": "Population Variance",
       "count": 1,
@@ -797,6 +853,14 @@
         "population variance",
         "statistics"
       ]
+    },
+    {
+      "id": 790918012,
+      "name": "Prime Numbers",
+      "count": 1,
+      "parentId": 0,
+      "normalizedName": "prime numbers",
+      "aliases": []
     },
     {
       "id": 790917993,
@@ -823,6 +887,14 @@
         "probabilities",
         "events"
       ]
+    },
+    {
+      "id": 790918013,
+      "name": "Proof by Contradiction",
+      "count": 2,
+      "parentId": 0,
+      "normalizedName": "proof by contradiction",
+      "aliases": []
     },
     {
       "id": 790917888,
@@ -852,15 +924,31 @@
       "aliases": []
     },
     {
+      "id": 790918024,
+      "name": "Rings",
+      "count": 1,
+      "parentId": 0,
+      "normalizedName": "rings",
+      "aliases": []
+    },
+    {
       "id": 790917684,
       "name": "Rotation",
-      "count": 1,
+      "count": 5,
       "parentId": 0,
       "normalizedName": "rotation",
       "aliases": [
         "rotation",
         "rotation matrix"
       ]
+    },
+    {
+      "id": 790918076,
+      "name": "Rotation Matrix",
+      "count": 2,
+      "parentId": 0,
+      "normalizedName": "rotation matrix",
+      "aliases": []
     },
     {
       "id": 718092,
@@ -896,6 +984,22 @@
       "aliases": []
     },
     {
+      "id": 790918078,
+      "name": "Singularity",
+      "count": 1,
+      "parentId": 0,
+      "normalizedName": "singularity",
+      "aliases": []
+    },
+    {
+      "id": 790918077,
+      "name": "Sphere",
+      "count": 1,
+      "parentId": 0,
+      "normalizedName": "sphere",
+      "aliases": []
+    },
+    {
       "id": 790917630,
       "name": "Statistics",
       "count": 3,
@@ -914,6 +1018,14 @@
         "sigma",
         "finite sums"
       ]
+    },
+    {
+      "id": 790918066,
+      "name": "The Helix",
+      "count": 1,
+      "parentId": 0,
+      "normalizedName": "the helix",
+      "aliases": []
     },
     {
       "id": 790917682,
@@ -937,7 +1049,7 @@
     {
       "id": 195977,
       "name": "Trigonometry",
-      "count": 14,
+      "count": 15,
       "parentId": 0,
       "normalizedName": "trigonometry",
       "aliases": [
@@ -955,14 +1067,6 @@
       "aliases": []
     },
     {
-      "id": 1,
-      "name": "Uncategorized",
-      "count": 1,
-      "parentId": 0,
-      "normalizedName": "uncategorized",
-      "aliases": []
-    },
-    {
       "id": 10610924,
       "name": "Vector Calculus",
       "count": 1,
@@ -975,7 +1079,7 @@
       "name": "Vector Geometry & ℝ²",
       "count": 6,
       "parentId": 0,
-      "normalizedName": "vector geometry r2 2d real2",
+      "normalizedName": "vector geometry r2 real2 2d",
       "aliases": [
         "r2",
         "2d",
@@ -986,9 +1090,9 @@
     {
       "id": 785604887,
       "name": "Vector Geometry & ℝ³",
-      "count": 6,
+      "count": 7,
       "parentId": 467439,
-      "normalizedName": "vector geometry r3 3d real3",
+      "normalizedName": "vector geometry r3 real3 3d",
       "aliases": [
         "r3",
         "3d",
@@ -1010,7 +1114,7 @@
     {
       "id": 467439,
       "name": "Vectors",
-      "count": 29,
+      "count": 30,
       "parentId": 0,
       "normalizedName": "vectors",
       "aliases": [
@@ -1021,7 +1125,7 @@
     {
       "id": 785727979,
       "name": "Vectors & 3D Geometry",
-      "count": 1,
+      "count": 2,
       "parentId": 467439,
       "normalizedName": "vectors 3d geometry",
       "aliases": []
@@ -1041,10 +1145,888 @@
   ],
   "articles": [
     {
+      "title": "How to Parametrise a Singularity in ℝ³",
+      "url": "https://geometryinsights.com/2026/09/28/how-to-parametrise-a-singularity-in-%e2%84%9d%c2%b3/",
+      "date": "2026-09-28",
+      "slug": "how-to-parametrise-a-singularity-in-%e2%84%9d%c2%b3",
+      "categoryIds": [
+        790918045,
+        14693289,
+        453027324,
+        790917684,
+        790918076,
+        790918078
+      ],
+      "categories": [
+        {
+          "id": 790918045,
+          "name": "3D Geometry"
+        },
+        {
+          "id": 14693289,
+          "name": "Parametric Equations"
+        },
+        {
+          "id": 453027324,
+          "name": "Parametric Surfaces"
+        },
+        {
+          "id": 790917684,
+          "name": "Rotation"
+        },
+        {
+          "id": 790918076,
+          "name": "Rotation Matrix"
+        },
+        {
+          "id": 790918078,
+          "name": "Singularity"
+        }
+      ],
+      "categoryNames": [
+        "3D Geometry",
+        "Parametric Equations",
+        "Parametric Surfaces",
+        "Rotation",
+        "Rotation Matrix",
+        "Singularity"
+      ],
+      "searchAliases": [
+        "parametric",
+        "parametric equations",
+        "parametric surfaces",
+        "surfaces",
+        "rotation",
+        "rotation matrix"
+      ],
+      "searchText": "how to parametrise a singularity in r3 real3 3d 3d geometry parametric equations parametric surfaces rotation rotation matrix singularity parametric parametric equations parametric surfaces surfaces rotation rotation matrix"
+    },
+    {
+      "title": "How to Parametrise a Sphere in ℝ³",
+      "url": "https://geometryinsights.com/2026/09/28/how-to-parametrise-a-sphere-in-%e2%84%9d%c2%b3/",
+      "date": "2026-09-28",
+      "slug": "how-to-parametrise-a-sphere-in-%e2%84%9d%c2%b3",
+      "categoryIds": [
+        301164,
+        14693289,
+        453027324,
+        790917684,
+        790918076,
+        790918077
+      ],
+      "categories": [
+        {
+          "id": 301164,
+          "name": "Matrices"
+        },
+        {
+          "id": 14693289,
+          "name": "Parametric Equations"
+        },
+        {
+          "id": 453027324,
+          "name": "Parametric Surfaces"
+        },
+        {
+          "id": 790917684,
+          "name": "Rotation"
+        },
+        {
+          "id": 790918076,
+          "name": "Rotation Matrix"
+        },
+        {
+          "id": 790918077,
+          "name": "Sphere"
+        }
+      ],
+      "categoryNames": [
+        "Matrices",
+        "Parametric Equations",
+        "Parametric Surfaces",
+        "Rotation",
+        "Rotation Matrix",
+        "Sphere"
+      ],
+      "searchAliases": [
+        "matrix",
+        "matrices",
+        "parametric",
+        "parametric equations",
+        "parametric surfaces",
+        "surfaces",
+        "rotation",
+        "rotation matrix"
+      ],
+      "searchText": "how to parametrise a sphere in r3 real3 3d matrices parametric equations parametric surfaces rotation rotation matrix sphere matrix matrices parametric parametric equations parametric surfaces surfaces rotation rotation matrix"
+    },
+    {
+      "title": "How to Parametrise the Hyperboloid x² + y² = 1 + z² in ℝ³",
+      "url": "https://geometryinsights.com/2026/09/28/how-to-parametrise-the-hyperboloid-x%c2%b2-y%c2%b2-1-z%c2%b2-in-%e2%84%9d%c2%b3/",
+      "date": "2026-09-28",
+      "slug": "how-to-parametrise-the-hyperboloid-x%c2%b2-y%c2%b2-1-z%c2%b2-in-%e2%84%9d%c2%b3",
+      "categoryIds": [
+        790918045,
+        790917664,
+        790917668,
+        790917657,
+        790918075,
+        4663975,
+        14693289,
+        453027324,
+        790917684
+      ],
+      "categories": [
+        {
+          "id": 790918045,
+          "name": "3D Geometry"
+        },
+        {
+          "id": 790917664,
+          "name": "Hyperbola"
+        },
+        {
+          "id": 790917668,
+          "name": "Hyperbolic"
+        },
+        {
+          "id": 790917657,
+          "name": "Hyperbolic Functions"
+        },
+        {
+          "id": 790918075,
+          "name": "Hyperboloid"
+        },
+        {
+          "id": 4663975,
+          "name": "Matrix Algebra"
+        },
+        {
+          "id": 14693289,
+          "name": "Parametric Equations"
+        },
+        {
+          "id": 453027324,
+          "name": "Parametric Surfaces"
+        },
+        {
+          "id": 790917684,
+          "name": "Rotation"
+        }
+      ],
+      "categoryNames": [
+        "3D Geometry",
+        "Hyperbola",
+        "Hyperbolic",
+        "Hyperbolic Functions",
+        "Hyperboloid",
+        "Matrix Algebra",
+        "Parametric Equations",
+        "Parametric Surfaces",
+        "Rotation"
+      ],
+      "searchAliases": [
+        "hyperbolic",
+        "sinh",
+        "cosh",
+        "tanh",
+        "parametric",
+        "parametric equations",
+        "parametric surfaces",
+        "surfaces",
+        "rotation",
+        "rotation matrix"
+      ],
+      "searchText": "how to parametrise the hyperboloid x + y 1 + z in r3 real3 3d 3d geometry hyperbola hyperbolic hyperbolic functions hyperboloid matrix algebra parametric equations parametric surfaces rotation hyperbolic sinh cosh tanh parametric parametric equations parametric surfaces surfaces rotation rotation matrix"
+    },
+    {
+      "title": "How to Generate a Simple Hyperboloid x² + y² = 1 + z² in ℝ³",
+      "url": "https://geometryinsights.com/2026/09/28/how-to-generate-a-simple-hyperboloid-x%c2%b2-y%c2%b2-1-z%c2%b2-in-%e2%84%9d%c2%b3/",
+      "date": "2026-09-28",
+      "slug": "how-to-generate-a-simple-hyperboloid-x%c2%b2-y%c2%b2-1-z%c2%b2-in-%e2%84%9d%c2%b3",
+      "categoryIds": [
+        790918045,
+        2480492,
+        790917664,
+        790917668,
+        790917657,
+        790918075
+      ],
+      "categories": [
+        {
+          "id": 790918045,
+          "name": "3D Geometry"
+        },
+        {
+          "id": 2480492,
+          "name": "Analytic Geometry"
+        },
+        {
+          "id": 790917664,
+          "name": "Hyperbola"
+        },
+        {
+          "id": 790917668,
+          "name": "Hyperbolic"
+        },
+        {
+          "id": 790917657,
+          "name": "Hyperbolic Functions"
+        },
+        {
+          "id": 790918075,
+          "name": "Hyperboloid"
+        }
+      ],
+      "categoryNames": [
+        "3D Geometry",
+        "Analytic Geometry",
+        "Hyperbola",
+        "Hyperbolic",
+        "Hyperbolic Functions",
+        "Hyperboloid"
+      ],
+      "searchAliases": [
+        "analytic geometry",
+        "coordinate geometry",
+        "hyperbolic",
+        "sinh",
+        "cosh",
+        "tanh"
+      ],
+      "searchText": "how to generate a simple hyperboloid x + y 1 + z in r3 real3 3d 3d geometry analytic geometry hyperbola hyperbolic hyperbolic functions hyperboloid analytic geometry coordinate geometry hyperbolic sinh cosh tanh"
+    },
+    {
+      "title": "How to Generate a Helicoid in ℝ³",
+      "url": "https://geometryinsights.com/2026/09/28/how-to-generate-a-helicoid-in-%e2%84%9d%c2%b3/",
+      "date": "2026-09-28",
+      "slug": "how-to-generate-a-helicoid-in-%e2%84%9d%c2%b3",
+      "categoryIds": [
+        790918045,
+        790918070,
+        14693289,
+        453027324,
+        467439
+      ],
+      "categories": [
+        {
+          "id": 790918045,
+          "name": "3D Geometry"
+        },
+        {
+          "id": 790918070,
+          "name": "Helicoid"
+        },
+        {
+          "id": 14693289,
+          "name": "Parametric Equations"
+        },
+        {
+          "id": 453027324,
+          "name": "Parametric Surfaces"
+        },
+        {
+          "id": 467439,
+          "name": "Vectors"
+        }
+      ],
+      "categoryNames": [
+        "3D Geometry",
+        "Helicoid",
+        "Parametric Equations",
+        "Parametric Surfaces",
+        "Vectors"
+      ],
+      "searchAliases": [
+        "parametric",
+        "parametric equations",
+        "parametric surfaces",
+        "surfaces",
+        "vector",
+        "vectors"
+      ],
+      "searchText": "how to generate a helicoid in r3 real3 3d 3d geometry helicoid parametric equations parametric surfaces vectors parametric parametric equations parametric surfaces surfaces vector vectors"
+    },
+    {
+      "title": "How to Generate a Circular Helix in ℝ³",
+      "url": "https://geometryinsights.com/2026/09/28/how-to-generate-a-circular-helix-in-%e2%84%9d%c2%b3/",
+      "date": "2026-09-28",
+      "slug": "how-to-generate-a-circular-helix-in-%e2%84%9d%c2%b3",
+      "categoryIds": [
+        790918045,
+        14693289,
+        790918066,
+        195977,
+        785727979
+      ],
+      "categories": [
+        {
+          "id": 790918045,
+          "name": "3D Geometry"
+        },
+        {
+          "id": 14693289,
+          "name": "Parametric Equations"
+        },
+        {
+          "id": 790918066,
+          "name": "The Helix"
+        },
+        {
+          "id": 195977,
+          "name": "Trigonometry"
+        },
+        {
+          "id": 785727979,
+          "name": "Vectors & 3D Geometry"
+        }
+      ],
+      "categoryNames": [
+        "3D Geometry",
+        "Parametric Equations",
+        "The Helix",
+        "Trigonometry",
+        "Vectors & 3D Geometry"
+      ],
+      "searchAliases": [
+        "parametric",
+        "parametric equations",
+        "trig",
+        "trigonometric",
+        "trigonometry"
+      ],
+      "searchText": "how to generate a circular helix in r3 real3 3d 3d geometry parametric equations the helix trigonometry vectors 3d geometry parametric parametric equations trig trigonometric trigonometry"
+    },
+    {
+      "title": "How to Generate a Pringle in ℝ³ from a Hyperbolic Paraboloid",
+      "url": "https://geometryinsights.com/2026/09/25/how-to-generate-a-pringle-in-%e2%84%9d%c2%b3-from-a-hyperbolic-paraboloid/",
+      "date": "2026-09-25",
+      "slug": "how-to-generate-a-pringle-in-%e2%84%9d%c2%b3-from-a-hyperbolic-paraboloid",
+      "categoryIds": [
+        2480492,
+        790917662,
+        790917759,
+        215824481,
+        790917668,
+        790917657,
+        790917876
+      ],
+      "categories": [
+        {
+          "id": 2480492,
+          "name": "Analytic Geometry"
+        },
+        {
+          "id": 790917662,
+          "name": "Conic Sections"
+        },
+        {
+          "id": 790917759,
+          "name": "Further A-Level Mathematics"
+        },
+        {
+          "id": 215824481,
+          "name": "Further Pure Mathematics"
+        },
+        {
+          "id": 790917668,
+          "name": "Hyperbolic"
+        },
+        {
+          "id": 790917657,
+          "name": "Hyperbolic Functions"
+        },
+        {
+          "id": 790917876,
+          "name": "Inequalities"
+        }
+      ],
+      "categoryNames": [
+        "Analytic Geometry",
+        "Conic Sections",
+        "Further A-Level Mathematics",
+        "Further Pure Mathematics",
+        "Hyperbolic",
+        "Hyperbolic Functions",
+        "Inequalities"
+      ],
+      "searchAliases": [
+        "analytic geometry",
+        "coordinate geometry",
+        "hyperbolic",
+        "sinh",
+        "cosh",
+        "tanh"
+      ],
+      "searchText": "how to generate a pringle in r3 real3 3d from a hyperbolic paraboloid analytic geometry conic sections further a-level mathematics further pure mathematics hyperbolic hyperbolic functions inequalities analytic geometry coordinate geometry hyperbolic sinh cosh tanh"
+    },
+    {
+      "title": "How to Generate a Hyperbolic Paraboloid in ℝ³ from the Difference of Two Squares",
+      "url": "https://geometryinsights.com/2026/09/25/how-to-generate-a-hyperbolic-paraboloid-in-%e2%84%9d%c2%b3-from-the-difference-of-two-squares/",
+      "date": "2026-09-25",
+      "slug": "how-to-generate-a-hyperbolic-paraboloid-in-%e2%84%9d%c2%b3-from-the-difference-of-two-squares",
+      "categoryIds": [
+        790918045,
+        2480492,
+        790917759,
+        215824481,
+        790917664,
+        790917668,
+        790917657
+      ],
+      "categories": [
+        {
+          "id": 790918045,
+          "name": "3D Geometry"
+        },
+        {
+          "id": 2480492,
+          "name": "Analytic Geometry"
+        },
+        {
+          "id": 790917759,
+          "name": "Further A-Level Mathematics"
+        },
+        {
+          "id": 215824481,
+          "name": "Further Pure Mathematics"
+        },
+        {
+          "id": 790917664,
+          "name": "Hyperbola"
+        },
+        {
+          "id": 790917668,
+          "name": "Hyperbolic"
+        },
+        {
+          "id": 790917657,
+          "name": "Hyperbolic Functions"
+        }
+      ],
+      "categoryNames": [
+        "3D Geometry",
+        "Analytic Geometry",
+        "Further A-Level Mathematics",
+        "Further Pure Mathematics",
+        "Hyperbola",
+        "Hyperbolic",
+        "Hyperbolic Functions"
+      ],
+      "searchAliases": [
+        "analytic geometry",
+        "coordinate geometry",
+        "hyperbolic",
+        "sinh",
+        "cosh",
+        "tanh"
+      ],
+      "searchText": "how to generate a hyperbolic paraboloid in r3 real3 3d from the difference of two squares 3d geometry analytic geometry further a-level mathematics further pure mathematics hyperbola hyperbolic hyperbolic functions analytic geometry coordinate geometry hyperbolic sinh cosh tanh"
+    },
+    {
+      "title": "How to Parametrise the Hyperbola x² − y² = 1 Using sec t and tan t",
+      "url": "https://geometryinsights.com/2026/09/25/how-to-parametrise-the-hyperbola-x%c2%b2-%e2%88%92-y%c2%b2-1-using-sec-t-and-tan-t/",
+      "date": "2026-09-25",
+      "slug": "how-to-parametrise-the-hyperbola-x%c2%b2-%e2%88%92-y%c2%b2-1-using-sec-t-and-tan-t",
+      "categoryIds": [
+        2480492,
+        790917662,
+        790917759,
+        215824481,
+        14693289
+      ],
+      "categories": [
+        {
+          "id": 2480492,
+          "name": "Analytic Geometry"
+        },
+        {
+          "id": 790917662,
+          "name": "Conic Sections"
+        },
+        {
+          "id": 790917759,
+          "name": "Further A-Level Mathematics"
+        },
+        {
+          "id": 215824481,
+          "name": "Further Pure Mathematics"
+        },
+        {
+          "id": 14693289,
+          "name": "Parametric Equations"
+        }
+      ],
+      "categoryNames": [
+        "Analytic Geometry",
+        "Conic Sections",
+        "Further A-Level Mathematics",
+        "Further Pure Mathematics",
+        "Parametric Equations"
+      ],
+      "searchAliases": [
+        "analytic geometry",
+        "coordinate geometry",
+        "parametric",
+        "parametric equations"
+      ],
+      "searchText": "how to parametrise the hyperbola x - y 1 using sec t and tan t analytic geometry conic sections further a-level mathematics further pure mathematics parametric equations analytic geometry coordinate geometry parametric parametric equations"
+    },
+    {
+      "title": "How to Generate a Double Cone in ℝ³",
+      "url": "https://geometryinsights.com/2026/09/25/how-to-generate-a-double-cone-in-%e2%84%9d%c2%b3/",
+      "date": "2026-09-25",
+      "slug": "how-to-generate-a-double-cone-in-%e2%84%9d%c2%b3",
+      "categoryIds": [
+        790918045,
+        2480492,
+        790917662
+      ],
+      "categories": [
+        {
+          "id": 790918045,
+          "name": "3D Geometry"
+        },
+        {
+          "id": 2480492,
+          "name": "Analytic Geometry"
+        },
+        {
+          "id": 790917662,
+          "name": "Conic Sections"
+        }
+      ],
+      "categoryNames": [
+        "3D Geometry",
+        "Analytic Geometry",
+        "Conic Sections"
+      ],
+      "searchAliases": [
+        "analytic geometry",
+        "coordinate geometry"
+      ],
+      "searchText": "how to generate a double cone in r3 real3 3d 3d geometry analytic geometry conic sections analytic geometry coordinate geometry"
+    },
+    {
+      "title": "Compressing the Möbius Strip Parametrisation in ℝ³",
+      "url": "https://geometryinsights.com/2026/09/23/compressing-the-mobius-strip-parametrisation-in-%e2%84%9d%c2%b3/",
+      "date": "2026-09-23",
+      "slug": "compressing-the-mobius-strip-parametrisation-in-%e2%84%9d%c2%b3",
+      "categoryIds": [
+        790918038,
+        14693289,
+        453027324
+      ],
+      "categories": [
+        {
+          "id": 790918038,
+          "name": "Möbius Strip"
+        },
+        {
+          "id": 14693289,
+          "name": "Parametric Equations"
+        },
+        {
+          "id": 453027324,
+          "name": "Parametric Surfaces"
+        }
+      ],
+      "categoryNames": [
+        "Möbius Strip",
+        "Parametric Equations",
+        "Parametric Surfaces"
+      ],
+      "searchAliases": [
+        "parametric",
+        "parametric equations",
+        "parametric surfaces",
+        "surfaces"
+      ],
+      "searchText": "compressing the mobius strip parametrisation in r3 real3 3d mobius strip parametric equations parametric surfaces parametric parametric equations parametric surfaces surfaces"
+    },
+    {
+      "title": "How to Construct a Möbius Strip in ℝ³",
+      "url": "https://geometryinsights.com/2026/09/22/how-to-construct-a-mobius-strip-in-%e2%84%9d%c2%b3/",
+      "date": "2026-09-22",
+      "slug": "how-to-construct-a-mobius-strip-in-%e2%84%9d%c2%b3",
+      "categoryIds": [
+        29925308,
+        301164,
+        14693289,
+        453027324,
+        790917684,
+        785604887
+      ],
+      "categories": [
+        {
+          "id": 29925308,
+          "name": "Circle Geometry"
+        },
+        {
+          "id": 301164,
+          "name": "Matrices"
+        },
+        {
+          "id": 14693289,
+          "name": "Parametric Equations"
+        },
+        {
+          "id": 453027324,
+          "name": "Parametric Surfaces"
+        },
+        {
+          "id": 790917684,
+          "name": "Rotation"
+        },
+        {
+          "id": 785604887,
+          "name": "Vector Geometry & ℝ³"
+        }
+      ],
+      "categoryNames": [
+        "Circle Geometry",
+        "Matrices",
+        "Parametric Equations",
+        "Parametric Surfaces",
+        "Rotation",
+        "Vector Geometry & ℝ³"
+      ],
+      "searchAliases": [
+        "circle",
+        "circles",
+        "circle geometry",
+        "matrix",
+        "matrices",
+        "parametric",
+        "parametric equations",
+        "parametric surfaces",
+        "surfaces",
+        "rotation",
+        "rotation matrix",
+        "r3",
+        "3d",
+        "3-dimensional",
+        "vector geometry"
+      ],
+      "searchText": "how to construct a mobius strip in r3 real3 3d circle geometry matrices parametric equations parametric surfaces rotation vector geometry r3 real3 3d circle circles circle geometry matrix matrices parametric parametric equations parametric surfaces surfaces rotation rotation matrix r3 3d 3-dimensional vector geometry"
+    },
+    {
+      "title": "What Is an Ordered Field?",
+      "url": "https://geometryinsights.com/2026/09/20/what-is-an-ordered-field/",
+      "date": "2026-09-20",
+      "slug": "what-is-an-ordered-field",
+      "categoryIds": [
+        790917744,
+        17236,
+        790918028
+      ],
+      "categories": [
+        {
+          "id": 790917744,
+          "name": "Abstract Algebra"
+        },
+        {
+          "id": 17236,
+          "name": "Algebra"
+        },
+        {
+          "id": 790918028,
+          "name": "Fields"
+        }
+      ],
+      "categoryNames": [
+        "Abstract Algebra",
+        "Algebra",
+        "Fields"
+      ],
+      "searchAliases": [],
+      "searchText": "what is an ordered field abstract algebra algebra fields"
+    },
+    {
+      "title": "What Is a Field? — Definition and Axioms",
+      "url": "https://geometryinsights.com/2026/09/20/what-is-a-field-definition-and-axioms/",
+      "date": "2026-09-20",
+      "slug": "what-is-a-field-definition-and-axioms",
+      "categoryIds": [
+        790917744,
+        17236,
+        790918028
+      ],
+      "categories": [
+        {
+          "id": 790917744,
+          "name": "Abstract Algebra"
+        },
+        {
+          "id": 17236,
+          "name": "Algebra"
+        },
+        {
+          "id": 790918028,
+          "name": "Fields"
+        }
+      ],
+      "categoryNames": [
+        "Abstract Algebra",
+        "Algebra",
+        "Fields"
+      ],
+      "searchAliases": [],
+      "searchText": "what is a field - definition and axioms abstract algebra algebra fields"
+    },
+    {
+      "title": "What Is a Ring? — Definition, Axioms and Examples",
+      "url": "https://geometryinsights.com/2026/09/20/what-is-a-ring-definition-axioms-and-examples/",
+      "date": "2026-09-20",
+      "slug": "what-is-a-ring-definition-axioms-and-examples",
+      "categoryIds": [
+        790917744,
+        17236,
+        790918024
+      ],
+      "categories": [
+        {
+          "id": 790917744,
+          "name": "Abstract Algebra"
+        },
+        {
+          "id": 17236,
+          "name": "Algebra"
+        },
+        {
+          "id": 790918024,
+          "name": "Rings"
+        }
+      ],
+      "categoryNames": [
+        "Abstract Algebra",
+        "Algebra",
+        "Rings"
+      ],
+      "searchAliases": [],
+      "searchText": "what is a ring - definition axioms and examples abstract algebra algebra rings"
+    },
+    {
+      "title": "Proof by Contradiction That √2 Is Irrational",
+      "url": "https://geometryinsights.com/2026/09/17/proof-by-contradiction-that-%e2%88%9a2-is-irrational/",
+      "date": "2026-09-17",
+      "slug": "proof-by-contradiction-that-%e2%88%9a2-is-irrational",
+      "categoryIds": [
+        21439756,
+        790917759,
+        790918020,
+        69054,
+        790918013
+      ],
+      "categories": [
+        {
+          "id": 21439756,
+          "name": "A-Level Mathematics"
+        },
+        {
+          "id": 790917759,
+          "name": "Further A-Level Mathematics"
+        },
+        {
+          "id": 790918020,
+          "name": "Irrational Numbers"
+        },
+        {
+          "id": 69054,
+          "name": "Number Theory"
+        },
+        {
+          "id": 790918013,
+          "name": "Proof by Contradiction"
+        }
+      ],
+      "categoryNames": [
+        "A-Level Mathematics",
+        "Further A-Level Mathematics",
+        "Irrational Numbers",
+        "Number Theory",
+        "Proof by Contradiction"
+      ],
+      "searchAliases": [
+        "number theory",
+        "integers",
+        "divisibility"
+      ],
+      "searchText": "proof by contradiction that sqrt 2 is irrational a-level mathematics further a-level mathematics irrational numbers number theory proof by contradiction number theory integers divisibility"
+    },
+    {
+      "title": "Proof by Contradiction That There Are Infinitely Many Prime Numbers",
+      "url": "https://geometryinsights.com/2026/09/17/proof-by-contradiction-that-there-are-infinitely-many-prime-numbers/",
+      "date": "2026-09-17",
+      "slug": "proof-by-contradiction-that-there-are-infinitely-many-prime-numbers",
+      "categoryIds": [
+        69054,
+        790918012,
+        790918013
+      ],
+      "categories": [
+        {
+          "id": 69054,
+          "name": "Number Theory"
+        },
+        {
+          "id": 790918012,
+          "name": "Prime Numbers"
+        },
+        {
+          "id": 790918013,
+          "name": "Proof by Contradiction"
+        }
+      ],
+      "categoryNames": [
+        "Number Theory",
+        "Prime Numbers",
+        "Proof by Contradiction"
+      ],
+      "searchAliases": [
+        "number theory",
+        "integers",
+        "divisibility"
+      ],
+      "searchText": "proof by contradiction that there are infinitely many prime numbers number theory prime numbers proof by contradiction number theory integers divisibility"
+    },
+    {
+      "title": "The Factor Theorem: f(p) = 0 ⇔ (x − p) is a factor of f(x)",
+      "url": "https://geometryinsights.com/2026/09/17/the-factor-theorem-fp-0-%e2%87%94-x-%e2%88%92-p-is-a-factor-of-fx/",
+      "date": "2026-09-17",
+      "slug": "the-factor-theorem-fp-0-%e2%87%94-x-%e2%88%92-p-is-a-factor-of-fx",
+      "categoryIds": [
+        21439756,
+        17236,
+        790918006
+      ],
+      "categories": [
+        {
+          "id": 21439756,
+          "name": "A-Level Mathematics"
+        },
+        {
+          "id": 17236,
+          "name": "Algebra"
+        },
+        {
+          "id": 790918006,
+          "name": "Polynomials"
+        }
+      ],
+      "categoryNames": [
+        "A-Level Mathematics",
+        "Algebra",
+        "Polynomials"
+      ],
+      "searchAliases": [],
+      "searchText": "the factor theorem f p 0 x - p is a factor of f x a-level mathematics algebra polynomials"
+    },
+    {
       "title": "zⁿ = rⁿ(cos nθ + i sin nθ) — Proof of de Moivre’s Theorem for Negative Integers",
       "url": "https://geometryinsights.com/2026/09/15/z%e2%81%bf-r%e2%81%bfcos-n%ce%b8-i-sin-n%ce%b8-proof-of-de-moivres-theorem-for-negative-integers/",
       "date": "2026-09-15",
-      "slug": "zⁿ-rⁿcos-nθ-i-sin-nθ-proof-of-de-moivres-theorem-for-negative-integers",
+      "slug": "z%e2%81%bf-r%e2%81%bfcos-n%ce%b8-i-sin-n%ce%b8-proof-of-de-moivres-theorem-for-negative-integers",
       "categoryIds": [
         312360,
         790917996,
@@ -1079,13 +2061,13 @@
         "trigonometric",
         "trigonometry"
       ],
-      "searchText": "zn rn cos n theta + i sin n theta proof of de moivre's theorem for negative integers complex numbers de moivre's theorem trigonometry complex complex numbers de moivre de moivre's theorem moivre trig trigonometric trigonometry"
+      "searchText": "z r cos n + i sin n - proof of de moivre s theorem for negative integers complex numbers de moivre s theorem trigonometry complex complex numbers de moivre de moivre s theorem moivre trig trigonometric trigonometry"
     },
     {
       "title": "zⁿ = rⁿ(cos nθ + i sin nθ) — Proof of de Moivre’s Theorem by Mathematical Induction",
       "url": "https://geometryinsights.com/2026/09/14/z%e2%81%bf-r%e2%81%bfcos-n%ce%b8-i-sin-n%ce%b8-proof-of-de-moivres-theorem-by-mathematical-induction/",
       "date": "2026-09-14",
-      "slug": "zⁿ-rⁿcos-nθ-i-sin-nθ-proof-of-de-moivres-theorem-by-mathematical-induction",
+      "slug": "z%e2%81%bf-r%e2%81%bfcos-n%ce%b8-i-sin-n%ce%b8-proof-of-de-moivres-theorem-by-mathematical-induction",
       "categoryIds": [
         21439756,
         312360,
@@ -1141,25 +2123,25 @@
         "Trigonometric identities"
       ],
       "searchAliases": [
-        "argand plane",
         "complex",
         "complex numbers",
         "complex plane",
+        "argand plane",
         "de moivre",
         "de moivre's theorem",
+        "moivre",
         "induction",
         "mathematical induction",
-        "moivre",
         "trig identities",
         "trigonometric identities"
       ],
-      "searchText": "zn rn cos n theta + i sin n theta proof of de moivre's theorem by mathematical induction a-level mathematics complex numbers complex plane de moivre's theorem further a-level mathematics further pure mathematics mathematical induction trigonometric identities argand plane complex complex numbers complex plane de moivre de moivre's theorem induction mathematical induction moivre trig identities trigonometric identities"
+      "searchText": "z r cos n + i sin n - proof of de moivre s theorem by mathematical induction a-level mathematics complex numbers complex plane de moivre s theorem further a-level mathematics further pure mathematics mathematical induction trigonometric identities complex complex numbers complex plane argand plane de moivre de moivre s theorem moivre induction mathematical induction trig identities trigonometric identities"
     },
     {
       "title": "arg(z₁/z₂) = arg(z₁) − arg(z₂) — Argument of the Quotient of Two Complex Numbers",
       "url": "https://geometryinsights.com/2026/09/14/argz%e2%82%81-z%e2%82%82-argz%e2%82%81-%e2%88%92-argz%e2%82%82-argument-of-the-quotient-of-two-complex-numbers/",
       "date": "2026-09-14",
-      "slug": "argz₁-z₂-argz₁-−-argz₂-argument-of-the-quotient-of-two-complex-numbers",
+      "slug": "argz%e2%82%81-z%e2%82%82-argz%e2%82%81-%e2%88%92-argz%e2%82%82-argument-of-the-quotient-of-two-complex-numbers",
       "categoryIds": [
         312360,
         790917993
@@ -1179,19 +2161,19 @@
         "Principal Argument"
       ],
       "searchAliases": [
-        "arg",
-        "argument",
         "complex",
         "complex numbers",
-        "principal argument"
+        "principal argument",
+        "argument",
+        "arg"
       ],
-      "searchText": "arg z1/z2 arg z1 - arg z2 argument of the quotient of two complex numbers complex numbers principal argument arg argument complex complex numbers principal argument"
+      "searchText": "arg z z arg z - arg z - argument of the quotient of two complex numbers complex numbers principal argument complex complex numbers principal argument argument arg"
     },
     {
       "title": "arg(z₁z₂) = arg(z₁) + arg(z₂) — Argument of the Product of Two Complex Numbers",
       "url": "https://geometryinsights.com/2026/09/14/argz%e2%82%81z%e2%82%82-argz%e2%82%81-argz%e2%82%82-argument-of-the-product-of-two-complex-numbers/",
       "date": "2026-09-14",
-      "slug": "argz₁z₂-argz₁-argz₂-argument-of-the-product-of-two-complex-numbers",
+      "slug": "argz%e2%82%81z%e2%82%82-argz%e2%82%81-argz%e2%82%82-argument-of-the-product-of-two-complex-numbers",
       "categoryIds": [
         312360,
         790917993
@@ -1211,13 +2193,13 @@
         "Principal Argument"
       ],
       "searchAliases": [
-        "arg",
-        "argument",
         "complex",
         "complex numbers",
-        "principal argument"
+        "principal argument",
+        "argument",
+        "arg"
       ],
-      "searchText": "arg z1z2 arg z1 + arg z2 argument of the product of two complex numbers complex numbers principal argument arg argument complex complex numbers principal argument"
+      "searchText": "arg z z arg z + arg z - argument of the product of two complex numbers complex numbers principal argument complex complex numbers principal argument argument arg"
     },
     {
       "title": "Modulus–Argument Form of a Complex Number",
@@ -1245,17 +2227,17 @@
       "searchAliases": [
         "argand",
         "argand diagram",
+        "complex plane",
         "complex",
-        "complex numbers",
-        "complex plane"
+        "complex numbers"
       ],
-      "searchText": "modulus argument form of a complex number argand diagram complex numbers argand argand diagram complex complex numbers complex plane"
+      "searchText": "modulus-argument form of a complex number argand diagram complex numbers argand argand diagram complex plane complex complex numbers"
     },
     {
       "title": "Why Does |z₁/z₂| = |z₁|/|z₂| for Complex Numbers?",
       "url": "https://geometryinsights.com/2026/09/11/why-does-z%e2%82%81-z%e2%82%82-z%e2%82%81-z%e2%82%82-for-complex-numbers/",
       "date": "2026-09-11",
-      "slug": "why-does-z₁-z₂-z₁-z₂-for-complex-numbers",
+      "slug": "why-does-z%e2%82%81-z%e2%82%82-z%e2%82%81-z%e2%82%82-for-complex-numbers",
       "categoryIds": [
         312360,
         790917759,
@@ -1284,13 +2266,13 @@
         "complex",
         "complex numbers"
       ],
-      "searchText": "why does z1/z2 z1 / z2 for complex numbers complex numbers further a-level mathematics further pure mathematics complex complex numbers"
+      "searchText": "why does z z z z for complex numbers complex numbers further a-level mathematics further pure mathematics complex complex numbers"
     },
     {
       "title": "Why Does Squaring z = a + bi Give (a² − b², 2ab) and |z²| = |z|²?",
       "url": "https://geometryinsights.com/2026/09/11/why-does-squaring-z-a-bi-give-a%c2%b2-%e2%88%92-b%c2%b2-2ab-and-z%c2%b2-z%c2%b2/",
       "date": "2026-09-11",
-      "slug": "why-does-squaring-z-a-bi-give-a²-−-b²-2ab-and-z²-z²",
+      "slug": "why-does-squaring-z-a-bi-give-a%c2%b2-%e2%88%92-b%c2%b2-2ab-and-z%c2%b2-z%c2%b2",
       "categoryIds": [
         312360,
         790917759,
@@ -1319,13 +2301,13 @@
         "complex",
         "complex numbers"
       ],
-      "searchText": "why does squaring z a + bi give a2 - b2 2ab and z2 z 2 complex numbers further a-level mathematics further pure mathematics complex complex numbers"
+      "searchText": "why does squaring z a + bi give a - b 2ab and z z complex numbers further a-level mathematics further pure mathematics complex complex numbers"
     },
     {
       "title": "Why Does |z₁z₂| = |z₁||z₂| for Complex Numbers?",
       "url": "https://geometryinsights.com/2026/09/11/why-does-z%e2%82%81z%e2%82%82-z%e2%82%81z%e2%82%82-for-complex-numbers/",
       "date": "2026-09-11",
-      "slug": "why-does-z₁z₂-z₁z₂-for-complex-numbers",
+      "slug": "why-does-z%e2%82%81z%e2%82%82-z%e2%82%81z%e2%82%82-for-complex-numbers",
       "categoryIds": [
         17236,
         312360,
@@ -1360,7 +2342,7 @@
         "complex",
         "complex numbers"
       ],
-      "searchText": "why does z1z2 z1 z2 for complex numbers algebra complex numbers further a-level mathematics further pure mathematics complex complex numbers"
+      "searchText": "why does z z z z for complex numbers algebra complex numbers further a-level mathematics further pure mathematics complex complex numbers"
     },
     {
       "title": "Why Do Quadratics with a Negative Discriminant Have Complex Conjugate Roots?",
@@ -1467,7 +2449,7 @@
       "title": "What Is a Real Vector Space? Abelian Groups and Scalar Multiplication over ℝ",
       "url": "https://geometryinsights.com/2026/09/11/what-is-a-real-vector-space-abelian-groups-and-scalar-multiplication-over-%e2%84%9d/",
       "date": "2026-09-11",
-      "slug": "what-is-a-real-vector-space-abelian-groups-and-scalar-multiplication-over-ℝ",
+      "slug": "what-is-a-real-vector-space-abelian-groups-and-scalar-multiplication-over-%e2%84%9d",
       "categoryIds": [
         790917744,
         69043,
@@ -1500,18 +2482,18 @@
       ],
       "searchAliases": [
         "linear algebra",
-        "vector",
-        "vector space",
         "vector spaces",
+        "vector space",
+        "vector",
         "vectors"
       ],
-      "searchText": "what is a real vector space abelian groups and scalar multiplication over real abstract algebra linear algebra vector spaces vectors linear algebra vector vector space vector spaces vectors"
+      "searchText": "what is a real vector space abelian groups and scalar multiplication over real abstract algebra linear algebra vector spaces vectors linear algebra vector spaces vector space vector vectors"
     },
     {
       "title": "Deriving ∑ r Using the Method of Differences",
       "url": "https://geometryinsights.com/2026/09/09/deriving-%e2%88%91-r-using-the-method-of-differences/",
       "date": "2026-09-09",
-      "slug": "deriving-∑-r-using-the-method-of-differences",
+      "slug": "deriving-%e2%88%91-r-using-the-method-of-differences",
       "categoryIds": [
         17236,
         790917948,
@@ -1537,20 +2519,20 @@
         "Summation"
       ],
       "searchAliases": [
-        "finite sums",
         "method of differences",
-        "sigma",
-        "summation",
         "telescoping",
-        "telescoping sums"
+        "telescoping sums",
+        "summation",
+        "sigma",
+        "finite sums"
       ],
-      "searchText": "deriving sigma sum r using the method of differences algebra method of differences summation finite sums method of differences sigma summation telescoping telescoping sums"
+      "searchText": "deriving sigma sum r using the method of differences algebra method of differences summation method of differences telescoping telescoping sums summation sigma finite sums"
     },
     {
       "title": "Evaluating ∑ r/(r + 1)! by the Method of Differences",
       "url": "https://geometryinsights.com/2026/09/09/evaluating-%e2%88%91-r-r-1-by-the-method-of-differences/",
       "date": "2026-09-09",
-      "slug": "evaluating-∑-r-r-1-by-the-method-of-differences",
+      "slug": "evaluating-%e2%88%91-r-r-1-by-the-method-of-differences",
       "categoryIds": [
         17236,
         790917759,
@@ -1582,20 +2564,20 @@
         "Summation"
       ],
       "searchAliases": [
-        "finite sums",
         "method of differences",
-        "sigma",
-        "summation",
         "telescoping",
-        "telescoping sums"
+        "telescoping sums",
+        "summation",
+        "sigma",
+        "finite sums"
       ],
-      "searchText": "evaluating sigma sum r/ r + 1 by the method of differences algebra further a-level mathematics method of differences summation finite sums method of differences sigma summation telescoping telescoping sums"
+      "searchText": "evaluating sigma sum r r + 1 by the method of differences algebra further a-level mathematics method of differences summation method of differences telescoping telescoping sums summation sigma finite sums"
     },
     {
       "title": "How to Show That r/(r + 1)! ≡ 1/r! − 1/(r + 1)!",
       "url": "https://geometryinsights.com/2026/09/09/how-to-show-that-r-r-1-%e2%89%a1-1-r-%e2%88%92-1-r-1/",
       "date": "2026-09-09",
-      "slug": "how-to-show-that-r-r-1-≡-1-r-−-1-r-1",
+      "slug": "how-to-show-that-r-r-1-%e2%89%a1-1-r-%e2%88%92-1-r-1",
       "categoryIds": [
         21439756,
         17236,
@@ -1621,13 +2603,13 @@
         "Fundamentals of Proof"
       ],
       "searchAliases": [],
-      "searchText": "how to show that r/ r + 1 congruence 1/r - 1/ r + 1 a-level mathematics algebra fundamentals of proof"
+      "searchText": "how to show that r r + 1 1 r - 1 r + 1 a-level mathematics algebra fundamentals of proof"
     },
     {
       "title": "Evaluating ∑ 1/[r(r + 1)] by the Method of Differences",
       "url": "https://geometryinsights.com/2026/09/09/evaluating-%e2%88%91-1-rr-1-by-the-method-of-differences/",
       "date": "2026-09-09",
-      "slug": "evaluating-∑-1-rr-1-by-the-method-of-differences",
+      "slug": "evaluating-%e2%88%91-1-rr-1-by-the-method-of-differences",
       "categoryIds": [
         17236,
         790917759,
@@ -1657,13 +2639,13 @@
         "telescoping",
         "telescoping sums"
       ],
-      "searchText": "evaluating sigma sum 1/ r r + 1 by the method of differences algebra further a-level mathematics method of differences method of differences telescoping telescoping sums"
+      "searchText": "evaluating sigma sum 1 r r + 1 by the method of differences algebra further a-level mathematics method of differences method of differences telescoping telescoping sums"
     },
     {
       "title": "How to Verify the Identity 1/[r(r + 1)] ≡ 1/r − 1/(r + 1)",
       "url": "https://geometryinsights.com/2026/09/09/how-to-verify-the-identity-1-rr-1-%e2%89%a1-1-r-%e2%88%92-1-r-1/",
       "date": "2026-09-09",
-      "slug": "how-to-verify-the-identity-1-rr-1-≡-1-r-−-1-r-1",
+      "slug": "how-to-verify-the-identity-1-rr-1-%e2%89%a1-1-r-%e2%88%92-1-r-1",
       "categoryIds": [
         21439756,
         17236,
@@ -1693,7 +2675,7 @@
         "telescoping",
         "telescoping sums"
       ],
-      "searchText": "how to verify the identity 1/ r r + 1 congruence 1/r - 1/ r + 1 a-level mathematics algebra method of differences method of differences telescoping telescoping sums"
+      "searchText": "how to verify the identity 1 r r + 1 1 r - 1 r + 1 a-level mathematics algebra method of differences method of differences telescoping telescoping sums"
     },
     {
       "title": "Deriving the Sum of Cubes Formula Using the Method of Differences",
@@ -1725,18 +2707,18 @@
         "Sequences & Series"
       ],
       "searchAliases": [
-        "progression",
-        "sequence",
         "sequences",
-        "series"
+        "series",
+        "sequence",
+        "progression"
       ],
-      "searchText": "deriving the sum of cubes formula using the method of differences a-level mathematics further a-level mathematics sequences series progression sequence sequences series"
+      "searchText": "deriving the sum of cubes formula using the method of differences a-level mathematics further a-level mathematics sequences series sequences series sequence progression"
     },
     {
       "title": "How to Show That 4r³ ≡ r²(r + 1)² − (r − 1)²r²",
       "url": "https://geometryinsights.com/2026/09/09/how-to-show-that-4r%c2%b3-%e2%89%a1-r%c2%b2r-1%c2%b2-%e2%88%92-r-%e2%88%92-1%c2%b2r%c2%b2/",
       "date": "2026-09-09",
-      "slug": "how-to-show-that-4r³-≡-r²r-1²-−-r-−-1²r²",
+      "slug": "how-to-show-that-4r%c2%b3-%e2%89%a1-r%c2%b2r-1%c2%b2-%e2%88%92-r-%e2%88%92-1%c2%b2r%c2%b2",
       "categoryIds": [
         21439756,
         17236,
@@ -1762,7 +2744,7 @@
         "Fundamentals of Proof"
       ],
       "searchAliases": [],
-      "searchText": "how to show that 4r3 congruence r2 r + 1 2 - r - 1 2r2 a-level mathematics algebra fundamentals of proof"
+      "searchText": "how to show that 4r r r + 1 - r - 1 r a-level mathematics algebra fundamentals of proof"
     },
     {
       "title": "The Method of Differences Explained: Type 2",
@@ -1794,12 +2776,12 @@
         "Sequences & Series"
       ],
       "searchAliases": [
-        "progression",
-        "sequence",
         "sequences",
-        "series"
+        "series",
+        "sequence",
+        "progression"
       ],
-      "searchText": "the method of differences explained type 2 a-level mathematics algebra sequences series progression sequence sequences series"
+      "searchText": "the method of differences explained type 2 a-level mathematics algebra sequences series sequences series sequence progression"
     },
     {
       "title": "The Method of Differences Explained",
@@ -1831,18 +2813,18 @@
         "Sequences & Series"
       ],
       "searchAliases": [
-        "progression",
-        "sequence",
         "sequences",
-        "series"
+        "series",
+        "sequence",
+        "progression"
       ],
-      "searchText": "the method of differences explained a-level mathematics algebra sequences series progression sequence sequences series"
+      "searchText": "the method of differences explained a-level mathematics algebra sequences series sequences series sequence progression"
     },
     {
       "title": "Generating the Plane Determined by Two Linearly Independent Vectors in ℝ³",
       "url": "https://geometryinsights.com/2026/09/07/generating-the-plane-determined-by-two-linearly-independent-vectors-in-%e2%84%9d%c2%b3/",
       "date": "2026-09-07",
-      "slug": "generating-the-plane-determined-by-two-linearly-independent-vectors-in-ℝ³",
+      "slug": "generating-the-plane-determined-by-two-linearly-independent-vectors-in-%e2%84%9d%c2%b3",
       "categoryIds": [
         2480492,
         69043,
@@ -1874,24 +2856,24 @@
         "Vector Geometry & ℝ²"
       ],
       "searchAliases": [
-        "2-dimensional",
-        "2d",
         "analytic geometry",
         "coordinate geometry",
         "linear algebra",
+        "vector spaces",
         "plane",
         "planes",
         "r2",
-        "vector geometry",
-        "vector spaces"
+        "2d",
+        "2-dimensional",
+        "vector geometry"
       ],
-      "searchText": "generating the plane determined by two linearly independent vectors in r3 3d real3 analytic geometry linear algebra planes vector geometry r2 2d real2 2-dimensional 2d analytic geometry coordinate geometry linear algebra plane planes r2 vector geometry vector spaces"
+      "searchText": "generating the plane determined by two linearly independent vectors in r3 real3 3d analytic geometry linear algebra planes vector geometry r2 real2 2d analytic geometry coordinate geometry linear algebra vector spaces plane planes r2 2d 2-dimensional vector geometry"
     },
     {
       "title": "Deriving the Cartesian Equation of an Ellipsoid Centred at (h, k, l) in ℝ³",
       "url": "https://geometryinsights.com/2026/09/07/deriving-the-cartesian-equation-of-an-ellipsoid-centred-at-h-k-l-in-%e2%84%9d%c2%b3/",
       "date": "2026-09-07",
-      "slug": "deriving-the-cartesian-equation-of-an-ellipsoid-centred-at-h-k-l-in-ℝ³",
+      "slug": "deriving-the-cartesian-equation-of-an-ellipsoid-centred-at-h-k-l-in-%e2%84%9d%c2%b3",
       "categoryIds": [
         2480492,
         528196,
@@ -1941,27 +2923,27 @@
         "Vectors"
       ],
       "searchAliases": [
-        "2-dimensional",
-        "2d",
         "analytic geometry",
         "coordinate geometry",
         "coordinates",
         "parametric",
         "parametric equations",
         "parametric surfaces",
-        "r2",
         "surfaces",
-        "vector",
+        "r2",
+        "2d",
+        "2-dimensional",
         "vector geometry",
+        "vector",
         "vectors"
       ],
-      "searchText": "deriving the cartesian equation of an ellipsoid centred at h k l in r3 3d real3 analytic geometry coordinate geometry parametric equations parametric surfaces transformations vector geometry r2 2d real2 vectors 2-dimensional 2d analytic geometry coordinate geometry coordinates parametric parametric equations parametric surfaces r2 surfaces vector vector geometry vectors"
+      "searchText": "deriving the cartesian equation of an ellipsoid centred at h k l in r3 real3 3d analytic geometry coordinate geometry parametric equations parametric surfaces transformations vector geometry r2 real2 2d vectors analytic geometry coordinate geometry coordinates parametric parametric equations parametric surfaces surfaces r2 2d 2-dimensional vector geometry vector vectors"
     },
     {
       "title": "Solving the Matrix Problem for Two Intersecting Lines in ℝ²",
       "url": "https://geometryinsights.com/2026/09/07/solving-the-matrix-problem-for-two-intersecting-lines-in-%e2%84%9d%c2%b2/",
       "date": "2026-09-07",
-      "slug": "solving-the-matrix-problem-for-two-intersecting-lines-in-ℝ²",
+      "slug": "solving-the-matrix-problem-for-two-intersecting-lines-in-%e2%84%9d%c2%b2",
       "categoryIds": [
         790917759,
         215824481,
@@ -2002,17 +2984,17 @@
         "inverse",
         "inverses",
         "linear algebra",
-        "matrices",
+        "vector spaces",
         "matrix",
-        "vector spaces"
+        "matrices"
       ],
-      "searchText": "solving the matrix problem for two intersecting lines in r2 2d real2 further a-level mathematics further pure mathematics inverses linear algebra matrices inverse inverses linear algebra matrices matrix vector spaces"
+      "searchText": "solving the matrix problem for two intersecting lines in r2 real2 2d further a-level mathematics further pure mathematics inverses linear algebra matrices inverse inverses linear algebra vector spaces matrix matrices"
     },
     {
       "title": "Two Intersecting Lines in ℝ² and the Resulting Matrix Problem",
       "url": "https://geometryinsights.com/2026/09/07/two-intersecting-lines-in-%e2%84%9d%c2%b2-and-the-resulting-matrix-problem/",
       "date": "2026-09-07",
-      "slug": "two-intersecting-lines-in-ℝ²-and-the-resulting-matrix-problem",
+      "slug": "two-intersecting-lines-in-%e2%84%9d%c2%b2-and-the-resulting-matrix-problem",
       "categoryIds": [
         2480492,
         528196,
@@ -2048,11 +3030,11 @@
         "coordinate geometry",
         "coordinates",
         "linear algebra",
-        "matrices",
+        "vector spaces",
         "matrix",
-        "vector spaces"
+        "matrices"
       ],
-      "searchText": "two intersecting lines in r2 2d real2 and the resulting matrix problem analytic geometry coordinate geometry linear algebra matrices analytic geometry coordinate geometry coordinates linear algebra matrices matrix vector spaces"
+      "searchText": "two intersecting lines in r2 real2 2d and the resulting matrix problem analytic geometry coordinate geometry linear algebra matrices analytic geometry coordinate geometry coordinates linear algebra vector spaces matrix matrices"
     },
     {
       "title": "The Decimal Number System: Place Value and Powers of Ten",
@@ -2090,7 +3072,7 @@
       "title": "Mechanics: Deriving s = vt − ½at²",
       "url": "https://geometryinsights.com/2026/09/04/mechanics-deriving-s-vt-%e2%88%92-%c2%bdat%c2%b2/",
       "date": "2026-09-04",
-      "slug": "mechanics-deriving-s-vt-−-½at²",
+      "slug": "mechanics-deriving-s-vt-%e2%88%92-%c2%bdat%c2%b2",
       "categoryIds": [
         21439756,
         790917913,
@@ -2123,16 +3105,16 @@
       ],
       "searchAliases": [
         "kinematics",
-        "mechanics",
-        "motion"
+        "motion",
+        "mechanics"
       ],
-      "searchText": "mechanics deriving s vt - 1 2at2 a-level mathematics kinematics mechanics physics kinematics mechanics motion"
+      "searchText": "mechanics deriving s vt - at a-level mathematics kinematics mechanics physics kinematics motion mechanics"
     },
     {
       "title": "Mechanics: Deriving s = ut + ½at²",
       "url": "https://geometryinsights.com/2026/09/04/mechanics-deriving-s-ut-%c2%bdat%c2%b2/",
       "date": "2026-09-04",
-      "slug": "mechanics-deriving-s-ut-½at²",
+      "slug": "mechanics-deriving-s-ut-%c2%bdat%c2%b2",
       "categoryIds": [
         21439756,
         790917913,
@@ -2165,16 +3147,16 @@
       ],
       "searchAliases": [
         "kinematics",
-        "mechanics",
-        "motion"
+        "motion",
+        "mechanics"
       ],
-      "searchText": "mechanics deriving s ut + 1 2at2 a-level mathematics kinematics mechanics physics kinematics mechanics motion"
+      "searchText": "mechanics deriving s ut + at a-level mathematics kinematics mechanics physics kinematics motion mechanics"
     },
     {
       "title": "Mechanics: Deriving v² = u² + 2as",
       "url": "https://geometryinsights.com/2026/09/04/mechanics-deriving-v%c2%b2-u%c2%b2-2as/",
       "date": "2026-09-04",
-      "slug": "mechanics-deriving-v²-u²-2as",
+      "slug": "mechanics-deriving-v%c2%b2-u%c2%b2-2as",
       "categoryIds": [
         21439756,
         790917913,
@@ -2207,16 +3189,16 @@
       ],
       "searchAliases": [
         "kinematics",
-        "mechanics",
-        "motion"
+        "motion",
+        "mechanics"
       ],
-      "searchText": "mechanics deriving v2 u2 + 2as a-level mathematics kinematics mechanics physics kinematics mechanics motion"
+      "searchText": "mechanics deriving v u + 2as a-level mathematics kinematics mechanics physics kinematics motion mechanics"
     },
     {
       "title": "Mechanics: Deriving v = u + at and s = ½(u + v)t",
       "url": "https://geometryinsights.com/2026/09/04/mechanics-deriving-v-u-at-and-s-%c2%bdu-vt/",
       "date": "2026-09-04",
-      "slug": "mechanics-deriving-v-u-at-and-s-½u-vt",
+      "slug": "mechanics-deriving-v-u-at-and-s-%c2%bdu-vt",
       "categoryIds": [
         790917912,
         790917913,
@@ -2249,16 +3231,16 @@
       ],
       "searchAliases": [
         "kinematics",
-        "mechanics",
-        "motion"
+        "motion",
+        "mechanics"
       ],
-      "searchText": "mechanics deriving v u + at and s 1 2 u + v t acceleration kinematics mechanics physics kinematics mechanics motion"
+      "searchText": "mechanics deriving v u + at and s u + v t acceleration kinematics mechanics physics kinematics motion mechanics"
     },
     {
       "title": "Deriving |B| cos(180° − θ) = −(A · B)/|A| from the Dot Product",
       "url": "https://geometryinsights.com/2026/09/03/deriving-b-cos180-%e2%88%92-%ce%b8-%e2%88%92a-%c2%b7-b-a-from-the-dot-product/",
       "date": "2026-09-03",
-      "slug": "deriving-b-cos180-−-θ-−a-·-b-a-from-the-dot-product",
+      "slug": "deriving-b-cos180-%e2%88%92-%ce%b8-%e2%88%92a-%c2%b7-b-a-from-the-dot-product",
       "categoryIds": [
         50916885,
         467439
@@ -2283,13 +3265,13 @@
         "vector",
         "vectors"
       ],
-      "searchText": "deriving b cos 180 - theta - a dot b a from the dot product dot products vectors dot product scalar product vector vectors"
+      "searchText": "deriving b cos 180 - - a dot b a from the dot product dot products vectors dot product scalar product vector vectors"
     },
     {
       "title": "Useful Lemma: |cos(180° − θ)| = |cos θ|",
       "url": "https://geometryinsights.com/2026/09/03/useful-lemma-cos180-%e2%88%92-%ce%b8-cos-%ce%b8/",
       "date": "2026-09-03",
-      "slug": "useful-lemma-cos180-−-θ-cos-θ",
+      "slug": "useful-lemma-cos180-%e2%88%92-%ce%b8-cos-%ce%b8",
       "categoryIds": [
         790917898,
         195977
@@ -2313,13 +3295,13 @@
         "trigonometric",
         "trigonometry"
       ],
-      "searchText": "useful lemma cos 180 - theta cos theta lemmas trigonometry trig trigonometric trigonometry"
+      "searchText": "useful lemma cos 180 - cos lemmas trigonometry trig trigonometric trigonometry"
     },
     {
       "title": "How to Centre an Ellipse in ℝ²: From Parametric to Cartesian Form",
       "url": "https://geometryinsights.com/2026/09/03/how-to-centre-an-ellipse-in-%e2%84%9d%c2%b2-from-parametric-to-cartesian-form/",
       "date": "2026-09-03",
-      "slug": "how-to-centre-an-ellipse-in-ℝ²-from-parametric-to-cartesian-form",
+      "slug": "how-to-centre-an-ellipse-in-%e2%84%9d%c2%b2-from-parametric-to-cartesian-form",
       "categoryIds": [
         2480492,
         790917662,
@@ -2349,13 +3331,13 @@
         "coordinate geometry",
         "coordinates"
       ],
-      "searchText": "how to centre an ellipse in r2 2d real2 from parametric to cartesian form analytic geometry conic sections coordinate geometry analytic geometry coordinate geometry coordinates"
+      "searchText": "how to centre an ellipse in r2 real2 2d from parametric to cartesian form analytic geometry conic sections coordinate geometry analytic geometry coordinate geometry coordinates"
     },
     {
       "title": "Logical Connectives: ¬, ∧, ∨, → and ↔",
       "url": "https://geometryinsights.com/2026/09/03/logical-connectives-%c2%ac-%e2%88%a7-%e2%88%a8-%e2%86%92-and-%e2%86%94/",
       "date": "2026-09-03",
-      "slug": "logical-connectives-¬-∧-∨-→-and-↔",
+      "slug": "logical-connectives-%c2%ac-%e2%88%a7-%e2%88%a8-%e2%86%92-and-%e2%86%94",
       "categoryIds": [
         2199630,
         790917887,
@@ -2419,7 +3401,7 @@
       "title": "Why Does √(x · x) Give Magnitude? From Absolute Value in ℝ to Vector Length in ℝ² and ℝ³",
       "url": "https://geometryinsights.com/2026/09/02/why-does-%e2%88%9ax-%c2%b7-x-give-magnitude-from-absolute-value-in-%e2%84%9d-to-vector-length-in-%e2%84%9d%c2%b2-and-%e2%84%9d%c2%b3/",
       "date": "2026-09-02",
-      "slug": "why-does-√x-·-x-give-magnitude-from-absolute-value-in-ℝ-to-vector-length-in-ℝ²-and-ℝ³",
+      "slug": "why-does-%e2%88%9ax-%c2%b7-x-give-magnitude-from-absolute-value-in-%e2%84%9d-to-vector-length-in-%e2%84%9d%c2%b2-and-%e2%84%9d%c2%b3",
       "categoryIds": [
         790917825,
         50916885,
@@ -2450,13 +3432,13 @@
         "vector",
         "vectors"
       ],
-      "searchText": "why does x dot x give magnitude from absolute value in real to vector length in r2 2d real2 and r3 3d real3 absolute value dot products vectors dot product scalar product vector vectors"
+      "searchText": "why does sqrt x dot x give magnitude from absolute value in real to vector length in r2 real2 2d and r3 real3 3d absolute value dot products vectors dot product scalar product vector vectors"
     },
     {
       "title": "Cartesian Products: From Sets to Ordered Pairs, ℝ² and Functions",
       "url": "https://geometryinsights.com/2026/09/02/cartesian-products-from-sets-to-ordered-pairs-%e2%84%9d%c2%b2-and-functions/",
       "date": "2026-09-02",
-      "slug": "cartesian-products-from-sets-to-ordered-pairs-ℝ²-and-functions",
+      "slug": "cartesian-products-from-sets-to-ordered-pairs-%e2%84%9d%c2%b2-and-functions",
       "categoryIds": [
         21439756,
         790917871,
@@ -2491,7 +3473,7 @@
         "function",
         "functions"
       ],
-      "searchText": "cartesian products from sets to ordered pairs r2 2d real2 and functions a-level mathematics cartesian product functions sets logic function functions"
+      "searchText": "cartesian products from sets to ordered pairs r2 real2 2d and functions a-level mathematics cartesian product functions sets logic function functions"
     },
     {
       "title": "Constructing y = arctan x from the Tangent Function",
@@ -2564,10 +3546,10 @@
       ],
       "searchAliases": [
         "a level statistics",
-        "probability",
-        "statistics"
+        "statistics",
+        "probability"
       ],
-      "searchText": "expanding the sum of squared residuals for a linear regression model a level statistics algebra statistics a level statistics probability statistics"
+      "searchText": "expanding the sum of squared residuals for a linear regression model a level statistics algebra statistics a level statistics statistics probability"
     },
     {
       "title": "The Construction of y = arccos(x): Deriving the Inverse Cosine Function",
@@ -2645,7 +3627,7 @@
       "title": "Horizontal Translation of Graphs: Proving That y = f(x − a) Shifts the Graph a Units to the Right",
       "url": "https://geometryinsights.com/2026/08/31/horizontal-translation-of-graphs-proving-that-y-fx-%e2%88%92-a-shifts-the-graph-a-units-to-the-right/",
       "date": "2026-08-31",
-      "slug": "horizontal-translation-of-graphs-proving-that-y-fx-−-a-shifts-the-graph-a-units-to-the-right",
+      "slug": "horizontal-translation-of-graphs-proving-that-y-fx-%e2%88%92-a-shifts-the-graph-a-units-to-the-right",
       "categoryIds": [
         9925,
         790917838,
@@ -2680,7 +3662,7 @@
       "title": "Deriving the Absolute Value of a Difference: |x₁ − x₂|",
       "url": "https://geometryinsights.com/2026/08/29/deriving-the-absolute-value-of-a-difference-x%e2%82%81-%e2%88%92-x%e2%82%82/",
       "date": "2026-08-29",
-      "slug": "deriving-the-absolute-value-of-a-difference-x₁-−-x₂",
+      "slug": "deriving-the-absolute-value-of-a-difference-x%e2%82%81-%e2%88%92-x%e2%82%82",
       "categoryIds": [
         790917825,
         17236
@@ -2700,7 +3682,7 @@
         "Algebra"
       ],
       "searchAliases": [],
-      "searchText": "deriving the absolute value of a difference x1 - x2 absolute value algebra"
+      "searchText": "deriving the absolute value of a difference x - x absolute value algebra"
     },
     {
       "title": "Deriving the Sum of the First n Positive Integers by Mathematical Induction",
@@ -2775,7 +3757,7 @@
       "title": "Deriving the Vector Dot Product Rule from the Cosine Rule: A · B = |A||B| cos θ",
       "url": "https://geometryinsights.com/2026/08/28/deriving-the-vector-dot-product-rule-from-the-cosine-rule-a-%c2%b7-b-ab-cos-%ce%b8/",
       "date": "2026-08-28",
-      "slug": "deriving-the-vector-dot-product-rule-from-the-cosine-rule-a-·-b-ab-cos-θ",
+      "slug": "deriving-the-vector-dot-product-rule-from-the-cosine-rule-a-%c2%b7-b-ab-cos-%ce%b8",
       "categoryIds": [
         790917807,
         50916885,
@@ -2806,13 +3788,13 @@
         "vector",
         "vectors"
       ],
-      "searchText": "deriving the vector dot product rule from the cosine rule a dot b a b cos theta cosine rule dot products vectors dot product scalar product vector vectors"
+      "searchText": "deriving the vector dot product rule from the cosine rule a dot b a b cos cosine rule dot products vectors dot product scalar product vector vectors"
     },
     {
       "title": "Deriving the Vector Cosine Rule in ℝ² and ℝ³: |A − B|² = |A|² + |B|² − 2|A||B| cos θ",
       "url": "https://geometryinsights.com/2026/08/28/deriving-the-vector-cosine-rule-in-%e2%84%9d%c2%b2-and-%e2%84%9d%c2%b3-a-%e2%88%92-b%c2%b2-a%c2%b2-b%c2%b2-%e2%88%92-2ab-cos-%ce%b8/",
       "date": "2026-08-28",
-      "slug": "deriving-the-vector-cosine-rule-in-ℝ²-and-ℝ³-a-−-b²-a²-b²-−-2ab-cos-θ",
+      "slug": "deriving-the-vector-cosine-rule-in-%e2%84%9d%c2%b2-and-%e2%84%9d%c2%b3-a-%e2%88%92-b%c2%b2-a%c2%b2-b%c2%b2-%e2%88%92-2ab-cos-%ce%b8",
       "categoryIds": [
         790917807,
         790917620,
@@ -2844,23 +3826,23 @@
         "Vectors"
       ],
       "searchAliases": [
-        "2-dimensional",
-        "2d",
-        "3-dimensional",
-        "3d",
         "r2",
-        "r3",
-        "vector",
+        "2d",
+        "2-dimensional",
         "vector geometry",
+        "r3",
+        "3d",
+        "3-dimensional",
+        "vector",
         "vectors"
       ],
-      "searchText": "deriving the vector cosine rule in r2 2d real2 and r3 3d real3 a - b 2 a 2 + b 2 - 2 a b cos theta cosine rule vector geometry r2 2d real2 vector geometry r3 3d real3 vectors 2-dimensional 2d 3-dimensional 3d r2 r3 vector vector geometry vectors"
+      "searchText": "deriving the vector cosine rule in r2 real2 2d and r3 real3 3d a - b a + b - 2 a b cos cosine rule vector geometry r2 real2 2d vector geometry r3 real3 3d vectors r2 2d 2-dimensional vector geometry r3 3d 3-dimensional vector vectors"
     },
     {
       "title": "Differentiating y = ln x and y = aˣ Using Implicit Differentiation",
       "url": "https://geometryinsights.com/2026/08/27/differentiating-y-ln-x-and-y-a%cb%a3-using-implicit-differentiation/",
       "date": "2026-08-27",
-      "slug": "differentiating-y-ln-x-and-y-aˣ-using-implicit-differentiation",
+      "slug": "differentiating-y-ln-x-and-y-a%cb%a3-using-implicit-differentiation",
       "categoryIds": [
         108586,
         790917794,
@@ -2886,18 +3868,18 @@
         "Natural Logarithm"
       ],
       "searchAliases": [
-        "calculus",
         "derivative",
         "derivatives",
         "differentiate",
-        "ln",
+        "calculus",
         "log",
+        "logs",
         "logarithm",
         "logarithms",
-        "logs",
+        "ln",
         "natural logarithm"
       ],
-      "searchText": "differentiating y ln x and y ax using implicit differentiation differentiation logarithms natural logarithm calculus derivative derivatives differentiate ln log logarithm logarithms logs natural logarithm"
+      "searchText": "differentiating y ln x and y a using implicit differentiation differentiation logarithms natural logarithm derivative derivatives differentiate calculus log logs logarithm logarithms ln natural logarithm"
     },
     {
       "title": "Differentiating cosh x and sinh x Using Their Exponential Definitions",
@@ -2936,22 +3918,22 @@
       ],
       "searchAliases": [
         "calculus",
-        "cosh",
         "derivative",
+        "differentiation",
         "derivatives",
         "differentiate",
-        "differentiation",
         "hyperbolic",
         "sinh",
+        "cosh",
         "tanh"
       ],
-      "searchText": "differentiating cosh x and sinh x using their exponential definitions calculus differentiation hyperbolic hyperbolic functions calculus cosh derivative derivatives differentiate differentiation hyperbolic sinh tanh"
+      "searchText": "differentiating cosh x and sinh x using their exponential definitions calculus differentiation hyperbolic hyperbolic functions calculus derivative differentiation derivatives differentiate hyperbolic sinh cosh tanh"
     },
     {
       "title": "Differentiating y = e⁻ˣ Using the Chain Rule: A Step-by-Step Derivation",
       "url": "https://geometryinsights.com/2026/08/27/differentiating-y-e%e2%81%bb%cb%a3-using-the-chain-rule-a-step-by-step-derivation/",
       "date": "2026-08-27",
-      "slug": "differentiating-y-e⁻ˣ-using-the-chain-rule-a-step-by-step-derivation",
+      "slug": "differentiating-y-e%e2%81%bb%cb%a3-using-the-chain-rule-a-step-by-step-derivation",
       "categoryIds": [
         108586,
         217481764,
@@ -2977,20 +3959,20 @@
         "Exponential Functions"
       ],
       "searchAliases": [
-        "calculus",
         "derivative",
         "derivatives",
         "differentiate",
+        "calculus",
         "exponential",
         "exponentials"
       ],
-      "searchText": "differentiating y e x using the chain rule a step-by-step derivation differentiation differentiation first principles exponential functions calculus derivative derivatives differentiate exponential exponentials"
+      "searchText": "differentiating y e using the chain rule a step-by-step derivation differentiation differentiation first principles exponential functions derivative derivatives differentiate calculus exponential exponentials"
     },
     {
       "title": "Exponential Functions and Their Inverses: Deriving f⁻¹(x) = ln x",
       "url": "https://geometryinsights.com/2026/08/27/exponential-functions-and-their-inverses-deriving-f%e2%81%bb%c2%b9x-ln-x/",
       "date": "2026-08-27",
-      "slug": "exponential-functions-and-their-inverses-deriving-f⁻¹x-ln-x",
+      "slug": "exponential-functions-and-their-inverses-deriving-f%e2%81%bb%c2%b9x-ln-x",
       "categoryIds": [
         790917658,
         790917605,
@@ -3021,10 +4003,10 @@
         "inverse",
         "inverses",
         "ln",
-        "logarithm",
-        "natural logarithm"
+        "natural logarithm",
+        "logarithm"
       ],
-      "searchText": "exponential functions and their inverses deriving f 1 x ln x exponential functions inverses natural logarithm exponential exponentials inverse inverses ln logarithm natural logarithm"
+      "searchText": "exponential functions and their inverses deriving f x ln x exponential functions inverses natural logarithm exponential exponentials inverse inverses ln natural logarithm logarithm"
     },
     {
       "title": "Identity Elements Under Group Isomorphisms: Proving f(e_G) = e_H",
@@ -3068,19 +4050,19 @@
         "Isomorphism"
       ],
       "searchAliases": [
-        "group",
         "group theory",
         "groups",
-        "isomorphic",
-        "isomorphism"
+        "group",
+        "isomorphism",
+        "isomorphic"
       ],
-      "searchText": "identity elements under group isomorphisms proving f e g e h abstract algebra further a-level mathematics further pure mathematics group theory isomorphism group group theory groups isomorphic isomorphism"
+      "searchText": "identity elements under group isomorphisms proving f e g e h abstract algebra further a-level mathematics further pure mathematics group theory isomorphism group theory groups group isomorphism isomorphic"
     },
     {
       "title": "What Is a Group Isomorphism? Understanding G ≅ H and f(a ∗ b) = f(a) ∘ f(b)",
       "url": "https://geometryinsights.com/2026/08/25/what-is-a-group-isomorphism-understanding-g-%e2%89%85-h-and-fa-%e2%88%97-b-fa-%e2%88%98-fb/",
       "date": "2026-08-25",
-      "slug": "what-is-a-group-isomorphism-understanding-g-≅-h-and-fa-∗-b-fa-∘-fb",
+      "slug": "what-is-a-group-isomorphism-understanding-g-%e2%89%85-h-and-fa-%e2%88%97-b-fa-%e2%88%98-fb",
       "categoryIds": [
         9925,
         790917759,
@@ -3114,19 +4096,19 @@
       "searchAliases": [
         "function",
         "functions",
-        "group",
         "group theory",
         "groups",
-        "isomorphic",
-        "isomorphism"
+        "group",
+        "isomorphism",
+        "isomorphic"
       ],
-      "searchText": "what is a group isomorphism understanding g h and f a b f a f b functions further a-level mathematics group theory isomorphism function functions group group theory groups isomorphic isomorphism"
+      "searchText": "what is a group isomorphism understanding g h and f a b f a f b functions further a-level mathematics group theory isomorphism function functions group theory groups group isomorphism isomorphic"
     },
     {
       "title": "Independent Events: Deriving the Multiplication Rule P(A ∩ B) = P(A)P(B)",
       "url": "https://geometryinsights.com/2026/08/25/independent-events-deriving-the-multiplication-rule-pa-%e2%88%a9-b-papb/",
       "date": "2026-08-25",
-      "slug": "independent-events-deriving-the-multiplication-rule-pa-∩-b-papb",
+      "slug": "independent-events-deriving-the-multiplication-rule-pa-%e2%88%a9-b-papb",
       "categoryIds": [
         790917747,
         89007,
@@ -3153,22 +4135,22 @@
       ],
       "searchAliases": [
         "a level statistics",
-        "events",
-        "probabilities",
+        "statistics",
         "probability",
+        "stats",
+        "probabilities",
+        "events",
         "set theory",
         "sets",
-        "statistics",
-        "stats",
         "venn"
       ],
-      "searchText": "independent events deriving the multiplication rule p a intersection b p a p b a level statistics probability statistics set theory a level statistics events probabilities probability set theory sets statistics stats venn"
+      "searchText": "independent events deriving the multiplication rule p a b p a p b a level statistics probability statistics set theory a level statistics statistics probability stats probabilities events set theory sets venn"
     },
     {
       "title": "Mutually Exclusive Events: Deriving P(A ∪ B) = P(A) + P(B)",
       "url": "https://geometryinsights.com/2026/08/25/mutually-exclusive-events-deriving-pa-%e2%88%aa-b-pa-pb/",
       "date": "2026-08-25",
-      "slug": "mutually-exclusive-events-deriving-pa-∪-b-pa-pb",
+      "slug": "mutually-exclusive-events-deriving-pa-%e2%88%aa-b-pa-pb",
       "categoryIds": [
         790917747,
         89007,
@@ -3195,16 +4177,16 @@
       ],
       "searchAliases": [
         "a level statistics",
-        "events",
-        "probabilities",
+        "statistics",
         "probability",
+        "stats",
+        "probabilities",
+        "events",
         "set theory",
         "sets",
-        "statistics",
-        "stats",
         "venn"
       ],
-      "searchText": "mutually exclusive events deriving p a union b p a + p b a level statistics probability statistics set theory a level statistics events probabilities probability set theory sets statistics stats venn"
+      "searchText": "mutually exclusive events deriving p a b p a + p b a level statistics probability statistics set theory a level statistics statistics probability stats probabilities events set theory sets venn"
     },
     {
       "title": "What Is a Binary Operation? Definition, Notation and Examples",
@@ -3230,11 +4212,11 @@
         "Group Theory"
       ],
       "searchAliases": [
-        "group",
         "group theory",
-        "groups"
+        "groups",
+        "group"
       ],
-      "searchText": "what is a binary operation definition notation and examples binary operations group theory group group theory groups"
+      "searchText": "what is a binary operation definition notation and examples binary operations group theory group theory groups group"
     },
     {
       "title": "Proving the Uniqueness of the Identity Element Under a Binary Operation",
@@ -3266,17 +4248,17 @@
         "Group Theory"
       ],
       "searchAliases": [
-        "group",
         "group theory",
-        "groups"
+        "groups",
+        "group"
       ],
-      "searchText": "proving the uniqueness of the identity element under a binary operation abstract algebra axioms group theory group group theory groups"
+      "searchText": "proving the uniqueness of the identity element under a binary operation abstract algebra axioms group theory group theory groups group"
     },
     {
       "title": "Proving Existence and Uniqueness of the Solution to a ∗ c = b in a Group",
       "url": "https://geometryinsights.com/2026/08/22/proving-existence-and-uniqueness-of-the-solution-to-a-%e2%88%97-c-b-in-a-group/",
       "date": "2026-08-22",
-      "slug": "proving-existence-and-uniqueness-of-the-solution-to-a-∗-c-b-in-a-group",
+      "slug": "proving-existence-and-uniqueness-of-the-solution-to-a-%e2%88%97-c-b-in-a-group",
       "categoryIds": [
         790917722,
         329149
@@ -3296,17 +4278,17 @@
         "Group Theory"
       ],
       "searchAliases": [
-        "group",
         "group theory",
-        "groups"
+        "groups",
+        "group"
       ],
-      "searchText": "proving existence and uniqueness of the solution to a c b in a group axioms group theory group group theory groups"
+      "searchText": "proving existence and uniqueness of the solution to a c b in a group axioms group theory group theory groups group"
     },
     {
       "title": "Understanding A′ ∪ B′ Through Venn Diagrams",
       "url": "https://geometryinsights.com/2026/08/21/understanding-a%e2%80%b2-%e2%88%aa-b%e2%80%b2-through-venn-diagrams/",
       "date": "2026-08-21",
-      "slug": "understanding-a′-∪-b′-through-venn-diagrams",
+      "slug": "understanding-a%e2%80%b2-%e2%88%aa-b%e2%80%b2-through-venn-diagrams",
       "categoryIds": [
         229458,
         790917708
@@ -3332,13 +4314,13 @@
         "venn diagram",
         "venn diagrams"
       ],
-      "searchText": "understanding a union b through venn diagrams set theory venn diagrams set theory sets venn venn diagram venn diagrams"
+      "searchText": "understanding a b through venn diagrams set theory venn diagrams set theory sets venn venn diagram venn diagrams"
     },
     {
       "title": "Understanding A′ ∩ B′ Through Venn Diagrams",
       "url": "https://geometryinsights.com/2026/08/21/understanding-a%e2%80%b2-%e2%88%a9-b%e2%80%b2-through-venn-diagrams/",
       "date": "2026-08-21",
-      "slug": "understanding-a′-∩-b′-through-venn-diagrams",
+      "slug": "understanding-a%e2%80%b2-%e2%88%a9-b%e2%80%b2-through-venn-diagrams",
       "categoryIds": [
         229458,
         790917708
@@ -3364,13 +4346,13 @@
         "venn diagram",
         "venn diagrams"
       ],
-      "searchText": "understanding a intersection b through venn diagrams set theory venn diagrams set theory sets venn venn diagram venn diagrams"
+      "searchText": "understanding a b through venn diagrams set theory venn diagrams set theory sets venn venn diagram venn diagrams"
     },
     {
       "title": "Understanding A ∩ B′ Through Venn Diagrams",
       "url": "https://geometryinsights.com/2026/08/21/understanding-a-%e2%88%a9-b%e2%80%b2-through-venn-diagrams/",
       "date": "2026-08-21",
-      "slug": "understanding-a-∩-b′-through-venn-diagrams",
+      "slug": "understanding-a-%e2%88%a9-b%e2%80%b2-through-venn-diagrams",
       "categoryIds": [
         229458,
         790917708
@@ -3396,13 +4378,13 @@
         "venn diagram",
         "venn diagrams"
       ],
-      "searchText": "understanding a intersection b through venn diagrams set theory venn diagrams set theory sets venn venn diagram venn diagrams"
+      "searchText": "understanding a b through venn diagrams set theory venn diagrams set theory sets venn venn diagram venn diagrams"
     },
     {
       "title": "Understanding Set Union A ∪ B Through Venn Diagrams",
       "url": "https://geometryinsights.com/2026/08/21/understanding-set-union-a-%e2%88%aa-b-through-venn-diagrams/",
       "date": "2026-08-21",
-      "slug": "understanding-set-union-a-∪-b-through-venn-diagrams",
+      "slug": "understanding-set-union-a-%e2%88%aa-b-through-venn-diagrams",
       "categoryIds": [
         229458,
         790917708
@@ -3428,13 +4410,13 @@
         "venn diagram",
         "venn diagrams"
       ],
-      "searchText": "understanding set union a union b through venn diagrams set theory venn diagrams set theory sets venn venn diagram venn diagrams"
+      "searchText": "understanding set union a b through venn diagrams set theory venn diagrams set theory sets venn venn diagram venn diagrams"
     },
     {
       "title": "Understanding Set Intersection A ∩ B Through Venn Diagrams",
       "url": "https://geometryinsights.com/2026/08/21/understanding-set-intersection-a-%e2%88%a9-b-through-venn-diagrams/",
       "date": "2026-08-21",
-      "slug": "understanding-set-intersection-a-∩-b-through-venn-diagrams",
+      "slug": "understanding-set-intersection-a-%e2%88%a9-b-through-venn-diagrams",
       "categoryIds": [
         229458,
         790917708
@@ -3460,13 +4442,13 @@
         "venn diagram",
         "venn diagrams"
       ],
-      "searchText": "understanding set intersection a intersection b through venn diagrams set theory venn diagrams set theory sets venn venn diagram venn diagrams"
+      "searchText": "understanding set intersection a b through venn diagrams set theory venn diagrams set theory sets venn venn diagram venn diagrams"
     },
     {
       "title": "Deriving the Permutation Formula: Why ⁿPᵣ = n!/(n−r)!",
       "url": "https://geometryinsights.com/2026/08/20/deriving-the-permutation-formula-why-%e2%81%bfp%e1%b5%a3-n-n%e2%88%92r/",
       "date": "2026-08-20",
-      "slug": "deriving-the-permutation-formula-why-ⁿpᵣ-n-n−r",
+      "slug": "deriving-the-permutation-formula-why-%e2%81%bfp%e1%b5%a3-n-n%e2%88%92r",
       "categoryIds": [
         790917701,
         790917702
@@ -3486,13 +4468,13 @@
         "Permutations"
       ],
       "searchAliases": [],
-      "searchText": "deriving the permutation formula why npr n n-r combinatorics permutations"
+      "searchText": "deriving the permutation formula why p n n-r combinatorics permutations"
     },
     {
       "title": "Binomial Theorem: Expanding (a + b)ⁿ for n ∈ ℕ",
       "url": "https://geometryinsights.com/2026/08/19/binomial-theorem-expanding-a-b%e2%81%bf-for-n-%e2%88%88-%e2%84%95/",
       "date": "2026-08-19",
-      "slug": "binomial-theorem-expanding-a-bⁿ-for-n-∈-ℕ",
+      "slug": "binomial-theorem-expanding-a-b%e2%81%bf-for-n-%e2%88%88-%e2%84%95",
       "categoryIds": [
         17236,
         790917695
@@ -3516,13 +4498,13 @@
         "binomial theorem",
         "expansion"
       ],
-      "searchText": "binomial theorem expanding a + b n for n natural algebra binomial expansion binomial binomial theorem expansion"
+      "searchText": "binomial theorem expanding a + b for n natural algebra binomial expansion binomial binomial theorem expansion"
     },
     {
       "title": "Modular Arithmetic: Proving a ≡ b (mod m) ⇒ aⁿ ≡ bⁿ (mod m) Using the Binomial Theorem",
       "url": "https://geometryinsights.com/2026/08/19/modular-arithmetic-proving-a-%e2%89%a1-b-mod-m-%e2%87%92-a%e2%81%bf-%e2%89%a1-b%e2%81%bf-mod-m-using-the-binomial-theorem/",
       "date": "2026-08-19",
-      "slug": "modular-arithmetic-proving-a-≡-b-mod-m-⇒-aⁿ-≡-bⁿ-mod-m-using-the-binomial-theorem",
+      "slug": "modular-arithmetic-proving-a-%e2%89%a1-b-mod-m-%e2%87%92-a%e2%81%bf-%e2%89%a1-b%e2%81%bf-mod-m-using-the-binomial-theorem",
       "categoryIds": [
         790917695,
         790917647,
@@ -3550,22 +4532,22 @@
       "searchAliases": [
         "binomial",
         "binomial theorem",
-        "congruence",
-        "congruent",
-        "divisibility",
         "expansion",
-        "integers",
         "mod",
         "modulo",
-        "number theory"
+        "congruence",
+        "congruent",
+        "number theory",
+        "integers",
+        "divisibility"
       ],
-      "searchText": "modular arithmetic proving a congruence b mod m implies an congruence bn mod m using the binomial theorem binomial expansion modular arithmetic number theory binomial binomial theorem congruence congruent divisibility expansion integers mod modulo number theory"
+      "searchText": "modular arithmetic proving a b mod m a b mod m using the binomial theorem binomial expansion modular arithmetic number theory binomial binomial theorem expansion mod modulo congruence congruent number theory integers divisibility"
     },
     {
       "title": "Modular Arithmetic: Proving a ≡ b (mod m) and c ≡ d (mod m) ⇒ a ± c ≡ b ± d (mod m)",
       "url": "https://geometryinsights.com/2026/08/18/modular-arithmetic-proving-a-%e2%89%a1-b-mod-m-and-c-%e2%89%a1-d-mod-m-%e2%87%92-a-%c2%b1-c-%e2%89%a1-b-%c2%b1-d-mod-m/",
       "date": "2026-08-18",
-      "slug": "modular-arithmetic-proving-a-≡-b-mod-m-and-c-≡-d-mod-m-⇒-a-±-c-≡-b-±-d-mod-m",
+      "slug": "modular-arithmetic-proving-a-%e2%89%a1-b-mod-m-and-c-%e2%89%a1-d-mod-m-%e2%87%92-a-%c2%b1-c-%e2%89%a1-b-%c2%b1-d-mod-m",
       "categoryIds": [
         790917647,
         69054
@@ -3585,21 +4567,21 @@
         "Number Theory"
       ],
       "searchAliases": [
-        "congruence",
-        "congruent",
-        "divisibility",
-        "integers",
         "mod",
         "modulo",
-        "number theory"
+        "congruence",
+        "congruent",
+        "number theory",
+        "integers",
+        "divisibility"
       ],
-      "searchText": "modular arithmetic proving a congruence b mod m and c congruence d mod m implies a c congruence b d mod m modular arithmetic number theory congruence congruent divisibility integers mod modulo number theory"
+      "searchText": "modular arithmetic proving a b mod m and c d mod m a c b d mod m modular arithmetic number theory mod modulo congruence congruent number theory integers divisibility"
     },
     {
       "title": "Proving Scalar Multiplication Compatibility of Congruence Modulo m: If a ≡ b (mod m) and k ∈ ℤ, Then ka ≡ kb (mod m)",
       "url": "https://geometryinsights.com/2026/08/18/proving-scalar-multiplication-compatibility-of-congruence-modulo-m-if-a-%e2%89%a1-b-mod-m-and-k-%e2%88%88-%e2%84%a4-then-ka-%e2%89%a1-kb-mod-m/",
       "date": "2026-08-18",
-      "slug": "proving-scalar-multiplication-compatibility-of-congruence-modulo-m-if-a-≡-b-mod-m-and-k-∈-ℤ-then-ka-≡-kb-mod-m",
+      "slug": "proving-scalar-multiplication-compatibility-of-congruence-modulo-m-if-a-%e2%89%a1-b-mod-m-and-k-%e2%88%88-%e2%84%a4-then-ka-%e2%89%a1-kb-mod-m",
       "categoryIds": [
         790917647,
         69054
@@ -3619,21 +4601,21 @@
         "Number Theory"
       ],
       "searchAliases": [
-        "congruence",
-        "congruent",
-        "divisibility",
-        "integers",
         "mod",
         "modulo",
-        "number theory"
+        "congruence",
+        "congruent",
+        "number theory",
+        "integers",
+        "divisibility"
       ],
-      "searchText": "proving scalar multiplication compatibility of congruence modulo m if a congruence b mod m and k integers then ka congruence kb mod m modular arithmetic number theory congruence congruent divisibility integers mod modulo number theory"
+      "searchText": "proving scalar multiplication compatibility of congruence modulo m if a b mod m and k integers then ka kb mod m modular arithmetic number theory mod modulo congruence congruent number theory integers divisibility"
     },
     {
       "title": "Proving Multiplicative Compatibility of Congruence Modulo m: If a ≡ b (mod m) and c ≡ d (mod m), Then ac ≡ bd (mod m)",
       "url": "https://geometryinsights.com/2026/08/18/proving-multiplicative-compatibility-of-congruence-modulo-m-if-a-%e2%89%a1-b-mod-m-and-c-%e2%89%a1-d-mod-m-then-ac-%e2%89%a1-bd-mod-m/",
       "date": "2026-08-18",
-      "slug": "proving-multiplicative-compatibility-of-congruence-modulo-m-if-a-≡-b-mod-m-and-c-≡-d-mod-m-then-ac-≡-bd-mod-m",
+      "slug": "proving-multiplicative-compatibility-of-congruence-modulo-m-if-a-%e2%89%a1-b-mod-m-and-c-%e2%89%a1-d-mod-m-then-ac-%e2%89%a1-bd-mod-m",
       "categoryIds": [
         790917647,
         69054
@@ -3653,15 +4635,15 @@
         "Number Theory"
       ],
       "searchAliases": [
-        "congruence",
-        "congruent",
-        "divisibility",
-        "integers",
         "mod",
         "modulo",
-        "number theory"
+        "congruence",
+        "congruent",
+        "number theory",
+        "integers",
+        "divisibility"
       ],
-      "searchText": "proving multiplicative compatibility of congruence modulo m if a congruence b mod m and c congruence d mod m then ac congruence bd mod m modular arithmetic number theory congruence congruent divisibility integers mod modulo number theory"
+      "searchText": "proving multiplicative compatibility of congruence modulo m if a b mod m and c d mod m then ac bd mod m modular arithmetic number theory mod modulo congruence congruent number theory integers divisibility"
     },
     {
       "title": "Essential Algebraic Identities from the Distributive Law: Binomial Products, Squares and the Difference of Two Squares",
@@ -3696,7 +4678,7 @@
       "title": "Proving the Transitivity of Congruence Modulo m: If a ≡ b (mod m) and b ≡ c (mod m), Then a ≡ c (mod m)",
       "url": "https://geometryinsights.com/2026/08/18/proving-the-transitivity-of-congruence-modulo-m-if-a-%e2%89%a1-b-mod-m-and-b-%e2%89%a1-c-mod-m-then-a-%e2%89%a1-c-mod-m/",
       "date": "2026-08-18",
-      "slug": "proving-the-transitivity-of-congruence-modulo-m-if-a-≡-b-mod-m-and-b-≡-c-mod-m-then-a-≡-c-mod-m",
+      "slug": "proving-the-transitivity-of-congruence-modulo-m-if-a-%e2%89%a1-b-mod-m-and-b-%e2%89%a1-c-mod-m-then-a-%e2%89%a1-c-mod-m",
       "categoryIds": [
         790917688,
         790917647
@@ -3716,18 +4698,18 @@
         "Modular Arithmetic"
       ],
       "searchAliases": [
-        "congruence",
-        "congruent",
         "mod",
-        "modulo"
+        "modulo",
+        "congruence",
+        "congruent"
       ],
-      "searchText": "proving the transitivity of congruence modulo m if a congruence b mod m and b congruence c mod m then a congruence c mod m divisibility modular arithmetic congruence congruent mod modulo"
+      "searchText": "proving the transitivity of congruence modulo m if a b mod m and b c mod m then a c mod m divisibility modular arithmetic mod modulo congruence congruent"
     },
     {
       "title": "Proving the Symmetry of Congruence Modulo m: If a ≡ b (mod m), Then b ≡ a (mod m)",
       "url": "https://geometryinsights.com/2026/08/18/proving-the-symmetry-of-congruence-modulo-m-if-a-%e2%89%a1-b-mod-m-then-b-%e2%89%a1-a-mod-m/",
       "date": "2026-08-18",
-      "slug": "proving-the-symmetry-of-congruence-modulo-m-if-a-≡-b-mod-m-then-b-≡-a-mod-m",
+      "slug": "proving-the-symmetry-of-congruence-modulo-m-if-a-%e2%89%a1-b-mod-m-then-b-%e2%89%a1-a-mod-m",
       "categoryIds": [
         790917688,
         790917647
@@ -3747,18 +4729,18 @@
         "Modular Arithmetic"
       ],
       "searchAliases": [
-        "congruence",
-        "congruent",
         "mod",
-        "modulo"
+        "modulo",
+        "congruence",
+        "congruent"
       ],
-      "searchText": "proving the symmetry of congruence modulo m if a congruence b mod m then b congruence a mod m divisibility modular arithmetic congruence congruent mod modulo"
+      "searchText": "proving the symmetry of congruence modulo m if a b mod m then b a mod m divisibility modular arithmetic mod modulo congruence congruent"
     },
     {
       "title": "The Three Principal Rotation Matrices in ℝ³: Rotations About the x-, y- and z-Axes",
       "url": "https://geometryinsights.com/2026/08/17/the-three-principal-rotation-matrices-in-%e2%84%9d%c2%b3-rotations-about-the-x-y-and-z-axes/",
       "date": "2026-08-17",
-      "slug": "the-three-principal-rotation-matrices-in-ℝ³-rotations-about-the-x-y-and-z-axes",
+      "slug": "the-three-principal-rotation-matrices-in-%e2%84%9d%c2%b3-rotations-about-the-x-y-and-z-axes",
       "categoryIds": [
         301164,
         4663975,
@@ -3784,18 +4766,18 @@
         "Rotation"
       ],
       "searchAliases": [
-        "matrices",
         "matrix",
+        "matrices",
         "rotation",
         "rotation matrix"
       ],
-      "searchText": "the three principal rotation matrices in r3 3d real3 rotations about the x- y- and z-axes matrices matrix algebra rotation matrices matrix rotation rotation matrix"
+      "searchText": "the three principal rotation matrices in r3 real3 3d rotations about the x- y- and z-axes matrices matrix algebra rotation matrix matrices rotation rotation matrix"
     },
     {
       "title": "Projecting Points from the Plane y = 1 in ℝ³ into ℝ²: A Transformation Chain for Computer Graphics",
       "url": "https://geometryinsights.com/2026/08/17/projecting-points-from-the-plane-y-1-in-%e2%84%9d%c2%b3-into-%e2%84%9d%c2%b2-a-transformation-chain-for-computer-graphics/",
       "date": "2026-08-17",
-      "slug": "projecting-points-from-the-plane-y-1-in-ℝ³-into-ℝ²-a-transformation-chain-for-computer-graphics",
+      "slug": "projecting-points-from-the-plane-y-1-in-%e2%84%9d%c2%b3-into-%e2%84%9d%c2%b2-a-transformation-chain-for-computer-graphics",
       "categoryIds": [
         790917683,
         790917681,
@@ -3825,13 +4807,13 @@
         "graphics",
         "projection"
       ],
-      "searchText": "projecting points from the plane y 1 in r3 3d real3 into r2 2d real2 a transformation chain for computer graphics 3d to 2d computer graphics transformations computer graphics graphics projection"
+      "searchText": "projecting points from the plane y 1 in r3 real3 3d into r2 real2 2d a transformation chain for computer graphics 3d to 2d computer graphics transformations computer graphics graphics projection"
     },
     {
       "title": "Deriving the Intersection Point of the Plane y = 1 and the Line from the Origin to (x₁, y₁, z₁) in ℝ³",
       "url": "https://geometryinsights.com/2026/08/17/deriving-the-intersection-point-of-the-plane-y-1-and-the-line-from-the-origin-to-x%e2%82%81-y%e2%82%81-z%e2%82%81-in-%e2%84%9d%c2%b3/",
       "date": "2026-08-17",
-      "slug": "deriving-the-intersection-point-of-the-plane-y-1-and-the-line-from-the-origin-to-x₁-y₁-z₁-in-ℝ³",
+      "slug": "deriving-the-intersection-point-of-the-plane-y-1-and-the-line-from-the-origin-to-x%e2%82%81-y%e2%82%81-z%e2%82%81-in-%e2%84%9d%c2%b3",
       "categoryIds": [
         790917675,
         467439
@@ -3856,13 +4838,13 @@
         "vector",
         "vectors"
       ],
-      "searchText": "deriving the intersection point of the plane y 1 and the line from the origin to x1 y1 z1 in r3 3d real3 homogeneous coordinates vectors homogeneous coordinates projective coordinates vector vectors"
+      "searchText": "deriving the intersection point of the plane y 1 and the line from the origin to x y z in r3 real3 3d homogeneous coordinates vectors homogeneous coordinates projective coordinates vector vectors"
     },
     {
       "title": "Deriving the Matrix Form of a Linear Transformation T: ℝ³ → ℝ² from First Principles",
       "url": "https://geometryinsights.com/2026/08/17/deriving-the-matrix-form-of-a-linear-transformation-t-%e2%84%9d%c2%b3-%e2%86%92-%e2%84%9d%c2%b2-from-first-principles/",
       "date": "2026-08-17",
-      "slug": "deriving-the-matrix-form-of-a-linear-transformation-t-ℝ³-→-ℝ²-from-first-principles",
+      "slug": "deriving-the-matrix-form-of-a-linear-transformation-t-%e2%84%9d%c2%b3-%e2%86%92-%e2%84%9d%c2%b2-from-first-principles",
       "categoryIds": [
         301164,
         4663975
@@ -3882,16 +4864,16 @@
         "Matrix Algebra"
       ],
       "searchAliases": [
-        "matrices",
-        "matrix"
+        "matrix",
+        "matrices"
       ],
-      "searchText": "deriving the matrix form of a linear transformation t r3 3d real3 r2 2d real2 from first principles matrices matrix algebra matrices matrix"
+      "searchText": "deriving the matrix form of a linear transformation t r3 real3 3d r2 real2 2d from first principles matrices matrix algebra matrix matrices"
     },
     {
       "title": "Understanding Congruence Modulo m from First Principles: a ≡ b (mod m) ⇔ m ∣ (a − b)",
       "url": "https://geometryinsights.com/2026/08/17/understanding-congruence-modulo-m-from-first-principles-a-%e2%89%a1-b-mod-m-%e2%87%94-m-%e2%88%a3-a-%e2%88%92-b/",
       "date": "2026-08-17",
-      "slug": "understanding-congruence-modulo-m-from-first-principles-a-≡-b-mod-m-⇔-m-∣-a-−-b",
+      "slug": "understanding-congruence-modulo-m-from-first-principles-a-%e2%89%a1-b-mod-m-%e2%87%94-m-%e2%88%a3-a-%e2%88%92-b",
       "categoryIds": [
         790917647
       ],
@@ -3905,12 +4887,12 @@
         "Modular Arithmetic"
       ],
       "searchAliases": [
-        "congruence",
-        "congruent",
         "mod",
-        "modulo"
+        "modulo",
+        "congruence",
+        "congruent"
       ],
-      "searchText": "understanding congruence modulo m from first principles a congruence b mod m equivalent m divides a - b modular arithmetic congruence congruent mod modulo"
+      "searchText": "understanding congruence modulo m from first principles a b mod m m a - b modular arithmetic mod modulo congruence congruent"
     },
     {
       "title": "Proving the Hyperbolic Addition Formula sinh(A + B) = sinh A cosh B + cosh A sinh B from First Principles",
@@ -3936,18 +4918,18 @@
         "Hyperbolic Functions"
       ],
       "searchAliases": [
-        "cosh",
         "hyperbolic",
         "sinh",
+        "cosh",
         "tanh"
       ],
-      "searchText": "proving the hyperbolic addition formula sinh a + b sinh a cosh b + cosh a sinh b from first principles hyperbolic hyperbolic functions cosh hyperbolic sinh tanh"
+      "searchText": "proving the hyperbolic addition formula sinh a + b sinh a cosh b + cosh a sinh b from first principles hyperbolic hyperbolic functions hyperbolic sinh cosh tanh"
     },
     {
       "title": "Generating Stretched and Squeezed Hyperbolas in ℝ²: Cartesian and Parametric Forms",
       "url": "https://geometryinsights.com/2026/08/16/generating-stretched-and-squeezed-hyperbolas-in-%e2%84%9d%c2%b2-cartesian-and-parametric-forms/",
       "date": "2026-08-16",
-      "slug": "generating-stretched-and-squeezed-hyperbolas-in-ℝ²-cartesian-and-parametric-forms",
+      "slug": "generating-stretched-and-squeezed-hyperbolas-in-%e2%84%9d%c2%b2-cartesian-and-parametric-forms",
       "categoryIds": [
         790917664,
         14693289
@@ -3970,13 +4952,13 @@
         "parametric",
         "parametric equations"
       ],
-      "searchText": "generating stretched and squeezed hyperbolas in r2 2d real2 cartesian and parametric forms hyperbola parametric equations parametric parametric equations"
+      "searchText": "generating stretched and squeezed hyperbolas in r2 real2 2d cartesian and parametric forms hyperbola parametric equations parametric parametric equations"
     },
     {
       "title": "Proving the Hyperbolic Identity cosh² A − sinh² A = 1 from First Principles",
       "url": "https://geometryinsights.com/2026/08/16/proving-the-hyperbolic-identity-cosh%c2%b2-a-%e2%88%92-sinh%c2%b2-a-1-from-first-principles/",
       "date": "2026-08-16",
-      "slug": "proving-the-hyperbolic-identity-cosh²-a-−-sinh²-a-1-from-first-principles",
+      "slug": "proving-the-hyperbolic-identity-cosh%c2%b2-a-%e2%88%92-sinh%c2%b2-a-1-from-first-principles",
       "categoryIds": [
         790917657
       ],
@@ -3990,18 +4972,18 @@
         "Hyperbolic Functions"
       ],
       "searchAliases": [
-        "cosh",
         "hyperbolic",
         "sinh",
+        "cosh",
         "tanh"
       ],
-      "searchText": "proving the hyperbolic identity cosh2 a - sinh2 a 1 from first principles hyperbolic functions cosh hyperbolic sinh tanh"
+      "searchText": "proving the hyperbolic identity cosh a - sinh a 1 from first principles hyperbolic functions hyperbolic sinh cosh tanh"
     },
     {
       "title": "Generating the Hyperbola x² − y² = 1 from a Double Cone",
       "url": "https://geometryinsights.com/2026/08/16/generating-the-hyperbola-x%c2%b2-%e2%88%92-y%c2%b2-1-from-a-double-cone/",
       "date": "2026-08-16",
-      "slug": "generating-the-hyperbola-x²-−-y²-1-from-a-double-cone",
+      "slug": "generating-the-hyperbola-x%c2%b2-%e2%88%92-y%c2%b2-1-from-a-double-cone",
       "categoryIds": [
         790917662,
         790917657
@@ -4021,12 +5003,12 @@
         "Hyperbolic Functions"
       ],
       "searchAliases": [
-        "cosh",
         "hyperbolic",
         "sinh",
+        "cosh",
         "tanh"
       ],
-      "searchText": "generating the hyperbola x2 - y2 1 from a double cone conic sections hyperbolic functions cosh hyperbolic sinh tanh"
+      "searchText": "generating the hyperbola x - y 1 from a double cone conic sections hyperbolic functions hyperbolic sinh cosh tanh"
     },
     {
       "title": "A Direct Derivation of the Exponential Form of tanh x Using the Definitions of sinh x and cosh x",
@@ -4052,20 +5034,20 @@
         "Hyperbolic Functions"
       ],
       "searchAliases": [
-        "cosh",
         "exponential",
         "exponentials",
         "hyperbolic",
         "sinh",
+        "cosh",
         "tanh"
       ],
-      "searchText": "a direct derivation of the exponential form of tanh x using the definitions of sinh x and cosh x exponential functions hyperbolic functions cosh exponential exponentials hyperbolic sinh tanh"
+      "searchText": "a direct derivation of the exponential form of tanh x using the definitions of sinh x and cosh x exponential functions hyperbolic functions exponential exponentials hyperbolic sinh cosh tanh"
     },
     {
       "title": "A Direct Proof That If a and b Are Positive Integers and a ∣ b, Then a ≤ b",
       "url": "https://geometryinsights.com/2026/08/15/a-direct-proof-that-if-a-and-b-are-positive-integers-and-a-%e2%88%a3-b-then-a-%e2%89%a4-b/",
       "date": "2026-08-15",
-      "slug": "a-direct-proof-that-if-a-and-b-are-positive-integers-and-a-∣-b-then-a-≤-b",
+      "slug": "a-direct-proof-that-if-a-and-b-are-positive-integers-and-a-%e2%88%a3-b-then-a-%e2%89%a4-b",
       "categoryIds": [
         790917647,
         69054
@@ -4085,21 +5067,21 @@
         "Number Theory"
       ],
       "searchAliases": [
-        "congruence",
-        "congruent",
-        "divisibility",
-        "integers",
         "mod",
         "modulo",
-        "number theory"
+        "congruence",
+        "congruent",
+        "number theory",
+        "integers",
+        "divisibility"
       ],
-      "searchText": "a direct proof that if a and b are positive integers and a divides b then a b modular arithmetic number theory congruence congruent divisibility integers mod modulo number theory"
+      "searchText": "a direct proof that if a and b are positive integers and a b then a b modular arithmetic number theory mod modulo congruence congruent number theory integers divisibility"
     },
     {
       "title": "A Direct Proof That a ∣ b Implies an ∣ bn for Every Nonzero n ∈ ℤ",
       "url": "https://geometryinsights.com/2026/08/15/a-direct-proof-that-a-%e2%88%a3-b-implies-an-%e2%88%a3-bn-for-every-nonzero-n-%e2%88%88-%e2%84%a4/",
       "date": "2026-08-15",
-      "slug": "a-direct-proof-that-a-∣-b-implies-an-∣-bn-for-every-nonzero-n-∈-ℤ",
+      "slug": "a-direct-proof-that-a-%e2%88%a3-b-implies-an-%e2%88%a3-bn-for-every-nonzero-n-%e2%88%88-%e2%84%a4",
       "categoryIds": [
         790917647,
         69054
@@ -4119,21 +5101,21 @@
         "Number Theory"
       ],
       "searchAliases": [
-        "congruence",
-        "congruent",
-        "divisibility",
-        "integers",
         "mod",
         "modulo",
-        "number theory"
+        "congruence",
+        "congruent",
+        "number theory",
+        "integers",
+        "divisibility"
       ],
-      "searchText": "a direct proof that a divides b implies an divides bn for every nonzero n integers modular arithmetic number theory congruence congruent divisibility integers mod modulo number theory"
+      "searchText": "a direct proof that a b implies an bn for every nonzero n integers modular arithmetic number theory mod modulo congruence congruent number theory integers divisibility"
     },
     {
       "title": "A Direct Proof That If a ∣ b and b ∣ c, Then a ∣ c",
       "url": "https://geometryinsights.com/2026/08/15/a-direct-proof-that-if-a-%e2%88%a3-b-and-b-%e2%88%a3-c-then-a-%e2%88%a3-c/",
       "date": "2026-08-15",
-      "slug": "a-direct-proof-that-if-a-∣-b-and-b-∣-c-then-a-∣-c",
+      "slug": "a-direct-proof-that-if-a-%e2%88%a3-b-and-b-%e2%88%a3-c-then-a-%e2%88%a3-c",
       "categoryIds": [
         790917647,
         69054
@@ -4153,21 +5135,21 @@
         "Number Theory"
       ],
       "searchAliases": [
-        "congruence",
-        "congruent",
-        "divisibility",
-        "integers",
         "mod",
         "modulo",
-        "number theory"
+        "congruence",
+        "congruent",
+        "number theory",
+        "integers",
+        "divisibility"
       ],
-      "searchText": "a direct proof that if a divides b and b divides c then a divides c modular arithmetic number theory congruence congruent divisibility integers mod modulo number theory"
+      "searchText": "a direct proof that if a b and b c then a c modular arithmetic number theory mod modulo congruence congruent number theory integers divisibility"
     },
     {
       "title": "A Direct Proof That If a ∣ b and a ∣ c, Then a ∣ bn + cm for All m, n ∈ ℤ",
       "url": "https://geometryinsights.com/2026/08/15/a-direct-proof-that-if-a-%e2%88%a3-b-and-a-%e2%88%a3-c-then-a-%e2%88%a3-bn-cm-for-all-m-n-%e2%88%88-%e2%84%a4/",
       "date": "2026-08-15",
-      "slug": "a-direct-proof-that-if-a-∣-b-and-a-∣-c-then-a-∣-bn-cm-for-all-m-n-∈-ℤ",
+      "slug": "a-direct-proof-that-if-a-%e2%88%a3-b-and-a-%e2%88%a3-c-then-a-%e2%88%a3-bn-cm-for-all-m-n-%e2%88%88-%e2%84%a4",
       "categoryIds": [
         790917647,
         69054
@@ -4187,15 +5169,15 @@
         "Number Theory"
       ],
       "searchAliases": [
-        "congruence",
-        "congruent",
-        "divisibility",
-        "integers",
         "mod",
         "modulo",
-        "number theory"
+        "congruence",
+        "congruent",
+        "number theory",
+        "integers",
+        "divisibility"
       ],
-      "searchText": "a direct proof that if a divides b and a divides c then a divides bn + cm for all m n integers modular arithmetic number theory congruence congruent divisibility integers mod modulo number theory"
+      "searchText": "a direct proof that if a b and a c then a bn + cm for all m n integers modular arithmetic number theory mod modulo congruence congruent number theory integers divisibility"
     },
     {
       "title": "Using an Inverse Matrix to Reverse a Linear Transformation",
@@ -4222,17 +5204,17 @@
       ],
       "searchAliases": [
         "linear algebra",
-        "matrices",
+        "vector spaces",
         "matrix",
-        "vector spaces"
+        "matrices"
       ],
-      "searchText": "using an inverse matrix to reverse a linear transformation linear algebra matrices linear algebra matrices matrix vector spaces"
+      "searchText": "using an inverse matrix to reverse a linear transformation linear algebra matrices linear algebra vector spaces matrix matrices"
     },
     {
       "title": "Deriving the Addition Rule for Two Events: P(A ∪ B) = P(A) + P(B) − P(A ∩ B)",
       "url": "https://geometryinsights.com/2026/08/14/deriving-the-addition-rule-for-two-events-pa-%e2%88%aa-b-pa-pb-%e2%88%92-pa-%e2%88%a9-b/",
       "date": "2026-08-14",
-      "slug": "deriving-the-addition-rule-for-two-events-pa-∪-b-pa-pb-−-pa-∩-b",
+      "slug": "deriving-the-addition-rule-for-two-events-pa-%e2%88%aa-b-pa-pb-%e2%88%92-pa-%e2%88%a9-b",
       "categoryIds": [
         89007
       ],
@@ -4246,19 +5228,19 @@
         "Probability & Statistics"
       ],
       "searchAliases": [
-        "events",
-        "probabilities",
         "probability",
         "statistics",
-        "stats"
+        "stats",
+        "probabilities",
+        "events"
       ],
-      "searchText": "deriving the addition rule for two events p a union b p a + p b - p a intersection b probability statistics events probabilities probability statistics stats"
+      "searchText": "deriving the addition rule for two events p a b p a + p b - p a b probability statistics probability statistics stats probabilities events"
     },
     {
       "title": "Why Must det(A − λI) = 0? The Simple Contradiction Behind Eigenvalues",
       "url": "https://geometryinsights.com/2026/08/14/why-must-deta-%e2%88%92-%ce%bbi-0-the-simple-contradiction-behind-eigenvalues/",
       "date": "2026-08-14",
-      "slug": "why-must-deta-−-λi-0-the-simple-contradiction-behind-eigenvalues",
+      "slug": "why-must-deta-%e2%88%92-%ce%bbi-0-the-simple-contradiction-behind-eigenvalues",
       "categoryIds": [
         790917637
       ],
@@ -4272,11 +5254,11 @@
         "Eigenvalues & Eigenvectors"
       ],
       "searchAliases": [
-        "eigen",
         "eigenvalues",
-        "eigenvectors"
+        "eigenvectors",
+        "eigen"
       ],
-      "searchText": "why must det a - lambda i 0 the simple contradiction behind eigenvalues eigenvalues eigenvectors eigen eigenvalues eigenvectors"
+      "searchText": "why must det a - i 0 the simple contradiction behind eigenvalues eigenvalues eigenvectors eigenvalues eigenvectors eigen"
     },
     {
       "title": "Deriving the Computational Formula for the Sum of Cross-Deviations from the Mean",
@@ -4302,7 +5284,7 @@
       "title": "From Σ(x − Mean)² to Σx² − (Σx)²/n: A First-Principles Derivation",
       "url": "https://geometryinsights.com/2026/08/14/from-%cf%83x-%e2%88%92-mean%c2%b2-to-%cf%83x%c2%b2-%e2%88%92-%cf%83x%c2%b2-n-a-first-principles-derivation/",
       "date": "2026-08-14",
-      "slug": "from-σx-−-mean²-to-σx²-−-σx²-n-a-first-principles-derivation",
+      "slug": "from-%cf%83x-%e2%88%92-mean%c2%b2-to-%cf%83x%c2%b2-%e2%88%92-%cf%83x%c2%b2-n-a-first-principles-derivation",
       "categoryIds": [
         790917630
       ],
@@ -4316,13 +5298,13 @@
         "Statistics"
       ],
       "searchAliases": [],
-      "searchText": "from sigma sum x - mean 2 to sigma sum x2 - sigma sum x 2 n a first-principles derivation statistics"
+      "searchText": "from x - mean to x - x n a first-principles derivation statistics"
     },
     {
       "title": "A Direct 3×3 Exploration of the Implications of MMᵀ = I",
       "url": "https://geometryinsights.com/2026/08/12/a-direct-3x3-exploration-of-the-implications-of-mm%e1%b5%80-i/",
       "date": "2026-08-12",
-      "slug": "a-direct-3x3-exploration-of-the-implications-of-mmᵀ-i",
+      "slug": "a-direct-3x3-exploration-of-the-implications-of-mm%e1%b5%80-i",
       "categoryIds": [
         301164,
         790917620
@@ -4342,14 +5324,14 @@
         "Vector Geometry & ℝ²"
       ],
       "searchAliases": [
-        "2-dimensional",
-        "2d",
-        "matrices",
         "matrix",
+        "matrices",
         "r2",
+        "2d",
+        "2-dimensional",
         "vector geometry"
       ],
-      "searchText": "a direct 3 x 3 exploration of the implications of mmt i matrices vector geometry r2 2d real2 2-dimensional 2d matrices matrix r2 vector geometry"
+      "searchText": "a direct 3 x 3 exploration of the implications of mm i matrices vector geometry r2 real2 2d matrix matrices r2 2d 2-dimensional vector geometry"
     },
     {
       "title": "A Direct Vector Proof of Thales’ Theorem Using Dot Products on the Unit Circle",
@@ -4359,7 +5341,6 @@
       "categoryIds": [
         29925308,
         1460694,
-        1,
         790917620
       ],
       "categories": [
@@ -4372,10 +5353,6 @@
           "name": "Euclidean Geometry"
         },
         {
-          "id": 1,
-          "name": "Uncategorized"
-        },
-        {
           "id": 790917620,
           "name": "Vector Geometry & ℝ²"
         }
@@ -4383,21 +5360,20 @@
       "categoryNames": [
         "Circle Geometry",
         "Euclidean Geometry",
-        "Uncategorized",
         "Vector Geometry & ℝ²"
       ],
       "searchAliases": [
-        "2-dimensional",
-        "2d",
         "circle",
-        "circle geometry",
         "circles",
+        "circle geometry",
         "euclidean",
         "geometry",
         "r2",
+        "2d",
+        "2-dimensional",
         "vector geometry"
       ],
-      "searchText": "a direct vector proof of thales theorem using dot products on the unit circle circle geometry euclidean geometry uncategorized vector geometry r2 2d real2 2-dimensional 2d circle circle geometry circles euclidean geometry r2 vector geometry"
+      "searchText": "a direct vector proof of thales theorem using dot products on the unit circle circle geometry euclidean geometry vector geometry r2 real2 2d circle circles circle geometry euclidean geometry r2 2d 2-dimensional vector geometry"
     },
     {
       "title": "A Direct Vector Proof That the Chord Joining Two Points of Tangency Is Perpendicular to the Line Joining the Circle’s Centre to the Intersection of the Tangents",
@@ -4423,20 +5399,20 @@
         "Vector Geometry & ℝ²"
       ],
       "searchAliases": [
-        "2-dimensional",
-        "2d",
         "euclidean",
         "geometry",
         "r2",
+        "2d",
+        "2-dimensional",
         "vector geometry"
       ],
-      "searchText": "a direct vector proof that the chord joining two points of tangency is perpendicular to the line joining the circle s centre to the intersection of the tangents euclidean geometry vector geometry r2 2d real2 2-dimensional 2d euclidean geometry r2 vector geometry"
+      "searchText": "a direct vector proof that the chord joining two points of tangency is perpendicular to the line joining the circle s centre to the intersection of the tangents euclidean geometry vector geometry r2 real2 2d euclidean geometry r2 2d 2-dimensional vector geometry"
     },
     {
       "title": "A Direct ℝ³ Proof That (BAᵀ)ᵀ = ABᵀ Using Outer Products and Scalar Commutativity",
       "url": "https://geometryinsights.com/2026/08/10/a-direct-%e2%84%9d%c2%b3-proof-that-ba%e1%b5%80%e1%b5%80-ab%e1%b5%80-using-outer-products-and-scalar-commutativity/",
       "date": "2026-08-10",
-      "slug": "a-direct-ℝ³-proof-that-baᵀᵀ-abᵀ-using-outer-products-and-scalar-commutativity",
+      "slug": "a-direct-%e2%84%9d%c2%b3-proof-that-ba%e1%b5%80%e1%b5%80-ab%e1%b5%80-using-outer-products-and-scalar-commutativity",
       "categoryIds": [
         301164
       ],
@@ -4450,10 +5426,10 @@
         "Matrices"
       ],
       "searchAliases": [
-        "matrices",
-        "matrix"
+        "matrix",
+        "matrices"
       ],
-      "searchText": "a direct r3 3d real3 proof that bat t abt using outer products and scalar commutativity matrices matrices matrix"
+      "searchText": "a direct r3 real3 3d proof that ba ab using outer products and scalar commutativity matrices matrix matrices"
     },
     {
       "title": "Representing a General m×n Matrix by Its Rows and Columns and Constructing Its Transpose",
@@ -4473,16 +5449,16 @@
         "Matrices"
       ],
       "searchAliases": [
-        "matrices",
-        "matrix"
+        "matrix",
+        "matrices"
       ],
-      "searchText": "representing a general m x n matrix by its rows and columns and constructing its transpose matrices matrices matrix"
+      "searchText": "representing a general m x n matrix by its rows and columns and constructing its transpose matrices matrix matrices"
     },
     {
       "title": "A Direct 2×2 Proof That (MA)ᵀ = AᵀMᵀ Using Row-by-Column Multiplication and Dot Products",
       "url": "https://geometryinsights.com/2026/08/10/a-direct-2x2-proof-that-ma%e1%b5%80-a%e1%b5%80m%e1%b5%80-using-row-by-column-multiplication-and-dot-products/",
       "date": "2026-08-10",
-      "slug": "a-direct-2x2-proof-that-maᵀ-aᵀmᵀ-using-row-by-column-multiplication-and-dot-products",
+      "slug": "a-direct-2x2-proof-that-ma%e1%b5%80-a%e1%b5%80m%e1%b5%80-using-row-by-column-multiplication-and-dot-products",
       "categoryIds": [
         50916885,
         301164
@@ -4503,17 +5479,17 @@
       ],
       "searchAliases": [
         "dot product",
-        "matrices",
+        "scalar product",
         "matrix",
-        "scalar product"
+        "matrices"
       ],
-      "searchText": "a direct 2 x 2 proof that ma t atmt using row-by-column multiplication and dot products dot products matrices dot product matrices matrix scalar product"
+      "searchText": "a direct 2 x 2 proof that ma a m using row-by-column multiplication and dot products dot products matrices dot product scalar product matrix matrices"
     },
     {
       "title": "A Direct 3×3 Proof That (MA)ᵀ = AᵀMᵀ Using Matrix Multiplication and Dot Products",
       "url": "https://geometryinsights.com/2026/08/10/a-direct-3x3-proof-that-ma%e1%b5%80-a%e1%b5%80m%e1%b5%80-using-matrix-multiplication-and-dot-products/",
       "date": "2026-08-10",
-      "slug": "a-direct-3x3-proof-that-maᵀ-aᵀmᵀ-using-matrix-multiplication-and-dot-products",
+      "slug": "a-direct-3x3-proof-that-ma%e1%b5%80-a%e1%b5%80m%e1%b5%80-using-matrix-multiplication-and-dot-products",
       "categoryIds": [
         50916885,
         301164
@@ -4534,17 +5510,17 @@
       ],
       "searchAliases": [
         "dot product",
-        "matrices",
+        "scalar product",
         "matrix",
-        "scalar product"
+        "matrices"
       ],
-      "searchText": "a direct 3 x 3 proof that ma t atmt using matrix multiplication and dot products dot products matrices dot product matrices matrix scalar product"
+      "searchText": "a direct 3 x 3 proof that ma a m using matrix multiplication and dot products dot products matrices dot product scalar product matrix matrices"
     },
     {
       "title": "A Direct Proof That for Two Vectors A, B ∈ ℝ³, A · B = AᵀB = BᵀA",
       "url": "https://geometryinsights.com/2026/08/10/a-direct-proof-that-for-two-vectors-a-b-%e2%88%88-%e2%84%9d%c2%b3-a-%c2%b7-b-a%e1%b5%80b-b%e1%b5%80a/",
       "date": "2026-08-10",
-      "slug": "a-direct-proof-that-for-two-vectors-a-b-∈-ℝ³-a-·-b-aᵀb-bᵀa",
+      "slug": "a-direct-proof-that-for-two-vectors-a-b-%e2%88%88-%e2%84%9d%c2%b3-a-%c2%b7-b-a%e1%b5%80b-b%e1%b5%80a",
       "categoryIds": [
         50916885,
         467439
@@ -4569,7 +5545,7 @@
         "vector",
         "vectors"
       ],
-      "searchText": "a direct proof that for two vectors a b r3 3d real3 a dot b atb bta dot products vectors dot product scalar product vector vectors"
+      "searchText": "a direct proof that for two vectors a b r3 real3 3d a dot b a b b a dot products vectors dot product scalar product vector vectors"
     },
     {
       "title": "Building the Adjugate of a 3×3 Matrix Directly from the Cofactors of Its Transpose",
@@ -4595,13 +5571,13 @@
         "Matrices"
       ],
       "searchAliases": [
-        "det",
         "determinant",
         "determinants",
-        "matrices",
-        "matrix"
+        "det",
+        "matrix",
+        "matrices"
       ],
-      "searchText": "building the adjugate of a 3 x 3 matrix directly from the cofactors of its transpose determinants matrices det determinant determinants matrices matrix"
+      "searchText": "building the adjugate of a 3 x 3 matrix directly from the cofactors of its transpose determinants matrices determinant determinants det matrix matrices"
     },
     {
       "title": "A Direct Derivation of the 3×3 Inverse Matrix Formula Using Cross Products, Determinants and the Adjugate",
@@ -4627,13 +5603,13 @@
         "Matrices"
       ],
       "searchAliases": [
-        "det",
         "determinant",
         "determinants",
-        "matrices",
-        "matrix"
+        "det",
+        "matrix",
+        "matrices"
       ],
-      "searchText": "a direct derivation of the 3 x 3 inverse matrix formula using cross products determinants and the adjugate determinants matrices det determinant determinants matrices matrix"
+      "searchText": "a direct derivation of the 3 x 3 inverse matrix formula using cross products determinants and the adjugate determinants matrices determinant determinants det matrix matrices"
     },
     {
       "title": "A Direct Derivation of the Columns of a 3×3 Inverse Matrix Using Orthogonality, Cross Products and the Determinant",
@@ -4666,19 +5642,19 @@
       ],
       "searchAliases": [
         "cross product",
+        "vector product",
         "inverse",
         "inverses",
-        "matrices",
         "matrix",
-        "vector product"
+        "matrices"
       ],
-      "searchText": "a direct derivation of the columns of a 3 x 3 inverse matrix using orthogonality cross products and the determinant cross product inverses matrices cross product inverse inverses matrices matrix vector product"
+      "searchText": "a direct derivation of the columns of a 3 x 3 inverse matrix using orthogonality cross products and the determinant cross product inverses matrices cross product vector product inverse inverses matrix matrices"
     },
     {
       "title": "A Direct Proof That A · (B × C) Equals the Determinant of the 3×3 Matrix with Columns A, B and C",
       "url": "https://geometryinsights.com/2026/08/07/a-direct-proof-that-a-%c2%b7-b-x-c-equals-the-determinant-of-the-3x3-matrix-with-columns-a-b-and-c/",
       "date": "2026-08-07",
-      "slug": "a-direct-proof-that-a-·-b-x-c-equals-the-determinant-of-the-3x3-matrix-with-columns-a-b-and-c",
+      "slug": "a-direct-proof-that-a-%c2%b7-b-x-c-equals-the-determinant-of-the-3x3-matrix-with-columns-a-b-and-c",
       "categoryIds": [
         1830855,
         301164,
@@ -4710,21 +5686,21 @@
         "Vectors"
       ],
       "searchAliases": [
-        "det",
         "determinant",
         "determinants",
-        "matrices",
+        "det",
         "matrix",
+        "matrices",
         "vector",
         "vectors"
       ],
-      "searchText": "a direct proof that a dot b x c equals the determinant of the 3 x 3 matrix with columns a b and c determinants matrices matrix algebra vectors det determinant determinants matrices matrix vector vectors"
+      "searchText": "a direct proof that a dot b x c equals the determinant of the 3 x 3 matrix with columns a b and c determinants matrices matrix algebra vectors determinant determinants det matrix matrices vector vectors"
     },
     {
       "title": "A Direct 3×3 Proof That det(Mᵀ) = det(M) Using Determinant Expansion and Permutation Cycles",
       "url": "https://geometryinsights.com/2026/08/07/a-direct-3x3-proof-that-detm%e1%b5%80-detm-using-determinant-expansion-and-permutation-cycles/",
       "date": "2026-08-07",
-      "slug": "a-direct-3x3-proof-that-detmᵀ-detm-using-determinant-expansion-and-permutation-cycles",
+      "slug": "a-direct-3x3-proof-that-detm%e1%b5%80-detm-using-determinant-expansion-and-permutation-cycles",
       "categoryIds": [
         1830855,
         301164
@@ -4744,19 +5720,19 @@
         "Matrices"
       ],
       "searchAliases": [
-        "det",
         "determinant",
         "determinants",
-        "matrices",
-        "matrix"
+        "det",
+        "matrix",
+        "matrices"
       ],
-      "searchText": "a direct 3 x 3 proof that det mt det m using determinant expansion and permutation cycles determinants matrices det determinant determinants matrices matrix"
+      "searchText": "a direct 3 x 3 proof that det m det m using determinant expansion and permutation cycles determinants matrices determinant determinants det matrix matrices"
     },
     {
       "title": "When MA = I for Two 3×3 Matrices: Deriving the Columns of Mᵀ Using Cross Products of the Columns of A",
       "url": "https://geometryinsights.com/2026/08/07/when-ma-i-for-two-3x3-matrices-deriving-the-columns-of-m%e1%b5%80-using-cross-products-of-the-columns-of-a/",
       "date": "2026-08-07",
-      "slug": "when-ma-i-for-two-3x3-matrices-deriving-the-columns-of-mᵀ-using-cross-products-of-the-columns-of-a",
+      "slug": "when-ma-i-for-two-3x3-matrices-deriving-the-columns-of-m%e1%b5%80-using-cross-products-of-the-columns-of-a",
       "categoryIds": [
         10611275,
         301164
@@ -4777,17 +5753,17 @@
       ],
       "searchAliases": [
         "cross product",
-        "matrices",
+        "vector product",
         "matrix",
-        "vector product"
+        "matrices"
       ],
-      "searchText": "when ma i for two 3 x 3 matrices deriving the columns of mt using cross products of the columns of a cross product matrices cross product matrices matrix vector product"
+      "searchText": "when ma i for two 3 x 3 matrices deriving the columns of m using cross products of the columns of a cross product matrices cross product vector product matrix matrices"
     },
     {
       "title": "A Direct Proof That MA = I Implies AᵀMᵀ = I for Two 3×3 Matrices",
       "url": "https://geometryinsights.com/2026/08/07/a-direct-proof-that-ma-i-implies-a%e1%b5%80m%e1%b5%80-i-for-two-3x3-matrices/",
       "date": "2026-08-07",
-      "slug": "a-direct-proof-that-ma-i-implies-aᵀmᵀ-i-for-two-3x3-matrices",
+      "slug": "a-direct-proof-that-ma-i-implies-a%e1%b5%80m%e1%b5%80-i-for-two-3x3-matrices",
       "categoryIds": [
         301164
       ],
@@ -4801,10 +5777,10 @@
         "Matrices"
       ],
       "searchAliases": [
-        "matrices",
-        "matrix"
+        "matrix",
+        "matrices"
       ],
-      "searchText": "a direct proof that ma i implies atmt i for two 3 x 3 matrices matrices matrices matrix"
+      "searchText": "a direct proof that ma i implies a m i for two 3 x 3 matrices matrices matrix matrices"
     },
     {
       "title": "The Hidden Permutation Structure of the 3×3 Determinant",
@@ -4830,19 +5806,19 @@
         "Matrices"
       ],
       "searchAliases": [
-        "det",
         "determinant",
         "determinants",
-        "matrices",
-        "matrix"
+        "det",
+        "matrix",
+        "matrices"
       ],
-      "searchText": "the hidden permutation structure of the 3 x 3 determinant determinants matrices det determinant determinants matrices matrix"
+      "searchText": "the hidden permutation structure of the 3 x 3 determinant determinants matrices determinant determinants det matrix matrices"
     },
     {
       "title": "Deriving A·(B × C) = B·(C × A) = C·(A × B)",
       "url": "https://geometryinsights.com/2026/08/06/deriving-a%c2%b7b-x-c-b%c2%b7c-x-a-c%c2%b7a-x-b/",
       "date": "2026-08-06",
-      "slug": "deriving-a·b-x-c-b·c-x-a-c·a-x-b",
+      "slug": "deriving-a%c2%b7b-x-c-b%c2%b7c-x-a-c%c2%b7a-x-b",
       "categoryIds": [
         69043,
         467439
@@ -4863,17 +5839,17 @@
       ],
       "searchAliases": [
         "linear algebra",
-        "vector",
         "vector spaces",
+        "vector",
         "vectors"
       ],
-      "searchText": "deriving a dot b x c b dot c x a c dot a x b linear algebra vectors linear algebra vector vector spaces vectors"
+      "searchText": "deriving a dot b x c b dot c x a c dot a x b linear algebra vectors linear algebra vector spaces vector vectors"
     },
     {
       "title": "Why A·(A × x) Always Equals 0",
       "url": "https://geometryinsights.com/2026/08/05/why-a%c2%b7a-x-x-always-equals-0/",
       "date": "2026-08-05",
-      "slug": "why-a·a-x-x-always-equals-0",
+      "slug": "why-a%c2%b7a-x-x-always-equals-0",
       "categoryIds": [
         762865125
       ],
@@ -4893,7 +5869,7 @@
       "title": "Deriving A·(B × C) = det[A B C]",
       "url": "https://geometryinsights.com/2026/08/05/deriving-a%c2%b7b-x-c-deta-b-c/",
       "date": "2026-08-05",
-      "slug": "deriving-a·b-x-c-deta-b-c",
+      "slug": "deriving-a%c2%b7b-x-c-deta-b-c",
       "categoryIds": [
         1830855,
         69043,
@@ -4919,21 +5895,21 @@
         "Vectors"
       ],
       "searchAliases": [
-        "det",
         "determinant",
         "determinants",
+        "det",
         "linear algebra",
-        "vector",
         "vector spaces",
+        "vector",
         "vectors"
       ],
-      "searchText": "deriving a dot b x c det a b c determinants linear algebra vectors det determinant determinants linear algebra vector vector spaces vectors"
+      "searchText": "deriving a dot b x c det a b c determinants linear algebra vectors determinant determinants det linear algebra vector spaces vector vectors"
     },
     {
       "title": "Deriving ABᵀ − BAᵀ = [B × A]ₓ",
       "url": "https://geometryinsights.com/2026/08/05/%f0%9d%97%97%f0%9d%97%b2%f0%9d%97%bf%f0%9d%97%b6%f0%9d%98%83%f0%9d%97%b6%f0%9d%97%bb%f0%9d%97%b4-%f0%9d%90%80%f0%9d%90%81%e1%b5%80-%e2%88%92-%f0%9d%90%81%f0%9d%90%80%e1%b5%80-%f0%9d%90%81-x/",
       "date": "2026-08-05",
-      "slug": "𝗗𝗲𝗿𝗶𝘃𝗶𝗻𝗴-𝐀𝐁ᵀ-−-𝐁𝐀ᵀ-𝐁-x",
+      "slug": "%f0%9d%97%97%f0%9d%97%b2%f0%9d%97%bf%f0%9d%97%b6%f0%9d%98%83%f0%9d%97%b6%f0%9d%97%bb%f0%9d%97%b4-%f0%9d%90%80%f0%9d%90%81%e1%b5%80-%e2%88%92-%f0%9d%90%81%f0%9d%90%80%e1%b5%80-%f0%9d%90%81-x",
       "categoryIds": [
         69043,
         301164
@@ -4954,17 +5930,17 @@
       ],
       "searchAliases": [
         "linear algebra",
-        "matrices",
+        "vector spaces",
         "matrix",
-        "vector spaces"
+        "matrices"
       ],
-      "searchText": "deriving abt - bat b x a x linear algebra matrices linear algebra matrices matrix vector spaces"
+      "searchText": "deriving ab - ba b x a linear algebra matrices linear algebra vector spaces matrix matrices"
     },
     {
       "title": "Why BAᵀ − ABᵀ = [A × B]ₓ",
       "url": "https://geometryinsights.com/2026/08/05/why-ba%e1%b5%80-%e2%88%92-ab%e1%b5%80-a-x-b%e2%82%93/",
       "date": "2026-08-05",
-      "slug": "why-baᵀ-−-abᵀ-a-x-bₓ",
+      "slug": "why-ba%e1%b5%80-%e2%88%92-ab%e1%b5%80-a-x-b%e2%82%93",
       "categoryIds": [
         69043,
         467439
@@ -4985,11 +5961,11 @@
       ],
       "searchAliases": [
         "linear algebra",
-        "vector",
         "vector spaces",
+        "vector",
         "vectors"
       ],
-      "searchText": "why bat - abt a x b x linear algebra vectors linear algebra vector vector spaces vectors"
+      "searchText": "why ba - ab a x b linear algebra vectors linear algebra vector spaces vector vectors"
     },
     {
       "title": "Deriving the Cross Product Through Skew-Symmetric Matrices",
@@ -5022,11 +5998,11 @@
       ],
       "searchAliases": [
         "cross product",
-        "matrices",
+        "vector product",
         "matrix",
-        "vector product"
+        "matrices"
       ],
-      "searchText": "deriving the cross product through skew-symmetric matrices cross product matrices matrix algebra cross product matrices matrix vector product"
+      "searchText": "deriving the cross product through skew-symmetric matrices cross product matrices matrix algebra cross product vector product matrix matrices"
     },
     {
       "title": "How a Skew-Symmetric Matrix Reveals the Cross-Product Direction",
@@ -5053,17 +6029,17 @@
       ],
       "searchAliases": [
         "cross product",
-        "linear algebra",
         "vector product",
+        "linear algebra",
         "vector spaces"
       ],
-      "searchText": "how a skew-symmetric matrix reveals the cross-product direction cross product linear algebra cross product linear algebra vector product vector spaces"
+      "searchText": "how a skew-symmetric matrix reveals the cross-product direction cross product linear algebra cross product vector product linear algebra vector spaces"
     },
     {
       "title": "Building the Cross Product Matrix from A · N = 0 and B · N = 0",
       "url": "https://geometryinsights.com/2026/08/04/building-the-cross-product-matrix-from-a-%c2%b7-n-0-and-b-%c2%b7-n-0/",
       "date": "2026-08-04",
-      "slug": "building-the-cross-product-matrix-from-a-·-n-0-and-b-·-n-0",
+      "slug": "building-the-cross-product-matrix-from-a-%c2%b7-n-0-and-b-%c2%b7-n-0",
       "categoryIds": [
         10611275,
         762865125,
@@ -5095,16 +6071,16 @@
         "Vectors"
       ],
       "searchAliases": [
-        "3-dimensional",
-        "3d",
         "cross product",
-        "r3",
-        "vector",
-        "vector geometry",
         "vector product",
+        "r3",
+        "3d",
+        "3-dimensional",
+        "vector geometry",
+        "vector",
         "vectors"
       ],
-      "searchText": "building the cross product matrix from a dot n 0 and b dot n 0 cross product linear algebra vector spaces vector geometry r3 3d real3 vectors 3-dimensional 3d cross product r3 vector vector geometry vector product vectors"
+      "searchText": "building the cross product matrix from a dot n 0 and b dot n 0 cross product linear algebra vector spaces vector geometry r3 real3 3d vectors cross product vector product r3 3d 3-dimensional vector geometry vector vectors"
     },
     {
       "title": "Constructing a Nonzero Null Vector of a 3 × 3 Skew-Symmetric Matrix",
@@ -5130,10 +6106,10 @@
         "Matrix Algebra"
       ],
       "searchAliases": [
-        "matrices",
-        "matrix"
+        "matrix",
+        "matrices"
       ],
-      "searchText": "constructing a nonzero null vector of a 3 x 3 skew-symmetric matrix matrices matrix algebra matrices matrix"
+      "searchText": "constructing a nonzero null vector of a 3 x 3 skew-symmetric matrix matrices matrix algebra matrix matrices"
     },
     {
       "title": "Deriving Three Important Cross-Product Equations from First Principles",
@@ -5160,11 +6136,11 @@
       ],
       "searchAliases": [
         "cross product",
-        "linear algebra",
         "vector product",
+        "linear algebra",
         "vector spaces"
       ],
-      "searchText": "deriving three important cross-product equations from first principles cross product linear algebra cross product linear algebra vector product vector spaces"
+      "searchText": "deriving three important cross-product equations from first principles cross product linear algebra cross product vector product linear algebra vector spaces"
     },
     {
       "title": "Deriving the Geometric Meaning of the 2 × 2 Determinant from First Principles",
@@ -5190,13 +6166,13 @@
         "Linear Algebra"
       ],
       "searchAliases": [
-        "det",
         "determinant",
         "determinants",
+        "det",
         "linear algebra",
         "vector spaces"
       ],
-      "searchText": "deriving the geometric meaning of the 2 x 2 determinant from first principles determinants linear algebra det determinant determinants linear algebra vector spaces"
+      "searchText": "deriving the geometric meaning of the 2 x 2 determinant from first principles determinants linear algebra determinant determinants det linear algebra vector spaces"
     },
     {
       "title": "Deriving the Computational Formula for Population Variance from First Principles",
@@ -5222,15 +6198,15 @@
         "Probability & Statistics"
       ],
       "searchAliases": [
-        "events",
+        "variance",
         "population variance",
-        "probabilities",
-        "probability",
         "statistics",
+        "probability",
         "stats",
-        "variance"
+        "probabilities",
+        "events"
       ],
-      "searchText": "deriving the computational formula for population variance from first principles population variance probability statistics events population variance probabilities probability statistics stats variance"
+      "searchText": "deriving the computational formula for population variance from first principles population variance probability statistics variance population variance statistics probability stats probabilities events"
     },
     {
       "title": "Deriving the 2 × 2 Adjugate Matrix from First Principles",
@@ -5256,16 +6232,16 @@
         "Matrix Algebra"
       ],
       "searchAliases": [
-        "matrices",
-        "matrix"
+        "matrix",
+        "matrices"
       ],
-      "searchText": "deriving the 2 x 2 adjugate matrix from first principles matrices matrix algebra matrices matrix"
+      "searchText": "deriving the 2 x 2 adjugate matrix from first principles matrices matrix algebra matrix matrices"
     },
     {
       "title": "A First-Principles Derivation of a Common Non-Zero Normal Vector in ℝ³",
       "url": "https://geometryinsights.com/2026/07/28/a-first-principles-derivation-of-a-common-non-zero-normal-vector-in-%e2%84%9d%c2%b3/",
       "date": "2026-07-28",
-      "slug": "a-first-principles-derivation-of-a-common-non-zero-normal-vector-in-ℝ³",
+      "slug": "a-first-principles-derivation-of-a-common-non-zero-normal-vector-in-%e2%84%9d%c2%b3",
       "categoryIds": [
         2480492,
         10611275,
@@ -5300,11 +6276,11 @@
         "analytic geometry",
         "coordinate geometry",
         "cross product",
-        "vector",
         "vector product",
+        "vector",
         "vectors"
       ],
-      "searchText": "a first-principles derivation of a common non-zero normal vector in r3 3d real3 analytic geometry cross product linear algebra vector spaces vectors analytic geometry coordinate geometry cross product vector vector product vectors"
+      "searchText": "a first-principles derivation of a common non-zero normal vector in r3 real3 3d analytic geometry cross product linear algebra vector spaces vectors analytic geometry coordinate geometry cross product vector product vector vectors"
     },
     {
       "title": "A Geometric Proof of Cyclic Projection Identities in a Triangle",
@@ -5354,7 +6330,7 @@
       "title": "A Step-by-Step Proof of the Matrix Identity (AB)⁻¹ = B⁻¹A⁻¹",
       "url": "https://geometryinsights.com/2026/05/30/a-step-by-step-proof-of-the-matrix-identity-ab%e2%81%bb%c2%b9-b%e2%81%bb%c2%b9a%e2%81%bb%c2%b9/",
       "date": "2026-05-30",
-      "slug": "a-step-by-step-proof-of-the-matrix-identity-ab⁻¹-b⁻¹a⁻¹",
+      "slug": "a-step-by-step-proof-of-the-matrix-identity-ab%e2%81%bb%c2%b9-b%e2%81%bb%c2%b9a%e2%81%bb%c2%b9",
       "categoryIds": [
         301164
       ],
@@ -5368,10 +6344,10 @@
         "Matrices"
       ],
       "searchAliases": [
-        "matrices",
-        "matrix"
+        "matrix",
+        "matrices"
       ],
-      "searchText": "a step-by-step proof of the matrix identity ab 1 b 1a 1 matrices matrices matrix"
+      "searchText": "a step-by-step proof of the matrix identity ab b a matrices matrix matrices"
     },
     {
       "title": "Intersecting Chords: Why Products of Segments Match",
@@ -5404,19 +6380,19 @@
       ],
       "searchAliases": [
         "circle",
-        "circle geometry",
         "circles",
+        "circle geometry",
         "trig",
         "trigonometric",
         "trigonometry"
       ],
-      "searchText": "intersecting chords why products of segments match circle geometry geometry trigonometry circle circle geometry circles trig trigonometric trigonometry"
+      "searchText": "intersecting chords why products of segments match circle geometry geometry trigonometry circle circles circle geometry trig trigonometric trigonometry"
     },
     {
       "title": "The λ-plane: how dot products carve space into parallel sheets",
       "url": "https://geometryinsights.com/2025/12/21/the-%ce%bb-plane-how-dot-products-carve-space-into-parallel-sheets/",
       "date": "2025-12-21",
-      "slug": "the-λ-plane-how-dot-products-carve-space-into-parallel-sheets",
+      "slug": "the-%ce%bb-plane-how-dot-products-carve-space-into-parallel-sheets",
       "categoryIds": [
         2480492,
         69043,
@@ -5445,17 +6421,17 @@
         "analytic geometry",
         "coordinate geometry",
         "linear algebra",
-        "vector",
         "vector spaces",
+        "vector",
         "vectors"
       ],
-      "searchText": "the lambda -plane how dot products carve space into parallel sheets analytic geometry linear algebra vectors analytic geometry coordinate geometry linear algebra vector vector spaces vectors"
+      "searchText": "the -plane how dot products carve space into parallel sheets analytic geometry linear algebra vectors analytic geometry coordinate geometry linear algebra vector spaces vector vectors"
     },
     {
       "title": "The Right-Hand Cycle: Why î×ĵ Points to k̂",
       "url": "https://geometryinsights.com/2025/12/21/the-right-hand-cycle-why-ixj-points-to-k%cc%82/",
       "date": "2025-12-21",
-      "slug": "the-right-hand-cycle-why-ixj-points-to-k̂",
+      "slug": "the-right-hand-cycle-why-ixj-points-to-k%cc%82",
       "categoryIds": [
         63411,
         69043,
@@ -5482,17 +6458,17 @@
       ],
       "searchAliases": [
         "linear algebra",
-        "vector",
         "vector spaces",
+        "vector",
         "vectors"
       ],
-      "searchText": "the right-hand cycle why i x j points to k geometry linear algebra vectors linear algebra vector vector spaces vectors"
+      "searchText": "the right-hand cycle why i x j points to k geometry linear algebra vectors linear algebra vector spaces vector vectors"
     },
     {
       "title": "How a Circle in the (r,z) Plane Becomes a Torus in ℝ³",
       "url": "https://geometryinsights.com/2025/12/13/how-a-circle-in-the-rz-plane-becomes-a-torus-in-%e2%84%9d%c2%b3/",
       "date": "2025-12-13",
-      "slug": "how-a-circle-in-the-rz-plane-becomes-a-torus-in-ℝ³",
+      "slug": "how-a-circle-in-the-rz-plane-becomes-a-torus-in-%e2%84%9d%c2%b3",
       "categoryIds": [
         63411,
         453027324,
@@ -5524,7 +6500,7 @@
         "trigonometric",
         "trigonometry"
       ],
-      "searchText": "how a circle in the r z plane becomes a torus in r3 3d real3 geometry parametric surfaces trigonometry parametric surfaces surfaces trig trigonometric trigonometry"
+      "searchText": "how a circle in the r z plane becomes a torus in r3 real3 3d geometry parametric surfaces trigonometry parametric surfaces surfaces trig trigonometric trigonometry"
     },
     {
       "title": "The Turning Point of a Quadratic Curve",
@@ -5567,7 +6543,7 @@
       "title": "Completing the Square from the Square (x+y)²",
       "url": "https://geometryinsights.com/2025/12/12/completing-the-square-from-the-square-xy%c2%b2/",
       "date": "2025-12-12",
-      "slug": "completing-the-square-from-the-square-xy²",
+      "slug": "completing-the-square-from-the-square-xy%c2%b2",
       "categoryIds": [
         17236,
         63411
@@ -5587,7 +6563,7 @@
         "Geometry"
       ],
       "searchAliases": [],
-      "searchText": "completing the square from the square x+y 2 algebra geometry"
+      "searchText": "completing the square from the square x+y algebra geometry"
     },
     {
       "title": "Reconstructing a Quadratic Sequence from Its First Three Terms",
@@ -5619,14 +6595,14 @@
         "Sequences & Series"
       ],
       "searchAliases": [
-        "progression",
         "quadratic",
         "quadratics",
-        "sequence",
         "sequences",
-        "series"
+        "series",
+        "sequence",
+        "progression"
       ],
-      "searchText": "reconstructing a quadratic sequence from its first three terms algebra quadratics sequences series progression quadratic quadratics sequence sequences series"
+      "searchText": "reconstructing a quadratic sequence from its first three terms algebra quadratics sequences series quadratic quadratics sequences series sequence progression"
     },
     {
       "title": "The Six Essential Pieces of a Function",
@@ -5693,16 +6669,16 @@
         "Matrices"
       ],
       "searchAliases": [
-        "matrices",
-        "matrix"
+        "matrix",
+        "matrices"
       ],
-      "searchText": "rows columns two ways to see a grid algebra foundations matrices matrices matrix"
+      "searchText": "rows columns two ways to see a grid algebra foundations matrices matrix matrices"
     },
     {
       "title": "Shadows on the Axes: Coordinate Projections in ℝ²",
       "url": "https://geometryinsights.com/2025/12/09/shadows-on-the-axes-coordinate-projections-in-%e2%84%9d%c2%b2/",
       "date": "2025-12-09",
-      "slug": "shadows-on-the-axes-coordinate-projections-in-ℝ²",
+      "slug": "shadows-on-the-axes-coordinate-projections-in-%e2%84%9d%c2%b2",
       "categoryIds": [
         63411,
         69043,
@@ -5729,17 +6705,17 @@
       ],
       "searchAliases": [
         "linear algebra",
-        "vector",
         "vector spaces",
+        "vector",
         "vectors"
       ],
-      "searchText": "shadows on the axes coordinate projections in r2 2d real2 geometry linear algebra vectors linear algebra vector vector spaces vectors"
+      "searchText": "shadows on the axes coordinate projections in r2 real2 2d geometry linear algebra vectors linear algebra vector spaces vector vectors"
     },
     {
       "title": "Why ∥A − B∥ = ∥B − A∥ in ℝ³ (and Beyond)",
       "url": "https://geometryinsights.com/2025/12/09/why-%e2%88%a5a-%e2%88%92-b%e2%88%a5-%e2%88%a5b-%e2%88%92-a%e2%88%a5-in-%e2%84%9d%c2%b3-and-beyond/",
       "date": "2025-12-09",
-      "slug": "why-∥a-−-b∥-∥b-−-a∥-in-ℝ³-and-beyond",
+      "slug": "why-%e2%88%a5a-%e2%88%92-b%e2%88%a5-%e2%88%a5b-%e2%88%92-a%e2%88%a5-in-%e2%84%9d%c2%b3-and-beyond",
       "categoryIds": [
         63411,
         69043,
@@ -5766,17 +6742,17 @@
       ],
       "searchAliases": [
         "linear algebra",
-        "vector",
         "vector spaces",
+        "vector",
         "vectors"
       ],
-      "searchText": "why a - b b - a in r3 3d real3 and beyond geometry linear algebra vectors linear algebra vector vector spaces vectors"
+      "searchText": "why a - b b - a in r3 real3 3d and beyond geometry linear algebra vectors linear algebra vector spaces vector vectors"
     },
     {
       "title": "The Symmetry Hidden in ∥A − B∥",
       "url": "https://geometryinsights.com/2025/12/09/the-symmetry-hidden-in-%e2%88%a5a-%e2%88%92-b%e2%88%a5/",
       "date": "2025-12-09",
-      "slug": "the-symmetry-hidden-in-∥a-−-b∥",
+      "slug": "the-symmetry-hidden-in-%e2%88%a5a-%e2%88%92-b%e2%88%a5",
       "categoryIds": [
         17236,
         63411,
@@ -5811,7 +6787,7 @@
       "title": "The angle between two vectors in ℝ²",
       "url": "https://geometryinsights.com/2025/12/08/the-angle-between-two-vectors-in-%e2%84%9d%c2%b2/",
       "date": "2025-12-08",
-      "slug": "the-angle-between-two-vectors-in-ℝ²",
+      "slug": "the-angle-between-two-vectors-in-%e2%84%9d%c2%b2",
       "categoryIds": [
         25040289,
         195977,
@@ -5843,7 +6819,7 @@
         "vector",
         "vectors"
       ],
-      "searchText": "the angle between two vectors in r2 2d real2 desmos trigonometry vectors trig trigonometric trigonometry vector vectors"
+      "searchText": "the angle between two vectors in r2 real2 2d desmos trigonometry vectors trig trigonometric trigonometry vector vectors"
     },
     {
       "title": "Thales’ Theorem in the Unit Circle: A Coordinate Proof from First Principles",
@@ -5876,10 +6852,10 @@
       ],
       "searchAliases": [
         "circle",
-        "circle geometry",
-        "circles"
+        "circles",
+        "circle geometry"
       ],
-      "searchText": "thales theorem in the unit circle a coordinate proof from first principles circle geometry coordinate methods geometry circle circle geometry circles"
+      "searchText": "thales theorem in the unit circle a coordinate proof from first principles circle geometry coordinate methods geometry circle circles circle geometry"
     },
     {
       "title": "What Is a Binary Operation? A Clear Guide with Examples",
@@ -5947,17 +6923,17 @@
         "Group Theory"
       ],
       "searchAliases": [
-        "group",
         "group theory",
-        "groups"
+        "groups",
+        "group"
       ],
-      "searchText": "the integers as a group under addition algebra foundations group theory group group theory groups"
+      "searchText": "the integers as a group under addition algebra foundations group theory group theory groups group"
     },
     {
       "title": "Finding the Midpoint in ℝ² via a Parallelogram Parametric Intersection",
       "url": "https://geometryinsights.com/2025/12/07/finding-the-midpoint-in-%e2%84%9d%c2%b2-via-a-parallelogram-parametric-intersection/",
       "date": "2025-12-07",
-      "slug": "finding-the-midpoint-in-ℝ²-via-a-parallelogram-parametric-intersection",
+      "slug": "finding-the-midpoint-in-%e2%84%9d%c2%b2-via-a-parallelogram-parametric-intersection",
       "categoryIds": [
         2480492,
         63411,
@@ -5988,13 +6964,13 @@
         "vector",
         "vectors"
       ],
-      "searchText": "finding the midpoint in r2 2d real2 via a parallelogram parametric intersection analytic geometry geometry vectors analytic geometry coordinate geometry vector vectors"
+      "searchText": "finding the midpoint in r2 real2 2d via a parallelogram parametric intersection analytic geometry geometry vectors analytic geometry coordinate geometry vector vectors"
     },
     {
       "title": "Midpoints, Parallelograms, and Vector Averages in ℝ²",
       "url": "https://geometryinsights.com/2025/12/06/midpoints-parallelograms-and-vector-averages-in-%e2%84%9d%c2%b2/",
       "date": "2025-12-06",
-      "slug": "midpoints-parallelograms-and-vector-averages-in-ℝ²",
+      "slug": "midpoints-parallelograms-and-vector-averages-in-%e2%84%9d%c2%b2",
       "categoryIds": [
         528196,
         63411,
@@ -6025,7 +7001,7 @@
         "vector",
         "vectors"
       ],
-      "searchText": "midpoints parallelograms and vector averages in r2 2d real2 coordinate geometry geometry vectors coordinate geometry coordinates vector vectors"
+      "searchText": "midpoints parallelograms and vector averages in r2 real2 2d coordinate geometry geometry vectors coordinate geometry coordinates vector vectors"
     },
     {
       "title": "Closest point to (a, b) on the line y = m x + c",
@@ -6068,7 +7044,7 @@
       "title": "Modulus of a Quotient: ∣z₁/z₂∣ = ∣z₁∣/∣z₂∣",
       "url": "https://geometryinsights.com/2025/12/04/modulus-of-a-quotient-%e2%88%a3z%e2%82%81-z%e2%82%82%e2%88%a3-%e2%88%a3z%e2%82%81%e2%88%a3-%e2%88%a3z%e2%82%82%e2%88%a3/",
       "date": "2025-12-04",
-      "slug": "modulus-of-a-quotient-∣z₁-z₂∣-∣z₁∣-∣z₂∣",
+      "slug": "modulus-of-a-quotient-%e2%88%a3z%e2%82%81-z%e2%82%82%e2%88%a3-%e2%88%a3z%e2%82%81%e2%88%a3-%e2%88%a3z%e2%82%82%e2%88%a3",
       "categoryIds": [
         17236,
         312360
@@ -6091,7 +7067,7 @@
         "complex",
         "complex numbers"
       ],
-      "searchText": "modulus of a quotient divides z1 z2 divides divides z1 divides divides z2 divides algebra complex numbers complex complex numbers"
+      "searchText": "modulus of a quotient z z z z algebra complex numbers complex complex numbers"
     },
     {
       "title": "Dividing Complex Numbers Using Conjugates",
@@ -6126,7 +7102,7 @@
       "title": "Modulus of a Product: |z₁·z₂| = |z₁|·|z₂|",
       "url": "https://geometryinsights.com/2025/12/04/modulus-of-a-product-z%e2%82%81%c2%b7z%e2%82%82-z%e2%82%81%c2%b7z%e2%82%82/",
       "date": "2025-12-04",
-      "slug": "modulus-of-a-product-z₁·z₂-z₁·z₂",
+      "slug": "modulus-of-a-product-z%e2%82%81%c2%b7z%e2%82%82-z%e2%82%81%c2%b7z%e2%82%82",
       "categoryIds": [
         17236,
         312360
@@ -6149,7 +7125,7 @@
         "complex",
         "complex numbers"
       ],
-      "searchText": "modulus of a product z1 dot z2 z1 dot z2 algebra complex numbers complex complex numbers"
+      "searchText": "modulus of a product z dot z z dot z algebra complex numbers complex complex numbers"
     },
     {
       "title": "Pairing Terms in an Arithmetic Progression",
@@ -6175,18 +7151,18 @@
         "Sequences & Series"
       ],
       "searchAliases": [
-        "progression",
-        "sequence",
         "sequences",
-        "series"
+        "series",
+        "sequence",
+        "progression"
       ],
-      "searchText": "pairing terms in an arithmetic progression algebra sequences series progression sequence sequences series"
+      "searchText": "pairing terms in an arithmetic progression algebra sequences series sequences series sequence progression"
     },
     {
       "title": "Pairing 1 + 2 + 3 + … + n into ½·n·(n+1)",
       "url": "https://geometryinsights.com/2025/12/04/pairing-1-2-3-n-into-%c2%bd%c2%b7n%c2%b7n1/",
       "date": "2025-12-04",
-      "slug": "pairing-1-2-3-n-into-½·n·n1",
+      "slug": "pairing-1-2-3-n-into-%c2%bd%c2%b7n%c2%b7n1",
       "categoryIds": [
         17236,
         69054,
@@ -6212,21 +7188,21 @@
         "Sequences & Series"
       ],
       "searchAliases": [
-        "divisibility",
-        "integers",
         "number theory",
-        "progression",
-        "sequence",
+        "integers",
+        "divisibility",
         "sequences",
-        "series"
+        "series",
+        "sequence",
+        "progression"
       ],
-      "searchText": "pairing 1 + 2 + 3 + + n into 1 2 dot n dot n+1 algebra number theory sequences series divisibility integers number theory progression sequence sequences series"
+      "searchText": "pairing 1 + 2 + 3 + + n into dot n dot n+1 algebra number theory sequences series number theory integers divisibility sequences series sequence progression"
     },
     {
       "title": "The Shadow Decomposition Theorem in ℝ³",
       "url": "https://geometryinsights.com/2025/12/04/the-shadow-decomposition-theorem-in-%e2%84%9d%c2%b3/",
       "date": "2025-12-04",
-      "slug": "the-shadow-decomposition-theorem-in-ℝ³",
+      "slug": "the-shadow-decomposition-theorem-in-%e2%84%9d%c2%b3",
       "categoryIds": [
         63411,
         69043
@@ -6249,7 +7225,7 @@
         "linear algebra",
         "vector spaces"
       ],
-      "searchText": "the shadow decomposition theorem in r3 3d real3 geometry linear algebra linear algebra vector spaces"
+      "searchText": "the shadow decomposition theorem in r3 real3 3d geometry linear algebra linear algebra vector spaces"
     },
     {
       "title": "Sequences vs Series: Terms, Sums, and Why They Behave Differently",
@@ -6275,12 +7251,12 @@
         "Sequences & Series"
       ],
       "searchAliases": [
-        "progression",
-        "sequence",
         "sequences",
-        "series"
+        "series",
+        "sequence",
+        "progression"
       ],
-      "searchText": "sequences vs series terms sums and why they behave differently further pure mathematics sequences series progression sequence sequences series"
+      "searchText": "sequences vs series terms sums and why they behave differently further pure mathematics sequences series sequences series sequence progression"
     },
     {
       "title": "Inversion in the Unit Circle: Deriving the Exact Mapping Formula",
@@ -6321,7 +7297,7 @@
       "title": "Equation of a Sphere in ℝ³ Using Vector Distance",
       "url": "https://geometryinsights.com/2025/12/03/equation-of-a-sphere-in-%e2%84%9d%c2%b3-using-vector-distance/",
       "date": "2025-12-03",
-      "slug": "equation-of-a-sphere-in-ℝ³-using-vector-distance",
+      "slug": "equation-of-a-sphere-in-%e2%84%9d%c2%b3-using-vector-distance",
       "categoryIds": [
         2480492,
         63411,
@@ -6352,13 +7328,13 @@
         "vector",
         "vectors"
       ],
-      "searchText": "equation of a sphere in r3 3d real3 using vector distance analytic geometry geometry vectors analytic geometry coordinate geometry vector vectors"
+      "searchText": "equation of a sphere in r3 real3 3d using vector distance analytic geometry geometry vectors analytic geometry coordinate geometry vector vectors"
     },
     {
       "title": "Deriving the Distance Formula in ℝ³ Using Vectors",
       "url": "https://geometryinsights.com/2025/12/03/deriving-the-distance-formula-in-%e2%84%9d%c2%b3-using-vectors/",
       "date": "2025-12-03",
-      "slug": "deriving-the-distance-formula-in-ℝ³-using-vectors",
+      "slug": "deriving-the-distance-formula-in-%e2%84%9d%c2%b3-using-vectors",
       "categoryIds": [
         2480492,
         63411,
@@ -6389,13 +7365,13 @@
         "vector",
         "vectors"
       ],
-      "searchText": "deriving the distance formula in r3 3d real3 using vectors analytic geometry geometry vectors analytic geometry coordinate geometry vector vectors"
+      "searchText": "deriving the distance formula in r3 real3 3d using vectors analytic geometry geometry vectors analytic geometry coordinate geometry vector vectors"
     },
     {
       "title": "A Geometric Proof of tan(α − β)",
       "url": "https://geometryinsights.com/2025/12/01/a-geometric-proof-of-tan%ce%b1-%e2%88%92-%ce%b2/",
       "date": "2025-12-01",
-      "slug": "a-geometric-proof-of-tanα-−-β",
+      "slug": "a-geometric-proof-of-tan%ce%b1-%e2%88%92-%ce%b2",
       "categoryIds": [
         1460694,
         785639066,
@@ -6481,7 +7457,7 @@
       "title": "The Distance Between Two Points in ℝ² Using Vectors",
       "url": "https://geometryinsights.com/2025/11/30/the-distance-between-two-points-in-%e2%84%9d%c2%b2-using-vectors/",
       "date": "2025-11-30",
-      "slug": "the-distance-between-two-points-in-ℝ²-using-vectors",
+      "slug": "the-distance-between-two-points-in-%e2%84%9d%c2%b2-using-vectors",
       "categoryIds": [
         21439756,
         528196,
@@ -6512,13 +7488,13 @@
         "vector",
         "vectors"
       ],
-      "searchText": "the distance between two points in r2 2d real2 using vectors a-level mathematics coordinate geometry vectors coordinate geometry coordinates vector vectors"
+      "searchText": "the distance between two points in r2 real2 2d using vectors a-level mathematics coordinate geometry vectors coordinate geometry coordinates vector vectors"
     },
     {
       "title": "From Vectors to y = mx + c: The Equation of a Line in ℝ²",
       "url": "https://geometryinsights.com/2025/11/30/from-vectors-to-y-mx-c-the-equation-of-a-line-in-%e2%84%9d%c2%b2/",
       "date": "2025-11-30",
-      "slug": "from-vectors-to-y-mx-c-the-equation-of-a-line-in-ℝ²",
+      "slug": "from-vectors-to-y-mx-c-the-equation-of-a-line-in-%e2%84%9d%c2%b2",
       "categoryIds": [
         21439756,
         528196,
@@ -6549,13 +7525,13 @@
         "vector",
         "vectors"
       ],
-      "searchText": "from vectors to y mx + c the equation of a line in r2 2d real2 a-level mathematics coordinate geometry vectors coordinate geometry coordinates vector vectors"
+      "searchText": "from vectors to y mx + c the equation of a line in r2 real2 2d a-level mathematics coordinate geometry vectors coordinate geometry coordinates vector vectors"
     },
     {
       "title": "Proving that d/dx (eˣ) = eˣ from First Principles",
       "url": "https://geometryinsights.com/2025/11/30/proving-that-d-dx-e%cb%a3-e%cb%a3-from-first-principles/",
       "date": "2025-11-30",
-      "slug": "proving-that-d-dx-eˣ-eˣ-from-first-principles",
+      "slug": "proving-that-d-dx-e%cb%a3-e%cb%a3-from-first-principles",
       "categoryIds": [
         69051,
         108586
@@ -6577,11 +7553,11 @@
       "searchAliases": [
         "calculus",
         "derivative",
+        "differentiation",
         "derivatives",
-        "differentiate",
-        "differentiation"
+        "differentiate"
       ],
-      "searchText": "proving that d dx ex ex from first principles calculus differentiation calculus derivative derivatives differentiate differentiation"
+      "searchText": "proving that d dx e e from first principles calculus differentiation calculus derivative differentiation derivatives differentiate"
     },
     {
       "title": "Geometric Series: How to Find the Sum of n Terms and the Sum to Infinity",
@@ -6607,18 +7583,18 @@
         "Sequences & Series"
       ],
       "searchAliases": [
-        "progression",
-        "sequence",
         "sequences",
-        "series"
+        "series",
+        "sequence",
+        "progression"
       ],
-      "searchText": "geometric series how to find the sum of n terms and the sum to infinity further pure mathematics sequences series progression sequence sequences series"
+      "searchText": "geometric series how to find the sum of n terms and the sum to infinity further pure mathematics sequences series sequences series sequence progression"
     },
     {
       "title": "How to Generate a Line Through Two Points in ℝ³",
       "url": "https://geometryinsights.com/2025/11/30/how-to-generate-a-line-through-two-points-in-%e2%84%9d%c2%b3/",
       "date": "2025-11-30",
-      "slug": "how-to-generate-a-line-through-two-points-in-ℝ³",
+      "slug": "how-to-generate-a-line-through-two-points-in-%e2%84%9d%c2%b3",
       "categoryIds": [
         528196,
         215824481,
@@ -6650,20 +7626,20 @@
         "Vector Geometry & ℝ³"
       ],
       "searchAliases": [
-        "3-dimensional",
-        "3d",
         "coordinate geometry",
         "coordinates",
         "r3",
+        "3d",
+        "3-dimensional",
         "vector geometry"
       ],
-      "searchText": "how to generate a line through two points in r3 3d real3 coordinate geometry further pure mathematics geometry vector geometry r3 3d real3 3-dimensional 3d coordinate geometry coordinates r3 vector geometry"
+      "searchText": "how to generate a line through two points in r3 real3 3d coordinate geometry further pure mathematics geometry vector geometry r3 real3 3d coordinate geometry coordinates r3 3d 3-dimensional vector geometry"
     },
     {
       "title": "Mid-Points in ℝ³: The Non-Degenerate Parallelogram Case",
       "url": "https://geometryinsights.com/2025/11/29/mid-points-in-%e2%84%9d%c2%b3-the-non-degenerate-parallelogram-case/",
       "date": "2025-11-29",
-      "slug": "mid-points-in-ℝ³-the-non-degenerate-parallelogram-case",
+      "slug": "mid-points-in-%e2%84%9d%c2%b3-the-non-degenerate-parallelogram-case",
       "categoryIds": [
         528196,
         215824481,
@@ -6689,14 +7665,14 @@
         "Vector Geometry & ℝ³"
       ],
       "searchAliases": [
-        "3-dimensional",
-        "3d",
         "coordinate geometry",
         "coordinates",
         "r3",
+        "3d",
+        "3-dimensional",
         "vector geometry"
       ],
-      "searchText": "mid-points in r3 3d real3 the non-degenerate parallelogram case coordinate geometry further pure mathematics vector geometry r3 3d real3 3-dimensional 3d coordinate geometry coordinates r3 vector geometry"
+      "searchText": "mid-points in r3 real3 3d the non-degenerate parallelogram case coordinate geometry further pure mathematics vector geometry r3 real3 3d coordinate geometry coordinates r3 3d 3-dimensional vector geometry"
     },
     {
       "title": "Deriving the Equation of an Ellipsoid from the Unit Sphere",
@@ -6737,7 +7713,7 @@
       "title": "A Geometric Derivation of the Triangle Area Formula A = (1/2)ab sin θ",
       "url": "https://geometryinsights.com/2025/11/28/a-geometric-derivation-of-the-triangle-area-formula-a-1-2ab-sin-%ce%b8/",
       "date": "2025-11-28",
-      "slug": "a-geometric-derivation-of-the-triangle-area-formula-a-1-2ab-sin-θ",
+      "slug": "a-geometric-derivation-of-the-triangle-area-formula-a-1-2ab-sin-%ce%b8",
       "categoryIds": [
         2199630,
         785607259,
@@ -6763,43 +7739,7 @@
         "Geometry"
       ],
       "searchAliases": [],
-      "searchText": "a geometric derivation of the triangle area formula a 1 2 ab sin theta foundations of mathematics fundamentals of proof geometry"
-    },
-    {
-      "title": "What the Floor Function Really Does",
-      "url": "https://geometryinsights.com/2025/11/28/what-the-floor-function-really-does/",
-      "date": "2025-11-28",
-      "slug": "what-the-floor-function-really-does",
-      "categoryIds": [
-        17236,
-        785607259,
-        69054
-      ],
-      "categories": [
-        {
-          "id": 17236,
-          "name": "Algebra"
-        },
-        {
-          "id": 785607259,
-          "name": "Fundamentals of Proof"
-        },
-        {
-          "id": 69054,
-          "name": "Number Theory"
-        }
-      ],
-      "categoryNames": [
-        "Algebra",
-        "Fundamentals of Proof",
-        "Number Theory"
-      ],
-      "searchAliases": [
-        "divisibility",
-        "integers",
-        "number theory"
-      ],
-      "searchText": "what the floor function really does algebra fundamentals of proof number theory divisibility integers number theory"
+      "searchText": "a geometric derivation of the triangle area formula a 1 2 ab sin foundations of mathematics fundamentals of proof geometry"
     },
     {
       "title": "Finding the Equations of the Tangent and Normal at x = a",
@@ -6855,7 +7795,7 @@
       "title": "How to Generate the Equation of a Circle Using Vectors in ℝ²",
       "url": "https://geometryinsights.com/2025/11/28/how-to-generate-the-equation-of-a-circle-using-vectors-in-%e2%84%9d%c2%b2/",
       "date": "2025-11-28",
-      "slug": "how-to-generate-the-equation-of-a-circle-using-vectors-in-ℝ²",
+      "slug": "how-to-generate-the-equation-of-a-circle-using-vectors-in-%e2%84%9d%c2%b2",
       "categoryIds": [
         63411,
         467439
@@ -6878,13 +7818,13 @@
         "vector",
         "vectors"
       ],
-      "searchText": "how to generate the equation of a circle using vectors in r2 2d real2 geometry vectors vector vectors"
+      "searchText": "how to generate the equation of a circle using vectors in r2 real2 2d geometry vectors vector vectors"
     },
     {
       "title": "Piecewise Functions Explained Clearly Using the Graph of |x − a|",
       "url": "https://geometryinsights.com/2025/11/28/piecewise-functions-explained-clearly-using-the-graph-of-x-%e2%88%92-a/",
       "date": "2025-11-28",
-      "slug": "piecewise-functions-explained-clearly-using-the-graph-of-x-−-a",
+      "slug": "piecewise-functions-explained-clearly-using-the-graph-of-x-%e2%88%92-a",
       "categoryIds": [
         17236,
         62190723
@@ -6910,6 +7850,42 @@
       "searchText": "piecewise functions explained clearly using the graph of x - a algebra piecewise functions piecewise piecewise function"
     },
     {
+      "title": "What the Floor Function Really Does",
+      "url": "https://geometryinsights.com/2025/11/28/what-the-floor-function-really-does/",
+      "date": "2025-11-28",
+      "slug": "what-the-floor-function-really-does",
+      "categoryIds": [
+        17236,
+        785607259,
+        69054
+      ],
+      "categories": [
+        {
+          "id": 17236,
+          "name": "Algebra"
+        },
+        {
+          "id": 785607259,
+          "name": "Fundamentals of Proof"
+        },
+        {
+          "id": 69054,
+          "name": "Number Theory"
+        }
+      ],
+      "categoryNames": [
+        "Algebra",
+        "Fundamentals of Proof",
+        "Number Theory"
+      ],
+      "searchAliases": [
+        "number theory",
+        "integers",
+        "divisibility"
+      ],
+      "searchText": "what the floor function really does algebra fundamentals of proof number theory number theory integers divisibility"
+    },
+    {
       "title": "How a Circle Becomes an Ellipse Through Simple Stretching",
       "url": "https://geometryinsights.com/2025/11/27/how-a-circle-becomes-an-ellipse-through-simple-stretching/",
       "date": "2025-11-27",
@@ -6933,7 +7909,7 @@
       "title": "How to Construct the Perpendicular Bisector of a Line Segment in ℝ²",
       "url": "https://geometryinsights.com/2025/11/27/how-to-construct-the-perpendicular-bisector-of-a-line-segment-in-%e2%84%9d%c2%b2/",
       "date": "2025-11-27",
-      "slug": "how-to-construct-the-perpendicular-bisector-of-a-line-segment-in-ℝ²",
+      "slug": "how-to-construct-the-perpendicular-bisector-of-a-line-segment-in-%e2%84%9d%c2%b2",
       "categoryIds": [
         63411
       ],
@@ -6947,7 +7923,7 @@
         "Geometry"
       ],
       "searchAliases": [],
-      "searchText": "how to construct the perpendicular bisector of a line segment in r2 2d real2 geometry"
+      "searchText": "how to construct the perpendicular bisector of a line segment in r2 real2 2d geometry"
     },
     {
       "title": "A Special Method for Constructing a Circle Using Thales’ Theorem",
@@ -7018,7 +7994,7 @@
       "title": "A Geometric Derivation of cos(a − b) and sin(a − b)",
       "url": "https://geometryinsights.com/2025/11/26/a-geometric-derivation-of-cosa-%e2%88%92-b-and-sina-%e2%88%92-b/",
       "date": "2025-11-26",
-      "slug": "a-geometric-derivation-of-cosa-−-b-and-sina-−-b",
+      "slug": "a-geometric-derivation-of-cosa-%e2%88%92-b-and-sina-%e2%88%92-b",
       "categoryIds": [
         215824481,
         63411,
@@ -7200,17 +8176,17 @@
         "Number Theory"
       ],
       "searchAliases": [
-        "divisibility",
+        "number theory",
         "integers",
-        "number theory"
+        "divisibility"
       ],
-      "searchText": "prime numbers vs composite numbers the exact difference explained clearly foundations of mathematics fundamentals of proof number theory divisibility integers number theory"
+      "searchText": "prime numbers vs composite numbers the exact difference explained clearly foundations of mathematics fundamentals of proof number theory number theory integers divisibility"
     },
     {
       "title": "The Hidden Geometry Behind Circle Inversion: Why OA · OA′ = r²",
       "url": "https://geometryinsights.com/2025/11/25/the-hidden-geometry-behind-circle-inversion-why-oa-%c2%b7-oa%e2%80%b2-r%c2%b2/",
       "date": "2025-11-25",
-      "slug": "the-hidden-geometry-behind-circle-inversion-why-oa-·-oa′-r²",
+      "slug": "the-hidden-geometry-behind-circle-inversion-why-oa-%c2%b7-oa%e2%80%b2-r%c2%b2",
       "categoryIds": [
         69051,
         217481764,
@@ -7246,7 +8222,7 @@
         "derivative",
         "differentiation"
       ],
-      "searchText": "the hidden geometry behind circle inversion why oa dot oa r2 calculus differentiation first principles fundamentals of proof geometric intuition calculus derivative differentiation"
+      "searchText": "the hidden geometry behind circle inversion why oa dot oa r calculus differentiation first principles fundamentals of proof geometric intuition calculus derivative differentiation"
     },
     {
       "title": "The Quotient Rule (Differentiation)",
@@ -7418,13 +8394,13 @@
         "Probability & Statistics"
       ],
       "searchAliases": [
-        "events",
-        "probabilities",
         "probability",
         "statistics",
-        "stats"
+        "stats",
+        "probabilities",
+        "events"
       ],
-      "searchText": "connecting p a b and p b a fundamentals of proof probability statistics events probabilities probability statistics stats"
+      "searchText": "connecting p a b and p b a fundamentals of proof probability statistics probability statistics stats probabilities events"
     },
     {
       "title": "The Geometry Behind Moving a Point of Reference",
@@ -7444,12 +8420,12 @@
         "Vector Geometry & ℝ³"
       ],
       "searchAliases": [
-        "3-dimensional",
-        "3d",
         "r3",
+        "3d",
+        "3-dimensional",
         "vector geometry"
       ],
-      "searchText": "the geometry behind moving a point of reference vector geometry r3 3d real3 3-dimensional 3d r3 vector geometry"
+      "searchText": "the geometry behind moving a point of reference vector geometry r3 real3 3d r3 3d 3-dimensional vector geometry"
     },
     {
       "title": "A Plane Constructed from a Single Perpendicular Rule",
@@ -7493,12 +8469,12 @@
         "Vector Geometry & ℝ³"
       ],
       "searchAliases": [
-        "3-dimensional",
-        "3d",
         "r3",
+        "3d",
+        "3-dimensional",
         "vector geometry"
       ],
-      "searchText": "a plane constructed from a single perpendicular rule foundations of 3d space geometric intuition linear algebra vector spaces planes and dot products vector geometry r3 3d real3 3-dimensional 3d r3 vector geometry"
+      "searchText": "a plane constructed from a single perpendicular rule foundations of 3d space geometric intuition linear algebra vector spaces planes and dot products vector geometry r3 real3 3d r3 3d 3-dimensional vector geometry"
     }
   ]
 }
