@@ -2,11 +2,11 @@
   "schemaVersion": 2,
   "engine": "Geometry Insights Article Index",
   "site": "https://geometryinsights.com",
-  "generatedAt": "2026-09-28T00:00:00Z",
+  "generatedAt": "2026-10-05T00:00:00Z",
   "source": "Verified Geometry Insights WordPress published-post/category snapshot",
   "counts": {
-    "articles": 206,
-    "categories": 115
+    "articles": 223,
+    "categories": 117
   },
   "defaults": {
     "sort": "newest",
@@ -28,7 +28,7 @@
     {
       "id": 790918045,
       "name": "3D Geometry",
-      "count": 7,
+      "count": 8,
       "parentId": 0,
       "normalizedName": "3d geometry",
       "aliases": []
@@ -56,7 +56,7 @@
     {
       "id": 21439756,
       "name": "A-Level Mathematics",
-      "count": 16,
+      "count": 18,
       "parentId": 0,
       "normalizedName": "a-level mathematics",
       "aliases": []
@@ -96,7 +96,7 @@
     {
       "id": 2480492,
       "name": "Analytic Geometry",
-      "count": 15,
+      "count": 16,
       "parentId": 0,
       "normalizedName": "analytic geometry",
       "aliases": [
@@ -147,7 +147,7 @@
     {
       "id": 69051,
       "name": "Calculus",
-      "count": 6,
+      "count": 8,
       "parentId": 0,
       "normalizedName": "calculus",
       "aliases": [
@@ -167,7 +167,7 @@
     {
       "id": 29925308,
       "name": "Circle Geometry",
-      "count": 4,
+      "count": 5,
       "parentId": 0,
       "normalizedName": "circle geometry",
       "aliases": [
@@ -187,7 +187,7 @@
     {
       "id": 312360,
       "name": "Complex Numbers",
-      "count": 14,
+      "count": 18,
       "parentId": 0,
       "normalizedName": "complex numbers",
       "aliases": [
@@ -221,7 +221,7 @@
     {
       "id": 790917662,
       "name": "Conic Sections",
-      "count": 5,
+      "count": 14,
       "parentId": 0,
       "normalizedName": "conic sections",
       "aliases": []
@@ -229,7 +229,7 @@
     {
       "id": 528196,
       "name": "Coordinate Geometry",
-      "count": 11,
+      "count": 16,
       "parentId": 0,
       "normalizedName": "coordinate geometry",
       "aliases": [
@@ -267,7 +267,7 @@
     {
       "id": 790917996,
       "name": "de Moivre's Theorem",
-      "count": 2,
+      "count": 6,
       "parentId": 0,
       "normalizedName": "de moivre s theorem",
       "aliases": [
@@ -307,7 +307,7 @@
     {
       "id": 108586,
       "name": "Differentiation",
-      "count": 4,
+      "count": 8,
       "parentId": 0,
       "normalizedName": "differentiation",
       "aliases": [
@@ -370,7 +370,7 @@
     {
       "id": 790917658,
       "name": "Exponential Functions",
-      "count": 3,
+      "count": 4,
       "parentId": 0,
       "normalizedName": "exponential functions",
       "aliases": [
@@ -432,7 +432,7 @@
     {
       "id": 790917759,
       "name": "Further A-Level Mathematics",
-      "count": 15,
+      "count": 28,
       "parentId": 0,
       "normalizedName": "further a-level mathematics",
       "aliases": []
@@ -440,7 +440,7 @@
     {
       "id": 215824481,
       "name": "Further Pure Mathematics",
-      "count": 20,
+      "count": 31,
       "parentId": 0,
       "normalizedName": "further pure mathematics",
       "aliases": []
@@ -454,14 +454,6 @@
       "aliases": []
     },
     {
-      "id": 71976184,
-      "name": "Geometric Intuition",
-      "count": 1,
-      "parentId": 467439,
-      "normalizedName": "geometric intuition",
-      "aliases": []
-    },
-    {
       "id": 785639066,
       "name": "Geometric Intuition",
       "count": 3,
@@ -470,9 +462,17 @@
       "aliases": []
     },
     {
+      "id": 71976184,
+      "name": "Geometric Intuition",
+      "count": 1,
+      "parentId": 467439,
+      "normalizedName": "geometric intuition",
+      "aliases": []
+    },
+    {
       "id": 63411,
       "name": "Geometry",
-      "count": 27,
+      "count": 29,
       "parentId": 0,
       "normalizedName": "geometry",
       "aliases": []
@@ -519,7 +519,7 @@
     {
       "id": 790917664,
       "name": "Hyperbola",
-      "count": 4,
+      "count": 6,
       "parentId": 0,
       "normalizedName": "hyperbola",
       "aliases": []
@@ -673,7 +673,7 @@
     {
       "id": 301164,
       "name": "Matrices",
-      "count": 26,
+      "count": 27,
       "parentId": 0,
       "normalizedName": "matrices",
       "aliases": [
@@ -769,7 +769,7 @@
     {
       "id": 14693289,
       "name": "Parametric Equations",
-      "count": 11,
+      "count": 13,
       "parentId": 0,
       "normalizedName": "parametric equations",
       "aliases": [
@@ -907,7 +907,7 @@
     {
       "id": 2761711,
       "name": "Quadratics",
-      "count": 2,
+      "count": 3,
       "parentId": 0,
       "normalizedName": "quadratics",
       "aliases": [
@@ -1028,6 +1028,14 @@
       "aliases": []
     },
     {
+      "id": 790918082,
+      "name": "Toroidal Helix",
+      "count": 1,
+      "parentId": 0,
+      "normalizedName": "toroidal helix",
+      "aliases": []
+    },
+    {
       "id": 790917682,
       "name": "Transformations",
       "count": 3,
@@ -1049,7 +1057,7 @@
     {
       "id": 195977,
       "name": "Trigonometry",
-      "count": 15,
+      "count": 17,
       "parentId": 0,
       "normalizedName": "trigonometry",
       "aliases": [
@@ -1064,6 +1072,14 @@
       "count": 4,
       "parentId": 0,
       "normalizedName": "trigonometry radians",
+      "aliases": []
+    },
+    {
+      "id": 1,
+      "name": "Uncategorized",
+      "count": 3,
+      "parentId": 0,
+      "normalizedName": "uncategorized",
       "aliases": []
     },
     {
@@ -1114,7 +1130,7 @@
     {
       "id": 467439,
       "name": "Vectors",
-      "count": 30,
+      "count": 34,
       "parentId": 0,
       "normalizedName": "vectors",
       "aliases": [
@@ -1144,6 +1160,794 @@
     }
   ],
   "articles": [
+    {
+      "title": "Deriving the Condition a²m² + b² = c² for y = mx + c to Be Tangent to an Ellipse",
+      "url": "https://geometryinsights.com/2026/10/04/deriving-the-condition-a%c2%b2m%c2%b2-b%c2%b2-c%c2%b2-for-y-mx-c-to-be-tangent-to-an-ellipse/",
+      "date": "2026-10-04",
+      "slug": "deriving-the-condition-a%c2%b2m%c2%b2-b%c2%b2-c%c2%b2-for-y-mx-c-to-be-tangent-to-an-ellipse",
+      "categoryIds": [
+        790917662,
+        528196,
+        790917759,
+        215824481,
+        2761711
+      ],
+      "categories": [
+        {
+          "id": 790917662,
+          "name": "Conic Sections"
+        },
+        {
+          "id": 528196,
+          "name": "Coordinate Geometry"
+        },
+        {
+          "id": 790917759,
+          "name": "Further A-Level Mathematics"
+        },
+        {
+          "id": 215824481,
+          "name": "Further Pure Mathematics"
+        },
+        {
+          "id": 2761711,
+          "name": "Quadratics"
+        }
+      ],
+      "categoryNames": [
+        "Conic Sections",
+        "Coordinate Geometry",
+        "Further A-Level Mathematics",
+        "Further Pure Mathematics",
+        "Quadratics"
+      ],
+      "searchAliases": [
+        "coordinate geometry",
+        "coordinates",
+        "quadratic",
+        "quadratics"
+      ],
+      "searchText": "deriving the condition am + b = c for y = mx + c to be tangent to an ellipse conic sections coordinate geometry further a-level mathematics further pure mathematics quadratics coordinate geometry coordinates quadratic quadratics"
+    },
+    {
+      "title": "Deriving the Equation of the Normal to the Ellipse x²/a² + y²/b² = 1 at P = (a cos θ, b sin θ)",
+      "url": "https://geometryinsights.com/2026/10/04/deriving-the-equation-of-the-normal-to-the-ellipse-x%c2%b2-a%c2%b2-y%c2%b2-b%c2%b2-1-at-p-a-cos-%ce%b8-b-sin-%ce%b8/",
+      "date": "2026-10-04",
+      "slug": "deriving-the-equation-of-the-normal-to-the-ellipse-x%c2%b2-a%c2%b2-y%c2%b2-b%c2%b2-1-at-p-a-cos-%ce%b8-b-sin-%ce%b8",
+      "categoryIds": [
+        790917662,
+        528196,
+        108586,
+        790917759,
+        215824481
+      ],
+      "categories": [
+        {
+          "id": 790917662,
+          "name": "Conic Sections"
+        },
+        {
+          "id": 528196,
+          "name": "Coordinate Geometry"
+        },
+        {
+          "id": 108586,
+          "name": "Differentiation"
+        },
+        {
+          "id": 790917759,
+          "name": "Further A-Level Mathematics"
+        },
+        {
+          "id": 215824481,
+          "name": "Further Pure Mathematics"
+        }
+      ],
+      "categoryNames": [
+        "Conic Sections",
+        "Coordinate Geometry",
+        "Differentiation",
+        "Further A-Level Mathematics",
+        "Further Pure Mathematics"
+      ],
+      "searchAliases": [
+        "coordinate geometry",
+        "coordinates",
+        "derivative",
+        "derivatives",
+        "differentiate",
+        "calculus"
+      ],
+      "searchText": "deriving the equation of the normal to the ellipse x/a + y/b = 1 at p = a cos theta b sin theta conic sections coordinate geometry differentiation further a-level mathematics further pure mathematics coordinate geometry coordinates derivative derivatives differentiate calculus"
+    },
+    {
+      "title": "Deriving the Standard Equation x²/a² − y²/b² = 1 of a Hyperbola from Eccentricity",
+      "url": "https://geometryinsights.com/2026/10/04/deriving-the-standard-equation-x%c2%b2-a%c2%b2-%e2%88%92-y%c2%b2-b%c2%b2-1-of-a-hyperbola-from-eccentricity/",
+      "date": "2026-10-04",
+      "slug": "deriving-the-standard-equation-x%c2%b2-a%c2%b2-%e2%88%92-y%c2%b2-b%c2%b2-1-of-a-hyperbola-from-eccentricity",
+      "categoryIds": [
+        790917662,
+        528196,
+        790917759,
+        215824481,
+        467439
+      ],
+      "categories": [
+        {
+          "id": 790917662,
+          "name": "Conic Sections"
+        },
+        {
+          "id": 528196,
+          "name": "Coordinate Geometry"
+        },
+        {
+          "id": 790917759,
+          "name": "Further A-Level Mathematics"
+        },
+        {
+          "id": 215824481,
+          "name": "Further Pure Mathematics"
+        },
+        {
+          "id": 467439,
+          "name": "Vectors"
+        }
+      ],
+      "categoryNames": [
+        "Conic Sections",
+        "Coordinate Geometry",
+        "Further A-Level Mathematics",
+        "Further Pure Mathematics",
+        "Vectors"
+      ],
+      "searchAliases": [
+        "coordinate geometry",
+        "coordinates",
+        "vector",
+        "vectors"
+      ],
+      "searchText": "deriving the standard equation x/a - y/b = 1 of a hyperbola from eccentricity conic sections coordinate geometry further a-level mathematics further pure mathematics vectors coordinate geometry coordinates vector vectors"
+    },
+    {
+      "title": "Geometric Proof That PS + PS′ = 2a for the Ellipse x²/a² + y²/b² = 1",
+      "url": "https://geometryinsights.com/2026/10/04/geometric-proof-that-ps-ps%e2%80%b2-2a-for-the-ellipse-x%c2%b2-a%c2%b2-y%c2%b2-b%c2%b2-1/",
+      "date": "2026-10-04",
+      "slug": "geometric-proof-that-ps-ps%e2%80%b2-2a-for-the-ellipse-x%c2%b2-a%c2%b2-y%c2%b2-b%c2%b2-1",
+      "categoryIds": [
+        790917662,
+        528196,
+        790917759,
+        215824481,
+        467439
+      ],
+      "categories": [
+        {
+          "id": 790917662,
+          "name": "Conic Sections"
+        },
+        {
+          "id": 528196,
+          "name": "Coordinate Geometry"
+        },
+        {
+          "id": 790917759,
+          "name": "Further A-Level Mathematics"
+        },
+        {
+          "id": 215824481,
+          "name": "Further Pure Mathematics"
+        },
+        {
+          "id": 467439,
+          "name": "Vectors"
+        }
+      ],
+      "categoryNames": [
+        "Conic Sections",
+        "Coordinate Geometry",
+        "Further A-Level Mathematics",
+        "Further Pure Mathematics",
+        "Vectors"
+      ],
+      "searchAliases": [
+        "coordinate geometry",
+        "coordinates",
+        "vector",
+        "vectors"
+      ],
+      "searchText": "geometric proof that ps + ps = 2a for the ellipse x/a + y/b = 1 conic sections coordinate geometry further a-level mathematics further pure mathematics vectors coordinate geometry coordinates vector vectors"
+    },
+    {
+      "title": "Deriving the Standard Equation and Parametrisation of an Ellipse from the Focus–Directrix Definition",
+      "url": "https://geometryinsights.com/2026/10/03/deriving-the-standard-equation-and-parametrisation-of-an-ellipse-from-the-focus-directrix-definition/",
+      "date": "2026-10-03",
+      "slug": "deriving-the-standard-equation-and-parametrisation-of-an-ellipse-from-the-focus-directrix-definition",
+      "categoryIds": [
+        790917662,
+        528196,
+        790917759,
+        215824481,
+        14693289
+      ],
+      "categories": [
+        {
+          "id": 790917662,
+          "name": "Conic Sections"
+        },
+        {
+          "id": 528196,
+          "name": "Coordinate Geometry"
+        },
+        {
+          "id": 790917759,
+          "name": "Further A-Level Mathematics"
+        },
+        {
+          "id": 215824481,
+          "name": "Further Pure Mathematics"
+        },
+        {
+          "id": 14693289,
+          "name": "Parametric Equations"
+        }
+      ],
+      "categoryNames": [
+        "Conic Sections",
+        "Coordinate Geometry",
+        "Further A-Level Mathematics",
+        "Further Pure Mathematics",
+        "Parametric Equations"
+      ],
+      "searchAliases": [
+        "coordinate geometry",
+        "coordinates",
+        "parametric",
+        "parametric equations"
+      ],
+      "searchText": "deriving the standard equation and parametrisation of an ellipse from the focus - directrix definition conic sections coordinate geometry further a-level mathematics further pure mathematics parametric equations coordinate geometry coordinates parametric parametric equations"
+    },
+    {
+      "title": "Vector Derivation of the General Equation of a Parabola y² = 4ax in Cartesian Form",
+      "url": "https://geometryinsights.com/2026/10/02/vector-derivation-of-the-general-equation-of-a-parabola-y%c2%b2-4ax-in-cartesian-form/",
+      "date": "2026-10-02",
+      "slug": "vector-derivation-of-the-general-equation-of-a-parabola-y%c2%b2-4ax-in-cartesian-form",
+      "categoryIds": [
+        790917662,
+        790917759,
+        63411,
+        467439
+      ],
+      "categories": [
+        {
+          "id": 790917662,
+          "name": "Conic Sections"
+        },
+        {
+          "id": 790917759,
+          "name": "Further A-Level Mathematics"
+        },
+        {
+          "id": 63411,
+          "name": "Geometry"
+        },
+        {
+          "id": 467439,
+          "name": "Vectors"
+        }
+      ],
+      "categoryNames": [
+        "Conic Sections",
+        "Further A-Level Mathematics",
+        "Geometry",
+        "Vectors"
+      ],
+      "searchAliases": [
+        "vector",
+        "vectors"
+      ],
+      "searchText": "vector derivation of the general equation of a parabola y = 4ax in cartesian form conic sections further a-level mathematics geometry vectors vector vectors"
+    },
+    {
+      "title": "Geometric Proof of sin u < u < tan u for 0 < u < π/2",
+      "url": "https://geometryinsights.com/2026/10/01/geometric-proof-of-sin-u-u-tan-u-for-0-u-%cf%80-2/",
+      "date": "2026-10-01",
+      "slug": "geometric-proof-of-sin-u-u-tan-u-for-0-u-%cf%80-2",
+      "categoryIds": [
+        21439756,
+        29925308,
+        63411,
+        195977
+      ],
+      "categories": [
+        {
+          "id": 21439756,
+          "name": "A-Level Mathematics"
+        },
+        {
+          "id": 29925308,
+          "name": "Circle Geometry"
+        },
+        {
+          "id": 63411,
+          "name": "Geometry"
+        },
+        {
+          "id": 195977,
+          "name": "Trigonometry"
+        }
+      ],
+      "categoryNames": [
+        "A-Level Mathematics",
+        "Circle Geometry",
+        "Geometry",
+        "Trigonometry"
+      ],
+      "searchAliases": [
+        "circle",
+        "circles",
+        "circle geometry",
+        "trig",
+        "trigonometric",
+        "trigonometry"
+      ],
+      "searchText": "geometric proof of sin u < u < tan u for 0 < u < pi /2 a-level mathematics circle geometry geometry trigonometry circle circles circle geometry trig trigonometric trigonometry"
+    },
+    {
+      "title": "Derivative of y = eᶠ⁽ˣ⁾: dy/dx = f′(x)eᶠ⁽ˣ⁾",
+      "url": "https://geometryinsights.com/2026/10/01/derivative-of-y-e%e1%b6%a0%e2%81%bd%cb%a3%e2%81%be-dy-dx-f%e2%80%b2xe%e1%b6%a0%e2%81%bd%cb%a3%e2%81%be/",
+      "date": "2026-10-01",
+      "slug": "derivative-of-y-e%e1%b6%a0%e2%81%bd%cb%a3%e2%81%be-dy-dx-f%e2%80%b2xe%e1%b6%a0%e2%81%bd%cb%a3%e2%81%be",
+      "categoryIds": [
+        21439756,
+        69051,
+        108586,
+        790917658
+      ],
+      "categories": [
+        {
+          "id": 21439756,
+          "name": "A-Level Mathematics"
+        },
+        {
+          "id": 69051,
+          "name": "Calculus"
+        },
+        {
+          "id": 108586,
+          "name": "Differentiation"
+        },
+        {
+          "id": 790917658,
+          "name": "Exponential Functions"
+        }
+      ],
+      "categoryNames": [
+        "A-Level Mathematics",
+        "Calculus",
+        "Differentiation",
+        "Exponential Functions"
+      ],
+      "searchAliases": [
+        "calculus",
+        "derivative",
+        "differentiation",
+        "derivatives",
+        "differentiate",
+        "exponential",
+        "exponentials"
+      ],
+      "searchText": "derivative of y = e dy/dx = f x e a-level mathematics calculus differentiation exponential functions calculus derivative differentiation derivatives differentiate exponential exponentials"
+    },
+    {
+      "title": "Condition for y = mx + c to Be Tangent to the Hyperbola x²/a² − y²/b² = 1: b² + c² = a²m²",
+      "url": "https://geometryinsights.com/2026/10/01/condition-for-y-mx-c-to-be-tangent-to-the-hyperbola-x%c2%b2-a%c2%b2-%e2%88%92-y%c2%b2-b%c2%b2-1-b%c2%b2-c%c2%b2-a%c2%b2m%c2%b2/",
+      "date": "2026-10-01",
+      "slug": "condition-for-y-mx-c-to-be-tangent-to-the-hyperbola-x%c2%b2-a%c2%b2-%e2%88%92-y%c2%b2-b%c2%b2-1-b%c2%b2-c%c2%b2-a%c2%b2m%c2%b2",
+      "categoryIds": [
+        2480492,
+        790917662,
+        790917759,
+        215824481,
+        790917664,
+        1
+      ],
+      "categories": [
+        {
+          "id": 2480492,
+          "name": "Analytic Geometry"
+        },
+        {
+          "id": 790917662,
+          "name": "Conic Sections"
+        },
+        {
+          "id": 790917759,
+          "name": "Further A-Level Mathematics"
+        },
+        {
+          "id": 215824481,
+          "name": "Further Pure Mathematics"
+        },
+        {
+          "id": 790917664,
+          "name": "Hyperbola"
+        },
+        {
+          "id": 1,
+          "name": "Uncategorized"
+        }
+      ],
+      "categoryNames": [
+        "Analytic Geometry",
+        "Conic Sections",
+        "Further A-Level Mathematics",
+        "Further Pure Mathematics",
+        "Hyperbola",
+        "Uncategorized"
+      ],
+      "searchAliases": [
+        "analytic geometry",
+        "coordinate geometry"
+      ],
+      "searchText": "condition for y = mx + c to be tangent to the hyperbola x/a - y/b = 1 b + c = am analytic geometry conic sections further a-level mathematics further pure mathematics hyperbola uncategorized analytic geometry coordinate geometry"
+    },
+    {
+      "title": "Normal to the Hyperbola x²/a² − y²/b² = 1 at (a sec t, b tan t): by + ax sin t = (a² + b²) tan t",
+      "url": "https://geometryinsights.com/2026/09/30/normal-to-the-hyperbola-x%c2%b2-a%c2%b2-%e2%88%92-y%c2%b2-b%c2%b2-1-at-a-sec-t-b-tan-t-by-ax-sin-t-a%c2%b2-b%c2%b2-tan-t/",
+      "date": "2026-09-30",
+      "slug": "normal-to-the-hyperbola-x%c2%b2-a%c2%b2-%e2%88%92-y%c2%b2-b%c2%b2-1-at-a-sec-t-b-tan-t-by-ax-sin-t-a%c2%b2-b%c2%b2-tan-t",
+      "categoryIds": [
+        69051,
+        790917662,
+        108586,
+        790917759,
+        1
+      ],
+      "categories": [
+        {
+          "id": 69051,
+          "name": "Calculus"
+        },
+        {
+          "id": 790917662,
+          "name": "Conic Sections"
+        },
+        {
+          "id": 108586,
+          "name": "Differentiation"
+        },
+        {
+          "id": 790917759,
+          "name": "Further A-Level Mathematics"
+        },
+        {
+          "id": 1,
+          "name": "Uncategorized"
+        }
+      ],
+      "categoryNames": [
+        "Calculus",
+        "Conic Sections",
+        "Differentiation",
+        "Further A-Level Mathematics",
+        "Uncategorized"
+      ],
+      "searchAliases": [
+        "calculus",
+        "derivative",
+        "differentiation",
+        "derivatives",
+        "differentiate"
+      ],
+      "searchText": "normal to the hyperbola x/a - y/b = 1 at a sec t b tan t by + ax sin t = a + b tan t calculus conic sections differentiation further a-level mathematics uncategorized calculus derivative differentiation derivatives differentiate"
+    },
+    {
+      "title": "Hyperbola x²/a² − y²/b² = 1: Tangent ay sinh t + ab = bx cosh t",
+      "url": "https://geometryinsights.com/2026/09/30/hyperbola-x%c2%b2-a%c2%b2-%e2%88%92-y%c2%b2-b%c2%b2-1-tangent-ay-sinh-t-ab-bx-cosh-t/",
+      "date": "2026-09-30",
+      "slug": "hyperbola-x%c2%b2-a%c2%b2-%e2%88%92-y%c2%b2-b%c2%b2-1-tangent-ay-sinh-t-ab-bx-cosh-t",
+      "categoryIds": [
+        790917662,
+        108586,
+        790917664
+      ],
+      "categories": [
+        {
+          "id": 790917662,
+          "name": "Conic Sections"
+        },
+        {
+          "id": 108586,
+          "name": "Differentiation"
+        },
+        {
+          "id": 790917664,
+          "name": "Hyperbola"
+        }
+      ],
+      "categoryNames": [
+        "Conic Sections",
+        "Differentiation",
+        "Hyperbola"
+      ],
+      "searchAliases": [
+        "derivative",
+        "derivatives",
+        "differentiate",
+        "calculus"
+      ],
+      "searchText": "hyperbola x/a - y/b = 1 tangent ay sinh t + ab = bx cosh t conic sections differentiation hyperbola derivative derivatives differentiate calculus"
+    },
+    {
+      "title": "Proving zⁿ − 1/zⁿ = 2i sin(nθ) Using De Moivre’s Theorem",
+      "url": "https://geometryinsights.com/2026/09/30/proving-z%e2%81%bf-%e2%88%92-1-z%e2%81%bf-2i-sinn%ce%b8-using-de-moivres-theorem/",
+      "date": "2026-09-30",
+      "slug": "proving-z%e2%81%bf-%e2%88%92-1-z%e2%81%bf-2i-sinn%ce%b8-using-de-moivres-theorem",
+      "categoryIds": [
+        312360,
+        790917996,
+        790917759,
+        215824481
+      ],
+      "categories": [
+        {
+          "id": 312360,
+          "name": "Complex Numbers"
+        },
+        {
+          "id": 790917996,
+          "name": "de Moivre's Theorem"
+        },
+        {
+          "id": 790917759,
+          "name": "Further A-Level Mathematics"
+        },
+        {
+          "id": 215824481,
+          "name": "Further Pure Mathematics"
+        }
+      ],
+      "categoryNames": [
+        "Complex Numbers",
+        "de Moivre's Theorem",
+        "Further A-Level Mathematics",
+        "Further Pure Mathematics"
+      ],
+      "searchAliases": [
+        "complex",
+        "complex numbers",
+        "de moivre",
+        "de moivre's theorem",
+        "moivre"
+      ],
+      "searchText": "proving z - 1/z = 2i sin n theta using de moivre s theorem complex numbers de moivre s theorem further a-level mathematics further pure mathematics complex complex numbers de moivre de moivre s theorem moivre"
+    },
+    {
+      "title": "Proving zⁿ + 1/zⁿ = 2 cos(nθ) Using De Moivre’s Theorem",
+      "url": "https://geometryinsights.com/2026/09/30/proving-z%e2%81%bf-1-z%e2%81%bf-2-cosn%ce%b8-using-de-moivres-theorem/",
+      "date": "2026-09-30",
+      "slug": "proving-z%e2%81%bf-1-z%e2%81%bf-2-cosn%ce%b8-using-de-moivres-theorem",
+      "categoryIds": [
+        312360,
+        790917996,
+        790917759,
+        215824481
+      ],
+      "categories": [
+        {
+          "id": 312360,
+          "name": "Complex Numbers"
+        },
+        {
+          "id": 790917996,
+          "name": "de Moivre's Theorem"
+        },
+        {
+          "id": 790917759,
+          "name": "Further A-Level Mathematics"
+        },
+        {
+          "id": 215824481,
+          "name": "Further Pure Mathematics"
+        }
+      ],
+      "categoryNames": [
+        "Complex Numbers",
+        "de Moivre's Theorem",
+        "Further A-Level Mathematics",
+        "Further Pure Mathematics"
+      ],
+      "searchAliases": [
+        "complex",
+        "complex numbers",
+        "de moivre",
+        "de moivre's theorem",
+        "moivre"
+      ],
+      "searchText": "proving z + 1/z = 2 cos n theta using de moivre s theorem complex numbers de moivre s theorem further a-level mathematics further pure mathematics complex complex numbers de moivre de moivre s theorem moivre"
+    },
+    {
+      "title": "Proving z − 1/z = 2i sin θ Using De Moivre’s Theorem",
+      "url": "https://geometryinsights.com/2026/09/30/proving-z-%e2%88%92-1-z-2i-sin-%ce%b8-using-de-moivres-theorem/",
+      "date": "2026-09-30",
+      "slug": "proving-z-%e2%88%92-1-z-2i-sin-%ce%b8-using-de-moivres-theorem",
+      "categoryIds": [
+        312360,
+        790917996,
+        790917759,
+        215824481,
+        1
+      ],
+      "categories": [
+        {
+          "id": 312360,
+          "name": "Complex Numbers"
+        },
+        {
+          "id": 790917996,
+          "name": "de Moivre's Theorem"
+        },
+        {
+          "id": 790917759,
+          "name": "Further A-Level Mathematics"
+        },
+        {
+          "id": 215824481,
+          "name": "Further Pure Mathematics"
+        },
+        {
+          "id": 1,
+          "name": "Uncategorized"
+        }
+      ],
+      "categoryNames": [
+        "Complex Numbers",
+        "de Moivre's Theorem",
+        "Further A-Level Mathematics",
+        "Further Pure Mathematics",
+        "Uncategorized"
+      ],
+      "searchAliases": [
+        "complex",
+        "complex numbers",
+        "de moivre",
+        "de moivre's theorem",
+        "moivre"
+      ],
+      "searchText": "proving z - 1/z = 2i sin theta using de moivre s theorem complex numbers de moivre s theorem further a-level mathematics further pure mathematics uncategorized complex complex numbers de moivre de moivre s theorem moivre"
+    },
+    {
+      "title": "Proving z + 1/z = 2 cos θ Using De Moivre’s Theorem",
+      "url": "https://geometryinsights.com/2026/09/30/proving-z-1-z-2-cos-%ce%b8-using-de-moivres-theorem/",
+      "date": "2026-09-30",
+      "slug": "proving-z-1-z-2-cos-%ce%b8-using-de-moivres-theorem",
+      "categoryIds": [
+        312360,
+        790917996,
+        790917759,
+        215824481
+      ],
+      "categories": [
+        {
+          "id": 312360,
+          "name": "Complex Numbers"
+        },
+        {
+          "id": 790917996,
+          "name": "de Moivre's Theorem"
+        },
+        {
+          "id": 790917759,
+          "name": "Further A-Level Mathematics"
+        },
+        {
+          "id": 215824481,
+          "name": "Further Pure Mathematics"
+        }
+      ],
+      "categoryNames": [
+        "Complex Numbers",
+        "de Moivre's Theorem",
+        "Further A-Level Mathematics",
+        "Further Pure Mathematics"
+      ],
+      "searchAliases": [
+        "complex",
+        "complex numbers",
+        "de moivre",
+        "de moivre's theorem",
+        "moivre"
+      ],
+      "searchText": "proving z + 1/z = 2 cos theta using de moivre s theorem complex numbers de moivre s theorem further a-level mathematics further pure mathematics complex complex numbers de moivre de moivre s theorem moivre"
+    },
+    {
+      "title": "How to Construct the Toroidal Helix in ℝ³",
+      "url": "https://geometryinsights.com/2026/09/29/how-to-construct-the-toroidal-helix-in-%e2%84%9d%c2%b3/",
+      "date": "2026-09-29",
+      "slug": "how-to-construct-the-toroidal-helix-in-%e2%84%9d%c2%b3",
+      "categoryIds": [
+        790918045,
+        14693289,
+        790918082,
+        195977
+      ],
+      "categories": [
+        {
+          "id": 790918045,
+          "name": "3D Geometry"
+        },
+        {
+          "id": 14693289,
+          "name": "Parametric Equations"
+        },
+        {
+          "id": 790918082,
+          "name": "Toroidal Helix"
+        },
+        {
+          "id": 195977,
+          "name": "Trigonometry"
+        }
+      ],
+      "categoryNames": [
+        "3D Geometry",
+        "Parametric Equations",
+        "Toroidal Helix",
+        "Trigonometry"
+      ],
+      "searchAliases": [
+        "parametric",
+        "parametric equations",
+        "trig",
+        "trigonometric",
+        "trigonometry"
+      ],
+      "searchText": "how to construct the toroidal helix in r3 real3 3d 3d geometry parametric equations toroidal helix trigonometry parametric parametric equations trig trigonometric trigonometry"
+    },
+    {
+      "title": "Matrices: Rotation Around z-Axis Simplification for ℝ³",
+      "url": "https://geometryinsights.com/2026/09/29/matrices-rotation-around-z-axis-simplification-for-%e2%84%9d%c2%b3/",
+      "date": "2026-09-29",
+      "slug": "matrices-rotation-around-z-axis-simplification-for-%e2%84%9d%c2%b3",
+      "categoryIds": [
+        790917759,
+        215824481,
+        301164,
+        467439
+      ],
+      "categories": [
+        {
+          "id": 790917759,
+          "name": "Further A-Level Mathematics"
+        },
+        {
+          "id": 215824481,
+          "name": "Further Pure Mathematics"
+        },
+        {
+          "id": 301164,
+          "name": "Matrices"
+        },
+        {
+          "id": 467439,
+          "name": "Vectors"
+        }
+      ],
+      "categoryNames": [
+        "Further A-Level Mathematics",
+        "Further Pure Mathematics",
+        "Matrices",
+        "Vectors"
+      ],
+      "searchAliases": [
+        "matrix",
+        "matrices",
+        "vector",
+        "vectors"
+      ],
+      "searchText": "matrices rotation around z-axis simplification for r3 real3 3d further a-level mathematics further pure mathematics matrices vectors matrix matrices vector vectors"
+    },
     {
       "title": "How to Parametrise a Singularity in ℝ³",
       "url": "https://geometryinsights.com/2026/09/28/how-to-parametrise-a-singularity-in-%e2%84%9d%c2%b3/",
